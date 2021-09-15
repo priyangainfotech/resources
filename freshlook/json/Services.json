@@ -1,0 +1,92 @@
+[
+  {
+    "group": "General",
+    "services": [
+      {
+        "name": "Eye Brow",
+        "amount": 30.00,
+        "images": null
+      },
+      {
+        "name": "Pedicure",
+        "amount": 250.00,
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Waxing",
+    "services": [
+      {
+        "name": "Hand Waxing",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Face Waxing",
+        "amount": 100.00,
+        "images": null
+      },
+      {
+        "name": "Face Waxing",
+        "amount": 300.00,
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Mehendi",
+    "services": [
+      {
+        "name": "Mehendi Off Hand",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Mehendi Off Hand Front and Back",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Mehendi Full Hand",
+        "amount": 300.00,
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Makeup",
+    "services": [
+      {
+        "name": "Bridal Makeup",
+        "amount": 5000.00,
+        "images": null
+      },
+      {
+        "name": "Bridal Makeup with package",
+        "amount": 6000.00,
+        "images": null
+      },
+      {
+        "name": "Bridal Makeup Reception and Morning Mugurtham",
+        "amount": 10000.00,
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Rent",
+    "services": [
+      {
+        "name": "Bridal Set (Full Set)",
+        "amount": 1500.00,
+        "images": null
+      },
+      {
+        "name": "Bridal Set (Only Choker)",
+        "amount": 500.00,
+        "images": null
+      }
+    ]
+  }
+]

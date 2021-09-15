@@ -1,0 +1,33 @@
+[
+  {
+    "date": "01-10-2021",
+    "appointments": [
+      {
+        "start": "8.00 AM",
+        "service": "Hair Cut",
+        "phoneNumber": "9677755167"
+      },
+      {
+        "start": "11:30 AM",
+        "service": "Mak up",
+        "phoneNumber": "123456789"
+      }
+    ]
+  },
+  {
+    "date": "21-12-2021",
+    "appointments": [
+      {
+        "start": "8.00 AM",
+        "service": "Hair Cut",
+        "phoneNumber": "9677755167"
+      },
+      {
+        "start": "11:30 AM",
+        "service": "Mak up",
+        "phoneNumber": "123456789"
+      }
+    ]
+  }
+
+]
