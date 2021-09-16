@@ -5,6 +5,7 @@
       {
         "name": "Eye Brow",
         "amount": 30.00,
+        "description":"Threading is a method of hair removal originating in India. In more recent times it has gained popularity in Western countries, especially with a cosmetic application",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/eyebrows.jpg"
         ]
@@ -12,6 +13,7 @@
       {
         "name": "Pedicure",
         "amount": 250.00,
+        "description":"A pedicure is a cosmetic treatment of the feet and toenails, analogous to a manicure. Pedicures are done for cosmetic, therapeutic purposes. They are popular throughout the world. Pedicures include care not only for the toenails; dead skin cells are rubbed off the bottom of the feet using a rough stone",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pedicure.jpg"
 
@@ -119,6 +121,7 @@
       {
         "name": "Hand Waxing",
         "amount": 300.00,
+        "description":"Hand Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
