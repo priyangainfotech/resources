@@ -5,11 +5,110 @@
       {
         "name": "Eye Brow",
         "amount": 30.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/eyebrows.jpg"
+        ]
       },
       {
         "name": "Pedicure",
         "amount": 250.00,
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pedicure.jpg"
+
+        ]
+      },
+      {
+        "name": "Manicure",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Bleach(OLIVA)",
+        "amount": 250.00,
+        "images": null
+      },
+      {
+        "name": "Bleach(OXI)",
+        "amount": 250.00,
+        "images": null
+      },
+      {
+        "name": "Pappaya Facial",
+        "amount": 400.00,
+        "images": null
+      },
+      {
+        "name": "Pappaya Facial With Bleach",
+        "amount": 650.00,
+        "images": null
+      },
+      {
+        "name": "Skin Whitening Facial",
+        "amount": 450.00,
+        "images": null
+      },
+      {
+        "name": "Skin whitenin Facial With Bleach",
+        "amount": 700.00,
+        "images": null
+      },
+      {
+        "name": "Hair colouring Black (Root Touch)",
+        "amount": 150.00,
+        "images": null
+      },
+      {
+        "name": "Hair Colouring Global",
+        "amount": 250.00,
+        "images": null
+      },
+      {
+        "name": "Head Massage",
+        "amount": 400.00,
+        "images": null
+      },
+      {
+        "name": "Saree Droping",
+        "amount": 200.00,
+        "images": null
+      },
+      {
+        "name": "Saree Droping Hair Style",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Party Makup",
+        "amount": 1500.00,
+        "images": null
+      },
+      {
+        "name": "Party Makeup Facial",
+        "amount": 2000.00,
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Haircut",
+    "services": [
+      {
+        "name": "Stright",
+        "amount": 100.00,
+        "images": null
+      },
+      {
+        "name": "U",
+        "amount": 120.00,
+        "images": null
+      },
+      {
+        "name": "V",
+        "amount": 140.00,
+        "images": null
+      }, {
+        "name": "Step Cut",
+        "amount": 350.00,
         "images": null
       }
     ]
@@ -20,7 +119,10 @@
       {
         "name": "Hand Waxing",
         "amount": 300.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
+        ]
       },
       {
         "name": "Face Waxing",
@@ -29,6 +131,11 @@
       },
       {
         "name": "Face Waxing",
+        "amount": 300.00,
+        "images": null
+      },
+      {
+        "name": "Legt",
         "amount": 300.00,
         "images": null
       }
@@ -51,6 +158,16 @@
         "name": "Mehendi Full Hand",
         "amount": 300.00,
         "images": null
+      },
+      {
+        "name": "Mehendi Leg",
+        "amount": 250.00,
+        "images": null
+      },
+      {
+        "name": "Mehendi Nee",
+        "amount": 500.00,
+        "images": null
       }
     ]
   },
@@ -70,6 +187,16 @@
       {
         "name": "Bridal Makeup Reception and Morning Mugurtham",
         "amount": 10000.00,
+        "images": null
+      },
+      {
+        "name": "HD Mackup",
+        "amount": 8000.00,
+        "images": null
+      },
+      {
+        "name": "HD Mackup Reception and Morning Mugurtham",
+        "amount": 100.00,
         "images": null
       }
     ]
