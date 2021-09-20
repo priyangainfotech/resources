@@ -5,7 +5,7 @@
       {
         "name": "Eye Brow",
         "amount": 30.00,
-        "description":"Threading is a method of hair removal originating in India. In more recent times it has gained popularity in Western countries, especially with a cosmetic application",
+        "description": "Threading is a method of hair removal originating in India. In more recent times it has gained popularity in Western countries, especially with a cosmetic application",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/eyebrows.jpg"
         ]
@@ -13,10 +13,10 @@
       {
         "name": "Pedicure",
         "amount": 250.00,
-        "description":"A pedicure is a cosmetic treatment of the feet and toenails, analogous to a manicure. Pedicures are done for cosmetic, therapeutic purposes. They are popular throughout the world. Pedicures include care not only for the toenails; dead skin cells are rubbed off the bottom of the feet using a rough stone",
+        "description": "A pedicure is a cosmetic treatment of the feet and toenails, analogous to a manicure. Pedicures are done for cosmetic, therapeutic purposes. They are popular throughout the world. Pedicures include care not only for the toenails; dead skin cells are rubbed off the bottom of the feet using a rough stone",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pedicure.jpg"
-
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pedicure.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pedicure_1.jpg"
         ]
       },
       {
@@ -27,9 +27,8 @@
       {
         "name": "Bleach(OLIVA)",
         "amount": 250.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
-
         ]
       },
       {
@@ -37,7 +36,6 @@
         "amount": 250.00,
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
-
         ]
       },
       {
@@ -53,18 +51,16 @@
       {
         "name": "Skin Whitening Facial",
         "amount": 450.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
-
         ]
       },
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
-
-	    ]
+        ]
       },
       {
         "name": "Hair colouring Black (Root Touch)",
@@ -79,10 +75,10 @@
       {
         "name": "Head Massage",
         "amount": 400.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage.jpg",
-		 "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage.jpg"
-		 ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage_1.jpg"
+        ]
       },
       {
         "name": "Saree Droping",
@@ -112,21 +108,24 @@
       {
         "name": "Stright",
         "amount": 100.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_2.jpg"  
-	    ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_2.jpg"
+        ]
       },
       {
         "name": "U",
         "amount": 120.00,
-        "images":null
+        "images": null
       },
       {
         "name": "V",
         "amount": 140.00,
-        "images": null
-      }, {
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_v.jpg"
+        ]
+      },
+      {
         "name": "Step Cut",
         "amount": 350.00,
         "images": null
@@ -139,7 +138,7 @@
       {
         "name": "Hand Waxing",
         "amount": 300.00,
-        "description":"Hand Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "description": "Hand Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
