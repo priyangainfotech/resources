@@ -109,7 +109,7 @@
         "name": "Stright",
         "amount": 100.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/haircut.jpg"        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircut/haircut.jpg"        ]
       },
       {
         "name": "U",
@@ -120,7 +120,7 @@
         "name": "V",
         "amount": 140.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/haircut_v.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircut/haircut_v.jpg"
         ]
       },
       {
