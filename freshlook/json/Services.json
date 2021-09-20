@@ -28,14 +28,14 @@
         "name": "Bleach(OLIVA)",
         "amount": 250.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
       },
       {
         "name": "Bleach(OXI)",
         "amount": 250.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
       },
       {
@@ -52,14 +52,14 @@
         "name": "Skin Whitening Facial",
         "amount": 450.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
         ]
       },
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
         ]
       },
       {
@@ -76,8 +76,8 @@
         "name": "Head Massage",
         "amount": 400.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage_1.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage_1.jpg"
         ]
       },
       {
@@ -109,9 +109,7 @@
         "name": "Stright",
         "amount": 100.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_2.jpg"
-        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/haircut.jpg"        ]
       },
       {
         "name": "U",
@@ -122,7 +120,7 @@
         "name": "V",
         "amount": 140.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_v.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/haircut_v.jpg"
         ]
       },
       {
