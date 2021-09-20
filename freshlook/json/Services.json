@@ -27,12 +27,18 @@
       {
         "name": "Bleach(OLIVA)",
         "amount": 250.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
+
+        ]
       },
       {
         "name": "Bleach(OXI)",
         "amount": 250.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Bleach.jpg"
+
+        ]
       },
       {
         "name": "Pappaya Facial",
@@ -47,12 +53,18 @@
       {
         "name": "Skin Whitening Facial",
         "amount": 450.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
+
+        ]
       },
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Skinwhitning.jpg"
+
+	    ]
       },
       {
         "name": "Hair colouring Black (Root Touch)",
@@ -67,7 +79,10 @@
       {
         "name": "Head Massage",
         "amount": 400.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage.jpg",
+		 "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Headmassage.jpg"
+		 ]
       },
       {
         "name": "Saree Droping",
@@ -97,12 +112,15 @@
       {
         "name": "Stright",
         "amount": 100.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Haircut_2.jpg"  
+	    ]
       },
       {
         "name": "U",
         "amount": 120.00,
-        "images": null
+        "images":null
       },
       {
         "name": "V",
