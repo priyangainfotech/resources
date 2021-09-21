@@ -83,17 +83,26 @@
       {
         "name": "Saree Droping",
         "amount": 200.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping.jpg"
+		 
+
+	    ]
       },
       {
         "name": "Saree Droping Hair Style",
         "amount": 300.00,
-        "images": null
+        "images":[
+		   "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping_1.jpg"
+		]
       },
       {
         "name": "Party Makup",
         "amount": 1500.00,
-        "images": null
+        "images":[
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_mackup.jpg"
+
+	    ]
       },
       {
         "name": "Party Makeup Facial",
@@ -140,6 +149,7 @@
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
+		  
         ]
       },
       {
@@ -165,22 +175,37 @@
       {
         "name": "Mehendi Off Hand",
         "amount": 300.00,
-        "images": null
+        "images":[
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
+		 
+		]
       },
       {
         "name": "Mehendi Off Hand Front and Back",
         "amount": 300.00,
-        "images": null
+        "images":[
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
+		 
+		]
       },
       {
         "name": "Mehendi Full Hand",
         "amount": 300.00,
-        "images": null
+        "images":[
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
+		 
+		]
       },
       {
         "name": "Mehendi Leg",
         "amount": 250.00,
-        "images": null
+        "images": [
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
+		 
+		]
       },
       {
         "name": "Mehendi Nee",
