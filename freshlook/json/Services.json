@@ -176,7 +176,7 @@
         "name": "Mehendi Off Hand",
         "amount": 300.00,
         "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_hand.jpg"
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
 		 
 		]
       },
@@ -184,8 +184,8 @@
         "name": "Mehendi Off Hand Front and Back",
         "amount": 300.00,
         "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_hand_front_back.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_hand_front_back_1.jpg"
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
 		 
 		]
       },
@@ -193,7 +193,7 @@
         "name": "Mehendi Full Hand",
         "amount": 300.00,
         "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_full_hand.jpg"
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
 		 
 		]
       },
@@ -201,9 +201,9 @@
         "name": "Mehendi Leg",
         "amount": 250.00,
         "images": [
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_leg.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_leg_1.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/Mehendhi/mehendi_leg_2.jpg"
+   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
+		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
 		 
 		]
       },
