@@ -1,0 +1,29 @@
+{
+  "offers": [
+    {
+      "id": "1001",
+      "name": "10% Digital bonus for new user",
+      "description": "Download the FreshLook app from play store, install and make first appointment to get 10% off up to 50",
+      "action" : "Get 10% Off",
+      "expired": "01-12-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1001_offer_new_user.png"
+    },
+    {
+      "id": "1002",
+      "name": "50% Off Doorbuster fancy items",
+      "description": "Special Doorbuster offer, Visit store and get up to 50% off on selected fancy items",
+      "action" : "Enter Doorbuster",
+      "expired": "01-01-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1002_offer_blackfriday.png"
+    },
+
+    {
+      "id": "1003",
+      "name": "50% Festival offer",
+      "description": "Make a appointment now and get up to 50% off on facial, eyebrow and make up",
+      "action" : "Get 10% Off",
+      "expired": "27-01-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1003_offer_winter_sale.png"
+    }
+  ]
+}
