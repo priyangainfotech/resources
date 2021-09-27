@@ -23,12 +23,14 @@
         "name": "Manicure",
         "amount": 300.00,
         "description": "A manicure is a cosmetic beauty treatment for the fingernails and hands performed at home or in a nail salon. A manicure consists of filing and shaping the free edge of nails, pushing and clipping any nonliving tissue, treatments with various liquids, massage of the hand, and the application of fingernail polish.",
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/manicure.jpeg"
+        ]
       },
       {
         "name": "Bleach(OLIVA)",
         "amount": 250.00,
-        "description":"Olivia Herb Bleach contains the goodness of haldi, chandan, nimbu and aloe vera. These natural ingredients go beyond bleaching and nourish the skin with their rejuvenating properties. Infused with nimbu, nature’s very own bleach agent, Olivia Herb Bleach helps remove unwanted dark hair colour on your face, body and arms and blends it into your natural skin tone with surprising ease. Chandan soothes skin and adds glow. Haldi protects the skin from inflammation and also works as a good antioxidant and nimbu also works as an effective antiseptic",
+        "description": "Olivia Herb Bleach contains the goodness of haldi, chandan, nimbu and aloe vera. These natural ingredients go beyond bleaching and nourish the skin with their rejuvenating properties. Infused with nimbu, nature’s very own bleach agent, Olivia Herb Bleach helps remove unwanted dark hair colour on your face, body and arms and blends it into your natural skin tone with surprising ease. Chandan soothes skin and adds glow. Haldi protects the skin from inflammation and also works as a good antioxidant and nimbu also works as an effective antiseptic",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
@@ -36,7 +38,7 @@
       {
         "name": "Bleach(OXI)",
         "amount": 250.00,
-        "description":"OxyLife Bleach infuses active oxygen into the skin. Aloe Vera makes the skin supple and soft. And together they provide a radiating instant glow! OxyLife Crème Bleach is the mildest skin bleach available in the market, suitable even for sensitive and problem prone skin.",
+        "description": "OxyLife Bleach infuses active oxygen into the skin. Aloe Vera makes the skin supple and soft. And together they provide a radiating instant glow! OxyLife Crème Bleach is the mildest skin bleach available in the market, suitable even for sensitive and problem prone skin.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
@@ -44,19 +46,23 @@
       {
         "name": "Pappaya Facial",
         "amount": 400.00,
-        "description":"Papaya, often referred to as the \"fruit of the angels\" is a rich source of an enzyme called \"papain\" and vitamin A, which together help in breaking down inactive proteins and thereby sloughing off dead skin cells. It also hydrates the skin and maintains its oil balance. In combination with other fruit and vegetable extracts like watermelon, peach, orange and cucumber, this papaya-enriched facial kit helps achieve a blemish-free, radiant complexion",
-        "images": null
+        "description": "Papaya, often referred to as the \"fruit of the angels\" is a rich source of an enzyme called \"papain\" and vitamin A, which together help in breaking down inactive proteins and thereby sloughing off dead skin cells. It also hydrates the skin and maintains its oil balance. In combination with other fruit and vegetable extracts like watermelon, peach, orange and cucumber, this papaya-enriched facial kit helps achieve a blemish-free, radiant complexion",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/papaya_facial.jpeg"
+        ]
       },
       {
         "name": "Pappaya Facial With Bleach",
         "amount": 650.00,
-        "description": "Papaya is a luscious tropical fruit known for its rejuvenating and healing benefits. Full of vitamins, minerals and phytochemicals, papaya can act as a youth activator and natural exfoliator to revitalize skin without inflammation or irritation.Gigi PAPAYA bleach cream is the simplest & safest way for woman to not only lighten their excess dark hair but also give fairness to the skin & complexion. The exfoliating effect to gently eliminate skin over pigmentation like melasma , age spots, freckles, dark acne scars, dark underarms, dark elbow, dark knees or inner thighs or uneven skin tone. Nourishes and moisturizes your skin to give you that smooth & silky feeling.",
-        "images": null
+        "description": "Papaya is a luscious tropical fruit known for its rejuvenating and healing benefits. Full of vitamins, minerals and phytochemicals, papaya can act as a youth activator and natural exfoliator to revitalize skin without inflammation or irritation.Gigi PAPAYA bleach cream is the simplest & safest way for woman to not only lighten their excess dark hair but also give fairness to the skin & complexion.\r\n\nThe exfoliating effect to gently eliminate skin over pigmentation like melasma , age spots, freckles, dark acne scars, dark underarms, dark elbow, dark knees or inner thighs or uneven skin tone. Nourishes and moisturizes your skin to give you that smooth & silky feeling.",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pappaya_facial_bleach.jpeg"
+        ]
       },
       {
         "name": "Skin Whitening Facial",
         "amount": 450.00,
-        "description":"This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
+        "description": "This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skin_whitning.jpg"
         ]
@@ -64,7 +70,7 @@
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
-        "description":"This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
+        "description": "This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skin_whitning.jpg"
         ]
@@ -72,44 +78,52 @@
       {
         "name": "Hair colouring Black (Root Touch)",
         "amount": 150.00,
-        "images": null
+        "description": "We have wide variaty of coloring dyes that gives your natural and perfect color to hair for long time",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/black_color.jpeg"
+        ]
       },
       {
         "name": "Hair Colouring Global",
         "amount": 250.00,
-        "images": null
+        "description": "We have wide variaty of coloring dyes & styles that gives your natural and perfect color to hair for long time with latest trending style",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/black_hair_global.jpeg"
+        ]
       },
       {
         "name": "Head Massage",
         "amount": 400.00,
+        "description": "Massage helps ease muscle spasms and knots in parts of the body prone to tightness and tension. Obviously, the scalp and back of the head contain only small muscles that play no part in moving your body around or resisting heavy loads. But tension can build up in this area. And new studies have found that the body’s response to touch near the head is more complex than we once thought",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage_1.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/head_massage.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/head_massage_1.jpg"
         ]
       },
       {
-        "name": "Saree Droping",
+        "name": "Saree Draping",
         "amount": 200.00,
-        "images":[
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping.jpg"
-		 
-
-	    ]
+        "description": "Our experts knows to draping a saree for various traditions in India. Also, we helps to drap a saree at Wedding both modern or traditional way",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_drapping.jpeg"
+        ]
       },
       {
-        "name": "Saree Droping Hair Style",
+        "name": "Saree Draping Hair Style",
         "amount": 300.00,
-        "images":[
-		   "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping_1.jpg"
-		]
+        "description": "Hire us to make your wedding more special with traditional or modern hair styles for your wedding and receptions",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/best-bridal-hairstyles-1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/hairstyle-for-saree.png"
+
+        ]
       },
       {
         "name": "Party Makup",
         "amount": 1500.00,
-        "images":[
+        "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_mackup.jpg"
-
-	    ]
+        ]
       },
       {
         "name": "Party Makeup Facial",
@@ -125,7 +139,8 @@
         "name": "Stright",
         "amount": 100.00,
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut.jpg"        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut.jpg"
+        ]
       },
       {
         "name": "U",
@@ -156,7 +171,6 @@
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
-		  
         ]
       },
       {
@@ -182,37 +196,33 @@
       {
         "name": "Mehendi Off Hand",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
-		 
-		]
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
+        ]
       },
       {
         "name": "Mehendi Off Hand Front and Back",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
-		 
-		]
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
+        ]
       },
       {
         "name": "Mehendi Full Hand",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
-		 
-		]
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
+        ]
       },
       {
         "name": "Mehendi Leg",
         "amount": 250.00,
         "images": [
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
-		 
-		]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
+        ]
       },
       {
         "name": "Mehendi Nee",
