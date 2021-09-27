@@ -22,11 +22,13 @@
       {
         "name": "Manicure",
         "amount": 300.00,
+        "description": "A manicure is a cosmetic beauty treatment for the fingernails and hands performed at home or in a nail salon. A manicure consists of filing and shaping the free edge of nails, pushing and clipping any nonliving tissue, treatments with various liquids, massage of the hand, and the application of fingernail polish.",
         "images": null
       },
       {
         "name": "Bleach(OLIVA)",
         "amount": 250.00,
+        "description":"Olivia Herb Bleach contains the goodness of haldi, chandan, nimbu and aloe vera. These natural ingredients go beyond bleaching and nourish the skin with their rejuvenating properties. Infused with nimbu, nature’s very own bleach agent, Olivia Herb Bleach helps remove unwanted dark hair colour on your face, body and arms and blends it into your natural skin tone with surprising ease. Chandan soothes skin and adds glow. Haldi protects the skin from inflammation and also works as a good antioxidant and nimbu also works as an effective antiseptic",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
@@ -34,6 +36,7 @@
       {
         "name": "Bleach(OXI)",
         "amount": 250.00,
+        "description":"OxyLife Bleach infuses active oxygen into the skin. Aloe Vera makes the skin supple and soft. And together they provide a radiating instant glow! OxyLife Crème Bleach is the mildest skin bleach available in the market, suitable even for sensitive and problem prone skin.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
@@ -41,16 +44,19 @@
       {
         "name": "Pappaya Facial",
         "amount": 400.00,
+        "description":"Papaya, often referred to as the \"fruit of the angels\" is a rich source of an enzyme called \"papain\" and vitamin A, which together help in breaking down inactive proteins and thereby sloughing off dead skin cells. It also hydrates the skin and maintains its oil balance. In combination with other fruit and vegetable extracts like watermelon, peach, orange and cucumber, this papaya-enriched facial kit helps achieve a blemish-free, radiant complexion",
         "images": null
       },
       {
         "name": "Pappaya Facial With Bleach",
         "amount": 650.00,
+        "description": "Papaya is a luscious tropical fruit known for its rejuvenating and healing benefits. Full of vitamins, minerals and phytochemicals, papaya can act as a youth activator and natural exfoliator to revitalize skin without inflammation or irritation.Gigi PAPAYA bleach cream is the simplest & safest way for woman to not only lighten their excess dark hair but also give fairness to the skin & complexion. The exfoliating effect to gently eliminate skin over pigmentation like melasma , age spots, freckles, dark acne scars, dark underarms, dark elbow, dark knees or inner thighs or uneven skin tone. Nourishes and moisturizes your skin to give you that smooth & silky feeling.",
         "images": null
       },
       {
         "name": "Skin Whitening Facial",
         "amount": 450.00,
+        "description":"This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. /n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
         ]
@@ -58,6 +64,7 @@
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
+        "description":"This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. /n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
         ]
