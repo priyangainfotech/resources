@@ -187,7 +187,7 @@
         "amount": 300.00,
         "description":"Face Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/face_waxing.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/face_waxing.png"
 
         ]
       },
@@ -196,7 +196,7 @@
         "amount": 300.00,
         "description":"Leg Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/leg_waxing.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/leg_waxing.png"
 
         ]
       }
