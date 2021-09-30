@@ -150,7 +150,7 @@
       },
       {
         "name": "U",
-        "description":"U cut is the process the trimming your hair in the the U shape that gives stunning looks to hair stylish.",
+        "description":"U cut is the process of trimming your hair in the the U shape that gives stunning looks to hair stylish.",
         "amount": 120.00,
         "images": null
       },
@@ -162,7 +162,7 @@
       {
         "name": "Step Cut",
         "amount": 350.00,
-        "description":"Step cut is the process the trimming your hair in multiple sizes that gives stunning looks to hair stylish",
+        "description":"Step cut is the process of trimming your hair in multiple sizes that gives stunning looks to hair stylish",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/stepcut.jpeg"
 
@@ -208,23 +208,24 @@
       {
         "name": "Mehendi Off Hand",
         "amount": 300.00,
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_hand.png"
         ]
       },
       {
         "name": "Mehendi Off Hand Front and Back",
         "amount": 300.00,
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
-        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_back_front.jpeg"        ]
       },
       {
         "name": "Mehendi Full Hand",
         "amount": 300.00,
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_full.png"
         ]
       },
       {
@@ -268,7 +269,7 @@
       },
       {
         "name": "HD Mackup Reception and Morning Mugurtham",
-        "amount": 100.00,
+        "amount": 10000.00,
         "images": null
       }
     ]
