@@ -121,14 +121,19 @@
       {
         "name": "Party Makup",
         "amount": 1500.00,
+        "description": "We have wide variaty of latest trending makeups that shows you unique in any celebration parties. We will suggest the best styles that suite for you & your skin. Please call us for more details.",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_mackup.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup.png",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup_1.png"
         ]
       },
       {
         "name": "Party Makeup Facial",
+        "description":"We have wide variety of latest trending makeups that shows you unique in any celebration parties along with special party facial. We will suggest the best styles that suite for you & your skin",
         "amount": 2000.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup_facial.png"
+        ]
       }
     ]
   },
@@ -136,28 +141,32 @@
     "group": "Haircut",
     "services": [
       {
-        "name": "Stright",
+        "name": "Straight",
         "amount": 100.00,
+        "description": "Hair straight is the process of straitening your hair with appropriate way & tool without damaging your hair. It gives you the gorgeous looks",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut_straight.png"
         ]
       },
       {
         "name": "U",
+        "description":"U cut is the process the trimming your hair in the the U shape that gives stunning looks to hair stylish.",
         "amount": 120.00,
         "images": null
       },
       {
         "name": "V",
         "amount": 140.00,
-        "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut_v.jpg"
-        ]
+        "images": null
       },
       {
         "name": "Step Cut",
         "amount": 350.00,
-        "images": null
+        "description":"Step cut is the process the trimming your hair in multiple sizes that gives stunning looks to hair stylish",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/stepcut.jpeg"
+
+        ]
       }
     ]
   },
@@ -175,18 +184,21 @@
       },
       {
         "name": "Face Waxing",
-        "amount": 100.00,
-        "images": null
+        "amount": 300.00,
+        "description":"Face Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/face_waxing.jpg"
+
+        ]
       },
       {
-        "name": "Face Waxing",
+        "name": "Leg",
         "amount": 300.00,
-        "images": null
-      },
-      {
-        "name": "Legt",
-        "amount": 300.00,
-        "images": null
+        "description":"Leg Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/leg_waxing.jpg"
+
+        ]
       }
     ]
   },
