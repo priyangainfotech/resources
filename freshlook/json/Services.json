@@ -231,16 +231,12 @@
       {
         "name": "Mehendi Leg",
         "amount": 250.00,
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
         ]
-      },
-      {
-        "name": "Mehendi Nee",
-        "amount": 500.00,
-        "images": null
       }
     ]
   },
@@ -249,26 +245,31 @@
     "services": [
       {
         "name": "Bridal Makeup",
+        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n Wedding makeup includes facial, mascara, lipstic and special wedding fragrance. Call us for more details!",
         "amount": 5000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup with package",
+        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 6000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup Reception and Morning Mugurtham",
+        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
         "amount": 10000.00,
         "images": null
       },
       {
         "name": "HD Mackup",
+        "description":"Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 8000.00,
         "images": null
       },
       {
         "name": "HD Mackup Reception and Morning Mugurtham",
+        "description":"Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
         "amount": 10000.00,
         "images": null
       }
@@ -279,11 +280,14 @@
     "services": [
       {
         "name": "Bridal Set (Full Set)",
+        "description": "Every wedding represents a beautiful bond of love and so should everything else on that special day. Our Bridal collection is completely handmade and with so much love that it makes us so happy to be part of your special day.\r\n
+        This royal look choker necklace combo comes along with a pair of statement peacock earrings. A truly regal piece for your wardrobe. The set includes a choker, a necklace, a pair of earrings, a nath and a mathapatti.",
         "amount": 1500.00,
         "images": null
       },
       {
         "name": "Bridal Set (Only Choker)",
+        "description": "Bridal choker jewlery type necklace with crystal rhinestones. Simple but sturdy, made for everday wear. \r\n The necklace fasting is sound and it's possible to adjust the size. So it will sit round the collarbone or higher. Please visit our office for more details",
         "amount": 500.00,
         "images": null
       }
