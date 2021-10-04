@@ -242,10 +242,8 @@
         "amount": 250.00,
         "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
-        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_2.png"        ]
       }
     ]
   },
