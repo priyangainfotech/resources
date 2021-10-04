@@ -152,12 +152,21 @@
         "name": "U",
         "description":"U cut is the process of trimming your hair in the the U shape that gives stunning looks to hair stylish.",
         "amount": 120.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/u_2.jpeg"
+        ]
       },
       {
         "name": "V",
         "amount": 140.00,
-        "images": null
+        "description":"V cut is way of trimming your hair that shape your hair like V shape.",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_2.jpeg"
+
+
+        ]
       },
       {
         "name": "Step Cut",
