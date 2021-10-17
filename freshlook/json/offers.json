@@ -8,23 +8,37 @@
       "expired": "01-12-2022",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1001_offer_new_user.png"
     },
-
     {
-      "id": "1002",
-      "name": "20% Diwali offer",
-      "description": "Make a appointment now and get up to 50% off on facial, eyebrow and make up",
-      "action" : "Get 20% Off",
-      "expired": "27-01-2022",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1002_offer_diwali.png"
+      "id": "1004",
+      "name": "500 Diwali Combo",
+      "description": "Diwali Combo offer that inclues Mehandi half hand, Bleach, Eyebrow and Manicure for just Rs.500. Hurry up!!",
+      "action" : "500 Diwali Combo",
+      "expired": "05-11-2021",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1004_diwali.jpeg"
     },
     {
-      "id": "100",
-      "name": "10% Off on fancy items",
-      "description": "Special Doorbuster offer, Visit store and get up to 10% off on selected fancy items",
-      "action" : "Enter Doorbuster",
-      "expired": "01-01-2022",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1003_offer_fancy_store.png"
+      "id": "1005",
+      "name": "500 Diwali Combo",
+      "description": "Diwali Combo offer that inclues Mehandi half hand, Facial, and Eyebrow for just Rs.500. Hurry up!!",
+      "action" : "500 Diwali Combo",
+      "expired": "05-11-2021",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1005_diwali.jpeg"
     },
-
+    {
+      "id": "1006",
+      "name": "500 Diwali Combo",
+      "description": "Diwali Combo offer that inclues Haircut Straight, Facial, Eyebrow and Hair Colour for just Rs.500. Hurry up!!",
+      "action" : "500 Diwali Combo",
+      "expired": "05-11-2021",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1006_diwali.jpeg"
+    },
+    {
+      "id": "1007",
+      "name": "500 Diwali Combo",
+      "description": "Diwali Combo offer that inclues Haircut-U, Facial, Eyebrow and Manicure for just Rs.500. Hurry up!!",
+      "action" : "500 Diwali Combo",
+      "expired": "05-11-2021",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1007_diwali.jpeg"
+    }
   ]
 }
