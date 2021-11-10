@@ -9,36 +9,13 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1001_offer_new_user.png"
     },
     {
-      "id": "1004",
-      "name": "500 Diwali Combo",
-      "description": "Diwali Combo offer that inclues Mehandi half hand, Bleach, Eyebrow and Manicure for just Rs.500. Hurry up!!",
-      "action" : "500 Diwali Combo",
-      "expired": "05-11-2021",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1004_diwali.jpeg"
-    },
-    {
-      "id": "1005",
-      "name": "500 Diwali Combo",
-      "description": "Diwali Combo offer that inclues Mehandi half hand, Facial, and Eyebrow for just Rs.500. Hurry up!!",
-      "action" : "500 Diwali Combo",
-      "expired": "05-11-2021",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1005_diwali.jpeg"
-    },
-    {
-      "id": "1006",
-      "name": "500 Diwali Combo",
-      "description": "Diwali Combo offer that inclues Haircut Straight, Facial, Eyebrow and Hair Colour for just Rs.500. Hurry up!!",
-      "action" : "500 Diwali Combo",
-      "expired": "05-11-2021",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1006_diwali.jpeg"
-    },
-    {
       "id": "1007",
-      "name": "500 Diwali Combo",
-      "description": "Diwali Combo offer that inclues Haircut-U, Facial, Eyebrow and Manicure for just Rs.500. Hurry up!!",
-      "action" : "500 Diwali Combo",
-      "expired": "05-11-2021",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1007_diwali.jpeg"
+      "name": "Rental Cars",
+      "description": "Brand new cars specially designed for transportation. This car can accommodate up to 4 people. Hire us to support your transportation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+      "action" : "Rental Cars",
+      "expired": "05-11-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/rent_car.jpeg"
+
     }
   ]
 }

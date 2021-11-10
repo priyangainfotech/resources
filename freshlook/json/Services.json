@@ -115,7 +115,6 @@
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/best-bridal-hairstyles-1.jpeg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/hairstyle-for-saree.png"
-
         ]
       },
       {
@@ -129,7 +128,7 @@
       },
       {
         "name": "Party Makeup Facial",
-        "description":"We have wide variety of latest trending makeups that shows you unique in any celebration parties along with special party facial. We will suggest the best styles that suite for you & your skin",
+        "description": "We have wide variety of latest trending makeups that shows you unique in any celebration parties along with special party facial. We will suggest the best styles that suite for you & your skin",
         "amount": 2000.00,
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup_facial.png"
@@ -150,7 +149,7 @@
       },
       {
         "name": "U",
-        "description":"U cut is the process of trimming your hair in the the U shape that gives stunning looks to hair stylish.",
+        "description": "U cut is the process of trimming your hair in the the U shape that gives stunning looks to hair stylish.",
         "amount": 120.00,
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/u_1.jpeg"
@@ -159,22 +158,19 @@
       {
         "name": "V",
         "amount": 140.00,
-        "description":"V cut is way of trimming your hair that shape your hair like V shape.",
+        "description": "V cut is way of trimming your hair that shape your hair like V shape.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v.jpeg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_1.jpeg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_2.jpeg"
-
-
         ]
       },
       {
         "name": "Step Cut",
         "amount": 350.00,
-        "description":"Step cut is the process of trimming your hair in multiple sizes that gives stunning looks to hair stylish",
+        "description": "Step cut is the process of trimming your hair in multiple sizes that gives stunning looks to hair stylish",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/stepcut.jpeg"
-
         ]
       }
     ]
@@ -194,19 +190,17 @@
       {
         "name": "Face Waxing",
         "amount": 300.00,
-        "description":"Face Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "description": "Face Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/face_waxing.png"
-
         ]
       },
       {
         "name": "Leg",
         "amount": 300.00,
-        "description":"Leg Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "description": "Leg Waxing is the process of hair removal from the root by using a covering of a sticky substance",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/leg_waxing.png"
-
         ]
       }
     ]
@@ -227,7 +221,8 @@
         "amount": 300.00,
         "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_back_front.jpeg"        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_back_front.jpeg"
+        ]
       },
       {
         "name": "Mehendi Full Hand",
@@ -243,7 +238,8 @@
         "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_1.jpeg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_2.png"        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_2.png"
+        ]
       }
     ]
   },
@@ -252,35 +248,34 @@
     "services": [
       {
         "name": "Bridal Makeup",
-        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n Wedding makeup includes facial, mascara, lipstic and special wedding fragrance. Call us for more details!",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n Wedding makeup includes facial, mascara, lipstic and special wedding fragrance. Call us for more details!",
         "amount": 5000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup with package",
-        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 6000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup Reception and Morning Mugurtham",
-        "description":"Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
         "amount": 10000.00,
         "images": null
       },
       {
         "name": "HD Mackup",
-        "description":"Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
+        "description": "Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 8000.00,
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/makeup/hd_makeup.png",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/makeup/hd_makeup_1.png"
-
         ]
       },
       {
         "name": "HD Mackup Reception and Morning Mugurtham",
-        "description":"Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
+        "description": "Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
         "amount": 20000.00,
         "images": null
       }
@@ -301,6 +296,27 @@
         "description": "Bridal choker jewlery type necklace with crystal rhinestones. Simple but sturdy, made for everday wear. \r\n The necklace fasting is sound and it's possible to adjust the size. So it will sit round the collarbone or higher. Please visit our office for more details",
         "amount": 500.00,
         "images": null
+      }
+    ]
+  },
+  {
+    "group": "Rentle Cars",
+    "services": [
+      {
+        "name": "Luxary Cars",
+        "description": "Hire us to support your transporation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+        "amount": 1000,
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/cars.jpeg"
+        ]
+      },
+      {
+        "name": "Cars",
+        "description": "Brand new cars specially designed for transportation. This car can accommodate up to 4 people. Hire us to support your transportation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+        "amount": 1000,
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/rent_car.jpeg"
+        ]
       }
     ]
   }
