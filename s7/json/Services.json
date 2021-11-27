@@ -1,0 +1,270 @@
+[
+  {
+    "group": "Men's Hair Cut & Styling",
+    "services": [
+      {
+        "name": "Advance Hair Cut",
+        "amount": 250.00,
+        "premium":300.00,
+        "description":"Advance hair cut with different range",
+        "images": null
+      },
+      {
+        "name": "Basic Hair Cut",
+        "amount": 120.00,
+        "premium":150.00,
+        "description":"Basic hair cut with different range",
+        "images": null
+      },
+      {
+        "name": "Kids Hair Cut [1-10 Years]",
+        "amount": 100.00,
+        "premium":150.00,
+        "description":"Kids hair cut. [1-10 years]",
+        "images": null
+      },
+      {
+        "name": "Advance Kids Hair Cut [1-10 Years]",
+        "amount": 250.00,
+        "premium":300.00,
+        "description":"Advance kids hair cut [1-10 Years]",
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Women's Hair Cut & Styling",
+    "services": [
+      {
+        "name": "Advance Hair Cut",
+        "amount": 600.00,
+        "premium":null,
+        "description":"Advance hair cut with different range",
+        "images": null,
+        "isWomen": true
+      },
+      {
+        "name": "Layer Hair Cut",
+        "amount": 800.00,
+        "premium":null,
+        "description":"Layer hair cut with different range",
+        "images": null,
+        "isWomen": true
+      
+      },
+      {
+        "name": "Basic Hair Cut",
+        "amount": 250.00,
+        "premium":null,
+        "description":"Basic Hair Cut",
+        "images": null,
+        "isWomen": true
+      },
+      {
+        "name": "Fringe Cut",
+        "amount": 150.00,
+        "premium":null,
+        "description":"Advance kids hair cut [1-10 Years]",
+        "images": null,
+        "isWomen": true
+      }
+    ]
+  },
+  {
+    "group": "Blow Dry",
+    "services": [
+      {
+        "name": "Hair Wash & Blow Dry",
+        "amount": 250.00,
+        "premium":null,
+        "description":"Hair Wash & Blow Dry",
+        "images": null
+      },
+      {
+        "name": "Shoulder Length",
+        "amount": 350.00,
+        "premium":null,
+        "description":"Shoulder Length",
+        "images": null
+      },
+      {
+        "name": "Below Shoulder",
+        "amount": 450.00,
+        "premium":null,
+        "description":"Below Shoulder",
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Shave",
+    "services": [
+      {
+        "name": "Regular Shave",
+        "amount": 80.00,
+        "premium":null,
+        "description":"Regular Shave",
+        "images": null
+      },
+      {
+        "name": "Beared Shave",
+        "amount": 60.00,
+        "premium":120.00,
+        "description":"Beared Shave",
+        "images": null
+      },
+      {
+        "name": "Beared Design",
+        "amount": 150.00,
+        "premium":200.00,
+        "description":"Beared Design",
+        "images": null
+      },
+      {
+        "name": "Head Shave",
+        "amount": 200.00,
+        "premium":null,
+        "description":"Head Shave",
+        "images": null
+      },
+      {
+        "name": "Beard Trimming",
+        "amount": 80.00,
+        "premium":null,
+        "description":"Beared Trimming",
+        "images": null
+      }
+    ]
+  },
+  {
+    "group": "Waxing",
+    "services": [
+      {
+        "name": "Upper Lip",
+        "amount": 40.00,
+        "premium":75.00,
+        "description": "Upper lip waxing",
+        "images":null
+      },
+      {
+        "name": "Chin",
+        "amount": 40.00,
+        "premium":80.00,
+        "description": "Chin Waxing",
+        "images":null
+      },
+      {
+        "name": "Sides",
+        "amount": 50.00,
+        "premium":100.00,
+        "description": "Chin Waxing",
+        "images":null
+      },
+      {
+        "name": "Neck",
+        "amount": 50.00,
+        "premium":200.00,
+        "description": "Neck Waxing",
+        "images":null
+      },
+      {
+        "name": "Under Arms",
+        "amount": 100.00,
+        "premium":150.00,
+        "description": "Under arms Waxing",
+        "images":null
+      },
+      {
+        "name": "Half Arms",
+        "amount": 200.00,
+        "premium":250.00,
+        "description": "Half Arms Waxing",
+        "images":null
+      },
+      {
+        "name": "Full Arms",
+        "amount": 300.00,
+        "premium":400.00,
+        "description": "Full Arms Waxing",
+        "images":null
+      },
+      {
+        "name": "Half Legs",
+        "amount": 300.00,
+        "premium":350.00,
+        "description": "Half Legs Waxing",
+        "images":null
+      },
+      {
+        "name": "Full Legs",
+        "amount": 400.00,
+        "premium":500.00,
+        "description": "Full Legs Waxing",
+        "images":null
+      },
+      {
+        "name": "Full Front",
+        "amount": 350.00,
+        "premium":450.00,
+        "description": "Full Front Waxing",
+        "images":null
+      },
+      {
+        "name": "Full Back",
+        "amount": 250.00,
+        "premium":450.00,
+        "description": "Full Back Waxing",
+        "images":null
+      },
+      {
+        "name": "Upper Back",
+        "amount": 250.00,
+        "premium":350.00,
+        "description": "Upper back Waxing",
+        "images":null
+      },
+      {
+        "name": "Lower Back",
+        "amount": 300.00,
+        "premium":350.00,
+        "description": "Lower Back Waxing",
+        "images":null
+      },
+      {
+        "name": "Midriff",
+        "amount": 500.00,
+        "premium":400.00,
+        "description": "Midriff Waxing",
+        "images":null
+      },
+      {
+        "name": "Bikini Line Wax",
+        "amount": 500.00,
+        "premium":600.00,
+        "description": "Bikini Line Waxing",
+        "images":null
+      },
+      {
+        "name": "Brazilian Bikini Wax",
+        "amount": 1400.00,
+        "premium":1500.00,
+        "description": "Brazilian Bikini Waxing",
+        "images":null
+      },
+      {
+        "name": "Full Body (W/O Brazilian)",
+        "amount": 1500.00,
+        "premium":2200.00,
+        "description": "Full Body Waxing without Brazilian",
+        "images":null
+      },
+      {
+        "name": "Full Body (With Brazilian)",
+        "amount": 2400.00,
+        "premium":2800.00,
+        "description": "Full Body with Brazilian",
+        "images":null
+      }
+    ]
+  }
+]
