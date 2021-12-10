@@ -137,132 +137,326 @@
     ]
   },
   {
-    "group": "Waxing",
+    "group": "Colour Services",
     "services": [
       {
-        "name": "Upper Lip",
-        "amount": 40.00,
-        "premium":75.00,
-        "description": "Upper lip waxing",
-        "images":null
-      },
-      {
-        "name": "Chin",
-        "amount": 40.00,
-        "premium":80.00,
-        "description": "Chin Waxing",
-        "images":null
-      },
-      {
-        "name": "Sides",
-        "amount": 50.00,
-        "premium":100.00,
-        "description": "Chin Waxing",
-        "images":null
-      },
-      {
-        "name": "Neck",
-        "amount": 50.00,
-        "premium":200.00,
-        "description": "Neck Waxing",
-        "images":null
-      },
-      {
-        "name": "Under Arms",
+        "name": " Bread colour",
         "amount": 100.00,
-        "premium":150.00,
-        "description": "Under arms Waxing",
+        "premium":300.00,
+        "description": "Bread colour",
+        "images":null
+      },
+      {
+        "name": "Men's colour ",
+        "amount": 150.00,
+        "premium":500.00,
+        "description": "Mens colour",
+        "images":null
+      },
+      {
+        "name": "Men's highlights ",
+        "amount": 250.00,
+        "premium":500.00,
+        "description": "Men's highlights",
+        "images":null
+      },
+      {
+        "name": "girls highlights ",
+        "amount": 250.00,
+        "premium":1000.00,
+        "description": "girls highlights",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Ironing : Temporary/straightening",
+    "services": [
+      {
+        "name": "Shoulder Length ",
+        "amount": 500.00,
+        "premium":null,
+        "description": "Shoulder Length",
+        "images":null
+      },
+      {
+        "name": "Below Shoulder",
+        "amount": 700.00,
+        "premium":null,
+        "description": "Below Shoulder",
+        "images":null
+      },
+      {
+        "name": "Extra Long",
+        "amount":900.00,
+        "premium":null,
+        "description": "Extra Long",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Tonging : Temporary shapes of curls",
+    "services": [
+      {
+        "name": "Shoulder Length ",
+        "amount": 800.00,
+        "premium":null,
+        "description": "Shoulder Length",
+        "images":null
+      },
+      {
+        "name": "Below Shoulder",
+        "amount": 900.00,
+        "premium":null,
+        "description": "Below Shoulder",
+        "images":null
+      },
+      {
+        "name": "Extra Long",
+        "amount":1000.00,
+        "premium":null,
+        "description": "Extra Long",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Straightening/Relaxing/Smoothening/Rebonding/Keratin",
+    "services": [
+      {
+        "name": "Shoulder Length ",
+        "amount": 2999.00,
+        "premium":null,
+        "description": "Shoulder Length",
+        "images":null
+      },
+      {
+        "name": "Below Shoulder",
+        "amount": 3999.00,
+        "premium":null,
+        "description": "Below Shoulder",
+        "images":null
+      },
+      {
+        "name": "Extra Long",
+        "amount":5999.00,
+        "premium":null,
+        "description": "Extra Long",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Hair Treatment : 30 min",
+    "services": [
+      {
+        "name": "Men's hair spa",
+        "amount": 600.00,
+        "premium":null,
+        "description": "Men's hair spa",
+        "images":null
+      },
+      {
+        "name": "women's hair Shoulder",
+        "amount": 800.00,
+        "premium":null,
+        "description": "women's hair Shoulder",
+        "images":null
+      },
+      {
+        "name": "women's below Shoulder",
+        "amount":1000.00,
+        "premium":null,
+        "description": "women's below Shoulder",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Hair Treatment : 60 min",
+    "services": [
+      {
+        "name": "Men's hair spa",
+        "amount": 900.00,
+        "premium":null,
+        "description": "Men's hair spa",
+        "images":null
+      },
+      {
+        "name": "women's hair Shoulder",
+        "amount": 1000.00,
+        "premium":null,
+        "description": "women's hair Shoulder",
+        "images":null
+      },
+      {
+        "name": "women's below Shoulder",
+        "amount":1200.00,
+        "premium":null,
+        "description": "women's below Shoulder",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Wellaplex",
+    "services": [
+      {
+        "name": "Global hair colour",
+        "amount": 500.00,
+        "premium":null,
+        "description": "Global hair colour with wellaplex",
+        "images":null
+      },
+      {
+        "name": "Heighlights",
+        "amount": 700.00,
+        "premium":null,
+        "description": "heighlights with wellaplex",
+        "images":null
+      },
+      {
+        "name": "Straightening",
+        "amount": 900.00,
+        "premium":null,
+        "description": "Straightening with wellaplex ",
+        "images":null
+      },
+      {
+        "name": "Wellaplex care spa",
+        "amount": 1200.00,
+        "premium":null,
+        "description": "Wellaplex care spa",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Facial",
+    "services": [
+      {
+        "name": "Gold facial",
+        "amount": 1500.00,
+        "premium":null,
+        "description": "Gold facial",
+        "images":null
+      },
+      {
+        "name": "Skin whitening facial",
+        "amount": 2000.00,
+        "premium":null,
+        "description": "Skin whitening facial",
+        "images":null
+      },
+      {
+        "name": "Pal facial ",
+        "amount": 2000.00,
+        "premium":null,
+        "description": "Pal facial",
+        "images":null
+      },
+      {
+        "name": "Advance tan removal",
+        "amount": 2500.00,
+        "premium":null,
+        "description": "Advance tan removal",
+        "images":null
+      },
+      {
+        "name": "Bridal glow facial",
+        "amount": 2000.00,
+        "premium": 5000.00,
+        "description": "bridal glow facial",
+        "images":["https://github.com/piappstudio/resources/raw/main/s7/images/icon/wedding_makeup2.jpeg","https://github.com/piappstudio/resources/raw/main/s7/images/icon/wedding_makeup1.jpeg"]
+      },
+      {
+        "name": "Skin brightening facial",
+        "amount": 1300.00,
+        "premium":null,
+        "description": "Skin brightening facial",
+        "images":null
+      },
+      {
+        "name": "Radiance",
+        "amount":1500.00,
+        "premium":null,
+        "description": "Radiance",
+        "images":null
+      },
+      {
+        "name": "Anti acne treatment",
+        "amount": 800.00,
+        "premium": 3000.00,
+        "description": "Anti acne treatment",
+        "images":null
+      },
+      {
+        "name": "Clean up",
+        "amount": 500.00,
+        "premium": 1500.00,
+        "description": "Clean up",
+        "images":null
+      },
+      {
+        "name": "Under eye treatment",
+        "amount": 500.00,
+        "premium": 1000.00,
+        "description": "Under eye treatment",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group": "Bleaching",
+    "services": [
+      {
+        "name": "Upper lip",
+        "amount": 50.00,
+        "premium":null,
+        "description": "Upperlip",
+        "images":null
+      },
+      {
+        "name": "Nape",
+        "amount": 100.00,
+        "premium":null,
+        "description": "Nape",
+        "images":null
+      },
+      {
+        "name": "Feet",
+        "amount": 100.00,
+        "premium":null,
+        "description": "Feet",
+        "images":null
+      },
+      {
+        "name": "Under arms",
+        "amount": 100.00,
+        "premium":null,
+        "description": "Under arms",
+        "images":null
+      },
+      {
+        "name": "Face & Neck ",
+        "amount": 350.00,
+        "premium":null,
+        "description": "Face & Neck",
         "images":null
       },
       {
         "name": "Half Arms",
         "amount": 200.00,
-        "premium":250.00,
-        "description": "Half Arms Waxing",
+        "premium":null,
+        "description": "Half Arms",
         "images":null
       },
       {
         "name": "Full Arms",
-        "amount": 300.00,
-        "premium":400.00,
-        "description": "Full Arms Waxing",
-        "images":null
-      },
-      {
-        "name": "Half Legs",
-        "amount": 300.00,
-        "premium":350.00,
-        "description": "Half Legs Waxing",
-        "images":null
-      },
-      {
-        "name": "Full Legs",
-        "amount": 400.00,
-        "premium":500.00,
-        "description": "Full Legs Waxing",
-        "images":null
-      },
-      {
-        "name": "Full Front",
-        "amount": 350.00,
-        "premium":450.00,
-        "description": "Full Front Waxing",
-        "images":null
-      },
-      {
-        "name": "Full Back",
         "amount": 250.00,
-        "premium":450.00,
-        "description": "Full Back Waxing",
-        "images":null
-      },
-      {
-        "name": "Upper Back",
-        "amount": 250.00,
-        "premium":350.00,
-        "description": "Upper back Waxing",
-        "images":null
-      },
-      {
-        "name": "Lower Back",
-        "amount": 300.00,
-        "premium":350.00,
-        "description": "Lower Back Waxing",
-        "images":null
-      },
-      {
-        "name": "Midriff",
-        "amount": 500.00,
-        "premium":400.00,
-        "description": "Midriff Waxing",
-        "images":null
-      },
-      {
-        "name": "Bikini Line Wax",
-        "amount": 500.00,
-        "premium":600.00,
-        "description": "Bikini Line Waxing",
-        "images":null
-      },
-      {
-        "name": "Brazilian Bikini Wax",
-        "amount": 1400.00,
-        "premium":1500.00,
-        "description": "Brazilian Bikini Waxing",
-        "images":null
-      },
-      {
-        "name": "Full Body (With Out Brazilian)",
-        "amount": 1500.00,
-        "premium":2200.00,
-        "description": "Full Body Waxing without Brazilian",
-        "images":null
-      },
-      {
-        "name": "Full Body (With Brazilian)",
-        "amount": 2400.00,
-        "premium":2800.00,
-        "description": "Full Body with Brazilian",
+        "premium":null,
+        "description": "Full Arms",
         "images":null
       }
     ]
