@@ -1,0 +1,8 @@
+{
+    "ads":{
+        "home":true,
+        "service":true,
+        "appointment":true
+    },
+    "gitUrl":"https://raw.githubusercontent.com/piappstudio/resources/main/s7/json/"
+}
