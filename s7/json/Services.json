@@ -786,7 +786,144 @@
         "name": "Women",
         "amount": 800.00,
         "premium":1000.00,
-        "description":"Head oil massage is just <b>800</b> for 30 minutes and 1000 for 60 minutes",
+        "description":"Head oil massage is just for 30 minutes and 1000 for 60 minutes",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Manicure",
+    "services":[
+      {
+        "name": "Deluxe Manicure",
+        "amount": 400.00,
+        "premium":null,
+        "description":"Deluxe Manicure",
+        "images":null
+      },
+      {
+        "name": "Ice Creme",
+        "amount": 700.00,
+        "premium":null,
+        "description":"Ice Creme manicure",
+        "images":null
+      },
+      {
+        "name": "Luxury",
+        "amount": 800.00,
+        "premium":null,
+        "description":"Luxury Manicure",
+        "images":null
+      },
+      {
+        "name": "Cutting Filling Nail Polish",
+        "amount": 450.00,
+        "premium":null,
+        "description":"Cutting filling nail polish",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Pedicure",
+    "services":[
+      {
+        "name": "Deluxe Manicure",
+        "amount": 600.00,
+        "premium":null,
+        "description":"Deluxe Manicure",
+        "images":null
+      },
+      {
+        "name": "Ice Creme",
+        "amount": 900.00,
+        "premium":null,
+        "description":"Ice Creme manicure",
+        "images":null
+      },
+      {
+        "name": "Luxury",
+        "amount": 1000.00,
+        "premium":null,
+        "description":"Luxury Manicure",
+        "images":null
+      },
+      {
+        "name": "Cutting Filling Nail Polish",
+        "amount": 550.00,
+        "premium":null,
+        "description":"Cutting filling nail polish",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Bridal",
+    "services":[
+      {
+        "name": "Pre BrideGroom Package Premium",
+        "amount": 3500.00,
+        "premium":null,
+        "description":"The premium bridegroom package includes the following items, \n\n June Jacob/Sea Soul Facial \n\nShave \n\nDeluxe Pedicure \n\nDeluxe Manicure \n\nGlobal Color\n\nHair Spa\n\nTop Stylish Haircut & Styling",
+        "images":null
+      },
+      {
+        "name": "Pre BrideGroom Package Luxury",
+        "amount": 5000.00,
+        "premium":null,
+        "description":"The luxury bridegroom package includes the following items, \n\n Dermalogica/Babor \n\nShave\n\nLuxury Pedicure\n\nLuxury Manicure\n\nGlobal Color/Hair Spa\n\nCreative Director Haircut & Styling\n\nLuxury Body Polish/Protein Treatment",
+        "images":null
+      },
+      {
+        "name": "Pre Bridal Package Premium",
+        "amount": 5500.00,
+        "premium":null,
+        "description":"The premium bridal package includes the following items, \n\n June Jacob/Sea Soul Facial \n\nFull Body Waxing (Normal) \n\nThreading \n\nDeluxe Pedicure \n\nDeluxe Manicure \n\nTop Stylish Haircut & Blowdry \n\nBody Polish Hair Spa",
+        "images":null
+      },
+      {
+        "name": "Pre BrideGroom Package Luxury",
+        "amount": 7000.00,
+        "premium":null,
+        "description":"The luxury bridegroom package includes the following items, \n\n Dermalogica/Babor \n\nFull Body Waxing(Add on:Depileve 1000)\n\nThreading\n\nLuxury Pedicure\n\nLuxury Manicure\n\nCreative Director Haircut & Styling\n\nLuxury Body Polish/Hair Spa",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Bridal Makeup & Hair Styling",
+    "services":[
+      {
+        "name": "Eye Makup",
+        "amount": 600.00,
+        "premium":null,
+        "description":"Eye Makeup",
+        "images":null
+      },
+      {
+        "name": "Mini Makeup",
+        "amount": 1500.00,
+        "premium":null,
+        "description":"Mini Makeup",
+        "images":null
+      },
+      {
+        "name": "Simple Makeup",
+        "amount": 3000.00,
+        "premium":null,
+        "description":"Simple Makeup",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Bridesmaids",
+    "services":[
+      {
+        "name": "Sare Dropping",
+        "amount": 500.00,
+        "premium":null,
+        "description":"Sare dropping",
         "images":null
       }
     ]
