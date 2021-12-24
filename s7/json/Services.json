@@ -925,6 +925,65 @@
         "premium":null,
         "description":"Sare dropping",
         "images":null
+      },
+      {
+        "name": "Hair & Makeup",
+        "amount": 4500.00,
+        "premium":null,
+        "description":"Hair & Makeup",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Bride (Hair, Makeup & Saree Dropping)",
+    "services":[
+      {
+        "name": "Elegant Bride",
+        "amount": 8000.00,
+        "premium":null,
+        "description":"Elegant Bride",
+        "images":null
+      },
+      {
+        "name": "Gorgeous Bride",
+        "amount": 10000.00,
+        "premium":null,
+        "description":"Gorgeous Bride",
+        "images":null
+      },
+      {
+        "name": "Glamorous Bride",
+        "amount": 12000.00,
+        "premium":null,
+        "description":"Glamorous Bride",
+        "images":null
+      },
+      {
+        "name": "Airbrush",
+        "amount": 16000.00,
+        "premium":null,
+        "description":"Airbrush",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Groom (Hair & Makeup) Normal",
+    "services":[
+      {
+        "name": "Normal",
+        "amount": 4000.00,
+        "premium":null,
+        "description":"Groom Hair & Makeup Normal",
+        "images":null
+      },
+      {
+        "name": "High Definition",
+        "amount": 5000.00,
+        "premium":null,
+        "description":"High defnition",
+        "images":null
       }
     ]
   }
