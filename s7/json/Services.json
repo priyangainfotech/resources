@@ -5,28 +5,24 @@
       {
         "name": "Advance Hair Cut",
         "amount": 250.00,
-        "premium":300.00,
         "description":"Advance hair cut with different range",
         "images": null
       },
       {
         "name": "Basic Hair Cut",
-        "amount": 120.00,
-        "premium":150.00,
+        "amount": 150.00,
         "description":"Basic hair cut with different range",
         "images": null
       },
       {
         "name": "Kids Hair Cut [1-10 Years]",
-        "amount": 100.00,
-        "premium":150.00,
+        "amount": 150.00,
         "description":"Kids hair cut. [1-10 years]",
         "images": null
       },
       {
         "name": "Advance Kids Hair Cut [1-10 Years]",
         "amount": 250.00,
-        "premium":300.00,
         "description":"Advance kids hair cut [1-10 Years]",
         "images": null
       }
@@ -71,32 +67,6 @@
     ]
   },
   {
-    "group": "Blow Dry",
-    "services": [
-      {
-        "name": "Hair Wash & Blow Dry",
-        "amount": 250.00,
-        "premium":null,
-        "description":"Hair Wash & Blow Dry",
-        "images": null
-      },
-      {
-        "name": "Shoulder Length",
-        "amount": 350.00,
-        "premium":null,
-        "description":"Shoulder Length",
-        "images": null
-      },
-      {
-        "name": "Below Shoulder",
-        "amount": 450.00,
-        "premium":null,
-        "description":"Below Shoulder",
-        "images": null
-      }
-    ]
-  },
-  {
     "group": "Shave",
     "services": [
       {
@@ -109,14 +79,12 @@
       {
         "name": "Beared Shave",
         "amount": 60.00,
-        "premium":120.00,
         "description":"Beared Shave",
         "images": null
       },
       {
         "name": "Beared Design",
         "amount": 150.00,
-        "premium":200.00,
         "description":"Beared Design",
         "images": null
       },
@@ -140,32 +108,58 @@
     "group": "Colour Services",
     "services": [
       {
-        "name": " Bread colour",
+        "name": " Beard Colour",
         "amount": 100.00,
         "premium":300.00,
-        "description": "Bread colour",
+        "description": "Beard colour",
         "images":null
       },
       {
-        "name": "Men's colour ",
+        "name": "Men's Colour ",
         "amount": 150.00,
         "premium":500.00,
         "description": "Mens colour",
         "images":null
       },
       {
-        "name": "Men's highlights ",
+        "name": "Men's Highlights ",
         "amount": 250.00,
         "premium":500.00,
         "description": "Men's highlights",
         "images":null
       },
       {
-        "name": "girls highlights ",
+        "name": "Women's Highlights",
         "amount": 250.00,
         "premium":1000.00,
-        "description": "girls highlights",
+        "description": "Women's Highlights",
         "images":null
+      }
+    ]
+  },
+  {
+    "group": "Blow Dry",
+    "services": [
+      {
+        "name": "Hair Wash & Blow Dry",
+        "amount": 250.00,
+        "premium":null,
+        "description":"Hair Wash & Blow Dry",
+        "images": null
+      },
+      {
+        "name": "Shoulder Length",
+        "amount": 350.00,
+        "premium":null,
+        "description":"Shoulder Length",
+        "images": null
+      },
+      {
+        "name": "Below Shoulder",
+        "amount": 450.00,
+        "premium":null,
+        "description":"Below Shoulder",
+        "images": null
       }
     ]
   },
@@ -300,34 +294,34 @@
     ]
   },
   {
-    "group": "Wellaplex",
+    "group": "Loreal",
     "services": [
       {
-        "name": "Global hair colour",
+        "name": "Global hair colour with Loreal",
         "amount": 500.00,
         "premium":null,
-        "description": "Global hair colour with wellaplex",
+        "description": "Global hair colour with Loreal",
         "images":null
       },
       {
-        "name": "Heighlights",
+        "name": "Heighlights with Loreal",
         "amount": 700.00,
         "premium":null,
-        "description": "heighlights with wellaplex",
+        "description": "heighlights with Loreal",
         "images":null
       },
       {
-        "name": "Straightening",
+        "name": "Straightening with Loreal",
         "amount": 900.00,
         "premium":null,
-        "description": "Straightening with wellaplex ",
+        "description": "Straightening with Loreal",
         "images":null
       },
       {
-        "name": "Wellaplex care spa",
+        "name": "Loreal care spa",
         "amount": 1200.00,
         "premium":null,
-        "description": "Wellaplex care spa",
+        "description": "Loreal care spa",
         "images":null
       }
     ]
@@ -350,10 +344,10 @@
         "images":null
       },
       {
-        "name": "Pal facial ",
+        "name": "Peal facial",
         "amount": 2000.00,
         "premium":null,
-        "description": "Pal facial",
+        "description": "Peal facial",
         "images":null
       },
       {
@@ -385,10 +379,10 @@
         "images":null
       },
       {
-        "name": "Anti acne treatment",
+        "name": "Antiacne treatment",
         "amount": 800.00,
         "premium": 3000.00,
-        "description": "Anti acne treatment",
+        "description": "Antiacne treatment",
         "images":null
       },
       {
@@ -408,13 +402,77 @@
     ]
   },
   {
+    "group":"De-Tan",
+    "services":[
+      {
+        "name": "Face & Neck",
+        "amount": 200.00,
+        "premium": 600.00,
+        "description": "Face & Neck",
+        "images":null
+
+      }
+    ]
+  },
+  {
+    "group":"Threading",
+    "services":[
+      {
+        "name": "Eye Brows",
+        "amount": 35.00,
+        "description": "Eye Brows",
+        "images":null
+
+      },
+      {
+        "name": "Upper Lip",
+        "amount": 30.00,
+        "description": "Upper Lip",
+        "images":null
+
+      },
+      {
+        "name": "Chin",
+        "amount": 30.00,
+        "description": "Chin",
+        "images":null
+      },
+      {
+        "name": "Forehead",
+        "amount": 40.00,
+        "description": "Forehead",
+        "images":null
+      },
+      {
+        "name": "Sides",
+        "amount": 50.00,
+        "description": "Sides",
+        "images":null
+      },
+      {
+        "name": "Neck",
+        "amount": 50.00,
+        "description": "Eye Brows",
+        "images":null
+      },
+      {
+        "name": "Full Face",
+        "amount": 125.00,
+        "description": "Full Face",
+        "images":null
+
+      }
+
+    ]
+  },
+  {
     "group": "Bleaching",
     "services": [
       {
         "name": "Upper lip",
         "amount": 50.00,
         "premium":null,
-        "description": "Upperlip",
+        "description": "Upper Lip",
         "images":null
       },
       {
@@ -439,7 +497,7 @@
         "images":null
       },
       {
-        "name": "Face & Neck ",
+        "name": "Face & Neck",
         "amount": 350.00,
         "premium":null,
         "description": "Face & Neck",
@@ -457,6 +515,278 @@
         "amount": 250.00,
         "premium":null,
         "description": "Full Arms",
+        "images":null
+      },
+      {
+        "name": "Half Legs",
+        "amount": 350.00,
+        "premium":null,
+        "description": "Half Legs",
+        "images":null
+      },
+      {
+        "name": "Full Legs",
+        "amount": 450.00,
+        "premium":null,
+        "description": "Full Legs",
+        "images":null
+      },
+      {
+        "name": "Upper Back",
+        "amount": 300.00,
+        "premium":null,
+        "description": "Upper Back",
+        "images":null
+      },
+      {
+        "name": "Lower Back",
+        "amount": 300.00,
+        "premium":null,
+        "description": "Lower Back",
+        "images":null
+      },
+      {
+        "name": "Full Back",
+        "amount": 450.00,
+        "premium":null,
+        "description": "Full Back",
+        "images":null
+      },
+      {
+        "name": "Midriff",
+        "amount": 300.00,
+        "premium":null,
+        "description": "Midriff",
+        "images":null
+      },
+      {
+        "name": "Bikini",
+        "amount": 250.00,
+        "premium":null,
+        "description": "Bikini",
+        "images":null
+      },
+      {
+        "name": "Brazilian",
+        "amount": 400.00,
+        "premium":null,
+        "description": "Brazilian",
+        "images":null
+      },
+      {
+        "name": "Full Body",
+        "amount": 5000.00,
+        "premium":null,
+        "description": "Full Body",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Waxing",
+    "services":[
+      {
+        "name": "Upper Lip",
+        "amount": 40.00,
+        "premium":75.00,
+        "description": "Upper Lip",
+        "images":null
+      },
+      {
+        "name": "Chin",
+        "amount": 40.00,
+        "premium":80.00,
+        "description": "Chin",
+        "images":null
+      },
+      {
+        "name": "Sides",
+        "amount": 50.00,
+        "premium":100.00,
+        "description": "Sides",
+        "images":null
+      },
+      {
+        "name": "Neck",
+        "amount": 50.00,
+        "premium":200.00,
+        "description": "Neck",
+        "images":null
+      },
+      {
+        "name": "Under Arms",
+        "amount": 100.00,
+        "premium":150.00,
+        "description": "Uner Arms",
+        "images":null
+      },
+      {
+        "name": "Half Arms",
+        "amount": 200.00,
+        "premium":250.00,
+        "description": "Half Arms",
+        "images":null
+      },
+      {
+        "name": "Full Arms",
+        "amount": 300.00,
+        "premium":400.00,
+        "description": "Full Arms",
+        "images":null
+      },
+      {
+        "name": "Half Legs",
+        "amount": 300.00,
+        "premium":350.00,
+        "description": "Half Legs",
+        "images":null
+      },
+      {
+        "name": "Full Legs",
+        "amount": 400.00,
+        "premium":500.00,
+        "description": "Full Legs",
+        "images":null
+      },
+      {
+        "name": "Full Front",
+        "amount": 350.00,
+        "premium":450.00,
+        "description": "Full Front",
+        "images":null
+      },
+      {
+        "name": "Full Back",
+        "amount": 250.00,
+        "premium":450.00,
+        "description": "Full Back",
+        "images":null
+      },
+      {
+        "name": "Upper Back",
+        "amount": 250.00,
+        "premium":350.00,
+        "description": "Upper Back",
+        "images":null
+      },
+      {
+        "name": "Lower Back",
+        "amount": 300.00,
+        "premium":350.00,
+        "description": "Lower Back",
+        "images":null
+      },
+      {
+        "name": "Midriff",
+        "amount": 400.00,
+        "premium":500.00,
+        "description": "Midriff",
+        "images":null
+      },
+      {
+        "name": "Bikini Line Wax",
+        "amount": 500.00,
+        "premium":600.00,
+        "description": "Bikini Line Wax",
+        "images":null
+      },
+      {
+        "name": "Brazilian Bikini Wax",
+        "amount": 1400.00,
+        "premium":1500.00,
+        "description": "Brazilian Bikini Wax",
+        "images":null
+      },
+      {
+        "name": "Full Body without Brazilian",
+        "amount": 1500.00,
+        "premium":2200.00,
+        "description": "Full Body without Brazilian",
+        "images":null
+      },
+      {
+        "name": "Full Body with Brazilian",
+        "amount": 2400.00,
+        "premium":2800.00,
+        "description": "Full Body with Brazilian",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Body Spa",
+    "services":[
+      {
+        "name": "Oil Simply Relax [60 Minutes]",
+        "amount": 1500.00,
+        "premium":null,
+        "description": "Oil simply relax for 60 Minutes",
+        "images":null
+      },
+      {
+        "name": "Cream Body Spa [60 Minutes]",
+        "amount": 2500.00,
+        "premium":null,
+        "description": "Cream Body spa for 60 Minutes",
+        "images":null
+      },
+      {
+        "name": "Steam Bath [30 Minutes]",
+        "amount": 500.00,
+        "premium":null,
+        "description": "Steam Bath for 30 Minutes",
+        "images":null
+      },
+      {
+        "name": "Scrub [60 Minutes]",
+        "amount": 3500.00,
+        "premium":null,
+        "description": "Scrub for 60 Minutes",
+        "images":null
+      },
+      {
+        "name": "Cream [60 Minutes]",
+        "amount": 3500.00,
+        "premium":null,
+        "description": "Cream for 60 Minutes",
+        "images":null
+      },
+      {
+        "name": "Polish [60 Minutes]",
+        "amount": 60.00,
+        "premium":null,
+        "description": "Polish for 60 Minutes",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Reflexology",
+    "services":[
+      {
+        "name": "Shoulder & Back or Foot Head (Dry)",
+        "amount": 450.00,
+        "premium":800.00,
+        "description": "Should & Back/Foot head (dry) is just 450.00 for 30 minutes and 800.00 for 60 minutes",
+        "images":null
+      }
+    ]
+  },
+  {
+    "group":"Head Massage (Oil)",
+    "services":[
+      {
+        "name": "Men",
+        "amount": 500.00,
+        "premium":700.00,
+        "description":"Head oil massage is just 500 for 30 minutes and 800 for 60 minutes",
+        "images":null
+      },
+      {
+        "name": "Women",
+        "amount": 800.00,
+        "premium":1000.00,
+        "description":"Head oil massage is just 800 for 30 minutes and 1000 for 60 minutes",
         "images":null
       }
     ]
