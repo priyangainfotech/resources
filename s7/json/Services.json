@@ -786,7 +786,7 @@
         "name": "Women",
         "amount": 800.00,
         "premium":1000.00,
-        "description":"Head oil massage is just 800 for 30 minutes and 1000 for 60 minutes",
+        "description":"Head oil massage is just <b>800</b> for 30 minutes and 1000 for 60 minutes",
         "images":null
       }
     ]
