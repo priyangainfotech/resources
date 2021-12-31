@@ -3,5 +3,21 @@
         "home":true,
         "service":true,
         "appointment":true
-    }
+    },
+    "professionals":[
+        {
+            "empId": "1001",
+            "name":"Sasi",
+            "gender":"Female",
+            "job":"All"
+            
+        },
+        {
+            "empId": "1002",
+            "name":"Suresh M",
+            "gender":"Male",
+            "job":"Men"
+        }
+    
+    ]
 }
