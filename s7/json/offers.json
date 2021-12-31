@@ -3,8 +3,9 @@
     {
       "id": "1002",
       "name": "Happy New Year 2022",
-      "description": "Happy new year to all, may every wish of yours get fullfilled in the upcoming year",
+      "description": "Happy new year to all, may every wish of yours get fullfilled in the upcoming year. Flat 30% off is available for all customer.",
       "action" : "Get flat 30% Off",
+      "expired": "01-02-2022",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/s7/images/offers/1002.jpg"
     },
     {
