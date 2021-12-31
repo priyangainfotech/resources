@@ -1,7 +1,22 @@
 {
   "offers": [
     {
+      "id": "1002",
+      "name": "Happy New Year 2022",
+      "description": "Happy new year to all, may every wish of yours get fullfilled in the upcoming year",
+      "action" : "Get flat 30% Off",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/s7/images/offers/1002.jpg"
+    },
+    {
       "id": "1001",
+      "name": "30% Digital bonus for new user",
+      "description": "Download the S7 Signature app from play store, install and make first appointment to get 30% off",
+      "action" : "Get flat 30% Off",
+      "expired": "01-02-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/s7/images/offers/1001.jpeg"
+    },
+    {
+      "id": "1002",
       "name": "30% Digital bonus for new user",
       "description": "Download the S7 Signature app from play store, install and make first appointment to get 30% off",
       "action" : "Get flat 30% Off",
