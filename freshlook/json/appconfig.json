@@ -11,12 +11,6 @@
             "gender":"Female",
             "job":"All"
             
-        },
-        {
-            "empId": "1002",
-            "name":"Suresh M",
-            "gender":"Male",
-            "job":"Men"
         }
     
     ]
