@@ -1,0 +1,8 @@
+{
+    "ads":{
+        "home":true,
+        "service":true,
+        "appointment":true
+    },
+    "force_update": false
+} 
