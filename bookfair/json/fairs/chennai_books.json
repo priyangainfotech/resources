@@ -1,22 +1,25 @@
-[
-    {
-        "publications": {
-            "name": "Aruna, Publications",
-            "address": "12, First Street, Villivakkam, Chennai-600049",
-            "cordinates": {
-                "lat": 0.0,
-                "lan": 0.0
+{
+    "stalls":[
+        {
+            "publications": {
+                "name": "Aruna, Publications",
+                "address": "12, First Street, Villivakkam, Chennai-600049",
+                "cordinates": {
+                    "lat": 0.0,
+                    "lan": 0.0
+                },
+                "stall_no": 323
             },
-            "stall_no": 323
-        },
-        "books": [
-            {
-                "code": "A0",
-                "ISBN": "978-81-903492-0-8",
-                "title": "1666 POTHU ARIVU VINAADI-VINAA",
-                "author": "EDAIYUR SIVAMATHY",
-                "price": "₹ 40.00"
-            }
-        ]
-    }
-]
+            "books": [
+                {
+                    "code": "A0",
+                    "ISBN": "978-81-903492-0-8",
+                    "title": "1666 POTHU ARIVU VINAADI-VINAA",
+                    "author": "EDAIYUR SIVAMATHY",
+                    "price": "₹ 40.00"
+                }
+            ]
+        }
+    ]
+    
+}
