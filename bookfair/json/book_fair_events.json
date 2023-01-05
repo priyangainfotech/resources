@@ -8,6 +8,7 @@
       "end_date": "22-01-2023",
       "date": "01-10-20233",
       "images": [
+        "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2023.jpg",
         "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2023.jpg"
       ],
       "book_list": "fairs/chennai_books.json"
