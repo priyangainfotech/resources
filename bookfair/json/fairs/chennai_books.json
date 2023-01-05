@@ -16,7 +16,15 @@
                     "ISBN": "978-81-903492-0-8",
                     "title": "1666 POTHU ARIVU VINAADI-VINAA",
                     "author": "EDAIYUR SIVAMATHY",
-                    "price": "₹ 40.00"
+                    "price": "₹ 40.00",
+                    "images":["https://rukminim1.flixcart.com/image/416/416/kqwobrk0/regionalbooks/t/r/u/1666-pothu-arivu-vinaadi-vinaa-original-imag4tdyqs26tdmj.jpeg"]
+                },
+                {
+                    "code": "A1",
+                    "ISBN": "978-81-903492-1-5",
+                    "title": "UTHTHAMAR SONNA UNNATHA PONMOZHIGAL",
+                    "author": "EDAIYUR SIVAMATHY",
+                    "price": "₹ 30.00"
                 }
             ]
         }
