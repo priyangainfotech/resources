@@ -2,13 +2,13 @@
     "stalls":[
         {
             "publications": {
-                "name": "Aruna, Publications",
+                "name": "Aruna Publications",
                 "address": "12, First Street, Villivakkam, Chennai-600049",
                 "cordinates": {
                     "lat": 0.0,
                     "lan": 0.0
                 },
-                "stall_no": ["323", "234"]
+                "stall_no": ["9", "10"]
             },
             "books": [
                 {
@@ -36,6 +36,42 @@
                     "images":["https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images_full/palli-maanavargalukkaana-podhu-katturaigal_FrontImage_242.PNG"]
                 }
             ]
+        },
+        {
+            "publications": {
+                "name": "A.M Book House",
+                "address": "Ayappakkam",
+                "map":"https://www.google.com/maps/dir//%2713.1017036,80.1404524%27",
+                "cordinates": {
+                    "lat": 0.0,
+                    "lan": 0.0
+                },
+                "stall_no": ["433", "434"]
+            }
+        },
+        {
+            "publications": {
+                "name": "AADHI PATHIPPAGAM",
+                "address": null,
+                "map":null,
+                "cordinates": {
+                    "lat": 0.0,
+                    "lan": 0.0
+                },
+                "stall_no": ["87"]
+            }
+        },
+        {
+            "publications": {
+                "name": "AAZHI PUBLISHERS",
+                "address": null,
+                "map":null,
+                "cordinates": {
+                    "lat": 0.0,
+                    "lan": 0.0
+                },
+                "stall_no": ["F4"]
+            }
         }
     ]
     
