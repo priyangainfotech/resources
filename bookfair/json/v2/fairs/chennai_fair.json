@@ -40,7 +40,7 @@
             "177",
             "178"
         ],
-        "books_list": null
+        "books_list": "books/aadhi_pathippagam.json"
     },
     {
         "id": 6,
@@ -70,10 +70,13 @@
     {
         "id": 9,
         "name": "Ainthinai Pathippagam",
+        "address": "1108, 3rd St, Thendral Colony, Anna Nagar, Chennai, Tamil Nadu, India",
+        "map":"https://goo.gl/maps/npVaM9oZLRB785Ue9",
+        "common_folks": "https://www.commonfolks.in/books/ainthinai-pathippagam",
         "stall_no": [
             "496"
         ],
-        "books_list": null
+        "books_list": "books/ainthinai_pathippaga.json"
     },
     {
         "id": 10,
@@ -86,11 +89,13 @@
     {
         "id": 11,
         "name": "Akash Books",
+        "address": "5, 722, Sabari Salai, Ayyappan Nagar, Madipakkam, Chennai, Tamil Nadu 600091, India",
+        "phone": "+91 97104 47000",
         "stall_no": [
             "182",
             "183"
         ],
-        "books_list": null
+        "books_list": "https://goo.gl/maps/8xiRPWAUfmfwapcb8"
     },
     {
         "id": 12,
@@ -215,7 +220,8 @@
         "stall_no": [
             "313-314"
         ],
-        "books_list": null
+        "books_list": "books/annam_agaram_pathippagam.json",
+        "common_folks":"https://www.commonfolks.in/books/annam-agaram-pathippagam"
     },
     {
         "id": 27,
