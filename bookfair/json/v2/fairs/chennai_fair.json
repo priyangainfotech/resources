@@ -71,7 +71,7 @@
         "id": 9,
         "name": "Ainthinai Pathippagam",
         "address": "1108, 3rd St, Thendral Colony, Anna Nagar, Chennai, Tamil Nadu, India",
-        "map":"https://goo.gl/maps/npVaM9oZLRB785Ue9",
+        "mapUrl":"https://goo.gl/maps/npVaM9oZLRB785Ue9",
         "common_folks": "https://www.commonfolks.in/books/ainthinai-pathippagam",
         "stall_no": [
             "496"
@@ -95,7 +95,8 @@
             "182",
             "183"
         ],
-        "books_list": "https://goo.gl/maps/8xiRPWAUfmfwapcb8"
+        "mapUrl": "https://goo.gl/maps/8xiRPWAUfmfwapcb8",
+        "books_list": null
     },
     {
         "id": 12,
