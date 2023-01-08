@@ -29,7 +29,7 @@ def readUrl(endPoint):
         for child in children:
             attr = child.attrs
             if child.name == 'div' and 'data-src' in attr:
-                book.update ({"image":[attr['data-src']] })
+                book.update ({"images":[attr['data-src']] })
             if child.name == "a":
                 book.update ({'url': attr['href'] })
                 book.update ({'title':child.text})
