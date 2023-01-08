@@ -14,7 +14,7 @@
         "stall_no": [
             "87"
         ],
-        "books_list": null
+        "books_list": "books/aadhi_pathippagam.json"
     },
     {
         "id": 3,
@@ -22,7 +22,7 @@
         "stall_no": [
             "F 4"
         ],
-        "books_list": null
+        "books_list": "books/aazhi_publishers.json"
     },
     {
         "id": 4,

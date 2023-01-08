@@ -46,12 +46,14 @@ def readUrl(endPoint):
             if author is not None:
                  book.update({'author':author})
 
-            language = detalSoup.find("h6", {"class": "language"}).find("a", recursive=False)
-            book.update({'language':language.text})
+            language =  readAtt(detalSoup, "h6", {"class": "language"}, 'a')
+            if language is not None:
+                book.update({'language':language})
             
-            publishedon = detalSoup.find("h6", {"class": "publishedon"}).find("a", recursive=False)
-
-            book.update({'publishedon':publishedon.text})
+            
+            publishedon = readAtt(detalSoup, "h6", {"class": "publishedon"}, 'a')
+            if publishedon is not None:
+                book.update({'publishedon':publishedon})
             
             isbn = detalSoup.find("h6", {"class": "isbn"})
             if isbn is not None:
