@@ -179,7 +179,7 @@
         "stall_no": [
             "F 44"
         ],
-        "books_list": null,
+        "books_list": "books/vikadan_publishers.json",
         "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
         "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
         "phone": "044-66802907",
@@ -192,7 +192,7 @@
             "497",
             "498"
         ],
-        "books_list": "books/vikadan-publishers.json",
+        "books_list": "books/vikadan_publishers.json",
         "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
         "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
         "phone": "044-66802907",
@@ -268,7 +268,7 @@
     },
     {
         "id": 29,
-        "name": "Apple Publishing International P Ltd",
+        "name": "Apple Publishing Int. P Ltd",
         "stall_no": [
             "540-541"
         ],
