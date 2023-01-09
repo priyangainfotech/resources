@@ -101,15 +101,19 @@
     {
         "id": 12,
         "name": "Alaigal Veliyeetagam",
+        "address":"5/1 A, Natesan Nagar 2nd St, Natesan Nagar, Ramapuram, Chennai, Tamil Nadu 600089, India",
         "stall_no": [
             "41",
             "42"
         ],
-        "books_list": null
+        "books_list": "books/alaigal_veliyeettagam.json",
+        "common_folks":"https://www.commonfolks.in/books/alaigal-veliyeettagam",
+        "mapUrl":"https://goo.gl/maps/QkEKCfqb2CcKUbps8"
     },
     {
         "id": 13,
         "name": "Alphaland Books P Ltd",
+        "address":"No. 14, Jaganathan Rd, Ponnangipuram, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
         "stall_no": [
             "522",
             "523"
@@ -123,7 +127,11 @@
             "22",
             "23"
         ],
-        "books_list": null
+        "address":"New No. 24/3-3, Old No. 60/3, First Floor, Thambiah Rd, West Mambalam, Chennai, Tamil Nadu 600033, India",
+        "phone":"+919444169725",
+        "books_list": "books/amaravathi.json",
+        "mapUrl":"https://goo.gl/maps/cnq7BWGAQXooyUGZ8",
+        "common_folks":"https://www.commonfolks.in/books/amaravathi"
     },
     {
         "id": 15,
@@ -131,7 +139,11 @@
         "stall_no": [
             "218"
         ],
-        "books_list": null
+        "address":"New No. 24/3-3, Old No. 60/3, First Floor, Thambiah Rd, West Mambalam, Chennai, Tamil Nadu 600033, India",
+        "phone":"+919444169725",
+        "books_list": "books/amaravathi.json",
+        "mapUrl":"https://goo.gl/maps/cnq7BWGAQXooyUGZ8",
+        "common_folks":"https://www.commonfolks.in/books/amaravathi"
     },
     {
         "id": 16,
@@ -139,7 +151,11 @@
         "stall_no": [
             "213"
         ],
-        "books_list": null
+        "books_list": "books/amrutha_pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/amrutha-pathippagam",
+        "address": "No 5, S S Avenue, 5th Street, Porur, Chennai - 600116",
+        "phone": "+919444070000",
+        "mapUrl": "https://goo.gl/maps/5snxeAV4EonmwPq36"
     },
     {
         "id": 17,
@@ -163,7 +179,11 @@
         "stall_no": [
             "F 44"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
+        "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
+        "phone": "044-66802907",
+        "mapUrl": "https://goo.gl/maps/5TBGaAVLab2WBmvj8"
     },
     {
         "id": 20,
@@ -172,7 +192,11 @@
             "497",
             "498"
         ],
-        "books_list": null
+        "books_list": "books/vikadan-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
+        "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
+        "phone": "044-66802907",
+        "mapUrl": "https://goo.gl/maps/5TBGaAVLab2WBmvj8"
     },
     {
         "id": 21,
