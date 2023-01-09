@@ -75,8 +75,11 @@ def readUrl(endPoint):
 
     print(books)
 
-readUrl(url)
-
-out_file  = open (json_file, "w")
-out_file.write(dumps(books))
-out_file.close()
+try:
+    readUrl(url)
+except:
+    print("Something went wrong")
+finally:
+    out_file  = open (json_file, "w")
+    out_file.write(dumps(books))
+    out_file.close()

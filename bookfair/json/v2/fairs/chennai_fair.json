@@ -255,7 +255,8 @@
             "253",
             "254"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks":"https://www.commonfolks.in/books/anuradha-publications"
     },
     {
         "id": 28,
@@ -271,7 +272,8 @@
         "stall_no": [
             "540-541"
         ],
-        "books_list": null
+        "books_list": "books/apple_publishing_international.json",
+        "common_folks":"https://www.commonfolks.in/books/apple-publishing-international"
     },
     {
         "id": 30,
@@ -328,7 +330,8 @@
         "stall_no": [
             "124-125"
         ],
-        "books_list": null
+        "books_list": "books/arun-mo.json",
+        "common_folks":"https://www.commonfolks.in/books/arun-mo"
     },
     {
         "id": 37,
