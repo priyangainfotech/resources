@@ -237,7 +237,10 @@
         "stall_no": [
             "330"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.panuval.com/annai-rajeshwari-pathipagam/ilakkiya-chuvadugal-10015159",
+        "address": "41, Thanikachalam St, Siruvallur, Perambur, Chennai, Tamil Nadu 600011",
+        "mapUrl": "https://goo.gl/maps/RiA4gAfBZ4Kc3p1r6"
     },
     {
         "id": 26,
@@ -256,7 +259,10 @@
             "254"
         ],
         "books_list": null,
-        "common_folks":"https://www.commonfolks.in/books/anuradha-publications"
+        "common_folks": "https://www.commonfolks.in/books/anuradha-publications",
+        "address": "G - 68, Kamakodi Flats, 20, Rameswaram Road, T Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "04424357410",
+        "mapUrl": "https://goo.gl/maps/HFVx3fRcpgmmVSjUA"
     },
     {
         "id": 28,
@@ -273,7 +279,10 @@
             "540-541"
         ],
         "books_list": "books/apple_publishing_international.json",
-        "common_folks":"https://www.commonfolks.in/books/apple-publishing-international"
+        "common_folks": "https://www.commonfolks.in/books/apple-publishing-international",
+        "address": "130, Nelson Manickam Rd, Behind Kovai Pazhamudir Nilayam - Buy Fresh Fruits & Vegetables in Aminjikarai, Railway Colony, Aminjikarai, Chennai, Tamil Nadu 600029",
+        "phone": "09677444977",
+        "mapUrl": "https://goo.gl/maps/5ZPCGieX1jJRxbNo9"
     },
     {
         "id": 30,
