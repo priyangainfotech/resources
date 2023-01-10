@@ -438,7 +438,11 @@
         "stall_no": [
             "160"
         ],
-        "books_list": null
+        "books_list": "books/balaji-international-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/balaji-international-publications",
+        "address": "235, Bharathi Salai, Padupakkam, Royapettah, Chennai, Tamil Nadu 600014",
+        "phone": "09884029557",
+        "mapUrl": "https://goo.gl/maps/LRgnuUSvD4G19yav9"
     },
     {
         "id": 81,
