@@ -323,7 +323,11 @@
         "stall_no": [
             "211-212"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/arulmigu+amman+pathippagam",
+        "address": "Old no: 116, New, 16, Thulasinga Perumal Koil St, Triplicane, Chennai, Tamil Nadu 600005",
+        "phone": "04442663546",
+        "mapUrl": "https://goo.gl/maps/HPNbfTaV85GLSKFo6"
     },
     {
         "id": 35,
@@ -349,7 +353,11 @@
             "9",
             "10"
         ],
-        "books_list": "books/aruna.json"
+        "books_list": null,
+        "common_folks": "https://www.noolulagam.com/books-by-publisher/408/arun-pathippagam/",
+        "address": "21/25 PERIYAR NAGAR, Main Rd, North Jagannatha Nagar Annexe, Villivakkam, Chennai, Tamil Nadu 600049",
+        "phone": "04426507131",
+        "mapUrl": "https://goo.gl/maps/SVH9rjxnTag41ad79"
     },
     {
         "id": 38,
@@ -357,7 +365,11 @@
         "stall_no": [
             "161-162"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.noolulagam.com/books-by-publisher/130/arunothayam/",
+        "address": "53, Gowdiamutt Rd, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+        "phone": "04428132791",
+        "mapUrl": "https://goo.gl/maps/26Uo61LU7APo1AGX8"
     },
     {
         "id": 39,
