@@ -5,10 +5,16 @@ import requests
 from json import dumps
 from pathlib import Path
 import os
+import json
 
 url= sys.argv[1]
 json_file = sys.argv[2]
 
+
+prevBooks = []
+if os.path.exists(json_file):
+    with open(json_file, 'r') as f:
+        prevBooks = json.load(f)
 
 books = []
 jsonPath = Path(json_file).stem
@@ -19,6 +25,17 @@ isExist = os.path.exists(imageFolder)
 if not isExist:
     os.makedirs(imageFolder)
     print("Created "+imageFolder)
+
+
+def isAvailable(book):
+
+    url = book['url']
+    for pre in prevBooks:
+        if pre['url'] == url:
+            return True
+        
+    return False
+
 
 def downloadImage(img):
     res = img.split('/')
@@ -61,6 +78,9 @@ def readUrl(endPoint):
                 if('class' in attr and 'price' in attr['class']):
                     book.update ({'price':child.text})
             
+        if isAvailable(book):
+            print("********** Skip details page *************")
+            break
         if len(book) != 0:
             print(book)
             detailPage = requests.get(book['url'])

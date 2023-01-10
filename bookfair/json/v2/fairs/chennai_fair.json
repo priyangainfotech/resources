@@ -947,11 +947,15 @@
     },
     {
         "id": 135,
-        "name": "Kaawa",
+        "name": "Kaaya",
         "stall_no": [
             "127-128"
         ],
-        "books_list": null
+        "books_list": "books/kavya-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/kavya-pathippagam",
+        "address": "363F+V9Q, Trustpuram, Kodambakkam, Chennai, Tamil Nadu 600024",
+        "phone": "09840480232",
+        "mapUrl": "https://goo.gl/maps/3mVJu3ALguWi1Pi18s"
     },
     {
         "id": 136,
@@ -960,7 +964,11 @@
             "107",
             "108"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/kadalangudi%20publications%20chennai/",
+        "address": "38, Natesan Iyer Street, T Nagar, T Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "04424343406",
+        "mapUrl": "https://goo.gl/maps/9TEupiY2hiBRpsG17"
     },
     {
         "id": 137,
@@ -968,7 +976,11 @@
         "stall_no": [
             "E 5"
         ],
-        "books_list": null
+        "books_list": "books/kalachuvadu.json",
+        "common_folks": "https://www.commonfolks.in/books/kalachuvadu",
+        "address": "669, K P Road, Kottar-Parvathipuram Rd, Nagercoil, Tamil Nadu 629001",
+        "phone": "04652278525",
+        "mapUri": "https://goo.gl/maps/PwrWrKxwfYnnJQS18"
     },
     {
         "id": 138,
@@ -976,7 +988,8 @@
         "stall_no": [
             "607-608"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/kalaignan-padhipagam"
     },
     {
         "id": 139,
@@ -988,7 +1001,7 @@
     },
     {
         "id": 140,
-        "name": "Kalamagal Traders",
+        "name": "Kalaimagal Traders",
         "stall_no": [
             "619",
             "620"
@@ -1009,7 +1022,11 @@
         "stall_no": [
             "156-157"
         ],
-        "books_list": null
+        "books_list": "books/kalakkal-dreams.json",
+        "common_folks": "https://www.commonfolks.in/books/kalakkal-dreams",
+        "address": "9A, Kamaraj, nagar, 1st Cross St, Srinivasa Nagar, Padi, Chennai, Tamil Nadu 600050",
+        "phone": "09840967484",
+        "mapUrl": "https://goo.gl/maps/65LTsBxyMUeRVwxE8"
     },
     {
         "id": 143,
@@ -1025,7 +1042,8 @@
         "stall_no": [
             "152-153"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/kaleeshwari+pathippagam/"
     },
     {
         "id": 145,
@@ -1067,7 +1085,8 @@
         "stall_no": [
             "F 60"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_fokls": "https://www.commonfolks.in/books/kannadasan-pathippagam?f[page]=1&f[sort]=default&f[view]=list"
     },
     {
         "id": 150,
@@ -1099,7 +1118,8 @@
         "stall_no": [
             "603-604"
         ],
-        "books_list": null
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/karpagam-puththagalayam"
     },
     {
         "id": 154,
@@ -1116,7 +1136,8 @@
         "stall_no": [
             "38-39"
         ],
-        "books_list": null
+        "books_list": "books/karunchattai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/karunchattai-pathippagam"
     },
     {
         "id": 156,
@@ -1125,7 +1146,8 @@
             "378",
             "379"
         ],
-        "books_list": null
+        "books_list": "books/karuppu-pirathigal.json",
+        "common_folks": "https://www.commonfolks.in/books/karuppu-pirathigal"
     },
     {
         "id": 157,
