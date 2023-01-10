@@ -12,7 +12,7 @@ json_file = sys.argv[2]
 
 books = []
 jsonPath = Path(json_file).stem
-folderPath = "images/"+jsonPath
+folderPath = "/images/"+jsonPath
 imageFolder = str(Path.cwd())+folderPath
 
 isExist = os.path.exists(imageFolder)
@@ -29,7 +29,7 @@ def downloadImage(img):
         with open(path, 'wb') as handler:
          handler.write(img_data)
 
-    return "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/"+folderPath+"/"+res[len(res)-1]
+    return "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books"+folderPath+"/"+res[len(res)-1]
 
 def readAtt(soupInst, tag, className, child):
     instant = soupInst.find(tag, className)
