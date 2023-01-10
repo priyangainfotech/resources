@@ -179,7 +179,7 @@
         "stall_no": [
             "F 44"
         ],
-        "books_list": null,
+        "books_list": "books/vikadan_publishers.json",
         "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
         "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
         "phone": "044-66802907",
@@ -192,7 +192,7 @@
             "497",
             "498"
         ],
-        "books_list": "books/vikadan-publishers.json",
+        "books_list": "books/vikadan_publishers.json",
         "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
         "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
         "phone": "044-66802907",
@@ -274,7 +274,7 @@
     },
     {
         "id": 29,
-        "name": "Apple Publishing International P Ltd",
+        "name": "Apple Publishing Int. P Ltd",
         "stall_no": [
             "540-541"
         ],
@@ -343,9 +343,8 @@
         "stall_no": [
             "124-125"
         ],
-        "books_list": null,
-        "common_folks": "https://www.noolulagam.com/books-by-publisher/408/arun-pathippagam/",
-        "phone": "9444203267"
+        "books_list": "books/arun-mo.json",
+        "common_folks":"https://www.commonfolks.in/books/arun-mo"
     },
     {
         "id": 37,
@@ -355,7 +354,7 @@
             "10"
         ],
         "books_list": "books/aruna.json",
-        "common_folks": "http://arunapublications.com/index.php?route=product/product&product_id=650",
+        "common_folks": "https://www.noolulagam.com/books-by-publisher/408/arun-pathippagam/",
         "address": "21/25 PERIYAR NAGAR, Main Rd, North Jagannatha Nagar Annexe, Villivakkam, Chennai, Tamil Nadu 600049",
         "phone": "04426507131",
         "mapUrl": "https://goo.gl/maps/SVH9rjxnTag41ad79"
