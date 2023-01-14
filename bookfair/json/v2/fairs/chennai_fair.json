@@ -3559,7 +3559,9 @@
             "601-602"
         ],
         "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/vidiyal"
+        "common_folks": "https://www.commonfolks.in/books/vidiyal",
+        "address": "60, Varadharaja Puram Main Rd, Periyar Nagar, Balan Nagar, Coimbatore, Tamil Nadu 641015",
+        "mapUrl": "https://goo.gl/maps/yGGoY2MqmJ5ZmS4x5"
     },
     {
         "id": 441,
@@ -3584,7 +3586,10 @@
             "401-402"
         ],
         "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/vijaya-pathippagam"
+        "common_folks": "https://www.commonfolks.in/books/vijaya-pathippagam",
+        "address": "New Bus Stand, Thiruchengode, Tamil Nadu 637408",
+        "phone": "04288252614",
+        "mapUrl": "https://goo.gl/maps/feTYmdUqhBgCZTrP9"
     },
     {
         "id": 444,
@@ -3713,7 +3718,10 @@
             "215"
         ],
         "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/yaavarum-publishers"
+        "common_folks": "https://www.commonfolks.in/books/yaavarum-publishers",
+        "address": "Bus stop, SGP Naidu Complex, Velachery Main Rd, Dhandeeswaram Nagar, opppsite, Velachery, Chennai, Tamil Nadu 600042",
+        "phone": "09042461472",
+        "mapUrl": "https://goo.gl/maps/joBgNSeAQXnw9MXP9"
     },
     {
         "id": 459,
@@ -3722,7 +3730,9 @@
             "F 11"
         ],
         "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/yegam-pathippagam"
+        "common_folks": "https://www.commonfolks.in/books/yegam-pathippagam",
+        "address": "First Floor, No. 3, Pillaiyar Koil Street, 2nd Ln, Triplicane, Chennai, Tamil Nadu 600005",
+        "mapUrl": "https://goo.gl/maps/xNirStsPhfkscaXD7"
     },
     {
         "id": 460,
@@ -3748,6 +3758,9 @@
             "F 19"
         ],
         "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/zero-degree-publishing"
+        "common_folks": "https://www.commonfolks.in/books/zero-degree-publishing",
+        "address": "I Floor, JMB motorcycles 55(7) , R Block, 6th Ave, Anna Nagar West, Chennai, Tamil Nadu 600040",
+        "phone": "08925061999",
+        "mapUrl": "https://goo.gl/maps/qYfe5f7wnaRnJk148"
     }
 ]
