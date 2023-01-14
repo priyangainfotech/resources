@@ -1,1 +1,43 @@
-[{"url": "https://www.commonfolks.in/books/d/kittaththatta-kadavul", "title": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd", "images": ["https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images/kittaththatta-kadavul_FrontImage_324.jpg"], "price": "\u20b9114", "author": "\u0b9a\u0bbf. \u0b9a\u0bb0\u0bb5\u0ba3\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7\u0ba9\u0bcd", "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd", "publishedon": "2012"}, {"url": "https://www.commonfolks.in/books/d/eezhaththu-arasiyal-novel", "title": "\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb5\u0bb2\u0bcd", "images": ["https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images/eezhaththu-arasiyal-novel_FrontImage_723.jpg"], "price": "\u20b959", "author": "\u0baf\u0bae\u0bc1\u0ba9\u0bbe \u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd", "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd", "publishedon": "2010"}, {"url": "https://www.commonfolks.in/books/d/sollappadaatha-ulagam", "title": "\u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4 \u0b89\u0bb2\u0b95\u0bae\u0bcd", "images": ["https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images/sollappadaatha-ulagam_FrontImage_437.jpg"], "author": "\u0baf\u0bae\u0bc1\u0ba9\u0bbe \u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd", "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd", "publishedon": "2007"}, {"url": "https://www.commonfolks.in/books/d/kallaraiyil-thudikkum-isai", "title": "\u0b95\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9a\u0bc8", "images": ["https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images/kallaraiyil-thudikkum-isai_FrontImage_285.jpg"], "author": "\u0b9a\u0bc6. \u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bae\u0bcd", "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"}]
+[
+    {
+        "url": "https://www.commonfolks.in/books/d/kittaththatta-kadavul",
+        "title": "\u0b95\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/amrutha_pathippagam/kittaththatta-kadavul_FrontImage_324.jpg"
+        ],
+        "price": "\u20b9114",
+        "author": "\u0b9a\u0bbf. \u0b9a\u0bb0\u0bb5\u0ba3\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc7\u0ba9\u0bcd",
+        "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "publishedon": "2012"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/eezhaththu-arasiyal-novel",
+        "title": "\u0b88\u0bb4\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb5\u0bb2\u0bcd",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/amrutha_pathippagam/eezhaththu-arasiyal-novel_FrontImage_723.jpg"
+        ],
+        "price": "\u20b959",
+        "author": "\u0baf\u0bae\u0bc1\u0ba9\u0bbe \u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+        "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "publishedon": "2010"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/sollappadaatha-ulagam",
+        "title": "\u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4 \u0b89\u0bb2\u0b95\u0bae\u0bcd",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/amrutha_pathippagam/sollappadaatha-ulagam_FrontImage_437.jpg"
+        ],
+        "author": "\u0baf\u0bae\u0bc1\u0ba9\u0bbe \u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+        "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "publishedon": "2007"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/kallaraiyil-thudikkum-isai",
+        "title": "\u0b95\u0bb2\u0bcd\u0bb2\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9a\u0bc8",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/amrutha_pathippagam/kallaraiyil-thudikkum-isai_FrontImage_285.jpg"
+        ],
+        "author": "\u0b9a\u0bc6. \u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0\u0bae\u0bcd",
+        "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+]
