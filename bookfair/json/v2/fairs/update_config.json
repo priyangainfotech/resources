@@ -20,30 +20,29 @@
       "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/travelinsurance.png",
       "title": "Travel Insurance",
       "link":"https://play.google.com/store/apps/details?id=com.piappstudio.travelasst"
+    }
+
+  ],
+  "socialmedia": [
+    {
+      "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/youtube.png",
+      "title":"youtube",
+      "link": "https://www.youtube.com/piappstudio"
     },
     {
-      "socialmedia": [
-        {
-          "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/youtube.png",
-          "title":"youtube",
-          "link": "https://www.youtube.com/piappstudio"
-        },
-        {
-          "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/twitter.png",
-          "title":"twitter",
-          "link": "https://twitter.com/piappstudio"
-        },
-        {
-          "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/linkedin.png",
-          "title":"linkedin",
-          "link": "https://www.linkedin.com/company/piappstudio"
-        },
-        {
-          "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/facebook.png",
-          "title":"facebook",
-          "link": "https://www.facebook.com/realpiappstudio"
-        }
-      ]
+      "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/twitter.png",
+      "title":"twitter",
+      "link": "https://twitter.com/piappstudio"
+    },
+    {
+      "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/linkedin.png",
+      "title":"linkedin",
+      "link": "https://www.linkedin.com/company/piappstudio"
+    },
+    {
+      "Icon":"https://github.com/piappstudio/BookFair/blob/main/PiBookFair/src/main/res/drawable/facebook.png",
+      "title":"facebook",
+      "link": "https://www.facebook.com/realpiappstudio"
     }
   ]
 }
