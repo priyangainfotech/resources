@@ -278,7 +278,7 @@
         "stall_no": [
             "540-541"
         ],
-        "books_list": null,
+        "books_list": "books/apple_publishing_international.json",
         "common_folks": "https://www.commonfolks.in/books/apple-publishing-international",
         "address": "130, Nelson Manickam Rd, Behind Kovai Pazhamudir Nilayam - Buy Fresh Fruits & Vegetables in Aminjikarai, Railway Colony, Aminjikarai, Chennai, Tamil Nadu 600029",
         "phone": "09677444977",
@@ -353,7 +353,7 @@
             "9",
             "10"
         ],
-        "books_list": "books/aruna.json",
+        "books_list": null,
         "common_folks": "https://www.noolulagam.com/books-by-publisher/408/arun-pathippagam/",
         "address": "21/25 PERIYAR NAGAR, Main Rd, North Jagannatha Nagar Annexe, Villivakkam, Chennai, Tamil Nadu 600049",
         "phone": "04426507131",
@@ -396,7 +396,7 @@
             "509",
             "510"
         ],
-        "books_list": null,
+        "books_list": "books/arunchol-veliyeedu.json",
         "common_folks": "https://www.commonfolks.in/books/arunchol-veliyeedu",
         "address": "G3, Venuka Apartment, 40, 12th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",
         "mapUrl": "https://goo.gl/maps/98nkUNNsnUVcgK7x5"
@@ -470,7 +470,7 @@
         "stall_no": [
             "160"
         ],
-        "books_list": null,
+        "books_list": "books/balaji-international-publications.json",
         "common_folks": "https://www.commonfolks.in/books/balaji-international-publications",
         "address": "235, Bharathi Salai, Padupakkam, Royapettah, Chennai, Tamil Nadu 600014",
         "phone": "09884029557",
@@ -763,7 +763,7 @@
             "646",
             "647"
         ],
-        "books_list": null,
+        "books_list": "books/ilakkiyachcholai.json",
         "common_folks": "https://www.commonfolks.in/books/ilakkiyachcholai"
     },
     {
@@ -878,7 +878,7 @@
         "stall_no": [
             "33-34"
         ],
-        "books_list": null,
+        "books_list": "books/jaico-publishing-house.json",
         "common_folks": "https://www.commonfolks.in/books/jaico-publishing-house",
         "address": "12, Dalal Street Extention, 125 Mahatma Gandhi Road, Motwane Lane, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
         "phone": "02240905725",
@@ -890,7 +890,7 @@
         "stall_no": [
             "194"
         ],
-        "books_list": null,
+        "books_list": "books/jaico-publishing-house.json",
         "common_folks": "https://routemybook.com/publisher_details/Jainco-Publishers-279/269?autshort=low",
         "address": "A-171/1, Block A, Dilshad Colony, Dilshad Garden, Delhi, 110095",
         "phone": "01122352409",
@@ -951,7 +951,7 @@
         "stall_no": [
             "127-128"
         ],
-        "books_list": null,
+        "books_list": "books/kavya-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/kavya-pathippagam",
         "address": "363F+V9Q, Trustpuram, Kodambakkam, Chennai, Tamil Nadu 600024",
         "phone": "09840480232",
@@ -976,7 +976,7 @@
         "stall_no": [
             "E 5"
         ],
-        "books_list": null,
+        "books_list": "books/kalachuvadu.json",
         "common_folks": "https://www.commonfolks.in/books/kalachuvadu",
         "address": "669, K P Road, Kottar-Parvathipuram Rd, Nagercoil, Tamil Nadu 629001",
         "phone": "04652278525",
@@ -1022,7 +1022,7 @@
         "stall_no": [
             "156-157"
         ],
-        "books_list": null,
+        "books_list": "books/kalakkal-dreams.json",
         "common_folks": "https://www.commonfolks.in/books/kalakkal-dreams",
         "address": "9A, Kamaraj, nagar, 1st Cross St, Srinivasa Nagar, Padi, Chennai, Tamil Nadu 600050",
         "phone": "09840967484",
@@ -1136,7 +1136,7 @@
         "stall_no": [
             "38-39"
         ],
-        "books_list": null,
+        "books_list": "books/karunchattai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/karunchattai-pathippagam"
     },
     {
@@ -1146,7 +1146,7 @@
             "378",
             "379"
         ],
-        "books_list": null,
+        "books_list": "books/karuppu-pirathigal.json",
         "common_folks": "https://www.commonfolks.in/books/karuppu-pirathigal"
     },
     {
@@ -1163,7 +1163,7 @@
         "stall_no": [
             "F 50"
         ],
-        "books_list": null,
+        "books_list": "books/kavitha-publication.json",
         "common_folks": "https://www.commonfolks.in/books/kavitha-publication"
     },
     {
@@ -1188,7 +1188,7 @@
         "stall_no": [
             "E 4"
         ],
-        "books_list": null,
+        "books_list": "books/kizhakku-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/kizhakku-pathippagam"
     },
     {
@@ -1197,7 +1197,7 @@
         "stall_no": [
             "303"
         ],
-        "books_list": null,
+        "books_list": "books/kothai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/kothai-pathippagam"
     },
     {
@@ -1214,7 +1214,7 @@
         "stall_no": [
             "657-658"
         ],
-        "books_list": null,
+        "books_list": "books/krishnamurthi-foundation-india.json",
         "common_folks": "https://www.commonfolks.in/books/krishnamurthi-foundation-india"
     },
     {
@@ -1224,7 +1224,7 @@
             "631",
             "632"
         ],
-        "books_list": null,
+        "books_list": "books/kumaran-pathippagham.json",
         "common_folks": "https://www.commonfolks.in/books/kumaran-pathippagham"
     },
     {
@@ -1233,7 +1233,7 @@
         "stall_no": [
             "18"
         ],
-        "books_list": null,
+        "books_list": "books/kumaran-putthaga-illam.json",
         "common_folks": "https://www.commonfolks.in/books/kumaran-putthaga-illam"
     },
     {
@@ -1250,7 +1250,7 @@
         "stall_no": [
             "533"
         ],
-        "books_list": null,
+        "books_list": "books/kutti-agayam.json",
         "common_folks": "https://www.commonfolks.in/books/kutti-agayam"
     },
     {
@@ -1321,7 +1321,7 @@
             "263",
             "264"
         ],
-        "books_list": null,
+        "books_list": "books/madhumita.json",
         "common_folks": "https://www.commonfolks.in/books/madhumita"
     },
     {
@@ -1347,7 +1347,7 @@
         "stall_no": [
             "F 42"
         ],
-        "books_list": null,
+        "books_list": "books/s-maheswari.json",
         "common_folks": "https://www.commonfolks.in/books/s-maheswari"
     },
     {
@@ -1364,7 +1364,7 @@
         "stall_no": [
             "47-48"
         ],
-        "books_list": null,
+        "books_list": "books/malayala-manorama.json",
         "common_folks": "https://www.commonfolks.in/books/malayala-manorama"
     },
     {
@@ -1381,7 +1381,7 @@
         "stall_no": [
             "F 17"
         ],
-        "books_list": null,
+        "books_list": "books/manimekalai-pirasuram.json",
         "common_folks": "https://www.commonfolks.in/books/manimekalai-pirasuram"
     },
     {
@@ -1390,7 +1390,7 @@
         "stall_no": [
             "219-220"
         ],
-        "books_list": null,
+        "books_list": "books/manivaasagar-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/manivaasagar-pathippagam"
     },
     {
@@ -1432,7 +1432,7 @@
         "stall_no": [
             "216-217"
         ],
-        "books_list": null,
+        "books_list": "books/mathi-nilaiyam.json",
         "common_folks": "https://www.commonfolks.in/books/mathi-nilaiyam"
     },
     {
@@ -1516,7 +1516,7 @@
         "stall_no": [
             "315-316"
         ],
-        "books_list": null,
+        "books_list": "books/meiyappan-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/meiyappan-pathippagam"
     },
     {
@@ -1535,7 +1535,7 @@
             "492",
             "4593"
         ],
-        "books_list": null,
+        "books_list": "books/minnangadi.json",
         "common_folks": "https://www.commonfolks.in/books/minnangadi"
     },
     {
@@ -1569,7 +1569,7 @@
             "233",
             "234"
         ],
-        "books_list": null,
+        "books_list": "books/mullai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/mullai-pathippagam"
     },
     {
@@ -1602,7 +1602,7 @@
         "stall_no": [
             "266-267"
         ],
-        "books_list": null,
+        "books_list": "books/muran-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/muran-pathippagam"
     },
     {
@@ -1636,7 +1636,7 @@
         "stall_no": [
             "F 31"
         ],
-        "books_list": null,
+        "books_list": "books/nakkheeran-publications",
         "common_folks": "https://www.commonfolks.in/books/nakkheeran-publications"
     },
     {
@@ -1670,7 +1670,7 @@
         "stall_no": [
             "60"
         ],
-        "books_list": null,
+        "books_list": "books/nannool-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/nannool-pathippagam"
     },
     {
@@ -1679,8 +1679,7 @@
         "stall_no": [
             "393-394"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/natrinai-pathippagam"
+        "books_list": null
     },
     {
         "id": 219,
@@ -1688,7 +1687,7 @@
         "stall_no": [
             "F 64"
         ],
-        "books_list": null,
+        "books_list": "books/narmada-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/narmada-pathippagam"
     },
     {
@@ -1714,7 +1713,7 @@
         "stall_no": [
             "256"
         ],
-        "books_list": null,
+        "books_list": "books/nathan-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/nathan-pathippagam"
     },
     {
@@ -1724,7 +1723,7 @@
             "81",
             "82"
         ],
-        "books_list": null,
+        "books_list": "books/national-book-trust",
         "common_folks": "https://www.commonfolks.in/books/national-book-trust"
     },
     {
@@ -1742,7 +1741,7 @@
         "stall_no": [
             "F 39"
         ],
-        "books_list": null,
+        "books_list": "books/natrinai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/natrinai-pathippagam"
     },
     {
@@ -1842,7 +1841,7 @@
             "435",
             "436"
         ],
-        "books_list": null,
+        "books_list": "books/nivedhita-publishers.json",
         "common_folks": "https://www.commonfolks.in/books/nivedhita-publishers"
     },
     {
@@ -1867,7 +1866,7 @@
         "stall_no": [
             "265"
         ],
-        "books_list": null,
+        "books_list": "books/nool-vanam.json",
         "common_folks": "https://www.commonfolks.in/books/nool-vanam"
     },
     {
@@ -1950,7 +1949,7 @@
             "514",
             "515"
         ],
-        "books_list": null,
+        "books_list": "books/oviya-pathipagam.json",
         "common_folks": "https://www.commonfolks.in/books/oviya-pathipagam"
     },
     {
@@ -1960,7 +1959,7 @@
             "154",
             "155"
         ],
-        "books_list": null,
+        "books_list": "books/paari-nilayam.json",
         "common folks": "https://www.commonfolks.in/books/paari-nilayam"
     },
     {
@@ -1969,7 +1968,7 @@
         "stall_no": [
             "597-598"
         ],
-        "books_list": null,
+        "books_list": "books/paavai-publications.json",
         "common_folks": "https://www.commonfolks.in/books/paavai-publications"
     },
     {
@@ -1987,7 +1986,7 @@
         "stall_no": [
             "262"
         ],
-        "books_list": null,
+        "books_list": "books/padaippu-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/padhma-pathippagam"
     },
     {
@@ -1997,7 +1996,7 @@
             "321",
             "322"
         ],
-        "books_list": null,
+        "books_list": "books/palaniyappa-brothers.json",
         "common_folks": "https://www.commonfolks.in/books/palaniyappa-brothers"
     },
     {
@@ -2031,7 +2030,7 @@
         "stall_no": [
             "199-200"
         ],
-        "books_list": null,
+        "books_list": "books/panuval-book-store.json",
         "common_folks": "https://www.commonfolks.in/books/panuval-book-store"
     },
     {
@@ -2048,7 +2047,7 @@
         "stall_no": [
             "432"
         ],
-        "books_list": null,
+        "books_list": "books/parithi-pathippagam",
         "common_folks": "https://www.commonfolks.in/books/parithi-pathippagam"
     },
     {
@@ -2114,7 +2113,7 @@
         "stall_no": [
             "111-112"
         ],
-        "books_list": null,
+        "books_list": "books/poombuhar-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/poombuhar-pathippagam"
     },
     {
@@ -2123,7 +2122,7 @@
         "stall_no": [
             "478-479"
         ],
-        "books_list": null,
+        "books_list": "books/poonkodi-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/poonkodi-pathippagam"
     },
     {
@@ -2140,7 +2139,7 @@
         "stall_no": [
             "642-643"
         ],
-        "books_list": null,
+        "books_list": "books/poovulagin-nanbargal-784.json",
         "common_folks": "https://www.commonfolks.in/books/poovulagin-nanbargal-784"
     },
     {
@@ -2149,7 +2148,7 @@
         "stall_no": [
             "372-373"
         ],
-        "books_list": null,
+        "books_list": "books/puthumai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/puthumai-pathippagam"
     },
     {
@@ -2226,7 +2225,7 @@
             "166",
             "167"
         ],
-        "books_list": null,
+        "books_list": "books/publications-division.json",
         "common_folks": "https://www.commonfolks.in/books/publications-division"
     },
     {
@@ -2309,7 +2308,7 @@
         "stall_no": [
             "F 54"
         ],
-        "books_list": null,
+        "books_list": "books/rahmath-pathipagam.json",
         "common_folks": "https://www.commonfolks.in/books/rahmath-pathipagam"
     },
     {
@@ -2408,7 +2407,7 @@
         "stall_no": [
             "587-588"
         ],
-        "books_list": null,
+        "books_list": "books/sakithya-academy.json",
         "common_folks": "https://www.commonfolks.in/books/sakithya-academy"
     },
     {
@@ -2483,7 +2482,7 @@
             "226",
             "227"
         ],
-        "books_list": null,
+        "books_list": "books/sapna-book-house.json",
         "common_f0lks": "https://www.commonfolks.in/books/sapna-book-house"
     },
     {
@@ -2516,7 +2515,7 @@
         "stall_no": [
             "635-636"
         ],
-        "books_list": null,
+        "books_list": "books/sathyaa-enterprises.json",
         "common_folks": "https://www.commonfolks.in/books/sathyaa-enterprises"
     },
     {
@@ -2558,7 +2557,7 @@
         "stall_no": [
             "301"
         ],
-        "books_list": null,
+        "books_list": "books/seermai.json",
         "common_folks": "https://www.commonfolks.in/books/seermai"
     },
     {
@@ -2591,7 +2590,7 @@
         "stall_no": [
             "140-141"
         ],
-        "books_list": null,
+        "books_list": "books/sajitha-book-center.json",
         "common_folks": "https://www.commonfolks.in/books/sajitha-book-center"
     },
     {
@@ -2608,7 +2607,7 @@
         "stall_no": [
             "259-260"
         ],
-        "books_list": null,
+        "books_list": "books/shankar-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/shankar-pathippagam"
     },
     {
@@ -2700,7 +2699,7 @@
         "stall_no": [
             "40"
         ],
-        "books_list": null,
+        "books_list": "books/sivakami.json",
         "common_folks": "https://www.commonfolks.in/books/sivakami"
     },
     {
@@ -2709,7 +2708,7 @@
         "stall_no": [
             "471"
         ],
-        "books_list": null,
+        "books_list": "books/sivalayam.json",
         "common_folks": "https://www.commonfolks.in/books/sivalayam"
     },
     {
@@ -2718,7 +2717,7 @@
         "stall_no": [
             "F 25"
         ],
-        "books_list": null,
+        "books_list": "books/sixth-sense-publications.json",
         "common_folks": "https://www.commonfolks.in/books/sixth-sense-publications"
     },
     {
@@ -2760,7 +2759,7 @@
         "stall_no": [
             "F 59"
         ],
-        "books_list": null,
+        "books_list": "books/spider-books.json",
         "common_folks": "https://www.commonfolks.in/books/spider-books"
     },
     {
@@ -2793,7 +2792,7 @@
         "stall_no": [
             "494-495"
         ],
-        "books_list": null,
+        "books_list": "books/sree-indhu-publications.json",
         "common_folks": "https://www.commonfolks.in/books/sree-indhu-publications"
     },
     {
@@ -2861,7 +2860,7 @@
             "524",
             "525"
         ],
-        "books_list": null,
+        "books_list": "books/sri-senbaga-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/sri-senbaga-pathippagam"
     },
     {
@@ -2894,7 +2893,7 @@
         "stall_no": [
             "120-121"
         ],
-        "books_list": null,
+        "books_list": "books/valari-veliyeedu.json",
         "common_folks": "https://www.commonfolks.in/books/valari-veliyeedu"
     },
     {
@@ -2943,7 +2942,7 @@
         "stall_no": [
             "F 8"
         ],
-        "books_list": null,
+        "books_list": "books/sooriyan-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/sooriyan-pathippagam"
     },
     {
@@ -2952,7 +2951,7 @@
         "stall_no": [
             "411-412"
         ],
-        "books_list": null,
+        "books_list": "books/surya-literature-pvt-ltd.json",
         "common_folks": "https://www.commonfolks.in/books/surya-literature-pvt-ltd"
     },
     {
@@ -3003,7 +3002,7 @@
         "stall_no": [
             "331-332"
         ],
-        "books_list": null,
+        "books_list": "books/tamilmann-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/tamilmann-pathippagam"
     },
     {
@@ -3036,7 +3035,7 @@
         "stall_no": [
             "F 15"
         ],
-        "books_list": null,
+        "books_list": "books/tamizhini.json",
         "common_folks": "https://www.commonfolks.in/books/tamizhini"
     },
     {
@@ -3045,7 +3044,7 @@
         "stall_no": [
             "327"
         ],
-        "books_list": null,
+        "books_list": "books/tamilveli.json",
         "common_folks": "https://www.commonfolks.in/books/tamilveli"
     },
     {
@@ -3071,7 +3070,7 @@
         "stall_no": [
             "51"
         ],
-        "books_list": null,
+        "books_list": "books/thadagam-veliyeedu.json",
         "common_folks": "https://www.commonfolks.in/books/thadagam-veliyeedu"
     },
     {
@@ -3080,7 +3079,7 @@
         "stall_no": [
             "586"
         ],
-        "books_list": null,
+        "books_list": "books/thadam-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/thadam-pathippagam"
     },
     {
@@ -3089,7 +3088,7 @@
         "stall_no": [
             "69-70"
         ],
-        "books_list": null,
+        "books_list": "books/thazhal-veliyeedu.json",
         "common_folks": "https://www.commonfolks.in/books/thazhal-veliyeedu"
     },
     {
@@ -3114,7 +3113,7 @@
         "stall_no": [
             "656"
         ],
-        "books_list": null,
+        "books_list": "books/tamizhi.json",
         "common_folks": "https://www.commonfolks.in/books/tamizhi"
     },
     {
@@ -3131,7 +3130,7 @@
         "stall_no": [
             "464"
         ],
-        "books_list": null,
+        "books_list": "books/thanga-thamarai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/thanga-thamarai-pathippagam"
     },
     {
@@ -3141,7 +3140,7 @@
             "473",
             "474"
         ],
-        "books_list": null,
+        "books_list": "books/thazhaiyan-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/thazhaiyan-pathippagam"
     },
     {
@@ -3232,7 +3231,7 @@
             "109",
             "110"
         ],
-        "books_list": null,
+        "books_list": "books/thirumagal-nilaiyam.json",
         "common_folks": "https://www.commonfolks.in/books/thirumagal-nilaiyam"
     },
     {
@@ -3241,7 +3240,7 @@
         "stall_no": [
             "430-431"
         ],
-        "books_list": null,
+        "books_list": "books/thirumalai.json",
         "common_folks": "https://www.commonfolks.in/books/thirumalai"
     },
     {
@@ -3250,7 +3249,7 @@
         "stall_no": [
             "537"
         ],
-        "books_list": null,
+        "books_list": "books/thozhamai-veliyeedu.json",
         "common_folks": "https://www.commonfolks.in/books/thozhamai-veliyeedu"
     },
     {
@@ -3299,7 +3298,7 @@
         "stall_no": [
             "12"
         ],
-        "books_list": null,
+        "books_list": "books/tulika-publishers.json",
         "common_folks": "https://www.commonfolks.in/books/tulika-publishers"
     },
     {
@@ -3317,7 +3316,7 @@
             "24",
             "25"
         ],
-        "books_list": null,
+        "books_list": "books/ulaga-tamil-aaraichi-niruvanam.json",
         "common_folks": "https://www.commonfolks.in/books/ulaga-tamil-aaraichi-niruvanam"
     },
     {
@@ -3350,7 +3349,7 @@
         "stall_no": [
             "637-638"
         ],
-        "books_list": null,
+        "books_list": "books/universal-publishers.json",
         "common_folks": "https://www.commonfolks.in/books/universal-publishers"
     },
     {
@@ -3383,7 +3382,7 @@
         "stall_no": [
             "F 9"
         ],
-        "books_list": null,
+        "books_list": "books/uyirmmai-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/uyirmmai-pathippagam"
     },
     {
@@ -3461,7 +3460,7 @@
             "179",
             "180"
         ],
-        "books_list": null,
+        "books_list": "books/vamsi-books.json",
         "common_folks": "https://www.commonfolks.in/books/vamsi-books"
     },
     {
@@ -3471,7 +3470,7 @@
             "26",
             "27"
         ],
-        "books_list": null,
+        "books_list": "books/vanathi-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/vanathi-pathippagam"
     },
     {
@@ -3496,7 +3495,7 @@
         "stall_no": [
             "558"
         ],
-        "books_list": null,
+        "books_list": "books/vasagasalai.json",
         "common_folks": "https://www.commonfolks.in/books/vasagasalai"
     },
     {
@@ -3531,7 +3530,7 @@
             "95",
             "96"
         ],
-        "books_list": null,
+        "books_list": "books/vasantha-pathippagam.json",
         "common_folks": "https://www.commonfolks.in/books/vetrimozhi-veliyeettagam"
     },
     {
@@ -3557,10 +3556,8 @@
         "stall_no": [
             "601-602"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/vidiyal",
-        "address": "60, Varadharaja Puram Main Rd, Periyar Nagar, Balan Nagar, Coimbatore, Tamil Nadu 641015",
-        "mapUrl": "https://goo.gl/maps/yGGoY2MqmJ5ZmS4x5"
+        "books_list": "books/vidiyal.json",
+        "common_folks": "https://www.commonfolks.in/books/vidiyal"
     },
     {
         "id": 441,
@@ -3584,11 +3581,8 @@
         "stall_no": [
             "401-402"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/vijaya-pathippagam",
-        "address": "New Bus Stand, Thiruchengode, Tamil Nadu 637408",
-        "phone": "04288252614",
-        "mapUrl": "https://goo.gl/maps/feTYmdUqhBgCZTrP9"
+        "books_list": "books/vijaya-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/vijaya-pathippagam"
     },
     {
         "id": 444,
@@ -3637,7 +3631,7 @@
         "stall_no": [
             "395-396"
         ],
-        "books_list": null,
+        "books_list": "books/virutcham.json",
         "common_folks": "https://www.commonfolks.in/books/virutcham"
     },
     {
@@ -3646,7 +3640,7 @@
         "stall_no": [
             "175-176"
         ],
-        "books_list": null,
+        "books_list": "books/visa-publications.json",
         "common_folks": "https://www.commonfolks.in/books/visa-publications"
     },
     {
@@ -3656,7 +3650,7 @@
             "115",
             "116"
         ],
-        "books_list": null,
+        "books_list": "books/vishnupuram-publications.json",
         "common_folks": "https://www.commonfolks.in/books/vishnupuram-publications"
     },
     {
@@ -3681,7 +3675,7 @@
         "stall_no": [
             "F 35"
         ],
-        "books_list": null,
+        "books_list": "books/voc-noolagam.json",
         "common_folks": "https://www.commonfolks.in/books/voc-noolagam"
     },
     {
@@ -3716,11 +3710,8 @@
             "214",
             "215"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/yaavarum-publishers",
-        "address": "Bus stop, SGP Naidu Complex, Velachery Main Rd, Dhandeeswaram Nagar, opppsite, Velachery, Chennai, Tamil Nadu 600042",
-        "phone": "09042461472",
-        "mapUrl": "https://goo.gl/maps/joBgNSeAQXnw9MXP9"
+        "books_list": "books/yaavarum-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/yaavarum-publishers"
     },
     {
         "id": 459,
@@ -3728,10 +3719,8 @@
         "stall_no": [
             "F 11"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/yegam-pathippagam",
-        "address": "First Floor, No. 3, Pillaiyar Koil Street, 2nd Ln, Triplicane, Chennai, Tamil Nadu 600005",
-        "mapUrl": "https://goo.gl/maps/xNirStsPhfkscaXD7"
+        "books_list": "books/yegam-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/yegam-pathippagam"
     },
     {
         "id": 460,
@@ -3756,10 +3745,7 @@
         "stall_no": [
             "F 19"
         ],
-        "books_list": null,
-        "common_folks": "https://www.commonfolks.in/books/zero-degree-publishing",
-        "address": "I Floor, JMB motorcycles 55(7) , R Block, 6th Ave, Anna Nagar West, Chennai, Tamil Nadu 600040",
-        "phone": "08925061999",
-        "mapUrl": "https://goo.gl/maps/qYfe5f7wnaRnJk148"
+        "books_list": "books/zero-degree-publishing.json",
+        "common_folks": "https://www.commonfolks.in/books/zero-degree-publishing"
     }
 ]
