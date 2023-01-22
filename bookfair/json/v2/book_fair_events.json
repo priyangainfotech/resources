@@ -39,7 +39,7 @@
       "map": "https://goo.gl/maps/WvXcCfBCynbtV7LP7",
       "start_date": "25-02-2023",
       "end_date": "06-03-2023",
-      "images": ["https://www.nbtindia.gov.in/ndwbf2023/assetsndwbf2023/images/banner-1.jpg"],
+      "images": ["https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/delhi-2023/banner-1.jpg"],
       "book_list": "fairs/new_delhi_2023.json"
     }
   ]
