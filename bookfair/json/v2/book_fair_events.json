@@ -14,7 +14,8 @@
         "https://bapasi.com/wp-content/uploads/2018/01/IMG_9341.jpg"
       ],
       "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2023.jpg",
-      "book_list": "fairs/chennai_books.json"
+      "book_list": "fairs/chennai_fair.json",
+      "books": "books/whole_books_chennai.json"
     },
     {
       "title": "Kolkata Book Fair 2023",
