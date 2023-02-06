@@ -1,1 +1,2403 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "365 DIN Prakashan Pvt Ltd",
+    "stall_no": [
+      "303"
+    ],
+    "books_list": null
+  },
+  {
+  "id": 2,
+  "name": "Aajkaal Publishers",
+  "stall_no": [
+    "279"
+  ],
+  "books_list": null
+ },
+  {
+    "id": 3,
+    "name": "Ababhash",
+    "stall_no": [
+      "115"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 4,
+    "name": "Abhijan Publishers",
+    "stall_no": [
+      "394"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 5,
+    "name": "Academic Associaion",
+    "stall_no": [
+      "528"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 6,
+    "name": "Adam",
+    "stall_no": [
+      "108"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 7,
+    "name": "Adi Mullick brothers",
+    "stall_no": [
+      "444"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 8,
+    "name": "Adrish publication",
+    "stall_no": [
+      "341"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 9,
+    "name": "advaita Ashrama",
+    "stall_no": [
+      "199"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 10,
+    "name": "Ahmadiyya muslim jamaat",
+    "stall_no": [
+      "414"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 11,
+    "name": "Akhon Aranyak",
+    "stall_no": [
+      "206"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 12,
+    "name": "Akshar Prakasani",
+    "stall_no": [
+      "235"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 13,
+    "name": "Akshar Publications",
+    "stall_no": [
+      "256"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 14,
+    "name": "Akshar Sanglap Prakashan",
+    "stall_no": [
+      "157"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 15,
+    "name": "Alakananda Publishan",
+    "stall_no": [
+      "329"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 16,
+    "name": "Alpana",
+    "stall_no": [
+      "238"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 17,
+    "name": "Amar Bharati",
+    "stall_no": [
+      "174"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 18,
+    "name": "Anand Prakashan",
+    "stall_no": [
+      "257"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 19,
+    "name": "Ananda Marga Publications",
+    "stall_no": [
+      "196"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 20,
+    "name": "Ananda prakashan",
+    "stall_no": [
+      "499"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 21,
+    "name": "Ananda publishers",
+    "stall_no": [
+      "184"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 22,
+    "name": "Anima Prashani ",
+    "stall_no": [
+      "132"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 23,
+    "name": "Anjali Prokashani",
+    "stall_no": [
+      "323"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 24,
+    "name": "Annapurna Prakashani",
+    "stall_no": [
+      "153"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 25,
+    "name": "Annopurna Pustakalay",
+    "stall_no": [
+      "109"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 26,
+    "name": "Anthropological Suravey of India",
+    "stall_no": [
+      "204"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 27,
+    "name": "Anustup",
+    "stall_no": [
+      "248"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 28,
+    "name": "Anwesha",
+    "stall_no": [
+      "420"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 29,
+    "name": "Aponzone",
+    "stall_no": [
+      "508"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 30,
+    "name": "App",
+    "stall_no": [
+      "162"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 31,
+    "name": "Aranyamon prokashoni",
+    "stall_no": [
+      "443"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 32,
+    "name": "Achaeological Survey of India ",
+    "stall_no": [
+      "344"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 33,
+    "name": "Artists forum of Bengal",
+    "stall_no": [
+      "569"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 34,
+    "name": "Aruna Prakashan",
+    "stall_no": [
+      "230"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 35,
+    "name": "Ashabari publication & Depository",
+    "stall_no": [
+      "135"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 36,
+    "name": "Ashadeep ",
+    "stall_no": [
+      "515"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 37,
+    "name": "Asia Publishing Company",
+    "stall_no": [
+      "502"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 38,
+    "name": "Asian Publition",
+    "stall_no": [
+      "406"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 39,
+    "name": "Asitic Society Ehibition Stall",
+    "stall_no": [
+      "101B"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 40,
+    "name": "Association for Protection of Democratic Rights (APDR)",
+    "stall_no": [
+      "133"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 41,
+    "name": "Atmajaa Publishers",
+    "stall_no": [
+      "396"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 42,
+    "name": "Aurabee",
+    "stall_no": [
+      "218"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 43,
+    "name": "Ayachak Ashrama",
+    "stall_no": [
+      "292"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 44,
+    "name": "B.B Kundu Grandsons",
+    "stall_no": [
+      "364"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 45,
+    "name": "Baibhab",
+    "stall_no": [
+      "274"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 46,
+    "name": "Bangabani",
+    "stall_no": [
+      "307"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 47,
+    "name": "Bangiya Bijnan Parisad",
+    "stall_no": [
+      "126"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 48,
+    "name": "Bangiya Sahitya parisad",
+    "stall_no": [
+      "111"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 49,
+    "name": "Bangiya Sahitya parisad",
+    "stall_no": [
+      "219"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 50,
+    "name": "Bangia Sangeet Parishad",
+    "stall_no": [
+      "354"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 51,
+    "name": "Bangla Pokkho",
+    "stall_no": [
+      "154"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 52,
+    "name": "Banla Street",
+    "stall_no": [
+      "537"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 53,
+    "name": "Banglar Mukh Prakashan",
+    "stall_no": [
+      "475"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 54,
+    "name": "Banishilpa",
+    "stall_no": [
+      "413"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 55,
+    "name": "Bankim Book stail",
+    "stall_no": [
+      "114"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 56,
+    "name": "Bankima Bahavan Gaveshanakendra",
+    "stall_no": [
+      "389"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 57,
+    "name": "Bannyapran ",
+    "stall_no": [
+      "407"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 58,
+    "name": "Barahanagar Darpan",
+    "stall_no": [
+      "310"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 59,
+    "name": "Barta Prakashan ",
+    "stall_no": [
+      "519"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 60,
+    "name": "Basak Book Store Pvt.Ltd",
+    "stall_no": [
+      "148"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 61,
+    "name": "Basantapur Education Society",
+    "stall_no": [
+      "281"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 62,
+    "name": "Basu Book Stall",
+    "stall_no": [
+      "385"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 63,
+    "name": "Bengalee Association Bihar",
+    "stall_no": [
+      "555"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 64,
+    "name": "Best Books ",
+    "stall_no": [
+      "221"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 65,
+    "name": "Babiswat ",
+    "stall_no": [
+      "423"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 66,
+    "name": "Bhaktivedanta Institute",
+    "stall_no": [
+      "373"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 67,
+    "name": "Bharat Sevasharam sangha",
+    "stall_no": [
+      "530"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 68,
+    "name": "Bharatiya Janbarta",
+    "stall_no": [
+      "449"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 69,
+    "name": "Bhasa O Sahitya",
+    "stall_no": [
+      "351"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 70,
+    "name": "Bhasabandhan",
+    "stall_no": [
+      "529"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 71,
+    "name": "Bhasha Samsad",
+    "stall_no": [
+      "470"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 72,
+    "name": "Bholantha Prakasani",
+    "stall_no": [
+      "287"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 73,
+    "name": "Bidhan Shishu Udayan ",
+    "stall_no": [
+      "102"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 74,
+    "name": "Bidhannagar Municipal Corporation",
+    "stall_no": [
+      "342B"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 75,
+    "name": "Bijalpo",
+    "stall_no": [
+      "263"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 76,
+    "name": "Bijnapan parba",
+    "stall_no": [
+      "223"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 77,
+    "name": "Bingsha Shatabdi",
+    "stall_no": [
+      "437"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 78,
+    "name": "Biswa Bangiy Prakashan",
+    "stall_no": [
+      "445"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 79,
+    "name": "Biswabani prakashani",
+    "stall_no": [
+      "512"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 80,
+    "name": "Biva Puliction",
+    "stall_no": [
+      "375"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 81,
+    "name": "Bodhi Tree Foundation",
+    "stall_no": [
+      "347"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 82,
+    "name": "Bodhisattva",
+    "stall_no": [
+      "265"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 83,
+    "name": "Boi Terminus",
+    "stall_no": [
+      "511"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 84,
+    "name": "Boibhashik Prokashobi",
+    "stall_no": [
+      "392"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 85,
+    "name": "Boichitra",
+    "stall_no": [
+      "122"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 86,
+    "name": "Boichoi Publication",
+    "stall_no": [
+      "461"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 87,
+    "name": "Boikarigar",
+    "stall_no": [
+      "171"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 88,
+    "name": "Boiwala Book Cafe",
+    "stall_no": [
+      "534"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 89,
+    "name": "Book Farm ",
+    "stall_no": [
+      "155"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 90,
+    "name": "Books And tea",
+    "stall_no": [
+      "241"
+    ],
+    "books_list": null
+  },
+  {
+    "id":91 ,
+    "name": "Books Space",
+    "stall_no": [
+      "103"
+    ],
+    "books_list": null
+  },
+  {
+    "id":92 ,
+    "name": "Bulbul Prakasani",
+    "stall_no": [
+      "547"
+    ],
+    "books_list": null
+  },
+  {
+    "id":93 ,
+    "name": "calcutta Astrological research Centre",
+    "stall_no": [
+      "550"
+    ],
+    "books_list": null
+  },
+  {
+    "id":94 ,
+    "name": "Calcutta Journalst Club",
+    "stall_no": [
+      "195"
+    ],
+    "books_list": null
+  },
+  {
+    "id":95 ,
+    "name": "Calcutta University",
+    "stall_no": [
+      "195"
+    ],
+    "books_list": null
+  },
+  {
+    "id":96 ,
+    "name": " chalo Jai",
+    "stall_no": [
+      "169"
+    ],
+    "books_list": null
+  },
+  {
+    "id":97,
+    "name": "Charupatra Prakashani",
+    "stall_no": [
+      "563"
+    ],
+    "books_list": null
+  },
+  {
+    "id":98 ,
+    "name": "Chatterjee Book stall",
+    "stall_no": [
+      "24B"
+    ],
+    "books_list": null
+  },
+  {
+    "id":99 ,
+    "name": "Chhatrasangram",
+    "stall_no": [
+      "516"
+    ],
+    "books_list": null
+  },
+  {
+    "id":100 ,
+    "name": "chhaya Publication",
+    "stall_no": [
+      "434"
+    ],
+    "books_list": null
+  },
+  {
+    "id":101 ,
+    "name": "Chhonya",
+    "stall_no": [
+      "536"
+    ],
+    "books_list": null
+  },
+  {
+    "id":102,
+    "name": "Chhotoder kochipata",
+    "stall_no": [
+      "163"
+    ],
+    "books_list": null
+  },
+  {
+    "id":103 ,
+    "name": "Chinta",
+    "stall_no": [
+      "457"
+    ],
+    "books_list": null
+  },
+  {
+    "id":104 ,
+    "name": "Chitalekha",
+    "stall_no": [
+      "272"
+    ],
+    "books_list": null
+  },
+  {
+    "id":105 ,
+    "name": "Cine Central Calcutta",
+    "stall_no": [
+      "284"
+    ],
+    "books_list": null
+  },
+    {
+    "id":106 ,
+    "name": "Classic Book Store",
+    "stall_no": [
+      "429"
+    ],
+    "books_list": null
+  },
+  {
+    "id":107 ,
+    "name": "Coffee Houser Charpashe",
+    "stall_no": [
+      "363"
+    ],
+    "books_list": null
+  },
+  {
+    "id":108 ,
+    "name": "Cognition Publications",
+    "stall_no": [
+      "142"
+    ],
+    "books_list": null
+  },
+  {
+    "id":109 ,
+    "name": "Comics Metro",
+    "stall_no": [
+      "566"
+    ],
+    "books_list": null
+  },
+  {
+    "id":110 ,
+    "name": "Congress Barta",
+    "stall_no": [
+      "561"
+    ],
+    "books_list": null
+  },
+  {
+    "id":111 ,
+    "name": "Corpus Research Institute",
+    "stall_no": [
+      "533"
+    ],
+    "books_list": null
+  },
+  {
+    "id":112 ,
+    "name": "D.M Library",
+    "stall_no": [
+      "286"
+    ],
+    "books_list": null
+  },
+  {
+    "id":113,
+    "name": "Daksha Bharati",
+    "stall_no": [
+      "491"
+    ],
+    "books_list": null
+  },
+  {
+    "id":114 ,
+    "name": "Darabar Jayga",
+    "stall_no": [
+      "466"
+    ],
+    "books_list": null
+  },
+  {
+    "id":115 ,
+    "name": "Deep Prakashan",
+    "stall_no": [
+      "468"
+    ],
+    "books_list": null
+  },
+  {
+    "id":116 ,
+    "name": "Desh Prakashan",
+    "stall_no": [
+      "337"
+    ],
+    "books_list": null
+  },
+  {
+    "id":117 ,
+    "name": "Dev Sahitya Kutira Pvt.Lid",
+    "stall_no": [
+      "353"
+    ],
+    "books_list": null
+  },
+  {
+    "id":118 ,
+    "name": "Dev Sahitya Parishad",
+    "stall_no": [
+      "331"
+    ],
+    "books_list": null
+  },
+  {
+    "id":119 ,
+    "name": "Dey Pulications",
+    "stall_no": [
+      "189"
+    ],
+    "books_list": null
+  },
+  {
+    "id":120 ,
+    "name": "Dey's Publishig",
+    "stall_no": [
+      "306"
+    ],
+    "books_list": null
+  },
+  {
+    "id":121 ,
+    "name": "Dhansere",
+    "stall_no": [
+      "215"
+    ],
+    "books_list": null
+  },
+  {
+    "id":122 ,
+    "name": "Dhren Bal Pustakalaya",
+    "stall_no": [
+      "412"
+    ],
+    "books_list": null
+  },
+  {
+    "id":123 ,
+    "name": "Dhyanvindu",
+    "stall_no": [
+      "548"
+    ],
+    "books_list": null
+  }
+,
+  {
+    "id":124 ,
+    "name": "Diya Publiction",
+    "stall_no": [
+      "144"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 125,
+    "name": "Doshor Publiction",
+    "stall_no": [
+      "166"
+    ],
+    "books_list": null
+  },
+  {
+    "id":126 ,
+    "name": "Dure Kothao",
+    "stall_no": [
+      "469"
+    ],
+    "books_list": null
+  },
+  {
+    "id":127 ,
+    "name": "Eai Sahasradhara",
+    "stall_no": [
+      "551"
+    ],
+    "books_list": null
+  },
+  {
+    "id":128 ,
+    "name": "Eband Mushayera",
+    "stall_no": [
+      "431"
+    ],
+    "books_list": null
+  },
+  {
+    "id":129 ,
+    "name": "Educare Publishing",
+    "stall_no": [
+      "187"
+    ],
+    "books_list": null
+  },
+  {
+    "id":130 ,
+    "name": "Education Forum",
+    "stall_no": [
+      "228"
+    ],
+    "books_list": null
+  },
+  {
+    "id":131 ,
+    "name": "Ekhan Bi-Sangbad",
+    "stall_no": [
+      "352"
+    ],
+    "books_list": null
+  },
+  {
+    "id":132 ,
+    "name": "Ekhon Duars + Rong Route Holidayaar",
+    "stall_no": [
+      "513"
+    ],
+    "books_list": null
+  },
+  {
+    "id":133 ,
+    "name": "Ekush Shatak",
+    "stall_no": [
+      "315"
+    ],
+    "books_list": null
+  },
+  {
+    "id":134 ,
+    "name": "Family Book Shop",
+    "stall_no": [
+      "183"
+    ],
+    "books_list": null
+  },
+  {
+    "id":135 ,
+    "name": "firam (P).Ltd",
+    "stall_no": [
+      "217"
+    ],
+    "books_list": null
+  },
+  {
+    "id":136 ,
+    "name": "Ganadbi Printers And Pinlishers Pvt.Ltd",
+    "stall_no": [
+      "369"
+    ],
+    "books_list": null
+  },
+  {
+    "id":137 ,
+    "name": "Ganashakti",
+    "stall_no": [
+      "200"
+    ],
+    "books_list": null
+  },
+  {
+    "id":138 ,
+    "name": "Ganer Sargam",
+    "stall_no": [
+      "107"
+    ],
+    "books_list": null
+  },
+  {
+    "id":139 ,
+    "name": "Gangchil",
+    "stall_no": [
+      "562"
+    ],
+    "books_list": null
+  },
+  {
+    "id":140 ,
+    "name": "Gargi",
+    "stall_no": [
+      "319"
+    ],
+    "books_list": null
+  },
+  {
+    "id":141 ,
+    "name": "Gaudiya Mission",
+    "stall_no": [
+      "282"
+    ],
+    "books_list": null
+  },
+  {
+    "id":142 ,
+    "name": "Geetanjali",
+    "stall_no": [
+      "121"
+    ],
+    "books_list": null
+  },
+  {
+    "id":143 ,
+    "name": "Girija Library",
+    "stall_no": [
+      "498"
+    ],
+    "books_list": null
+  },
+  {
+    "id":144 ,
+    "name": "Gita Press",
+    "stall_no": [
+      "197"
+    ],
+    "books_list": null
+  },
+  {
+    "id":145 ,
+    "name": "Greymind Publiction",
+    "stall_no": [
+      "290"
+    ],
+    "books_list": null
+  },
+  {
+    "id":146 ,
+    "name": "Guruchandali",
+    "stall_no": [
+      "507"
+    ],
+    "books_list": null
+  },
+  {
+    "id":147 ,
+    "name": "Gyan Bharati Prakashan",
+    "stall_no": [
+      "224"
+    ],
+    "books_list": null
+  },
+  {
+    "id":148 ,
+    "name": "Haraf Prakashani",
+    "stall_no": [
+      "374"
+    ],
+    "books_list": null
+  },
+  {
+    "id":149 ,
+    "name": "Information And Action For Prople's Right (IAPR)",
+    "stall_no": [
+      "159"
+    ],
+    "books_list": null
+  },
+  {
+    "id":150 ,
+    "name": "International Scociety For Krishana Consciousness  (ISKCON)",
+    "stall_no": [
+      "452"
+    ],
+    "books_list": null
+  },
+  {
+    "id":151 ,
+    "name": "Islamic Book Centre",
+    "stall_no": [
+      "430"
+    ],
+    "books_list": null
+  },
+  {
+  "id":152 ,
+  "name": "Islam Book Store",
+  "stall_no": [
+    "440"
+  ],
+  "books_list": null
+ },
+  {
+    "id":153 ,
+    "name": "Itykatha Publication",
+    "stall_no": [
+      "421"
+    ],
+    "books_list": null
+  },
+  {
+    "id":154 ,
+    "name": "J N Chakraborty And Co",
+    "stall_no": [
+      "382"
+    ],
+    "books_list": null
+  },
+  {
+    "id":155 ,
+    "name": "Jadavpur University",
+    "stall_no": [
+      "277"
+    ],
+    "books_list": null
+  },
+  {
+    "id":156 ,
+    "name": "Janaswarthabarata",
+    "stall_no": [
+      "557"
+    ],
+    "books_list": null
+  },
+  {
+    "id":157 ,
+    "name": "Jangal Mahaludyog",
+    "stall_no": [
+      "473"
+    ],
+    "books_list": null
+  },
+  {
+    "id":158 ,
+    "name": "Jara Jajabar",
+    "stall_no": [
+      "105"
+    ],
+    "books_list": null
+  },
+  {
+    "id":159 ,
+    "name": "Jnan Bichitra",
+    "stall_no": [
+      "118"
+    ],
+    "books_list": null
+  },
+  {
+    "id":160 ,
+    "name": "Jnanbarta Foundation",
+    "stall_no": [
+      "452"
+    ],
+    "books_list": null
+  },
+  {
+    "id":161 ,
+    "name": "Joydhak Prakahan",
+    "stall_no": [
+      "147"
+    ],
+    "books_list": null
+  },
+  {
+    "id":162 ,
+    "name": "Jubashakti Prakashani",
+    "stall_no": [
+      "359"
+    ],
+    "books_list": null
+  },
+  {
+    "id":163 ,
+    "name": "Juthika Book Stall",
+    "stall_no": [
+      "518"
+    ],
+    "books_list": null
+  },
+  {
+    "id":164 ,
+    "name": "Kabita Ashram prakashan",
+    "stall_no": [
+      "252"
+    ],
+    "books_list": null
+  },
+  {
+    "id":165 ,
+    "name": "kabita pakshik",
+    "stall_no": [
+      "527"
+    ],
+    "books_list": null
+  },
+  {
+    "id":166 ,
+    "name": "Kabitirtha",
+    "stall_no": [
+      "321"
+    ],
+    "books_list": null
+  },
+  {
+    "id":167 ,
+    "name": "Kalabhrit Publishers",
+    "stall_no": [
+      "242"
+    ],
+    "books_list": null
+  },
+  {
+    "id":168 ,
+    "name": "Kalimata pustakalayam",
+    "stall_no": [
+      "453"
+    ],
+    "books_list": null
+  },
+  {
+    "id":169 ,
+    "name": "Kalpataru jagaran Sangha",
+    "stall_no": [
+      "427"
+    ],
+    "books_list": null
+  },
+  {
+    "id":170 ,
+    "name": "Kamalini Prakashan Bibhag",
+    "stall_no": [
+      "293"
+    ],
+    "books_list": null
+  },
+  {
+    "id":171 ,
+    "name": "Kanan Parakashani",
+    "stall_no": [
+      "247"
+    ],
+    "books_list": null
+  },
+  {
+    "id":172 ,
+    "name": "Karigar",
+    "stall_no": [
+      "348"
+    ],
+    "books_list": null
+  },
+  {
+    "id":173 ,
+    "name": "Karukatha",
+    "stall_no": [
+      "506"
+    ],
+    "books_list": null
+  },
+  {
+    "id":174 ,
+    "name": "Karuna Prakashani",
+    "stall_no": [
+      "182"
+    ],
+    "books_list": null
+  },
+  {
+    "id":175 ,
+    "name": "Kathia Babar ashram",
+    "stall_no": [
+      "139"
+    ],
+    "books_list": null
+  },
+  {
+    "id":176 ,
+    "name": "Kathopkathan productions",
+    "stall_no": [
+      "524"
+    ],
+    "books_list": null
+  },
+  {
+    "id":177 ,
+    "name": "Kaurab Prakashani",
+    "stall_no": [
+      "471"
+    ],
+    "books_list": null
+  },
+  {
+    "id":178 ,
+    "name": "Khoal Publishing House",
+    "stall_no": [
+      "319"
+    ],
+    "books_list": null
+  },
+  {
+    "id":179 ,
+    "name": "Khori",
+    "stall_no": [
+      "504"
+    ],
+    "books_list": null
+  },
+  {
+    "id":180 ,
+    "name": "Khosrakhata",
+    "stall_no": [
+      "275"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 181 ,
+    "name": "Khowabnama",
+    "stall_no": [
+      "447"
+    ],
+    "books_list": null
+  },
+  {
+    "id":182 ,
+    "name": "Kishaloy Prakashan",
+    "stall_no": [
+      "120"
+    ],
+    "books_list": null
+  },
+  {
+    "id":183 ,
+    "name": "Kolkata Letterpress",
+    "stall_no": [
+      "237"
+    ],
+    "books_list": null
+  },
+  {
+    "id":184 ,
+    "name": "KolkataMetropolitan Development",
+    "stall_no": [
+      "348A"
+    ],
+    "books_list": null
+  },
+  {
+    "id":185 ,
+    "name": "Kolkata Shabadharin",
+    "stall_no": [
+      "379"
+    ],
+    "books_list": null
+  },
+  {
+    "id":186 ,
+    "name": "Korok",
+    "stall_no": [
+      "134"
+    ],
+    "books_list": null
+  },
+  {
+    "id":187 ,
+    "name": "Kubopakhi Prakashan",
+    "stall_no": [
+      "510"
+    ],
+    "books_list": null
+  },
+  {
+    "id":188 ,
+    "name": "Kulish",
+    "stall_no": [
+      "360"
+    ],
+    "books_list": null
+  },
+  {
+    "id":189 ,
+    "name": "Lalmati Prakashan",
+    "stall_no": [
+      "498"
+    ],
+    "books_list": null
+  },
+  {
+    "id":190 ,
+    "name": "Lekhar Kali",
+    "stall_no": [
+      "540"
+    ],
+    "books_list": null
+  },
+  {
+    "id":191 ,
+    "name": "Liber Fieri",
+    "stall_no": [
+      "474"
+    ],
+    "books_list": null
+  },
+  {
+    "id":192 ,
+    "name": "Limeric Lovers Publishers",
+    "stall_no": [
+      "146"
+    ],
+    "books_list": null
+  },
+  {
+    "id":193 ,
+    "name": "Lokenath Divine Life Missions",
+    "stall_no": [
+      "410"
+    ],
+    "books_list": null
+  },
+  {
+    "id":194 ,
+    "name": "Lokmat Prakashani",
+    "stall_no": [
+      "526"
+    ],
+    "books_list": null
+  },
+  {
+    "id":195 ,
+    "name": "Lyriqal Books ",
+    "stall_no": [
+      "251"
+    ],
+    "books_list": null
+  },
+  {
+    "id":196 ,
+    "name": "M.C> Sarkar & Sons Pvt.Ltd",
+    "stall_no": [
+      "240"
+    ],
+    "books_list": null
+  },
+  {
+    "id":197 ,
+    "name": "Madhusudan Book Stall",
+    "stall_no": [
+      "372"
+    ],
+    "books_list": null
+  },
+  {
+    "id":198 ,
+    "name": "Mahua Prokashoni",
+    "stall_no": [
+      "269"
+    ],
+    "books_list": null
+  },
+  {
+    "id":199 ,
+    "name": "Mahuya Publishers",
+    "stall_no": [
+      "439"
+    ],
+    "books_list": null
+  },
+  {
+    "id":200 ,
+    "name": "Mainstream Publication ",
+    "stall_no": [
+      "356"
+    ],
+    "books_list": null
+  },
+  {
+    "id":201 ,
+    "name": "Maity Book House",
+    "stall_no": [
+      "425"
+    ],
+    "books_list": null
+  },
+  {
+    "id":202 ,
+    "name": "Manisha Granthalaya Pvt.Ltd",
+    "stall_no": [
+      "260"
+    ],
+    "books_list": null
+  },
+  {
+    "id":203 ,
+    "name": "Manna Publication",
+    "stall_no": [
+      "211"
+    ],
+    "books_list": null
+  },
+  {
+    "id":204 ,
+    "name": "Mansi Publishing House",
+    "stall_no": [
+      "266"
+    ],
+    "books_list": null
+  },
+  {
+    "id":205 ,
+    "name": "Mariya Book Palace",
+    "stall_no": [
+      "568"
+    ],
+    "books_list": null
+  },
+  {
+    "id":206 ,
+    "name": "mass Education",
+    "stall_no": [
+      "355"
+    ],
+    "books_list": null
+  },
+  {
+    "id":207 ,
+    "name": "Mehanati Prakashani",
+    "stall_no": [
+      "225"
+    ],
+    "books_list": null
+  },
+  {
+    "id":208 ,
+    "name": "Mita Books",
+    "stall_no": [
+      "448"
+    ],
+    "books_list": null
+  },
+  {
+    "id":209 ,
+    "name": "Mitra & Ghosh Publishers Pvt.Ltd",
+    "stall_no": [
+      "333"
+    ],
+    "books_list": null
+  },
+  {
+    "id":210 ,
+    "name": "Modren Homeopthic Punlications",
+    "stall_no": [
+      "460"
+    ],
+    "books_list": null
+  },
+  {
+    "id":211 ,
+    "name": "Mondal Book Stall",
+    "stall_no": [
+      "409"
+    ],
+    "books_list": null
+  },
+  {
+    "id":212 ,
+    "name": "Monfakira ",
+    "stall_no": [
+      "167"
+    ],
+    "books_list": null
+  },
+  {
+    "id":213 ,
+    "name": "Moulik Library ",
+    "stall_no": [
+      "249"
+    ],
+    "books_list": null
+  },
+  {
+    "id":214 ,
+    "name": "Mousumi Prokashani",
+    "stall_no": [
+      "244"
+    ],
+    "books_list": null
+  },
+  {
+    "id":215 ,
+    "name": "Muktachinta Publication",
+    "stall_no": [
+      "522"
+    ],
+    "books_list": null
+  },
+  {
+    "id":216 ,
+    "name": "Mullick Brothers",
+    "stall_no": [
+      "366"
+    ],
+    "books_list": null
+  },
+  {
+    "id":217 ,
+    "name": "N.E. Publishers",
+    "stall_no": [
+      "343"
+    ],
+    "books_list": null
+  },
+  {
+    "id": 218,
+    "name": "Nabadiganta Prakashani",
+    "stall_no": [
+      "130"
+    ],
+    "books_list": null
+  },
+  {
+    "id":219 ,
+    "name": "nabajatak  Prakashani",
+    "stall_no": [
+      "433"
+    ],
+    "books_list": null
+  },
+  {
+    "id":220 ,
+    "name": "Nabapatra Prakashan",
+    "stall_no": [
+      "149"
+    ],
+    "books_list": null
+  },
+  {
+    "id":221 ,
+    "name": "Nagarik Mancha",
+    "stall_no": [
+      "367"
+    ],
+    "books_list": null
+  },
+  {
+    "id":222 ,
+    "name": "Nairit Prakashan",
+    "stall_no": [
+      "419"
+    ],
+    "books_list": null
+  },
+  {
+    "id":223 ,
+    "name": "Nandanik",
+    "stall_no": [
+      "119"
+    ],
+    "books_list": null
+  },
+  {
+    "id":224 ,
+    "name": "Nandimukhsamsad",
+    "stall_no": [
+      "328"
+    ],
+    "books_list": null
+  },
+  {
+    "id":225 ,
+    "name": "Narayan Pustakalaya",
+    "stall_no": [
+      "492"
+    ],
+    "books_list": null
+  },
+  {
+    "id":226 ,
+    "name": "Nath Publishing",
+    "stall_no": [
+      "324"
+    ],
+    "books_list": null
+  },
+  {
+    "id":227 ,
+    "name": "National Atlas And TheMatic Mapping Organisttion",
+    "stall_no": [
+      "334"
+    ],
+    "books_list": null
+  },
+  {
+    "id":228 ,
+    "name": "NationalBook Agency Pvt.Ltd",
+    "stall_no": [
+      "116"
+    ],
+    "books_list": null
+  },
+  {
+    "id":229 ,
+    "name": "National Book Trust,India",
+    "stall_no": [
+      "441"
+    ],
+    "books_list": null
+  },
+  {
+    "id":230 ,
+    "name": "National Council Of Educaional Research And Training (NCERT)",
+    "stall_no": [
+      "482"
+    ],
+    "books_list": null
+  },
+  {
+    "id":231 ,
+    "name": "Natun Kabita",
+    "stall_no": [
+      "164"
+    ],
+    "books_list": null
+  },
+  {
+    "id":232 ,
+    "name": "Natunpath Prakashani",
+    "stall_no": [
+      "220"
+    ],
+    "books_list": null
+  },
+  {
+    "id":233 ,
+    "name": "Natre Mates Nature Club",
+    "stall_no": [
+      "489"
+    ],
+    "books_list": null
+  },
+  {
+    "id":234 ,
+    "name": "Naturism",
+    "stall_no": [
+      "299"
+    ],
+    "books_list": null
+  },
+  {
+    "id":235 ,
+    "name": "Natyachinta Foundation",
+    "stall_no": [
+      "520"
+    ],
+    "books_list": null
+  },
+  {
+    "id":236 ,
+    "name": "Naya Udyog",
+    "stall_no": [
+      "198"
+    ],
+    "books_list": null
+  },
+  {
+    "id":237 ,
+    "name": "New Bharat sahitya kutir",
+    "stall_no": [
+      "361"
+    ],
+    "books_list": null
+  },
+  {
+    "id":238 ,
+    "name": "new Book India",
+    "stall_no": [
+      "546"
+    ],
+    "books_list": null
+  },
+  {
+    "id":239 ,
+    "name": "New Script",
+    "stall_no": [
+      "101"
+    ],
+    "books_list": null
+  },
+  {
+    "id":240 ,
+    "name": "Nikhil Bharat Banga Sahitya Sammelan",
+    "stall_no": [
+      "463"
+    ],
+    "books_list": null
+  },
+  {
+    "id":241 ,
+    "name": "Nirmal Book Agency",
+    "stall_no": [
+      "477"
+    ],
+    "books_list": null
+  },
+  {
+    "id":242 ,
+    "name": "P.M. Bagchi & Co.Pvt.Ltd",
+    "stall_no": [
+      "231"
+    ],
+    "books_list": null
+  },
+  {
+    "id":243 ,
+    "name": "Palok Publishers",
+    "stall_no": [
+      "158"
+    ],
+    "books_list": null
+  },
+  {
+    "id":244 ,
+    "name": "Pandulipi",
+    "stall_no": [
+      "556"
+    ],
+    "books_list": null
+  },
+  {
+    "id":245 ,
+    "name": "Papyrus",
+    "stall_no": [
+      "541"
+    ],
+    "books_list": null
+  },
+  {
+    "id":246 ,
+    "name": "Param Bholanath (Mastermasai) Mahasangha",
+    "stall_no": [
+      "143"
+    ],
+    "books_list": null
+  },
+  {
+    "id":247 ,
+    "name": "Paramananda Mission",
+    "stall_no": [
+      "152"
+    ],
+    "books_list": null
+  },
+  {
+    "id":248 ,
+    "name": "Parampara Prakashan",
+    "stall_no": [
+      "239"
+    ],
+    "books_list": null
+  },
+  {
+    "id":249 ,
+    "name": "Parchment",
+    "stall_no": [
+      "553"
+    ],
+    "books_list": null
+  },
+  {
+    "id":250 ,
+    "name": "Parul Boi",
+    "stall_no": [
+      "229"
+    ],
+    "books_list": null
+  },
+  {
+    "id":251 ,
+    "name": "Parul Prakashani Pvt.Ltd",
+    "stall_no": [
+      "378"
+    ],
+    "books_list": null
+  },
+  {
+    "id":252 ,
+    "name": "Paschimbangaitihas Samsad",
+    "stall_no": [
+      "565"
+    ],
+    "books_list": null
+  },
+  {
+    "id":253 ,
+    "name": "Paschimbanga Rajya Pratibandhi  Sammilani",
+    "stall_no": [
+      "424"
+    ],
+    "books_list": null
+  },
+  {
+    "id":254 ,
+    "name": "Paschimbanga Santali Academy",
+    "stall_no": [
+      "417"
+    ],
+    "books_list": null
+  },
+  {
+    "id":255 ,
+    "name": "Pa",
+    "stall_no": [
+      "208"
+    ],
+    "books_list": null
+  },
+  {
+    "id":256 ,
+    "name": "Patabahar",
+    "stall_no": [
+      "426"
+    ],
+    "books_list": null
+  },
+  {
+    "id":257 ,
+    "name": "Pathachakra",
+    "stall_no": [
+      "161"
+    ],
+    "books_list": null
+  },
+  {
+    "id":258 ,
+    "name": "Pathak",
+    "stall_no": [
+      "552"
+    ],
+    "books_list": null
+  },
+  {
+    "id":259 ,
+    "name": "Patit Paban Publishers + Manoj Book Stall",
+    "stall_no": [
+      "301"
+    ],
+    "books_list": null
+  },
+  {
+    "id":260 ,
+    "name": "Patra Bharati",
+    "stall_no": [
+      "175"
+    ],
+    "books_list": null
+  },
+  {
+    "id":261 ,
+    "name": "Patralekha",
+    "stall_no": [
+      "104"
+    ],
+    "books_list": null
+  },
+  {
+    "id":262 ,
+    "name": "Patra's Piblication",
+    "stall_no": [
+      "416"
+    ],
+    "books_list": null
+  },
+  {
+    "id":263 ,
+    "name": "Pavlov Institute & Hospitals",
+    "stall_no": [
+      "532"
+    ],
+    "books_list": null
+  },
+  {
+    "id":264 ,
+    "name": "People's Book Society",
+    "stall_no": [
+      "313"
+    ],
+    "books_list": null
+  },
+  {
+    "id":265 ,
+    "name": "Personal Wealth Management Solutions Pvt. Ltd",
+    "stall_no": [
+      "572"
+    ],
+    "books_list": null
+  },
+  {
+    "id":266 ,
+    "name": "Photography Charchaa",
+    "stall_no": [
+      "531"
+    ],
+    "books_list": null
+  },
+  {
+  "id":267 ,
+  "name": "Poets Foundation",
+  "stall_no": [
+    "190"
+  ],
+  "books_list": null
+ },
+  {
+    "id":268 ,
+    "name": "Poushali Prakashani",
+    "stall_no": [
+      "192"
+    ],
+    "books_list": null
+  },
+  {
+    "id":269 ,
+    "name": "Prakriti Bhalopahar",
+    "stall_no": [
+      "216"
+    ],
+    "books_list": null
+  },
+  {
+    "id":270 ,
+    "name": "Pratidin Prakashani Pvt.Ltd",
+    "stall_no": [
+      "332"
+    ],
+    "books_list": null
+  },
+  {
+    "id":271 ,
+    "name": "Pratikshan",
+    "stall_no": [
+      "300"
+    ],
+    "books_list": null
+  },
+  {
+    "id":272 ,
+    "name": "Pratishruti And Kalpablswa Publiction",
+    "stall_no": [
+      "207"
+    ],
+    "books_list": null
+  },
+  {
+    "id":273 ,
+    "name": "Pratishruti Prakashan",
+    "stall_no": [
+      "289"
+    ],
+    "books_list": null
+  },
+  {
+    "id":274 ,
+    "name": "Prativash",
+    "stall_no": [
+      "398"
+    ],
+    "books_list": null
+  },
+  {
+    "id":275 ,
+    "name": "Prayag Prakashani",
+    "stall_no": [
+      "462"
+    ],
+    "books_list": null
+  },
+  {
+    "id":276 ,
+    "name": "Press Club, Kolkata",
+    "stall_no": [
+      "446"
+    ],
+    "books_list": null
+  },
+  {
+    "id":277 ,
+    "name": "Print_N-PubliCation",
+    "stall_no": [
+      "422"
+    ],
+    "books_list": null
+  },
+  {
+    "id":278 ,
+    "name": "Priya Book House",
+    "stall_no": [
+      "202"
+    ],
+    "books_list": null
+  },
+  {
+    "id":279 ,
+    "name": "Priyaparam Sree Anujulchandara Charayashram",
+    "stall_no": [
+      "362"
+    ],
+    "books_list": null
+  },
+  {
+    "id":280 ,
+    "name": "Progressive Publishers",
+    "stall_no": [
+      "259"
+    ],
+    "books_list": null
+  },
+  {
+    "id":281 ,
+    "name": "Prova Prakashani",
+    "stall_no": [
+      "405"
+    ],
+    "books_list": null
+  },
+  {
+    "id":282,
+    "name": "Publications Dicision",
+    "stall_no": [
+      "415"
+    ],
+    "books_list": null
+  },
+  {
+    "id":283 ,
+    "name": "Punascha",
+    "stall_no": [
+      "467"
+    ],
+    "books_list": null
+  },
+  {
+    "id":284 ,
+    "name": "Purna Prakashan",
+    "stall_no": [
+      "150"
+    ],
+    "books_list": null
+  },
+  {
+    "id":285 ,
+    "name": "Pustak Bipani",
+    "stall_no": [
+      "128"
+    ],
+    "books_list": null
+  },
+  {
+    "id":286,
+    "name": "Puthupatra (CALCUTTA Pvt.Ltd",
+    "stall_no": [
+      "325"
+    ],
+    "books_list": null
+  },
+  {
+    "id":287 ,
+    "name": "Quark Publishers",
+    "stall_no": [
+      "136"
+    ],
+    "books_list": null
+  },
+  {
+    "id":288 ,
+    "name": "Raa Prakashan OMudaran",
+    "stall_no": [
+      "564"
+    ],
+    "books_list": null
+  },
+  {
+    "id":289 ,
+    "name": "Raban Prakashana",
+    "stall_no": [
+      "270"
+    ],
+    "books_list": null
+  },
+  {
+    "id":290 ,
+    "name": "Rabindra Bharati Socicety",
+    "stall_no": [
+      "127"
+    ],
+    "books_list": null
+  },
+  {
+    "id":291 ,
+    "name": "Rabindra bharati University",
+    "stall_no": [
+      "291"
+    ],
+    "books_list": null
+  },
+  {
+    "id":292,
+    "name": "Rachayita",
+    "stall_no": [
+      "535"
+    ],
+    "books_list": null
+  },
+  {
+    "id":293 ,
+    "name": "Radical Impression",
+    "stall_no": [
+      "497"
+    ],
+    "books_list": null
+  },
+  {
+    "id":294 ,
+    "name": "Rajkamal Prakashan Pvt.Ltd",
+    "stall_no": [
+      "455"
+    ],
+    "books_list": null
+  },
+  {
+    "id":295 ,
+    "name": "Raktakrabee",
+    "stall_no": [
+      "365"
+    ],
+    "books_list": null
+  },
+  {
+    "id":296 ,
+    "name": "Ramakrishna Mathibaghbazar",
+    "stall_no": [
+      "451"
+    ],
+    "books_list": null
+  },
+  {
+    "id":297 ,
+    "name": "Ramakrishna Mission Ashrama",
+    "stall_no": [
+      "383"
+    ],
+    "books_list": null
+  },
+  {
+    "id":298 ,
+    "name": "Ramakrishna Mission Lokasiksha Parishad",
+    "stall_no": [
+      "261"
+    ],
+    "books_list": null
+  },
+  {
+    "id":299 ,
+    "name": "Ratna Prakashan",
+    "stall_no": [
+      "188"
+    ],
+    "books_list": null
+  },
+  {
+    "id":300 ,
+    "name": "Renaissance Prakashan",
+    "stall_no": [
+      "350"
+    ],
+    "books_list": null
+  }
+]
