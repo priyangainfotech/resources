@@ -1,0 +1,22 @@
+{
+  "shows": [
+    {
+      "title": "BiggBoss Tamil Session 7",
+      "id": "bbtamil7",
+      "host": "Kamalahaasan",
+      "start_date": "01-10-2023",
+      "end_date": "",
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7.json"
+    },
+    {
+      "title": "BiggBoss Telugu Session 7",
+      "id": "bbtelugu7",
+      "host": "Nagarjuna",
+      "start_date": "03-09-2023",
+      "end_date": "",
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7.json"
+    }
+  ]
+}
