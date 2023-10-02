@@ -1,92 +1,117 @@
 {
   "participants": [
     {
-      "name": "Amardeep",
+      "name": "Akshaya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/1.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Gautham",
+      "name": "Ananya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/2.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Prashanth",
+      "name": "Aishu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/3.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Prince Yawar",
+      "name": "Chelladurai",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/4.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Priyanka",
+      "name": "Cool Suresh",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/5.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Rathika",
+      "name": "Jovika",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/6.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Sandeep",
+      "name": "Mani",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/7.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },
     {
-      "name": "Sivaji",
+      "name": "Maya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/8.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },{
-      "name": "Shobha",
+      "name": "Nixen",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/9.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },{
-      "name": "Subhasree",
+      "name": "Poornima",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/10.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },{
-      "name": "Teja",
+      "name": "Pradeep",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/11.png",
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false
     },{
-      "name": "Damini",
+      "name": "Raveena",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/12.png",
       "id": "XXXXXX",
       "eliminated_date": "Day 21",
       "isNominated": false
     },{
-      "name": "Shakeela",
+      "name": "Saravana",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/13.png",
       "id": "XXXXXX",
       "eliminated_date": "Day 14",
       "isNominated": false
     },{
-      "name": "Kiran",
+      "name": "Vichithra",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/14.png",
+      "id": "XXXXXX",
+      "eliminated_date": "Day 7",
+      "isNominated": false
+    },{
+      "name": "Vijay",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/14.png",
+      "id": "XXXXXX",
+      "eliminated_date": "Day 7",
+      "isNominated": false,
+      "isCaptain": true
+    },{
+      "name": "Vinusha",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/14.png",
+      "id": "XXXXXX",
+      "eliminated_date": "Day 7",
+      "isNominated": false
+    },{
+      "name": "Vishnu",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/14.png",
+      "id": "XXXXXX",
+      "eliminated_date": "Day 7",
+      "isNominated": false
+    },{
+      "name": "Yugendran",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/14.png",
       "id": "XXXXXX",
       "eliminated_date": "Day 7",
