@@ -13,7 +13,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya.png",
       "id": "8886602472",
-      "eliminated_date": "2023-10-09",
+      "eliminated_date": "2023-10-08",
       "dial_number": "8886602472",
       "isNominated": false,
       "history": [
@@ -43,17 +43,17 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava.png",
       "id": "8886602473",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-10-09",
+      "isNominated": false,
       "dial_number": "8886602473",
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Small House"]
+          "notes": ["Nominated", "Small House", "Conflicts in Education"]
         },
         {
           "week": 2,
-          "notes": ["Nominated"]
+          "notes": ["Eliminated (Self)"]
         }
       ]
     },
