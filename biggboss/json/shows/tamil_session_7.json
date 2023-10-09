@@ -13,9 +13,9 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya.png",
       "id": "8886602472",
-      "eliminated_date": "",
+      "eliminated_date": "2023-10-09",
       "dial_number": "8886602472",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -28,7 +28,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu.png",
       "id": "8886602470",
-      "eliminated_date": "2023-10-09",
+      "eliminated_date": "",
       "dial_number": "8886602470",
       "isNominated": false,
       "history": [
@@ -173,7 +173,7 @@
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false,
-      "isCaptain": false,
+      "isCaptain": true,
       "history": [
         {
           "week": 2,
@@ -200,7 +200,6 @@
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false,
-      "isCaptain": false,
       "history": [
         {
           "week": 1,
