@@ -4,9 +4,16 @@
       "name": "Akshaya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
-      "id": "XXXXXX",
+      "id": "8886602471",
       "eliminated_date": "",
-      "isNominated": false
+      "isNominated": true,
+      "dial_number": "8886602471",
+      "history": [
+        {
+          "week": 1,
+          "notes": ["Nominated"]
+        }
+      ]
     },
     {
       "name": "Ananya",
@@ -19,7 +26,7 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Small House"]
+          "notes": ["Nominated", "Small House", "Eliminated"]
         }
       ]
     },
@@ -81,12 +88,16 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "id": "8886602476",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602476",
       "history": [
         {
           "week": 1,
           "notes": ["Nominated", "Against Education", "Disrespecting"]
+        },
+        {
+          "week": 2,
+          "notes": ["Nominated"]
         }
       ]
     },
@@ -102,9 +113,10 @@
       "name": "Maya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
-      "id": "XXXXXX",
+      "id": "8886602478",
+      "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -112,7 +124,7 @@
         },
         {
           "week":2,
-          "notes": ["Small House"]
+          "notes": ["Nominated","Small House"]
         }
       ]
     },{
@@ -132,16 +144,23 @@
       "name": "Poornima",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
-      "id": "XXXXXX",
+      "id": "8886602480",
       "eliminated_date": "",
-      "isNominated": false
+      "isNominated": true,
+      "dial_number": "8886602480",
+      "history": [
+        {
+          "week": 2,
+          "notes": ["Nominated"]
+        }
+      ]
     },{
       "name": "Pradeep",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
       "id": "8886602481",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602481",
       "history": [
         {
@@ -150,7 +169,7 @@
         },
         {
           "week": 2,
-          "notes": ["Small House"]
+          "notes": ["Small House", "Nominated"]
         }
       ]
     },{
@@ -184,13 +203,18 @@
       "name": "Vichithra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra.png",
-      "id": "XXXXXX",
+      "id": "8886602475",
       "eliminated_date": "",
-      "isNominated": false,
+      "dial_number": "8886602475",
+      "isNominated": true,
       "history": [
         {
           "week": 1,
           "notes": ["Small House (Punishment)", "Support Education", "Tattoo issue"]
+        },
+        {
+          "week": 2,
+          "notes": ["Nominated"]
         }
       ]
     },{
@@ -227,16 +251,17 @@
       "name": "Vishnu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
-      "id": "XXXXXX",
+      "id": "8886602486",
       "eliminated_date": "",
-      "isNominated": false,
+      "dial_number": "8886602486",
+      "isNominated": true,
       "history": [
         {
           "week": 1,
           "notes": ["Loose Talk"]
         }, {
           "week": 2,
-          "notes": ["Small House"]
+          "notes": ["Nominated","Small House"]
         }
       ]
     },{
