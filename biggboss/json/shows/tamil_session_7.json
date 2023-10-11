@@ -1,4 +1,17 @@
 {
+  "voting_options": {
+    "official_vote":[
+    {
+      "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
+      "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+    }],
+    "unofficial_voting": [
+    {
+      "name":"TamilGlitz",
+      "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+    }
+    ]
+  },
   "participants": [
     {
       "name": "Akshaya",
