@@ -21,6 +21,12 @@
       }
     ]
   },
+  "notifications": [
+    {
+      "title": "Week 2: No eliminations",
+      "message": "Due to Bava Chelladurai eviction, Week-2 nomination is called off on 12th October 2023"
+    }
+  ],
   "participants": [
     {
       "name": "Akshaya",
