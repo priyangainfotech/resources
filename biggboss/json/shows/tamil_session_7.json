@@ -73,6 +73,13 @@
             "Nominated",
             "Small House"
           ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Small House",
+            "Joined With Maaya for Planning"
+          ]
         }
       ]
     },
@@ -143,7 +150,8 @@
         {
           "week": 2,
           "notes": [
-            "Nominated"
+            "Nominated",
+            "Pradeep: வாடா, போடா, முட்டு இரு"
           ]
         }
       ]
@@ -154,10 +162,17 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra.png",
       "id": "XXXXXX",
       "eliminated_date": "",
-      "isNominated": false
+      "isNominated": false,
+      "history": [
+        {
+          "week": 2,
+          "notes": [
+            "Love Content With Raveena"
+          ]
+        }]
     },
     {
-      "name": "Maya",
+      "name": "Maaya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
       "id": "8886602478",
@@ -176,7 +191,9 @@
           "week": 2,
           "notes": [
             "Nominated",
-            "Small House"
+            "Small House",
+            "Strike Concept",
+            "Irritating Dancing"
           ]
         }
       ]
@@ -194,6 +211,12 @@
           "notes": [
             "Small House"
           ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Fight With Pradeep"
+          ]
         }
       ]
     },
@@ -209,7 +232,7 @@
         {
           "week": 2,
           "notes": [
-            "Nominated"
+            "Nominated", "Love Content with Saravana", "Gossip With Maya", "Oats குடிங்க"
           ]
         }
       ]
@@ -235,7 +258,9 @@
           "week": 2,
           "notes": [
             "Small House",
-            "Nominated"
+            "Nominated",
+            "Nixen: பொறுக்கி",
+            "Saravan: வாய ஒடச்சிடுவேன்"
           ]
         }
       ]
@@ -252,6 +277,12 @@
           "week": 1,
           "notes": [
             "Nominated"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Love Content With Mani"
           ]
         }
       ]
@@ -293,7 +324,8 @@
         {
           "week": 2,
           "notes": [
-            "Nominated"
+            "Nominated",
+            "Created Cleaning Content"
           ]
         }
       ]
