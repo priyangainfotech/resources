@@ -11,8 +11,16 @@
       "name": "Gautham",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/2.png",
       "id": "XXXXXX",
-      "eliminated_date": "",
-      "isNominated": false
+      "eliminated_date": "Day 36",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+            "Evicted by Housemates", "Room"
+          ]
+        }
+      ]
     },
     {
       "name": "Prashanth",
@@ -65,7 +73,7 @@
       "name": "Subhasree",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/10.png",
       "id": "XXXXXX",
-      "eliminated_date": "",
+      "eliminated_date": "Day 35",
       "isNominated": false
     },{
       "name": "Teja",
