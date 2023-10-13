@@ -1,15 +1,24 @@
 {
   "voting_options": {
-    "official_vote":[
-    {
-      "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
-      "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
-    }],
+    "official_vote": [
+      {
+        "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+      }
+    ],
     "unofficial_voting": [
-    {
-      "name":"TamilGlitz",
-      "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
-    }
+      {
+        "name": "Pi App Studio",
+        "link": "https://strawpoll.com/YVyPmzOqAnN"
+      },
+      {
+        "name": "TamilGlitz",
+        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+      },
+      {
+        "name": "Bigg Boss Vote Tamil",
+        "link": "https://www.biggbossvotestamil.com/"
+      }
     ]
   },
   "participants": [
@@ -24,7 +33,9 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -39,7 +50,11 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Small House", "Eliminated"]
+          "notes": [
+            "Nominated",
+            "Small House",
+            "Eliminated"
+          ]
         }
       ]
     },
@@ -54,7 +69,10 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Small House"]
+          "notes": [
+            "Nominated",
+            "Small House"
+          ]
         }
       ]
     },
@@ -69,11 +87,17 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Small House", "Conflicts in Education"]
+          "notes": [
+            "Nominated",
+            "Small House",
+            "Conflicts in Education"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Eliminated (Self)"]
+          "notes": [
+            "Eliminated (Self)"
+          ]
         }
       ]
     },
@@ -87,11 +111,15 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Conflicts with Maya"]
+          "notes": [
+            "Conflicts with Maya"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Small House"]
+          "notes": [
+            "Small House"
+          ]
         }
       ]
     },
@@ -106,11 +134,17 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Against Education", "Disrespecting"]
+          "notes": [
+            "Nominated",
+            "Against Education",
+            "Disrespecting"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -133,14 +167,21 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Supported Jovika", "Issue with Cool Suresh"]
+          "notes": [
+            "Supported Jovika",
+            "Issue with Cool Suresh"
+          ]
         },
         {
-          "week":2,
-          "notes": ["Nominated","Small House"]
+          "week": 2,
+          "notes": [
+            "Nominated",
+            "Small House"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Nixen",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon.png",
@@ -150,10 +191,13 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Small House"]
+          "notes": [
+            "Small House"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Poornima",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
@@ -164,10 +208,13 @@
       "history": [
         {
           "week": 2,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Pradeep",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
@@ -178,14 +225,22 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated", "Immature Talk", "Warning from Kamal"]
+          "notes": [
+            "Nominated",
+            "Immature Talk",
+            "Warning from Kamal"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Small House", "Nominated"]
+          "notes": [
+            "Small House",
+            "Nominated"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Raveena",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/12.png",
       "id": "8886602482",
@@ -195,10 +250,13 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Saravana",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
@@ -209,10 +267,13 @@
       "history": [
         {
           "week": 2,
-          "notes": ["Captain"]
+          "notes": [
+            "Captain"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Vichithra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra.png",
@@ -223,14 +284,21 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Small House (Punishment)", "Support Education", "Tattoo issue"]
+          "notes": [
+            "Small House (Punishment)",
+            "Support Education",
+            "Tattoo issue"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Vijay Varma",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma.png",
@@ -240,14 +308,20 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Captain", "Yellow Card"]
+          "notes": [
+            "Captain",
+            "Yellow Card"
+          ]
         },
         {
           "week": 2,
-          "notes": ["Small House"]
+          "notes": [
+            "Small House"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Vinusha Devi",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi.png",
@@ -257,10 +331,13 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Vishnu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
@@ -271,13 +348,20 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Loose Talk"]
-        }, {
+          "notes": [
+            "Loose Talk"
+          ]
+        },
+        {
           "week": 2,
-          "notes": ["Nominated","Small House"]
+          "notes": [
+            "Nominated",
+            "Small House"
+          ]
         }
       ]
-    },{
+    },
+    {
       "name": "Yugendran",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran.png",
@@ -288,7 +372,9 @@
       "history": [
         {
           "week": 1,
-          "notes": ["Nominated"]
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     }
