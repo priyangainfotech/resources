@@ -95,9 +95,7 @@
           "notes": [
             "Nominated",
             "Small House"
-          ],
-          "nominates": [10,
-            11]
+          ]
         },
         {
           "week": 2,
@@ -110,7 +108,9 @@
           "week": 3,
           "notes": [
             "Nominated"
-          ]
+          ],
+          "nominates": [10,
+            11]
         }
       ]
     },
