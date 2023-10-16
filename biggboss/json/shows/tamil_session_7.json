@@ -9,7 +9,7 @@
     "unofficial_voting": [
       {
         "name": "Pi App Studio",
-        "link": "https://strawpoll.com/YVyPmzOqAnN"
+        "link": "https://strawpoll.com/GeZAOPDpXnV"
       },
       {
         "name": "TamilGlitz",
@@ -18,6 +18,15 @@
       {
         "name": "Bigg Boss Vote Tamil",
         "link": "https://www.biggbossvotestamil.com/"
+      }
+    ],
+    "polls": [
+      {
+        "name": "போட்டியாளர்களின் உணவு, உடை, இடத்தை (Small house, Big house) Taskக்குகாக பந்தையமாக வைக்கப்படுவதை விரும்புகிறீர்களா?",
+        "link": "https://strawpoll.com/wby5AW8WJyA"
+      },
+      {
+
       }
     ]
   },
