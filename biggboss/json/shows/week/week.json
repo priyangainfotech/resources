@@ -116,17 +116,15 @@
     },
     {
       "id": 7,
-      "options": {
-        "options": [
-          {
-            "week": 3,
-            "options": [
-              8,
-              10
-            ]
-          }
-        ]
-      }
+      "options": [
+        {
+          "week": 3,
+          "options": [
+            8,
+            10
+          ]
+        }
+      ]
     },
     {
       "id": 8,
