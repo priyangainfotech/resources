@@ -35,9 +35,9 @@
       "name": "Akshaya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
-      "id": "8886602471",
+      "id": "1",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602471",
       "history": [
         {
@@ -51,6 +51,12 @@
           "notes": [
             "Arrest Warrant"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -58,7 +64,7 @@
       "name": "Ananya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya.png",
-      "id": "8886602472",
+      "id": "2",
       "eliminated_date": "2023-10-08",
       "dial_number": "8886602472",
       "isNominated": false,
@@ -77,10 +83,10 @@
       "name": "Aishu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu.png",
-      "id": "8886602470",
+      "id": "3",
       "eliminated_date": "",
       "dial_number": "8886602470",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -95,6 +101,12 @@
             "Small House",
             "Joined With Maaya for Planning"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -102,7 +114,7 @@
       "name": "Chelladurai",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava.png",
-      "id": "8886602473",
+      "id": "4",
       "eliminated_date": "2023-10-09",
       "isNominated": false,
       "dial_number": "8886602473",
@@ -127,7 +139,7 @@
       "name": "Cool Suresh",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh.png",
-      "id": "XXXXXX",
+      "id": "5",
       "eliminated_date": "",
       "isNominated": false,
       "history": [
@@ -149,7 +161,7 @@
       "name": "Jovika",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
-      "id": "8886602476",
+      "id": "6",
       "eliminated_date": "",
       "isNominated": false,
       "dial_number": "8886602476",
@@ -175,25 +187,30 @@
       "name": "Manichandra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra.png",
-      "id": "XXXXXX",
+      "id": "7",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 2,
           "notes": [
             "Love Content With Raveena"
           ]
+        },{
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }]
     },
     {
-      "name": "Maaya",
+      "name": "Maya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
-      "id": "8886602478",
+      "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -214,7 +231,8 @@
         {
           "week": 3,
           "notes": [
-            "Small House"
+            "Small House",
+            "Nominated"
           ]
         }
       ]
@@ -223,9 +241,9 @@
       "name": "Nixen",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon.png",
-      "id": "XXXXXX",
+      "id": "9",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -238,6 +256,12 @@
           "notes": [
             "Fight With Pradeep"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -245,9 +269,9 @@
       "name": "Poornima",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
-      "id": "8886602480",
+      "id": "10",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -259,7 +283,7 @@
         {
           "week": 3,
           "notes": [
-            "Small House"
+            "Small House", "Nominated"
           ]
         }
       ]
@@ -268,9 +292,9 @@
       "name": "Pradeep",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
-      "id": "8886602481",
+      "id": "11",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602481",
       "history": [
         {
@@ -293,7 +317,8 @@
         {
           "week": 3,
           "notes": [
-            "Small House"
+            "Small House",
+            "Nominated"
           ]
         }
       ]
@@ -301,7 +326,7 @@
     {
       "name": "Raveena",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/12.png",
-      "id": "8886602482",
+      "id": "12",
       "eliminated_date": "",
       "isNominated": false,
       "dial_number": "8886602482",
@@ -321,12 +346,13 @@
       ]
     },
     {
-      "name": "Saravana",
+      "name": "Saravana Vickram",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
-      "id": "XXXXXX",
+      "id": "13",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
+      "dial_number": "8886602483",
       "history": [
         {
           "week": 2,
@@ -337,7 +363,8 @@
         {
           "week": 3,
           "notes": [
-            "Small House"
+            "Small House",
+            "Nominated"
           ]
         }
       ]
@@ -346,10 +373,10 @@
       "name": "Vichithra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra.png",
-      "id": "8886602475",
+      "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -365,6 +392,12 @@
             "Nominated",
             "Created Cleaning Content"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -372,9 +405,9 @@
       "name": "Vijay Varma",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma.png",
-      "id": "XXXXXX",
+      "id": "15",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -388,6 +421,12 @@
           "notes": [
             "Small House"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Nominated"
+          ]
         }
       ]
     },
@@ -395,9 +434,9 @@
       "name": "Vinusha Devi",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi.png",
-      "id": "XXXXXX",
+      "id": "16",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -414,7 +453,8 @@
         {
           "week": 3,
           "notes": [
-            "Small House"
+            "Small House",
+            "Nominated"
           ]
         }
       ]
@@ -423,7 +463,7 @@
       "name": "Vishnu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
-      "id": "8886602486",
+      "id": "17",
       "eliminated_date": "",
       "dial_number": "8886602486",
       "isNominated": false,
@@ -453,7 +493,7 @@
       "name": "Yugendran",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran.png",
-      "id": "8886602487",
+      "id": "18",
       "eliminated_date": "",
       "dial_number": "8886602487",
       "isNominated": false,
