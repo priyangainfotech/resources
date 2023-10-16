@@ -22,6 +22,9 @@
     ]
   },
   "notifications": [
+
+  ],
+  "notification_history": [
     {
       "title": "Week 2: No eliminations",
       "message": "Due to Bava Chelladurai eviction, Week-2 nomination is called off on 12th October 2023"
@@ -34,13 +37,19 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "8886602471",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602471",
       "history": [
         {
           "week": 1,
           "notes": [
             "Nominated"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Arrest Warrant"
           ]
         }
       ]
@@ -142,7 +151,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "id": "8886602476",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602476",
       "history": [
         {
@@ -184,7 +193,7 @@
       "id": "8886602478",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -200,6 +209,12 @@
             "Small House",
             "Strike Concept",
             "Irritating Dancing"
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
           ]
         }
       ]
@@ -232,13 +247,19 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "8886602480",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
           "week": 2,
           "notes": [
             "Nominated", "Love Content with Saravana", "Gossip With Maya", "Oats குடிங்க"
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
           ]
         }
       ]
@@ -249,7 +270,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
       "id": "8886602481",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602481",
       "history": [
         {
@@ -267,6 +288,12 @@
             "Nominated",
             "Nixen: பொறுக்கி",
             "Saravan: வாய ஒடச்சிடுவேன்"
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
           ]
         }
       ]
@@ -300,12 +327,18 @@
       "id": "XXXXXX",
       "eliminated_date": "",
       "isNominated": false,
-      "isCaptain": true,
+      "isCaptain": false,
       "history": [
         {
           "week": 2,
           "notes": [
             "Captain"
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
           ]
         }
       ]
@@ -317,7 +350,7 @@
       "id": "8886602475",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -372,6 +405,18 @@
           "notes": [
             "Nominated"
           ]
+        },{
+          "week": 2,
+          "notes": [
+            "Arrest Warrant"
+          ]
+        },
+
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
+          ]
         }
       ]
     },
@@ -382,7 +427,7 @@
       "id": "8886602486",
       "eliminated_date": "",
       "dial_number": "8886602486",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -396,6 +441,12 @@
             "Nominated",
             "Small House"
           ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Small House"
+          ]
         }
       ]
     },
@@ -407,11 +458,17 @@
       "eliminated_date": "",
       "dial_number": "8886602487",
       "isNominated": false,
+      "isCaptain": true,
       "history": [
         {
           "week": 1,
           "notes": [
             "Nominated"
+          ]
+        },{
+          "week": 3,
+          "notes": [
+            "Captain"
           ]
         }
       ]
