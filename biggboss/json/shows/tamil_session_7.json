@@ -22,7 +22,11 @@
     ],
     "polls": [
       {
-        "name": "போட்டியாளர்களின் உணவு, உடை, இடத்தை (Small house, Big house) Taskக்குகாக பந்தையமாக வைக்கப்படுவதை விரும்புகிறீர்களா?",
+        "name": "Who will get Yellow card this week?",
+        "link": "https://strawpoll.com/B2ZBEvdxpgJ"
+      },
+      {
+        "name": "is it Okay to target player's Food, Cloths & Shelter for task?",
         "link": "https://strawpoll.com/wby5AW8WJyA"
       },
       {
