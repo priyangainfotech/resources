@@ -322,6 +322,7 @@
       "id": "10",
       "eliminated_date": "",
       "isNominated": false,
+      "isCaptain": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -590,7 +591,7 @@
       "eliminated_date": "",
       "dial_number": "8886602487",
       "isNominated": false,
-      "isCaptain": true,
+      "isCaptain": false,
       "history": [
         {
           "week": 1,
