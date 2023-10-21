@@ -35,7 +35,10 @@
     ]
   },
   "notifications": [
-
+    {
+      "title": "Week 3:Vijay Varma Evicted ",
+      "message": "As per the latest news, Vijay Varma got evicted on Week 3!"
+    }
   ],
   "notification_history": [
     {
@@ -50,7 +53,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "1",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602471",
       "history": [
         {
@@ -101,7 +104,7 @@
       "id": "3",
       "eliminated_date": "",
       "dial_number": "8886602470",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -222,7 +225,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 2,
@@ -247,7 +250,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -285,7 +288,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -318,7 +321,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
@@ -345,7 +348,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
       "id": "11",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602481",
       "history": [
         {
@@ -416,7 +419,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602483",
       "history": [
         {
@@ -445,7 +448,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -480,8 +483,8 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma.png",
       "id": "15",
       "dial_number": "8886602484",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-10-21",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -518,7 +521,7 @@
       "id": "16",
       "dial_number": "8886602485",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
