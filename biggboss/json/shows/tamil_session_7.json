@@ -519,10 +519,10 @@
         },
         {
           "week": 4,
-          "notes": [9,11
+          "notes": [
 
           ],
-          "nominates": []
+          "nominates": [9,11]
         }
       ]
     },
