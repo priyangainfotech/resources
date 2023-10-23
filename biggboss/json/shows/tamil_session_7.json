@@ -60,6 +60,9 @@
           "week": 1,
           "notes": [
             "Nominated"
+          ],
+          "nominates": [
+            12,3
           ]
         },
         {
@@ -101,6 +104,9 @@
             "Nominated",
             "Small House",
             "Eliminated"
+          ],
+          "nominates": [
+            6,18
           ]
         }
       ]
@@ -119,6 +125,9 @@
           "notes": [
             "Nominated",
             "Small House"
+          ],
+          "nominates": [
+            6,11
           ]
         },
         {
@@ -159,6 +168,9 @@
             "Nominated",
             "Small House",
             "Conflicts in Education"
+          ],
+          "nominates": [
+            5,11
           ]
         },
         {
@@ -181,6 +193,9 @@
           "week": 1,
           "notes": [
             "Conflicts with Maya"
+          ],
+          "nominates": [
+            3,4
           ]
         },
         {
@@ -221,6 +236,9 @@
             "Nominated",
             "Against Education",
             "Disrespecting"
+          ],
+          "nominates": [
+            3,12
           ]
         },
         {
@@ -257,6 +275,12 @@
       "eliminated_date": "",
       "isNominated": true,
       "history": [
+        {
+          "week": 1,
+          "nominates": [
+            4,2
+          ]
+        },
         {
           "week": 2,
           "notes": [
@@ -296,6 +320,9 @@
           "notes": [
             "Supported Jovika",
             "Issue with Cool Suresh"
+          ],
+          "nominates": [
+            12,9
           ]
         },
         {
@@ -339,6 +366,9 @@
           "week": 1,
           "notes": [
             "Small House"
+          ],
+          "nominates": [
+            11,6
           ]
         },
         {
@@ -380,6 +410,15 @@
       "dial_number": "8886602480",
       "history": [
         {
+          "week": 1,
+          "notes": [
+
+          ],
+          "nominates": [
+            3,2
+          ]
+        },
+        {
           "week": 2,
           "notes": [
             "Nominated", "Love Content with Saravana", "Gossip With Maya", "Oats குடிங்க"
@@ -419,6 +458,9 @@
             "Nominated",
             "Immature Talk",
             "Warning from Kamal"
+          ],
+          "nominates": [
+            16,2
           ]
         },
         {
@@ -467,6 +509,9 @@
           "week": 1,
           "notes": [
             "Nominated"
+          ],
+          "nominates": [
+            6,18
           ]
         },
         {
@@ -500,6 +545,12 @@
       "isNominated": true,
       "dial_number": "8886602483",
       "history": [
+        {
+          "week": 1,
+          "nominates": [
+            9,2
+          ]
+        },
         {
           "week": 2,
           "notes": [
@@ -541,6 +592,9 @@
             "Small House (Punishment)",
             "Support Education",
             "Tattoo issue"
+          ],
+          "nominates": [
+            2,3
           ]
         },
         {
@@ -582,6 +636,9 @@
           "notes": [
             "Captain",
             "Yellow Card"
+          ],
+          "nominates": [
+            4,2
           ]
         },
         {
@@ -618,6 +675,9 @@
           "week": 1,
           "notes": [
             "Nominated"
+          ],
+          "nominates": [
+            18,8
           ]
         },{
           "week": 2,
@@ -658,6 +718,9 @@
           "week": 1,
           "notes": [
             "Loose Talk"
+          ],
+          "nominates": [
+            4,3
           ]
         },
         {
@@ -698,6 +761,9 @@
           "week": 1,
           "notes": [
             "Nominated"
+          ],
+          "nominates": [
+            12,2
           ]
         },{
           "week": 3,
