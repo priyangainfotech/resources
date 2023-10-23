@@ -80,7 +80,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            16,5
+          ]
         }
       ]
     },
@@ -138,7 +140,7 @@
           "week": 4,
           "notes": [
           ],
-          "nominates": []
+          "nominates": [18,7]
         }
       ]
     },
@@ -200,7 +202,7 @@
           "notes": [
 
           ],
-          "nominates": []
+          "nominates": [9,6]
         }
       ]
     },
@@ -240,7 +242,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            13,5
+          ]
         }
       ]
     },
@@ -273,7 +277,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            8,16
+          ]
         }]
     },
     {
@@ -316,7 +322,7 @@
           "week": 4,
           "notes": [
           ],
-          "nominates": []
+          "nominates": [7,9]
         }
       ]
     },
@@ -357,7 +363,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            5,13
+          ]
         }
       ]
     },
@@ -392,7 +400,7 @@
           "notes": [
             "Captain"
           ],
-          "nominates": []
+          "nominates": [7,6]
         }
       ]
     },
@@ -441,7 +449,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            5,8
+          ]
         }
       ]
     },
@@ -477,7 +487,7 @@
           "notes": [
 
           ],
-          "nominates": []
+          "nominates": [18,6]
         }
       ]
     },
@@ -509,7 +519,7 @@
         },
         {
           "week": 4,
-          "notes": [
+          "notes": [9,11
 
           ],
           "nominates": []
@@ -554,7 +564,7 @@
           "week": 4,
           "notes": [
           ],
-          "nominates": []
+          "nominates": [18, 11]
         }
       ]
     },
@@ -631,7 +641,7 @@
           "week": 4,
           "notes": [
           ],
-          "nominates": []
+          "nominates": [11,18]
         }
       ]
     },
@@ -671,7 +681,7 @@
           "week": 4,
           "notes": [
           ],
-          "nominates": []
+          "nominates": [11,9]
         }
       ]
     },
@@ -705,7 +715,9 @@
           "notes": [
             "Small House"
           ],
-          "nominates": []
+          "nominates": [
+            16,8
+          ]
         }
       ]
     }
