@@ -75,6 +75,12 @@
           ],
           "nominates": [16,
             13]
+        },{
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -127,6 +133,12 @@
           ],
           "nominates": [10,
             11]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "nominates": []
         }
       ]
     },
@@ -182,6 +194,13 @@
             13,
             11
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+
+          ],
+          "nominates": []
         }
       ]
     },
@@ -215,6 +234,13 @@
             16,
             17
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -241,6 +267,13 @@
             8,
             10
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }]
     },
     {
@@ -278,6 +311,12 @@
             7,
             14
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "nominates": []
         }
       ]
     },
@@ -312,6 +351,13 @@
             16,
             8
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -340,6 +386,13 @@
             7,
             14
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Captain"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -382,6 +435,13 @@
             1,
             3
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }
       ]
     },
@@ -411,6 +471,13 @@
             10,
             8
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+
+          ],
+          "nominates": []
         }
       ]
     },
@@ -439,6 +506,13 @@
             15,
             3
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+
+          ],
+          "nominates": []
         }
       ]
     },
@@ -475,6 +549,12 @@
             8,
             17
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "nominates": []
         }
       ]
     },
@@ -546,6 +626,12 @@
             15,
             9
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "nominates": []
         }
       ]
     },
@@ -580,6 +666,12 @@
             9,
             1
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "nominates": []
         }
       ]
     },
@@ -607,6 +699,13 @@
             8,
             11
           ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Small House"
+          ],
+          "nominates": []
         }
       ]
     }
