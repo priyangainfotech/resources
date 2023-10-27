@@ -74,7 +74,7 @@
         },{
           "week": 4,
           "notes": [
-            "Small House", "Nominated","Direct Nomination", "Good play at double star task"
+            "Nominated","Small House", "Nominated","Direct Nomination", "Good play at double star task"
           ],
           "nominates": [
             16,5
@@ -209,7 +209,7 @@
         {
           "week": 4,
           "notes": [
-            "Picked Aishu & Vishnu photo in double star task", "Give up Vishnu photo in last minute"
+            "Nominated","Picked Aishu & Vishnu photo in double star task", "Give up Vishnu photo in last minute"
           ],
           "nominates": [9,6]
         }
@@ -252,7 +252,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Winner of double star task"
+           "Nominated", "Small House", "Winner of double star task"
           ],
           "nominates": [
             13,5
@@ -293,7 +293,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Won cleaning task against Vishnu", "Lost bathroom cleaning task again Vishnu"
+            "Nominated","Small House", "Won cleaning task against Vishnu", "Lost bathroom cleaning task again Vishnu"
           ],
           "nominates": [
             8,16
@@ -342,7 +342,7 @@
         {
           "week": 4,
           "notes": [
-            "Eliminate Mani & Raveena in double start task", "Triggered by Vichitra"
+            "Nominated","Eliminate Mani & Raveena in double start task", "Triggered by Vichitra"
           ],
           "nominates": [7,9]
         }
@@ -386,7 +386,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House","Disappointed in captain selection ", "Raised voice for Akshaya", "Raised voice against Vishnu"
+           "Nominated", "Small House","Disappointed in captain selection ", "Raised voice for Akshaya", "Raised voice against Vishnu"
           ],
           "nominates": [
             5,13
@@ -484,7 +484,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Triggering Vishnu during nomination"
+            "Nominated","Small House", "Triggering Vishnu during nomination"
           ],
           "nominates": [
             5,8
@@ -566,7 +566,7 @@
         {
           "week": 4,
           "notes": [
-            "Defend Akshaya during Vishnu conflicts"
+            "Nominated","Defend Akshaya during Vishnu conflicts"
           ],
           "nominates": [9,11]
         }
@@ -696,7 +696,7 @@
         {
           "week": 4,
           "notes": [
-
+            "Nominated"
           ],
           "nominates": [11,18]
         }
@@ -740,7 +740,7 @@
         {
           "week": 4,
           "notes": [
-            "Conflict with Pradeep for target","Fight with Akshya during task","Planning with Maya & Poornima"
+           "Nominated", "Conflict with Pradeep for target","Fight with Akshya during task","Planning with Maya & Poornima"
           ],
           "nominates": [11,9]
         }
@@ -776,7 +776,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House"
+            "Nominated","Small House"
           ],
           "nominates": [
             16,8
