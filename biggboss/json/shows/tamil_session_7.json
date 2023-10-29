@@ -29,8 +29,8 @@
   },
   "notifications": [
     {
-      "title": "Week 3:Vijay Varma Evicted ",
-      "message": "As per the latest news, Vijay Varma got evicted on Week 3!"
+      "title": "Week 4:Yugendran & Vinusha Evicted",
+      "message": "As per the latest news, Yugendran and Vinusha Devi were evicted!"
     }
   ],
   "notification_history": [
@@ -46,7 +46,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "1",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602471",
       "history": [
         {
@@ -71,13 +71,23 @@
           ],
           "nominates": [16,
             13]
-        },{
+        },
+        {
           "week": 4,
           "notes": [
-            "Small House", "Nominated","Direct Nomination", "Good play at double star task"
+            "Nominated","Small House", "Nominated","Direct Nomination", "Good play at double star task"
           ],
           "nominates": [
             16,5
+          ]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -144,6 +154,15 @@
             "Influenced by Maya", "Use words like Cheeri Alunga", "Planned with Vishnu in double star task"
           ],
           "nominates": [18,7]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -183,7 +202,7 @@
       "dial_number": "8886602474",
 
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -211,9 +230,18 @@
         {
           "week": 4,
           "notes": [
-            "Picked Aishu & Vishnu photo in double star task", "Give up Vishnu photo in last minute"
+            "Nominated","Picked Aishu & Vishnu photo in double star task", "Give up Vishnu photo in last minute", "Rule Break (Entered SBH)"
           ],
           "nominates": [9,6]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -223,7 +251,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "id": "6",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602476",
       "history": [
         {
@@ -254,10 +282,19 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Winner of double star task"
+           "Nominated", "Small House", "Winner of double star task"
           ],
           "nominates": [
             13,5
+          ]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -265,11 +302,11 @@
     {
       "name": "Manichandra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -295,10 +332,19 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Won cleaning task against Vishnu", "Lost bathroom cleaning task again Vishnu"
+            "Nominated","Small House", "Won cleaning task against Vishnu", "Lost bathroom cleaning task again Vishnu"
           ],
           "nominates": [
             8,16
+          ]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
           ]
         }]
     },
@@ -309,7 +355,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -344,9 +390,18 @@
         {
           "week": 4,
           "notes": [
-            "Eliminate Mani & Raveena in double start task", "Triggered by Vichitra"
+            "Nominated","Eliminate Mani & Raveena in double start task", "Triggered by Vichitra", "Rule Break (Entered SBH)"
           ],
           "nominates": [7,9]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -357,7 +412,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -388,12 +443,22 @@
         {
           "week": 4,
           "notes": [
-            "Small House","Disappointed in captain selection ", "Raised voice for Akshaya", "Raised voice against Vishnu"
+           "Nominated", "Small House","Disappointed in captain selection ", "Raised voice for Akshaya", "Raised voice against Vishnu"
           ],
           "nominates": [
             5,13
           ]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
+
       ]
     },
     {
@@ -437,6 +502,15 @@
             "Captain", "Hide photos in double star", "Provides chairs to small boss house", "Appreciated as leader by BB", "Influenced by Maya"
           ],
           "nominates": [7,6]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -446,7 +520,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
       "id": "11",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602481",
       "history": [
         {
@@ -486,10 +560,19 @@
         {
           "week": 4,
           "notes": [
-            "Small House", "Triggering Vishnu during nomination"
+            "Nominated","Small House", "Triggering Vishnu during nomination", "Rule Break (Entered BB house)"
           ],
           "nominates": [
             5,8
+          ]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -527,9 +610,18 @@
         {
           "week": 4,
           "notes": [
-            "Done well with family task", "Eliminated Poornima in double star task"
+            "Done well with family task", "Eliminated Poornima in double star task", "Rule break (Entered to SBH)"
           ],
           "nominates": [18,6]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -539,7 +631,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602483",
       "history": [
         {
@@ -568,9 +660,18 @@
         {
           "week": 4,
           "notes": [
-            "Defend Akshaya during Vishnu conflicts"
+            "Nominated","Defend Akshaya during Vishnu conflicts"
           ],
           "nominates": [9,11]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -617,6 +718,15 @@
             "Target Pradeep", "Roasted Maya during review"
           ],
           "nominates": [18, 11]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -666,8 +776,8 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi.png",
       "id": "16",
       "dial_number": "8886602485",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-10-29",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -698,7 +808,7 @@
         {
           "week": 4,
           "notes": [
-
+            "Nominated"
           ],
           "nominates": [11,18]
         }
@@ -711,7 +821,7 @@
       "id": "17",
       "eliminated_date": "",
       "dial_number": "8886602486",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -742,9 +852,18 @@
         {
           "week": 4,
           "notes": [
-            "Conflict with Pradeep for target","Fight with Akshya during task","Planning with Maya & Poornima"
+           "Nominated", "Conflict with Pradeep for target","Fight with Akshya during task","Planning with Maya & Poornima"
           ],
           "nominates": [11,9]
+        },
+        {
+          "week": 5,
+          "note": [
+
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -753,9 +872,9 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran.png",
       "id": "18",
-      "eliminated_date": "",
+      "eliminated_date": "2023-10-29",
       "dial_number": "8886602487",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -778,7 +897,7 @@
         {
           "week": 4,
           "notes": [
-            "Small House"
+            "Nominated","Small House"
           ],
           "nominates": [
             16,8
