@@ -904,6 +904,111 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Archana",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/archana.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/archana_pp.png",
+      "id": "19",
+      "start_date": "2023-10-29",
+      "eliminated_date": "",
+      "dial_number": "",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anna Bharathi",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/annabharathi.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/annabharathi_pp.png",
+      "id": "20",
+      "start_date": "2023-10-29",
+      "eliminated_date": "",
+      "dial_number": "",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R J Bravo",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bravo.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bravo_pp.png",
+      "id": "21",
+      "start_date": "2023-10-29",
+      "eliminated_date": "",
+      "dial_number": "",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinesh Gopalsamy",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh_pp.png",
+      "id": "22",
+      "start_date": "2023-10-29",
+      "eliminated_date": "",
+      "dial_number": "",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gana Bala",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala_pp.png",
+      "id": "23",
+      "start_date": "2023-10-29",
+      "eliminated_date": "",
+      "dial_number": "",
+      "isNominated": false,
+      "history": [
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
     }
   ]
 }
