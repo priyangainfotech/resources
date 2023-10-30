@@ -498,9 +498,7 @@
         },
         {
           "week": 5,
-          "note": [
-
-          ],
+          "note": ["Captain"],
           "nominates": [20,21
           ]
         }
