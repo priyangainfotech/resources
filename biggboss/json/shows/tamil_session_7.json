@@ -86,8 +86,7 @@
           "note": [
 
           ],
-          "nominates": [
-
+          "nominates": [19,23
           ]
         }
       ]
@@ -161,7 +160,7 @@
 
           ],
           "nominates": [
-
+            22,19
           ]
         }
       ]
@@ -239,9 +238,7 @@
           "note": [
 
           ],
-          "nominates": [
-
-          ]
+          "nominates": [23,19]
         }
       ]
     },
@@ -293,8 +290,7 @@
           "note": [
 
           ],
-          "nominates": [
-
+          "nominates": [22,19
           ]
         }
       ]
@@ -343,9 +339,7 @@
           "note": [
 
           ],
-          "nominates": [
-
-          ]
+          "nominates": [22,19]
         }]
     },
     {
@@ -400,7 +394,7 @@
 
           ],
           "nominates": [
-
+            21,20
           ]
         }
       ]
@@ -455,7 +449,7 @@
 
           ],
           "nominates": [
-
+            21,20
           ]
         }
 
@@ -508,8 +502,7 @@
           "note": [
 
           ],
-          "nominates": [
-
+          "nominates": [20,21
           ]
         }
       ]
@@ -572,7 +565,7 @@
 
           ],
           "nominates": [
-
+            19,23
           ]
         }
       ]
@@ -621,7 +614,7 @@
 
           ],
           "nominates": [
-
+            22,21
           ]
         }
       ]
@@ -671,7 +664,7 @@
 
           ],
           "nominates": [
-
+            20,21
           ]
         }
       ]
@@ -725,8 +718,7 @@
           "note": [
             "SBH"
           ],
-          "nominates": [
-
+          "nominates": [8,7
           ]
         }
       ]
@@ -860,7 +852,7 @@
         {
           "week": 5,
           "note": [
-
+            19,20
           ],
           "nominates": [
 
@@ -921,7 +913,7 @@
           "notes": [ "SBH"
           ],
           "nominates": [
-
+            7,1
           ]
         }
       ]
@@ -940,9 +932,7 @@
           "week": 5,
           "notes": ["SBH"
           ],
-          "nominates": [
-
-          ]
+          "nominates": [1,8]
         }
       ]
     },
@@ -961,7 +951,7 @@
           "notes": [ "SBH"
           ],
           "nominates": [
-
+            8,3
           ]
         }
       ]
@@ -981,7 +971,7 @@
           "notes": ["SBH"
           ],
           "nominates": [
-
+            3,7
           ]
         }
       ]
@@ -1001,8 +991,7 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [
-
+          "nominates": [5,13
           ]
         }
       ]
