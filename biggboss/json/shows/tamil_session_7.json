@@ -55,13 +55,18 @@
             "Nominated"
           ],
           "nominates": [
-            12,3
+            12,
+            3
           ]
         },
         {
           "week": 2,
           "notes": [
             "Arrest Warrant"
+          ],
+          "nominates": [
+            11,
+            17
           ]
         },
         {
@@ -69,24 +74,34 @@
           "notes": [
             "Nominated"
           ],
-          "nominates": [16,
-            13]
+          "nominates": [
+            16,
+            13
+          ]
         },
         {
           "week": 4,
           "notes": [
-            "Nominated","SBH", "Nominated","Direct Nomination", "Good play at double star task"
+            "Nominated",
+            "SBH",
+            "Nominated",
+            "Direct Nomination",
+            "Good play at double star task"
           ],
           "nominates": [
-            16,5
+            16,
+            5
           ]
         },
         {
           "week": 5,
           "note": [
-            "Nominated", "Love content with RJ Bravo as per Pradeep Plan"
+            "Nominated",
+            "Love content with RJ Bravo as per Pradeep Plan"
           ],
-          "nominates": [19,23
+          "nominates": [
+            19,
+            23
           ]
         }
       ]
@@ -108,7 +123,8 @@
             "Eliminated"
           ],
           "nominates": [
-            6,18
+            6,
+            18
           ]
         }
       ]
@@ -129,7 +145,8 @@
             "SBH"
           ],
           "nominates": [
-            6,11
+            6,
+            11
           ]
         },
         {
@@ -137,6 +154,10 @@
           "notes": [
             "SBH",
             "Joined With Maaya for Planning"
+          ],
+          "nominates": [
+            1,
+            6
           ]
         },
         {
@@ -144,23 +165,33 @@
           "notes": [
             "Nominated"
           ],
-          "nominates": [10,
-            11]
+          "nominates": [
+            10,
+            11
+          ]
         },
         {
           "week": 4,
           "notes": [
-            "Influenced by Maya", "Use words like Cheeri Alunga", "Planned with Vishnu in double star task"
+            "Influenced by Maya",
+            "Use words like Cheeri Alunga",
+            "Planned with Vishnu in double star task"
           ],
-          "nominates": [18,7]
+          "nominates": [
+            18,
+            7
+          ]
         },
         {
           "week": 5,
           "note": [
-            "Nominated", "Love content with Pradeep & Nixen", "Triggered Archana"
+            "Nominated",
+            "Love content with Pradeep & Nixen",
+            "Triggered Archana"
           ],
           "nominates": [
-            22,19
+            22,
+            19
           ]
         }
       ]
@@ -182,7 +213,8 @@
             "Conflicts in Education"
           ],
           "nominates": [
-            5,11
+            5,
+            11
           ]
         },
         {
@@ -199,7 +231,6 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh.png",
       "id": "5",
       "dial_number": "8886602474",
-
       "eliminated_date": "",
       "isNominated": false,
       "history": [
@@ -209,18 +240,25 @@
             "Conflicts with Maya"
           ],
           "nominates": [
-            3,4
+            3,
+            4
           ]
         },
         {
           "week": 2,
           "notes": [
             "SBH"
+          ],
+          "nominates": [
+            6,
+            1
           ]
         },
         {
           "week": 3,
-          "notes": ["Won game against Pradeep"],
+          "notes": [
+            "Won game against Pradeep"
+          ],
           "nominates": [
             13,
             11
@@ -229,16 +267,25 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","Picked Aishu & Vishnu photo in double star task", "Give up Vishnu photo in last minute", "Rule Break (Entered SBH)"
+            "Nominated",
+            "Picked Aishu & Vishnu photo in double star task",
+            "Give up Vishnu photo in last minute",
+            "Rule Break (Entered SBH)"
           ],
-          "nominates": [9,6]
+          "nominates": [
+            9,
+            6
+          ]
         },
         {
           "week": 5,
           "note": [
             "Conflicts with Pradeep on bell task"
           ],
-          "nominates": [23,19]
+          "nominates": [
+            23,
+            19
+          ]
         }
       ]
     },
@@ -259,7 +306,8 @@
             "Disrespecting"
           ],
           "nominates": [
-            3,12
+            3,
+            12
           ]
         },
         {
@@ -267,6 +315,10 @@
           "notes": [
             "Nominated",
             "Pradeep: வாடா, போடா, முட்டு இரு"
+          ],
+          "nominates": [
+            17,
+            8
           ]
         },
         {
@@ -279,18 +331,22 @@
         {
           "week": 4,
           "notes": [
-           "Nominated", "SBH", "Winner of double Gold Star task"
+            "Nominated",
+            "SBH",
+            "Winner of double Gold Star task"
           ],
           "nominates": [
-            13,5
+            13,
+            5
           ]
         },
         {
           "week": 5,
           "note": [
-
           ],
-          "nominates": [22,19
+          "nominates": [
+            22,
+            19
           ]
         }
       ]
@@ -307,18 +363,25 @@
         {
           "week": 1,
           "nominates": [
-            4,2
+            4,
+            2
           ]
         },
         {
           "week": 2,
           "notes": [
             "Love Content With Raveena"
+          ],
+          "nominates": [
+            8,
+            17
           ]
-        },{
+        },
+        {
           "week": 3,
           "notes": [
-            "Nominated", "Lost game against Vishnu"
+            "Nominated",
+            "Lost game against Vishnu"
           ],
           "nominates": [
             8,
@@ -328,18 +391,27 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","SBH", "Won cleaning task against Vishnu", "Lost bathroom cleaning task again Vishnu"
+            "Nominated",
+            "SBH",
+            "Won cleaning task against Vishnu",
+            "Lost bathroom cleaning task again Vishnu"
           ],
           "nominates": [
-            8,16
+            8,
+            16
           ]
         },
         {
           "week": 5,
-          "note": [ "Nominated"
+          "note": [
+            "Nominated"
           ],
-          "nominates": [22,19]
-        }]
+          "nominates": [
+            22,
+            19
+          ]
+        }
+      ]
     },
     {
       "name": "Maya",
@@ -357,7 +429,8 @@
             "Issue with Cool Suresh"
           ],
           "nominates": [
-            12,9
+            12,
+            9
           ]
         },
         {
@@ -367,6 +440,10 @@
             "SBH",
             "Strike Concept",
             "Irritating Dancing"
+          ],
+          "nominates": [
+            7,
+            14
           ]
         },
         {
@@ -383,17 +460,25 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","Eliminate Mani & Raveena in double start task", "Triggered by Vichitra", "Rule Break (Entered SBH)"
+            "Nominated",
+            "Eliminate Mani & Raveena in double start task",
+            "Triggered by Vichitra",
+            "Rule Break (Entered SBH)"
           ],
-          "nominates": [7,9]
+          "nominates": [
+            7,
+            9
+          ]
         },
         {
           "week": 5,
           "note": [
-            "Nominated", "Bullying Archana"
+            "Nominated",
+            "Bullying Archana"
           ],
           "nominates": [
-            21,20
+            21,
+            20
           ]
         }
       ]
@@ -413,13 +498,18 @@
             "SBH"
           ],
           "nominates": [
-            11,6
+            11,
+            6
           ]
         },
         {
           "week": 2,
           "notes": [
             "Fight With Pradeep"
+          ],
+          "nominates": [
+            11,
+            17
           ]
         },
         {
@@ -436,10 +526,15 @@
         {
           "week": 4,
           "notes": [
-           "Nominated", "SBH","Disappointed in captain selection ", "Raised voice for Akshaya", "Raised voice against Vishnu"
+            "Nominated",
+            "SBH",
+            "Disappointed in captain selection ",
+            "Raised voice for Akshaya",
+            "Raised voice against Vishnu"
           ],
           "nominates": [
-            5,13
+            5,
+            13
           ]
         },
         {
@@ -448,10 +543,10 @@
             "Love content with Aishu"
           ],
           "nominates": [
-            21,20
+            21,
+            20
           ]
         }
-
       ]
     },
     {
@@ -467,22 +562,30 @@
         {
           "week": 1,
           "notes": [
-
           ],
           "nominates": [
-            3,2
+            3,
+            2
           ]
         },
         {
           "week": 2,
           "notes": [
-            "Nominated", "Love Content with Saravana", "Gossip With Maya", "Oats குடிங்க"
+            "Nominated",
+            "Love Content with Saravana",
+            "Gossip With Maya",
+            "Oats குடிங்க"
+          ],
+          "nominates": [
+            11,
+            5
           ]
         },
         {
           "week": 3,
           "notes": [
-            "SBH", "Nominated"
+            "SBH",
+            "Nominated"
           ],
           "nominates": [
             7,
@@ -492,14 +595,27 @@
         {
           "week": 4,
           "notes": [
-            "Captain", "Hide photos in double star", "Provides chairs to small boss house", "Appreciated as leader by BB", "Influenced by Maya"
+            "Captain",
+            "Hide photos in double star",
+            "Provides chairs to small boss house",
+            "Appreciated as leader by BB",
+            "Influenced by Maya"
           ],
-          "nominates": [7,6]
+          "nominates": [
+            7,
+            6
+          ]
         },
         {
           "week": 5,
-          "note": ["Captain", "Bulling wild card contestant", "Unfair SBH selection"],
-          "nominates": [20,21
+          "note": [
+            "Captain",
+            "Bulling wild card contestant",
+            "Unfair SBH selection"
+          ],
+          "nominates": [
+            20,
+            21
           ]
         }
       ]
@@ -521,7 +637,8 @@
             "Warning from Kamal"
           ],
           "nominates": [
-            16,2
+            16,
+            2
           ]
         },
         {
@@ -531,7 +648,8 @@
             "Nominated",
             "Nixen: பொறுக்கி",
             "Saravan: வாய ஒடச்சிடுவேன்"
-          ]
+          ],"nominates": [10,14
+        ]
         },
         {
           "week": 3,
@@ -550,19 +668,28 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","SBH", "Triggering Vishnu during nomination", "Rule Break (Entered BB house)"
+            "Nominated",
+            "SBH",
+            "Triggering Vishnu during nomination",
+            "Rule Break (Entered BB house)"
           ],
           "nominates": [
-            5,8
+            5,
+            8
           ]
         },
         {
           "week": 5,
           "notes": [
-            "RED Card","Bullying Archana", "Suggest love content to Akashya", "Use love content with Aishu", "Abusive words to Cool Suresh"
+            "RED Card",
+            "Bullying Archana",
+            "Suggest love content to Akashya",
+            "Use love content with Aishu",
+            "Abusive words to Cool Suresh"
           ],
           "nominates": [
-            19,23
+            19,
+            23
           ]
         }
       ]
@@ -582,13 +709,18 @@
             "Nominated"
           ],
           "nominates": [
-            6,18
+            6,
+            18
           ]
         },
         {
           "week": 2,
           "notes": [
             "Love Content With Mani"
+          ],
+          "nominates": [
+            17,
+            8
           ]
         },
         {
@@ -601,9 +733,14 @@
         {
           "week": 4,
           "notes": [
-            "Done well with family task", "Eliminated Poornima in double star task", "Rule break (Entered to SBH)"
+            "Done well with family task",
+            "Eliminated Poornima in double star task",
+            "Rule break (Entered to SBH)"
           ],
-          "nominates": [18,6]
+          "nominates": [
+            18,
+            6
+          ]
         },
         {
           "week": 5,
@@ -611,7 +748,8 @@
             "Love content with Mani"
           ],
           "nominates": [
-            22,21
+            22,
+            21
           ]
         }
       ]
@@ -628,13 +766,18 @@
         {
           "week": 1,
           "nominates": [
-            9,2
+            9,
+            2
           ]
         },
         {
           "week": 2,
           "notes": [
             "Captain"
+          ],
+          "nominates": [
+            17,
+            5
           ]
         },
         {
@@ -651,17 +794,21 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","Defend Akshaya during Vishnu conflicts"
+            "Nominated",
+            "Defend Akshaya during Vishnu conflicts"
           ],
-          "nominates": [9,11]
+          "nominates": [
+            9,
+            11
+          ]
         },
         {
           "week": 5,
           "note": [
-
           ],
           "nominates": [
-            20,21
+            20,
+            21
           ]
         }
       ]
@@ -683,7 +830,8 @@
             "Tattoo issue"
           ],
           "nominates": [
-            2,3
+            2,
+            3
           ]
         },
         {
@@ -691,6 +839,10 @@
           "notes": [
             "Nominated",
             "Created Cleaning Content"
+          ],
+          "nominates": [
+            17,
+            8
           ]
         },
         {
@@ -706,16 +858,24 @@
         {
           "week": 4,
           "notes": [
-            "Target Pradeep", "Roasted Maya during review"
+            "Target Pradeep",
+            "Roasted Maya during review"
           ],
-          "nominates": [18, 11]
+          "nominates": [
+            18,
+            11
+          ]
         },
         {
           "week": 5,
           "note": [
-            "SBH", "Clever play for NOT allowing BH to nominate", "Won Gold Star on bell task"
+            "SBH",
+            "Clever play for NOT allowing BH to nominate",
+            "Won Gold Star on bell task"
           ],
-          "nominates": [8,7
+          "nominates": [
+            8,
+            7
           ]
         }
       ]
@@ -736,13 +896,18 @@
             "Yellow Card"
           ],
           "nominates": [
-            4,2
+            4,
+            2
           ]
         },
         {
           "week": 2,
           "notes": [
             "SBH"
+          ],
+          "nominates": [
+            1,
+            10
           ]
         },
         {
@@ -775,15 +940,20 @@
             "Nominated"
           ],
           "nominates": [
-            18,8
+            18,
+            8
           ]
-        },{
+        },
+        {
           "week": 2,
           "notes": [
             "Arrest Warrant"
+          ],
+          "nominates": [
+            8,
+            17
           ]
         },
-
         {
           "week": 3,
           "notes": [
@@ -800,7 +970,10 @@
           "notes": [
             "Nominated"
           ],
-          "nominates": [11,18]
+          "nominates": [
+            11,
+            18
+          ]
         }
       ]
     },
@@ -819,7 +992,8 @@
             "Loose Talk"
           ],
           "nominates": [
-            4,3
+            4,
+            3
           ]
         },
         {
@@ -827,6 +1001,10 @@
           "notes": [
             "Nominated",
             "SBH"
+          ],
+          "nominates": [
+            1,
+            6
           ]
         },
         {
@@ -842,17 +1020,25 @@
         {
           "week": 4,
           "notes": [
-           "Nominated", "Conflict with Pradeep for target","Fight with Akshya during task","Planning with Maya & Poornima"
+            "Nominated",
+            "Conflict with Pradeep for target",
+            "Fight with Akshya during task",
+            "Planning with Maya & Poornima"
           ],
-          "nominates": [11,9]
+          "nominates": [
+            11,
+            9
+          ]
         },
         {
           "week": 5,
           "note": [
-            "Clever play not bullying SBH", "Supporting Cool Suresh on Pradeep's abusive bullying"
+            "Clever play not bullying SBH",
+            "Supporting Cool Suresh on Pradeep's abusive bullying"
           ],
           "nominates": [
-            19,20
+            19,
+            20
           ]
         }
       ]
@@ -872,9 +1058,18 @@
             "Nominated"
           ],
           "nominates": [
-            12,2
+            12,
+            2
           ]
-        },{
+        },
+        {
+          "week": 2,
+          "nominates": [
+            17,
+            8
+          ]
+        },
+        {
           "week": 3,
           "notes": [
             "Captain"
@@ -887,10 +1082,12 @@
         {
           "week": 4,
           "notes": [
-            "Nominated","SBH"
+            "Nominated",
+            "SBH"
           ],
           "nominates": [
-            16,8
+            16,
+            8
           ]
         }
       ]
@@ -907,10 +1104,14 @@
       "history": [
         {
           "week": 5,
-          "notes": [ "SBH", "Nominated", "Demanding Respect"
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Demanding Respect"
           ],
           "nominates": [
-            7,1
+            7,
+            1
           ]
         }
       ]
@@ -927,9 +1128,14 @@
       "history": [
         {
           "week": 5,
-          "notes": ["SBH","Nominated"
+          "notes": [
+            "SBH",
+            "Nominated"
           ],
-          "nominates": [1,8]
+          "nominates": [
+            1,
+            8
+          ]
         }
       ]
     },
@@ -945,10 +1151,13 @@
       "history": [
         {
           "week": 5,
-          "notes": [ "SBH", "Nominated"
+          "notes": [
+            "SBH",
+            "Nominated"
           ],
           "nominates": [
-            8,3
+            8,
+            3
           ]
         }
       ]
@@ -965,10 +1174,14 @@
       "history": [
         {
           "week": 5,
-          "notes": ["SBH","Nominated", "Conflicts with Maya & Poornima"
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Conflicts with Maya & Poornima"
           ],
           "nominates": [
-            3,7
+            3,
+            7
           ]
         }
       ]
@@ -986,9 +1199,13 @@
         {
           "week": 5,
           "notes": [
-            "SBH","Nominated", "Song is super"
+            "SBH",
+            "Nominated",
+            "Song is super"
           ],
-          "nominates": [5,13
+          "nominates": [
+            5,
+            13
           ]
         }
       ]
