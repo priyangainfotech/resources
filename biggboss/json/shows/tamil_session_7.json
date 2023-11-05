@@ -46,7 +46,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "1",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602471",
       "history": [
         {
@@ -136,7 +136,7 @@
       "id": "3",
       "eliminated_date": "",
       "dial_number": "8886602470",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -358,7 +358,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -420,7 +420,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1100,7 +1100,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1147,7 +1147,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602492",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1170,7 +1170,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1194,7 +1194,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602489",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
