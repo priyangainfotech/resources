@@ -140,7 +140,7 @@
       "id": "3",
       "eliminated_date": "",
       "dial_number": "8886602470",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -201,7 +201,7 @@
         {
           "week": 6,
           "notes": [
-
+            "Nominated"
           ],
           "nominates": [19,22
           ]
@@ -455,6 +455,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
+      "isCaptain": true,
       "isNominated": false,
       "history": [
         {
@@ -519,7 +520,7 @@
         {
           "week": 6,
           "notes": [
-
+            "Captain"
           ],
           "nominates": [14,19
           ]
@@ -606,8 +607,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": false,
-      "isCaptain": true,
+      "isNominated": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -672,7 +672,7 @@
         {
           "week": 6,
           "notes": [
-
+            "Nominated"
           ],
           "nominates": [22,14]
         }
@@ -1244,7 +1244,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602492",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1260,7 +1260,7 @@
         {
           "week": 6,
           "notes": [
-
+            "Nominated"
           ],
           "nominates": [12,14
           ]
