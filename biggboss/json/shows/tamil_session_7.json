@@ -100,6 +100,13 @@
             19,
             23
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [19,14]
         }
       ]
     },
@@ -189,6 +196,14 @@
           "nominates": [
             22,
             19
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [19,22
           ]
         }
       ]
@@ -283,6 +298,15 @@
             23,
             19
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -345,6 +369,13 @@
             22,
             19
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [22,14]
         }
       ]
     },
@@ -406,6 +437,15 @@
           "nominates": [
             22,
             19
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -477,6 +517,14 @@
             21,
             20
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [14,19
+          ]
         }
       ]
     },
@@ -542,6 +590,14 @@
           "nominates": [
             21,
             20
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [22,7
           ]
         }
       ]
@@ -614,6 +670,13 @@
             20,
             21
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [22,14]
         }
       ]
     },
@@ -748,6 +811,15 @@
             22,
             21
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -807,6 +879,14 @@
             20,
             21
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [22,19
+          ]
         }
       ]
     },
@@ -865,7 +945,7 @@
         },
         {
           "week": 5,
-          "note": [
+          "notes": [
             "SBH",
             "Clever play for NOT allowing BH to nominate",
             "Won Gold Star on bell task"
@@ -873,6 +953,14 @@
           "nominates": [
             8,
             7
+          ]
+        }, {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -1037,6 +1125,14 @@
             19,
             20
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [14,19
+          ]
         }
       ]
     },
@@ -1110,6 +1206,15 @@
             7,
             1
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1156,6 +1261,14 @@
             8,
             3
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [12,14
+          ]
         }
       ]
     },
@@ -1180,6 +1293,15 @@
             3,
             7
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+            "SBH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1203,6 +1325,14 @@
           "nominates": [
             5,
             13
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+
+          ],
+          "nominates": [22,19
           ]
         }
       ]
