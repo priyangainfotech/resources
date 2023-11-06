@@ -304,8 +304,7 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [
-
+          "nominates": [3,10
           ]
         }
       ]
@@ -444,8 +443,7 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [
-
+          "nominates": [3,21
           ]
         }
       ]
@@ -817,8 +815,7 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [
-
+          "nominates": [3,21
           ]
         }
       ]
@@ -897,7 +894,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -957,10 +954,9 @@
         }, {
           "week": 6,
           "notes": [
-            "SBH"
+            "SBH", "Nominated"
           ],
-          "nominates": [
-
+          "nominates": [9,3
           ]
         }
       ]
@@ -1193,7 +1189,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1210,10 +1206,9 @@
         {
           "week": 6,
           "notes": [
-            "SBH"
+            "SBH", "Nominated"
           ],
-          "nominates": [
-
+          "nominates": [1,13
           ]
         }
       ]
@@ -1280,7 +1275,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1297,10 +1292,9 @@
         {
           "week": 6,
           "notes": [
-            "SBH"
+            "SBH", "Nominated"
           ],
-          "nominates": [
-
+          "nominates": [10,3
           ]
         }
       ]
