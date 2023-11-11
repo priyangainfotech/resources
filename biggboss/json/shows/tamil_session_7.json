@@ -107,6 +107,11 @@
 
           ],
           "nominates": [19,14]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -138,9 +143,9 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu.png",
       "id": "3",
-      "eliminated_date": "",
+      "eliminated_date": "2023-11-12",
       "dial_number": "8886602470",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -307,6 +312,12 @@
           "nominates": [3,10
           ]
         }
+      ,
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
+        }
       ]
     },
     {
@@ -375,6 +386,11 @@
 
           ],
           "nominates": [22,14]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -445,6 +461,11 @@
           ],
           "nominates": [3,21
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -455,7 +476,6 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isCaptain": true,
       "isNominated": false,
       "history": [
         {
@@ -524,6 +544,11 @@
           ],
           "nominates": [14,19
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -598,6 +623,11 @@
           ],
           "nominates": [22,7
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -607,7 +637,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
@@ -675,6 +705,11 @@
             "Nominated"
           ],
           "nominates": [22,14]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -818,6 +853,11 @@
           ],
           "nominates": [3,21
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -885,6 +925,11 @@
           ],
           "nominates": [22,19
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -895,7 +940,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -960,6 +1005,11 @@
           ],
           "nominates": [9,3
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1131,6 +1181,11 @@
           ],
           "nominates": [14,19
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1191,7 +1246,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1212,6 +1267,11 @@
           ],
           "nominates": [1,13
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1246,7 +1306,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602492",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1266,6 +1326,11 @@
           ],
           "nominates": [12,14
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1277,7 +1342,8 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isCaptain": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1298,6 +1364,11 @@
           ],
           "nominates": [10,3
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1330,6 +1401,11 @@
           ],
           "nominates": [22,19
           ]
+        },
+        {
+          "week": 7,
+          "notes": [],
+          "nominates": []
         }
       ]
     }
