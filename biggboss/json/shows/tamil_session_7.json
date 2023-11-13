@@ -1366,7 +1366,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Captain"],
           "nominates": [10,13]
         }
       ]
