@@ -43,7 +43,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "1",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602471",
       "history": [
         {
@@ -110,7 +110,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [14,7]
         }
       ]
@@ -400,7 +400,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -463,7 +463,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [1,21]
         }
       ]
@@ -636,7 +636,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -707,7 +707,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [7,12]
         }
       ]
@@ -793,7 +793,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "id": "12",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602482",
       "history": [
         {
@@ -855,7 +855,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [13,19]
         }
       ]
@@ -866,7 +866,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602483",
       "history": [
         {
@@ -927,7 +927,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [17,21]
         }
       ]
@@ -939,7 +939,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1007,7 +1007,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [13,12]
         }
       ]
@@ -1305,7 +1305,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602492",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1328,7 +1328,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [23,14]
         }
       ]
@@ -1379,7 +1379,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602489",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1403,7 +1403,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": [10,21]
         }
       ]
