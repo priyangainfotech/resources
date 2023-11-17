@@ -38,6 +38,47 @@
               "percentage": 5.37
             }
           ]
+        },
+        {
+          "week": 7,
+          "players": [
+            {
+              "id": 14,
+              "vote": 546221,
+              "percentage": 53.88
+            },
+            {
+              "id": 7,
+              "vote": 95042,
+              "percentage": 9.37
+            },
+            {
+              "id": 10,
+              "vote": 62334 ,
+              "percentage": 6.15
+            },
+            {
+              "id": 21,
+              "vote": 61641,
+              "percentage": 6.08
+            },
+
+            {
+              "id": 1,
+              "vote": 52198,
+              "percentage": 5.15
+            },
+            {
+              "id": 23,
+              "vote": 51869,
+              "percentage": 5.12
+            },
+            {
+              "id": 13,
+              "vote": 51492,
+              "percentage": 5.07
+            }
+          ]
         }
       ]
     }

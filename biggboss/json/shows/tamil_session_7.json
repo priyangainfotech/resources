@@ -94,7 +94,8 @@
           "week": 5,
           "note": [
             "Nominated",
-            "Love content with RJ Bravo as per Pradeep Plan"
+            "Love content with RJ Bravo as per Pradeep Plan",
+            "Jail"
           ],
           "nominates": [
             19,
@@ -945,7 +946,7 @@
           "week": 1,
           "notes": [
             "SBH",
-            "SBH (Punishment)",
+            "Rule Break",
             "Support Education",
             "Tattoo issue"
           ],
@@ -1007,7 +1008,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "GS-2 (Laddu task)"],
+          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "GS-2 (Laddu task)", "Jail", "Rule Break"],
           "nominates": [13,12]
         }
       ]
@@ -1176,7 +1177,7 @@
         {
           "week": 6,
           "notes": [
-            "Not joining with Bullies gang", "GS (BB Court vs Poornima)", "GS (BB Court Judge)"
+            "Not joining with Bullies gang", "GS (BB Court vs Poornima)", "GS (BB Court Judge)", "Jail"
           ],
           "nominates": [14,19
           ]
@@ -1269,7 +1270,7 @@
         },
         {
           "week": 7,
-          "notes": [],
+          "notes": ["Rule Break", "Mocking Vickraman", "Bullying Raveena", "Group with Vichitra"],
           "nominates": [8,10]
         }
       ]
