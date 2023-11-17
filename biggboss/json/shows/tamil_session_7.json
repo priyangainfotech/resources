@@ -463,7 +463,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "GS-1 (Argument Girls vs Boys)"],
           "nominates": [1,21]
         }
       ]
@@ -855,7 +855,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "GS (Laddu task)"],
           "nominates": [13,19]
         }
       ]
@@ -1007,7 +1007,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM"],
+          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "GS-2 (Laddu task)"],
           "nominates": [13,12]
         }
       ]
@@ -1183,7 +1183,7 @@
         },
         {
           "week": 7,
-          "notes": ["Fight with Dinesh in Secrete task"],
+          "notes": ["Fight with Dinesh in Secrete task", "GS-2 (Laddu task)"],
           "nominates": [13,1]
         }
       ]
