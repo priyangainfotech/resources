@@ -43,7 +43,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "id": "1",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602471",
       "history": [
         {
@@ -113,6 +113,11 @@
           "week": 7,
           "notes": ["Nominated"],
           "nominates": [14,7]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -317,6 +322,11 @@
           "week": 7,
           "notes": [],
           "nominates": [13,1]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -391,6 +401,11 @@
           "week": 7,
           "notes": [],
           "nominates": [7,13]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -401,7 +416,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -466,6 +481,11 @@
           "week": 7,
           "notes": ["Nominated", "GS-1 (Argument Girls vs Boys)"],
           "nominates": [1,21]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -549,6 +569,11 @@
           "week": 7,
           "notes": [],
           "nominates": [7,23]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -628,6 +653,11 @@
           "week": 7,
           "notes": ["GS (Unnai Pol Oruvan)"],
           "nominates": [14,7]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -637,7 +667,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
@@ -710,6 +740,11 @@
           "week": 7,
           "notes": ["Nominated", "Demanding to call her her back as MAM from Vichitra"],
           "nominates": [7,12]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -794,7 +829,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "id": "12",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602482",
       "history": [
         {
@@ -858,6 +893,11 @@
           "week": 7,
           "notes": ["Nominated", "GS (Laddu task)"],
           "nominates": [13,19]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -867,7 +907,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602483",
       "history": [
         {
@@ -930,6 +970,11 @@
           "week": 7,
           "notes": ["Nominated"],
           "nominates": [17,21]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -940,7 +985,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1010,6 +1055,11 @@
           "week": 7,
           "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "GS-2 (Laddu task)", "Jail", "Rule Break"],
           "nominates": [13,12]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1186,6 +1236,11 @@
           "week": 7,
           "notes": ["Fight with Dinesh in Secrete task", "GS-2 (Laddu task)"],
           "nominates": [13,1]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1272,6 +1327,11 @@
           "week": 7,
           "notes": ["Rule Break", "Mocking Vickraman", "Bullying Raveena", "Group with Vichitra"],
           "nominates": [8,10]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1306,7 +1366,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602492",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1331,6 +1391,11 @@
           "week": 7,
           "notes": ["Nominated"],
           "nominates": [23,14]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1369,6 +1434,11 @@
           "week": 7,
           "notes": ["Captain"],
           "nominates": [10,13]
+        },
+        {
+          "week": 8,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1378,9 +1448,9 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala_pp.png",
       "id": "23",
       "start_date": "2023-10-29",
-      "eliminated_date": "",
+      "eliminated_date": "2023-11-19",
       "dial_number": "8886602489",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
