@@ -44,40 +44,46 @@
           "players": [
             {
               "id": 14,
-              "vote": 546221,
-              "percentage": 53.88
+              "vote": 609598,
+              "percentage": 54.02
             },
             {
               "id": 7,
-              "vote": 95042,
-              "percentage": 9.37
+              "vote": 104902,
+              "percentage": 9.3
+            },
+            {
+              "id": 12,
+              "vote": 101699 ,
+              "percentage": 9.01
             },
             {
               "id": 10,
-              "vote": 62334 ,
-              "percentage": 6.15
+              "vote": 69283 ,
+              "percentage": 6.14
             },
             {
               "id": 21,
-              "vote": 61641,
-              "percentage": 6.08
+              "vote": 67401,
+              "percentage": 5.91
             },
 
             {
               "id": 1,
-              "vote": 52198,
-              "percentage": 5.15
-            },
-            {
-              "id": 23,
-              "vote": 51869,
-              "percentage": 5.12
+              "vote": 58918,
+              "percentage": 5.22
             },
             {
               "id": 13,
-              "vote": 51492,
-              "percentage": 5.07
+              "vote": 58336,
+              "percentage": 5.17
+            },
+            {
+              "id": 23,
+              "vote": 58312,
+              "percentage": 5.17
             }
+
           ]
         }
       ]

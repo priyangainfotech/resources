@@ -891,7 +891,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated", "GS (Laddu task)"],
+          "notes": ["Nominated", "Sharing gossip info to Nixen"],
           "nominates": [13,19]
         },
         {
@@ -1053,7 +1053,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "GS-2 (Laddu task)", "Jail", "Rule Break"],
+          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "Jail", "Rule Break"],
           "nominates": [13,12]
         },
         {
@@ -1234,7 +1234,7 @@
         },
         {
           "week": 7,
-          "notes": ["Fight with Dinesh in Secrete task", "GS-2 (Laddu task)"],
+          "notes": ["Fight with Dinesh in Secrete task", "GS-5 (Laddu task)"],
           "nominates": [13,1]
         },
         {
@@ -1432,12 +1432,12 @@
         },
         {
           "week": 7,
-          "notes": ["Captain"],
+          "notes": ["Captain", "Handle Vichitra & Archana in Jail issue", "Acting as Akshya"],
           "nominates": [10,13]
         },
         {
           "week": 8,
-          "notes": [],
+          "notes": ["Captain"],
           "nominates": []
         }
       ]
