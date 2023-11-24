@@ -1071,8 +1071,8 @@
       "dial_number": "8886602484",
       "eliminated_date": "2023-10-21",
       "re_entry_date": null,
-      "re_evicted_date": "2023-11-23",
-      "isNominated": null,
+      "re_evicted_date": null,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
