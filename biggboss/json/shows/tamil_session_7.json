@@ -60,7 +60,7 @@
         {
           "week": 2,
           "notes": [
-            "Arrest Warrant"
+            "Arrest Warrant", "GS"
           ],
           "nominates": [
             11,
@@ -437,6 +437,7 @@
       "history": [
         {
           "week": 1,
+          "notes": ["GS"],
           "nominates": [
             4,
             2
