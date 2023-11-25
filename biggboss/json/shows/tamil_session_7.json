@@ -385,7 +385,8 @@
           "notes": [
             "Nominated",
             "SBH",
-            "GS-2(Winner of double Gold Star task)"
+            "GS (Winner of double Gold Star task)",
+            "GS"
           ],
           "nominates": [
             13,
@@ -1297,7 +1298,7 @@
         },
         {
           "week": 7,
-          "notes": ["Fight with Dinesh in Secrete task", "GS-5 (Laddu task)"],
+          "notes": ["Fight with Dinesh in Secrete task"],
           "nominates": [13,1]
         },
         {
