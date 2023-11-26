@@ -85,6 +85,54 @@
             }
 
           ]
+        },
+        {
+          "week": 8,
+          "last_update_date": "2023-11-26",
+          "players": [
+            {
+              "id": 18,
+              "vote": 447491,
+              "percentage": 37.66
+            },
+            {
+              "id": 14,
+              "vote": 262116,
+              "percentage": 22.06
+            },
+            {
+              "id": 7,
+              "vote": 88520,
+              "percentage": 7.45
+            },
+            {
+              "id": 12,
+              "vote": 80286,
+              "percentage": 6.75
+            },
+            {
+              "id": 10,
+              "vote": 78963,
+              "percentage":6.65
+            },
+
+            {
+              "id": 8,
+              "vote": 77326,
+              "percentage": 6.51
+            },
+            {
+              "id": 1,
+              "vote": 76979,
+              "percentage": 6.48
+            },
+            {
+              "id": 21,
+              "vote": 76675,
+              "percentage": 6.44
+            }
+
+          ]
         }
       ]
     }
