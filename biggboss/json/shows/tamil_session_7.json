@@ -129,7 +129,7 @@
       "eliminated_date": "2023-10-08",
       "re_entry_date": "2023-11-26",
       "dial_number": "8886602472",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -261,7 +261,7 @@
       "id": "5",
       "dial_number": "8886602474",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -347,7 +347,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "id": "6",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602476",
       "history": [
         {
@@ -433,7 +433,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -702,7 +702,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -953,7 +953,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602483",
       "history": [
         {
@@ -1036,7 +1036,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1481,7 +1481,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
