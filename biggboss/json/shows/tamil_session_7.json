@@ -336,7 +336,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [8,14]
         }
       ]
@@ -784,7 +784,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [7,2]
         }
       ]
@@ -1024,7 +1024,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [7,14]
         }
       ]
@@ -1167,7 +1167,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [7,12]
         }
       ]
@@ -1308,7 +1308,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [2,6]
         }
       ]
@@ -1404,7 +1404,7 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": [6,2]
         }
       ]
