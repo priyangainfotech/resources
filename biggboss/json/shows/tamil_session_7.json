@@ -146,7 +146,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [5,10]
         }
       ]
     },
@@ -337,7 +337,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [8,14]
         }
       ]
     },
@@ -422,7 +422,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [5,13]
         }
       ]
     },
@@ -508,7 +508,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [15,10]
         }
       ]
     },
@@ -601,7 +601,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [13,10]
         }
 
       ]
@@ -692,7 +692,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [19,13]
         }
       ]
     },
@@ -785,7 +785,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [7,2]
         }
       ]
     },
@@ -943,7 +943,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [13,10]
         }
       ]
     },
@@ -1025,7 +1025,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [7,14]
         }
       ]
     },
@@ -1115,7 +1115,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [5,13]
         }
       ]
     },
@@ -1168,7 +1168,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [7,12]
         }
       ]
     },
@@ -1309,7 +1309,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [2,6]
         }
       ]
     },
@@ -1405,7 +1405,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [6,2]
         }
       ]
     },
@@ -1516,7 +1516,7 @@
         {
           "week": 9,
           "notes": [],
-          "nominates": []
+          "nominates": [13,17]
         }
       ]
     },
