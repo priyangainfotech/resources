@@ -129,7 +129,7 @@
       "eliminated_date": "2023-10-08",
       "re_entry_date": "2023-11-26",
       "dial_number": "8886602472",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -147,6 +147,11 @@
           "week": 9,
           "notes": ["Nominated"],
           "nominates": [5,10]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -261,7 +266,7 @@
       "id": "5",
       "dial_number": "8886602474",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -336,8 +341,13 @@
         },
         {
           "week": 9,
-          "notes": ["SBH","Nominated"],
+          "notes": ["SBH","Nominated","Conflicts with Vichitra"],
           "nominates": [8,14]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -346,7 +356,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "id": "6",
-      "eliminated_date": "",
+      "eliminated_date": "2023-12-03",
       "isNominated": true,
       "dial_number": "8886602476",
       "history": [
@@ -433,7 +443,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -507,8 +517,13 @@
         },
         {
           "week": 9,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Has red card point to Nixen", "Accusing Nixen for captaincy task"],
           "nominates": [15,10]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -601,8 +616,13 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["3rd Bell against Nixen", "Discussing bell strategy with Poornima"],
           "nominates": [13,10]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -614,7 +634,6 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isCaptain": true,
       "isNominated": false,
       "history": [
         {
@@ -692,8 +711,13 @@
         },
         {
           "week": 9,
-          "notes": ["Captain"],
+          "notes": ["Captain", "Saved himself captaincy", "Well arguments"],
           "nominates": [19,13]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -703,7 +727,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
@@ -785,8 +809,13 @@
         },
         {
           "week": 9,
-          "notes": ["SBH","Nominated"],
+          "notes": ["SBH","Nominated", "Help to save Nixen captaincy", "Change her position at 3rd time", "Try to solve Vishnu & Archana issue"],
           "nominates": [7,2]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -943,8 +972,13 @@
         },
         {
           "week": 9,
-          "notes": [],
+          "notes": ["Said, I'm enjoying fight with Archana", "Called Jovika as Gang"],
           "nominates": [13,10]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -954,7 +988,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602483",
       "history": [
         {
@@ -1026,8 +1060,13 @@
         },
         {
           "week": 9,
-          "notes": ["SBH", "Nominated"],
+          "notes": ["SBH", "Nominated", "Nose cut to Archana while she bullying", "Tea fight with Archana"],
           "nominates": [7,14]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1038,7 +1077,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1117,8 +1156,13 @@
         },
         {
           "week": 9,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Archana accusing her for standup in favor"],
           "nominates": [5,13]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1172,6 +1216,11 @@
           "week": 9,
           "notes": ["SBH"],
           "nominates": [7,12]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1232,6 +1281,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
       "id": "17",
+      "isCaptain": true,
       "eliminated_date": "",
       "dial_number": "8886602486",
       "isNominated": false,
@@ -1311,8 +1361,13 @@
         },
         {
           "week": 9,
-          "notes": ["SBH", "GS (Entertainment)"],
+          "notes": ["SBH", "GS (Entertainment)", "Fight with Archana", "Accused as manhandling by Archana"],
           "nominates": [2,6]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1407,8 +1462,13 @@
         },
         {
           "week": 9,
-          "notes": ["SBH", "Mocking, Bullying Vishnu", "Bullying Vickraman"],
+          "notes": ["SBH", "Mocking, Bullying Vishnu", "Bullying Vickraman", "Accusing Vichitra", "Accusing Nixen for being in favor of their team", "Backbiting Vichitra"],
           "nominates": [6,2]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1484,7 +1544,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1518,8 +1578,13 @@
         },
         {
           "week": 9,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Backbiting about Archana", "Stoping Cool Suresh not making noise", "Being rude in knot task"],
           "nominates": [13,17]
+        },
+        {
+          "week": 10,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
