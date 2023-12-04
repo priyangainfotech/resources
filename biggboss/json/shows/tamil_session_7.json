@@ -9,7 +9,7 @@
     "unofficial_voting": [
       {
         "name": "Pi App Studio",
-        "link": "https://strawpoll.com/1MnwOoxmAn7"
+        "link": "https://strawpoll.com/poy9Wp22OgJ"
       },
       {
         "name": "TamilGlitz",
@@ -151,7 +151,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [22,7]
         }
       ]
     },
@@ -347,7 +347,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [13,9]
         }
       ]
     },
@@ -443,7 +443,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -522,8 +522,8 @@
         },
         {
           "week": 10,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [2,9]
         }
       ]
     },
@@ -622,7 +622,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [2,12]
         }
 
       ]
@@ -634,7 +634,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -716,8 +716,8 @@
         },
         {
           "week": 10,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [19,7]
         }
       ]
     },
@@ -815,7 +815,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [22,7]
         }
       ]
     },
@@ -978,7 +978,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [8,14]
         }
       ]
     },
@@ -1066,7 +1066,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [19,14]
         }
       ]
     },
@@ -1077,7 +1077,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1161,8 +1161,8 @@
         },
         {
           "week": 10,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [15,10]
         }
       ]
     },
@@ -1220,7 +1220,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [7,22]
         }
       ]
     },
@@ -1367,7 +1367,7 @@
         {
           "week": 10,
           "notes": [],
-          "nominates": []
+          "nominates": [15,9]
         }
       ]
     },
@@ -1428,7 +1428,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1467,8 +1467,8 @@
         },
         {
           "week": 10,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [10,9]
         }
       ]
     },
@@ -1544,7 +1544,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1583,8 +1583,8 @@
         },
         {
           "week": 10,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [13,9]
         }
       ]
     },
