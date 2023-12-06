@@ -621,7 +621,7 @@
         },
         {
           "week": 10,
-          "notes": [],
+          "notes": ["GS (Toy-Child Task)"],
           "nominates": [2,12]
         }
 
@@ -1219,7 +1219,7 @@
         },
         {
           "week": 10,
-          "notes": ["SBH"],
+          "notes": ["SBH", "GS (Toy Task)"],
           "nominates": [7,22]
         }
       ]
