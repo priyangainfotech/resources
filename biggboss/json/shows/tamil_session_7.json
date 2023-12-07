@@ -716,7 +716,7 @@
         },
         {
           "week": 10,
-          "notes": ["Nominated", "SBH"],
+          "notes": ["Nominated", "SBH", "GS (Best professor)"],
           "nominates": [19,7]
         }
       ]
@@ -977,7 +977,7 @@
         },
         {
           "week": 10,
-          "notes": ["SBH"],
+          "notes": ["SBH", "GS (Best student)"],
           "nominates": [8,14]
         }
       ]
