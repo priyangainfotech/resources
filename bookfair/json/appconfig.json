@@ -1,6 +1,6 @@
 {
     "ads":{
-        "home":true,
+        "home":false,
         "service":true,
         "appointment":true
     },
