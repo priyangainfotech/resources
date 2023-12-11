@@ -152,6 +152,11 @@
           "week": 10,
           "notes": ["SBH"],
           "nominates": [22,7]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -348,6 +353,11 @@
           "week": 10,
           "notes": [],
           "nominates": [13,9]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
       ]
     },
@@ -441,9 +451,10 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
       "id": "7",
+      "isCaptain": true,
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -524,6 +535,11 @@
           "week": 10,
           "notes": ["Nominated"],
           "nominates": [2,9]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -623,6 +639,11 @@
           "week": 10,
           "notes": ["GS (Toy-Child Task)"],
           "nominates": [2,12]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
 
       ]
@@ -634,7 +655,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -718,7 +739,13 @@
           "week": 10,
           "notes": ["Nominated", "SBH", "GS (Best professor)", "Sorikiduven", "Yellow Card"],
           "nominates": [19,7]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
+
       ]
     },
     {
@@ -816,6 +843,11 @@
           "week": 10,
           "notes": ["SBH"],
           "nominates": [22,7]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -979,6 +1011,11 @@
           "week": 10,
           "notes": ["SBH", "GS (Best student)"],
           "nominates": [8,14]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
       ]
     },
@@ -1067,6 +1104,11 @@
           "week": 10,
           "notes": ["SBH", "GS", "GS", "GS", "GS", "GS (5 Jackpot)"],
           "nominates": [19,14]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
       ]
     },
@@ -1077,7 +1119,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1163,6 +1205,11 @@
           "week": 10,
           "notes": ["Nominated"],
           "nominates": [15,10]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
       ]
     },
@@ -1221,6 +1268,11 @@
           "week": 10,
           "notes": ["SBH", "GS (Toy Task)"],
           "nominates": [7,22]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1281,7 +1333,6 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
       "id": "17",
-      "isCaptain": true,
       "eliminated_date": "",
       "dial_number": "8886602486",
       "isNominated": false,
@@ -1368,6 +1419,11 @@
           "week": 10,
           "notes": [],
           "nominates": [15,9]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1428,7 +1484,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1469,6 +1525,11 @@
           "week": 10,
           "notes": ["Nominated", "Urimai kural against Nixen", "Roasted by Kamal for using Vinush & Aishu name"],
           "nominates": [10,9]
+        },
+        {
+          "week": 11,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1585,6 +1646,11 @@
           "week": 10,
           "notes": ["Nominated"],
           "nominates": [13,9]
+        },
+        {
+          "week": 11,
+          "notes": ["SBH"],
+          "nominates": []
         }
       ]
     },
