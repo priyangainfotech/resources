@@ -129,7 +129,7 @@
       "eliminated_date": "2023-10-08",
       "re_entry_date": "2023-11-26",
       "dial_number": "8886602472",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -155,8 +155,8 @@
         },
         {
           "week": 11,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [22,12]
         }
       ]
     },
@@ -271,7 +271,7 @@
       "id": "5",
       "dial_number": "8886602474",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -356,8 +356,8 @@
         },
         {
           "week": 11,
-          "notes": ["SBH"],
-          "nominates": []
+          "notes": ["SBH","Nominated"],
+          "nominates": [14,12]
         }
       ]
     },
@@ -539,7 +539,7 @@
         {
           "week": 11,
           "notes": [],
-          "nominates": []
+          "nominates": [2, 9]
         }
       ]
     },
@@ -643,7 +643,7 @@
         {
           "week": 11,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [22,19]
         }
 
       ]
@@ -655,7 +655,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -742,8 +742,8 @@
         },
         {
           "week": 11,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [5,22]
         }
 
       ]
@@ -847,7 +847,7 @@
         {
           "week": 11,
           "notes": [],
-          "nominates": []
+          "nominates": [22,19]
         }
       ]
     },
@@ -1015,7 +1015,7 @@
         {
           "week": 11,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [19,2]
         }
       ]
     },
@@ -1108,7 +1108,7 @@
         {
           "week": 11,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [17]
         }
       ]
     },
@@ -1209,7 +1209,7 @@
         {
           "week": 11,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [22,5]
         }
       ]
     },
@@ -1272,7 +1272,7 @@
         {
           "week": 11,
           "notes": [],
-          "nominates": []
+          "nominates": [22,5]
         }
       ]
     },
@@ -1335,7 +1335,7 @@
       "id": "17",
       "eliminated_date": "",
       "dial_number": "8886602486",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1422,8 +1422,8 @@
         },
         {
           "week": 11,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [2,10]
         }
       ]
     },
@@ -1484,7 +1484,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1528,8 +1528,8 @@
         },
         {
           "week": 11,
-          "notes": [],
-          "nominates": []
+          "notes": ["Nominated"],
+          "nominates": [9,22]
         }
       ]
     },
@@ -1649,8 +1649,8 @@
         },
         {
           "week": 11,
-          "notes": ["SBH"],
-          "nominates": []
+          "notes": ["SBH","Nominated"],
+          "nominates": [9,10]
         }
       ]
     },
