@@ -356,7 +356,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated"],
+          "notes": ["SBH","Nominated", "Escape from BB"],
           "nominates": [14,12]
         }
       ]
@@ -538,7 +538,7 @@
         },
         {
           "week": 11,
-          "notes": [],
+          "notes": ["Captain", "Fraud in dance task"],
           "nominates": [2, 9]
         }
       ]
@@ -642,7 +642,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH"],
+          "notes": ["SBH", "Ishwarya crack dance"],
           "nominates": [22,19]
         }
 
@@ -742,7 +742,7 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Excellent in Dance task"],
           "nominates": [5,22]
         }
 
@@ -846,7 +846,7 @@
         },
         {
           "week": 11,
-          "notes": [],
+          "notes": ["Supporting all HM in dancing"],
           "nominates": [22,19]
         }
       ]
@@ -1014,7 +1014,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH"],
+          "notes": ["SBH", "Given whole money to Mani"],
           "nominates": [19,2]
         }
       ]
@@ -1208,7 +1208,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH"],
+          "notes": ["SBH", "Neelabari dance super"],
           "nominates": [22,5]
         }
       ]
@@ -1417,7 +1417,7 @@
         },
         {
           "week": 10,
-          "notes": [],
+          "notes": ["Captain", "Worst, Roasted by Kamal"],
           "nominates": [15,9]
         },
         {
@@ -1528,7 +1528,7 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Good in Rowdy akka character"],
           "nominates": [9,22]
         }
       ]
@@ -1644,12 +1644,12 @@
         },
         {
           "week": 10,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Roasted for Davulath word"],
           "nominates": [13,9]
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated"],
+          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh"],
           "nominates": [9,10]
         }
       ]
