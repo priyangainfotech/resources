@@ -742,7 +742,7 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Excellent in Dance task"],
+          "notes": ["Nominated", "Excellent in Dance task", "TTF-1 (Dance Task)"],
           "nominates": [5,22]
         }
 
@@ -846,7 +846,7 @@
         },
         {
           "week": 11,
-          "notes": ["Supporting all HM in dancing"],
+          "notes": ["Supporting all HM in dancing", "TTF-1 (From Archana)"],
           "nominates": [22,19]
         }
       ]
@@ -1649,7 +1649,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh"],
+          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh", "TTF-1 (Best Performance)"],
           "nominates": [9,10]
         }
       ]
