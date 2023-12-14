@@ -130,7 +130,7 @@
       "re_entry_date": "2023-11-26",
       "re_evicted_date": "2023-12-14",
       "dial_number": "8886602472",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
