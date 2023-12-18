@@ -452,7 +452,6 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
       "id": "7",
-      "isCaptain": true,
       "dial_number": "8886602477",
       "eliminated_date": "",
       "isNominated": false,
@@ -653,7 +652,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
 
@@ -758,7 +757,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
 
@@ -867,7 +866,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
       ]
@@ -953,7 +952,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "id": "12",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602482",
       "history": [
         {
@@ -1040,7 +1039,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": []
         }
       ]
@@ -1051,7 +1050,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602483",
       "history": [
         {
@@ -1138,7 +1137,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": []
         }
       ]
@@ -1150,7 +1149,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1244,7 +1243,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["Nominated"],
           "nominates": []
         }
       ]
@@ -1312,7 +1311,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
       ]
@@ -1579,7 +1578,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
       ]
@@ -1705,7 +1704,7 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
       ]
