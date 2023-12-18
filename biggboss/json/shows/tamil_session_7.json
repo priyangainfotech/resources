@@ -541,6 +541,11 @@
           "week": 11,
           "notes": ["Captain", "Fraud in dance task"],
           "nominates": [2, 9]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -643,8 +648,13 @@
         },
         {
           "week": 11,
-          "notes": ["SBH", "Ishwarya crack dance"],
+          "notes": ["SBH", "Ishwarya crack dance", "Roast for calling Vickram as Cockroaches"],
           "nominates": [22,19]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -656,7 +666,7 @@
       "id": "9",
       "dial_number": "8886602479",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -745,6 +755,11 @@
           "week": 11,
           "notes": ["Nominated", "Excellent in Dance task", "TTF-1 (Dance Task)"],
           "nominates": [5,22]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -849,6 +864,11 @@
           "week": 11,
           "notes": ["Supporting all HM in dancing", "TTF-1 (From Archana)"],
           "nominates": [22,19]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1015,8 +1035,13 @@
         },
         {
           "week": 11,
-          "notes": ["SBH", "Given whole money to Mani"],
+          "notes": ["SBH", "Given whole money to Mani", "Roasted For favorism"],
           "nominates": [19,2]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1110,6 +1135,11 @@
           "week": 11,
           "notes": ["SBH"],
           "nominates": [17]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1209,8 +1239,13 @@
         },
         {
           "week": 11,
-          "notes": ["SBH", "Neelabari dance super"],
+          "notes": ["SBH", "Neelabari dance super", "Cool Suresh damaged her in front of Kamal"],
           "nominates": [22,5]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1272,8 +1307,13 @@
         },
         {
           "week": 11,
-          "notes": [],
+          "notes": ["Collect all money from Poornima & Maya"],
           "nominates": [22,5]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1336,7 +1376,7 @@
       "id": "17",
       "eliminated_date": "",
       "dial_number": "8886602486",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1423,8 +1463,13 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Use Poornima in saturday episode"],
           "nominates": [2,10]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1485,7 +1530,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1529,8 +1574,13 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Good in Rowdy akka character"],
+          "notes": ["Nominated", "Good in Rowdy akka character", "130/100 Percentage. Foolish"],
           "nominates": [9,22]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1606,7 +1656,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1650,8 +1700,13 @@
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh", "TTF-1 (Best Performance)"],
+          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh", "TTF-1 (Best Performance)", "Discussing upcoming NM"],
           "nominates": [9,10]
+        },
+        {
+          "week": 12,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
