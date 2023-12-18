@@ -9,7 +9,7 @@
     "unofficial_voting": [
       {
         "name": "Pi App Studio",
-        "link": "https://strawpoll.com/XmZRxE3DKnd"
+        "link": "https://strawpoll.com/YVyPmqr2LnN"
       },
       {
         "name": "TamilGlitz",
@@ -22,8 +22,12 @@
     ],
     "polls": [
       {
-        "name": "Discussing Caste name in Bigg Boss show is ?",
-        "link": "https://strawpoll.com/mpnbo6WjQg5"
+        "name": "Do you think Archana has PR?",
+        "link": "https://strawpoll.com/6QnMOdx7bZe"
+      },
+      {
+        "name": "Who will be evicted this week?",
+        "link": "https://strawpoll.com/6QnMOdx7bZe"
       }
     ]
   },
@@ -653,7 +657,7 @@
         {
           "week": 12,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [12,14]
         }
 
       ]
@@ -758,7 +762,7 @@
         {
           "week": 12,
           "notes": ["SBH"],
-          "nominates": []
+          "nominates": [12,7]
         }
 
       ]
@@ -1244,7 +1248,7 @@
         {
           "week": 12,
           "notes": ["Nominated"],
-          "nominates": []
+          "nominates": [13,22]
         }
       ]
     },
