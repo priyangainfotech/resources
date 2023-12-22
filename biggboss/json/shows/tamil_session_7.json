@@ -1506,6 +1506,11 @@
           "week": 12,
           "notes": [],
           "nominates": [8,13]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
