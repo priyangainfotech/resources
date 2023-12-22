@@ -547,8 +547,12 @@
         },
         {
           "week": 12,
-          "notes": [],
+          "notes": ["Roasted by Raveena parents"],
           "nominates": [15,9]
+        },{
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -658,6 +662,10 @@
           "week": 12,
           "notes": ["SBH", "Acting listen to Nixen", "+ve from all families"],
           "nominates": [12,14]
+        },{
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -763,6 +771,11 @@
           "week": 12,
           "notes": ["SBH"],
           "nominates": [12,7]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -872,6 +885,11 @@
           "week": 12,
           "notes": ["SBH", "Poornima mom was rocking. So much of positive"],
           "nominates": [14,7]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -956,7 +974,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "id": "12",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "dial_number": "8886602482",
       "history": [
         {
@@ -1045,6 +1063,11 @@
           "week": 12,
           "notes": ["Nominated"],
           "nominates": [15,8]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1053,8 +1076,8 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "id": "13",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-12-23",
+      "isNominated": false,
       "dial_number": "8886602483",
       "history": [
         {
@@ -1153,7 +1176,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1249,6 +1272,11 @@
           "week": 12,
           "notes": ["Nominated", "Received family favourite award"],
           "nominates": [13,22]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1317,6 +1345,11 @@
           "week": 12,
           "notes": ["SBH", "Vijay mom visited home, she is +ve too"],
           "nominates": [12,10]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1584,6 +1617,11 @@
           "week": 12,
           "notes": ["SBH", "Archana dad cornering Vickraman (Humanity) and Nixen (Kalli Paal)", "Calling Archana as Cheap Behaviour"],
           "nominates": [13,12]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1710,6 +1748,11 @@
           "week": 12,
           "notes": ["SBH"],
           "nominates": [13,14]
+        },
+        {
+          "week": 13,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
