@@ -551,7 +551,7 @@
           "nominates": [15,9]
         },{
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-2 (For Hare Game)", "Doing favor for Vishnu"],
+          "notes": ["Nominated", "SBH", "TTF-2", "2 pts to Mani, doing favor for Vishnu"],
           "nominates": [8,15]
         }
       ]
@@ -665,7 +665,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-1 (For Hare Game)"],
+          "notes": ["Nominated", "TTF-1", "1 point for Hare Game"],
           "nominates": [12,7]
         }
 
@@ -1510,7 +1510,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-3 (For Hare Game)"],
+          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu"],
           "nominates": [8,15]
         }
       ]
