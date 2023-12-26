@@ -551,7 +551,7 @@
           "nominates": [15,9]
         },{
           "week": 13,
-          "notes": ["Nominated", "SBH"],
+          "notes": ["Nominated", "SBH", "TTF-2 (For Hare Game)"],
           "nominates": [8,15]
         }
       ]
@@ -662,9 +662,10 @@
           "week": 12,
           "notes": ["SBH", "Acting listen to Nixen", "+ve from all families"],
           "nominates": [12,14]
-        },{
+        },
+        {
           "week": 13,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "TTF-1 (For Hare Game)"],
           "nominates": [12,7]
         }
 
@@ -1509,7 +1510,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH"],
+          "notes": ["Nominated", "SBH", "TTF-3 (For Hare Game)"],
           "nominates": [8,15]
         }
       ]
