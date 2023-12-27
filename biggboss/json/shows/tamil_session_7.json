@@ -665,7 +665,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-1", "1 point for Hare Game"],
+          "notes": ["Nominated", "TTF-1", "1 point for Hare Game", "TTF-2", "2nd Hare Grid Game"],
           "nominates": [12,7]
         }
 
@@ -775,7 +775,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game"],
           "nominates": [7,22]
         }
 
@@ -889,7 +889,7 @@
         },
         {
           "week": 13,
-          "notes": [],
+          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game"],
           "nominates": [22,7]
         }
       ]
