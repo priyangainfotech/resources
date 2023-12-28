@@ -889,7 +889,7 @@
         },
         {
           "week": 13,
-          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1"],
+          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1", "G-5 8-ON 20-OFF", "TTF-2", "2 Pts in G-5"],
           "nominates": [22,7]
         }
       ]
@@ -1510,7 +1510,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3"],
+          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3", "G-5, 5 ON, 18/24 OFF", "TTF-3", "3 Pts in G-5"],
           "nominates": [8,15]
         }
       ]
@@ -1757,7 +1757,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2"],
+          "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2", "G-5 7-ON 18/22-OFF", "TTF-1", "1 Pt in G-5"],
           "nominates": [14,9]
         }
       ]
