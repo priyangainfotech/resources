@@ -551,7 +551,7 @@
           "nominates": [15,9]
         },{
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-2", "2 pts to Mani, doing favor for Vishnu", "Killed by Raveena in Game 3, R-2"],
+          "notes": ["Nominated", "SBH", "TTF-2", "2 pts to Mani, doing favor for Vishnu", "Killed by Raveena in Game 3, R-2", "TTF-4", "4 Pts in G-4"],
           "nominates": [8,15]
         }
       ]
@@ -665,7 +665,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-1", "1 point for Hare Game", "TTF-2", "2nd Hare Grid Game", "Killed by Vichitra in G-3, R-2"],
+          "notes": ["Nominated", "TTF-1", "1 point for Hare Game", "TTF-2", "2nd Hare Grid Game", "Killed by Vichitra in G-3, R-2", "TTF-1", "1 Pt in G-4"],
           "nominates": [12,7]
         }
 
@@ -889,7 +889,7 @@
         },
         {
           "week": 13,
-          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1", "G-5 8-ON 20-OFF", "TTF-2", "2 Pts in G-5"],
+          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1", "G-5 8-ON 20-OFF", "TTF-2", "2 Pts in G-4"],
           "nominates": [22,7]
         }
       ]
@@ -1067,7 +1067,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3"],
+          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4"],
           "nominates": [9,8]
         }
       ]
@@ -1510,7 +1510,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3", "G-5, 5 ON, 18/24 OFF", "TTF-3", "3 Pts in G-5"],
+          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3", "G-3, 5 ON, 18/24 OFF", "TTF-3", "3 Pts in G-5", "TTF-3", "3 Pts on G-4"],
           "nominates": [8,15]
         }
       ]
@@ -1757,7 +1757,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2", "G-5 7-ON 18/22-OFF", "TTF-1", "1 Pt in G-5"],
+          "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2", "G-5 7-ON 18/22-OFF", "TTF-1", "1 Pt in G-5", "TTF-2", "2 Pts G-4"],
           "nominates": [14,9]
         }
       ]
