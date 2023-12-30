@@ -458,7 +458,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -553,6 +553,11 @@
           "week": 13,
           "notes": ["Nominated", "SBH", "TTF-2", "2 pts to Mani, doing favor for Vishnu", "Killed by Raveena in Game 3, R-2", "TTF-4", "4 Pts in G-4"],
           "nominates": [8,15]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -563,7 +568,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -667,6 +672,11 @@
           "week": 13,
           "notes": ["Nominated", "TTF-1", "1 point for Hare Game", "TTF-2", "2nd Hare Grid Game", "Killed by Vichitra in G-3, R-2", "TTF-1", "1 Pt in G-4"],
           "nominates": [12,7]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
 
       ]
@@ -677,8 +687,8 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon.png",
       "id": "9",
       "dial_number": "8886602479",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-12-31",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -891,6 +901,11 @@
           "week": 13,
           "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1", "G-5 8-ON 20-OFF", "TTF-2", "2 Pts in G-4"],
           "nominates": [22,7]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -974,8 +989,8 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "id": "12",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2023-12-31",
+      "isNominated": false,
       "dial_number": "8886602482",
       "history": [
         {
@@ -1278,6 +1293,11 @@
           "week": 13,
           "notes": ["SBH", "TTF-3", "3 Pts in Game-3"],
           "nominates": [22,17]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1290,7 +1310,7 @@
       "eliminated_date": "2023-10-21",
       "re_entry_date": "2023-11-26",
       "re_evicted_date": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1351,6 +1371,11 @@
           "week": 13,
           "notes": ["Nominated"],
           "nominates": [17,12]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1413,7 +1438,7 @@
       "id": "17",
       "eliminated_date": "",
       "dial_number": "8886602486",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1512,6 +1537,11 @@
           "week": 13,
           "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3", "G-3, 5 ON, 18/24 OFF", "TTF-3", "3 Pts in G-5", "TTF-3", "3 Pts on G-4"],
           "nominates": [8,15]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1628,6 +1658,11 @@
           "week": 13,
           "notes": [],
           "nominates": [8,9]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
@@ -1703,7 +1738,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1759,6 +1794,11 @@
           "week": 13,
           "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2", "G-5 7-ON 18/22-OFF", "TTF-1", "1 Pt in G-5", "TTF-2", "2 Pts G-4"],
           "nominates": [14,9]
+        },
+        {
+          "week": 14,
+          "notes": [],
+          "nominates": []
         }
       ]
     },
