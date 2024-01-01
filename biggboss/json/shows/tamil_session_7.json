@@ -458,7 +458,7 @@
       "id": "7",
       "dial_number": "8886602477",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -556,7 +556,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
@@ -568,7 +568,7 @@
       "id": "8",
       "dial_number": "8886602478",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -675,7 +675,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
 
@@ -797,7 +797,7 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": false,
+      "isNominated": true,
       "dial_number": "8886602480",
       "history": [
         {
@@ -904,7 +904,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
@@ -1192,7 +1192,7 @@
       "id": "14",
       "eliminated_date": "",
       "dial_number": "8886602475",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1296,7 +1296,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
@@ -1310,7 +1310,7 @@
       "eliminated_date": "2023-10-21",
       "re_entry_date": "2023-11-26",
       "re_evicted_date": null,
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 1,
@@ -1374,7 +1374,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
@@ -1602,7 +1602,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602491",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1661,7 +1661,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
@@ -1738,7 +1738,7 @@
       "start_date": "2023-10-29",
       "eliminated_date": "",
       "dial_number": "8886602490",
-      "isNominated": false,
+      "isNominated": true,
       "history": [
         {
           "week": 5,
@@ -1797,7 +1797,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["Nominated", "Direct Nomination"],
           "nominates": []
         }
       ]
