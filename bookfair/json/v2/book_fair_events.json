@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "title": "47th Chennai Book Fair 2024",
+      "address": "Nandanam YMCA, Chennai, Tamil Nadu, India",
+      "map": "https://goo.gl/maps/qd9yhdjDbEvKzmoZ7",
+      "start_date": "03-01-2024",
+      "end_date": "21-01-2024",
+      "date": "01-10-20233",
+      "images": ["https://bapasi.com/wp-content/uploads/2023/12/2024-bapasi_compressed-eng-1.jpg",
+        "https://bapasi.com/wp-content/uploads/2023/12/2024-bapasi_compressed-1.jpg"
+      ],
+      "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2024.jpg",
+      "book_list": "fairs/chennai_fair_2024.json",
+      "books": "books/whole_books_chennai_2024.json"
+    },{
       "title": "Chennai Book Fair 2023",
       "address": "Nandanam YMCA, Chennai, Tamil Nadu, India",
       "map": "https://goo.gl/maps/qd9yhdjDbEvKzmoZ7",
