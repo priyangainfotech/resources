@@ -552,7 +552,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination"],
+          "notes": ["Nominated", "Direct Nomination","SBH"],
           "nominates": []
         }
       ]
@@ -1372,7 +1372,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination"],
+          "notes": ["Nominated", "Direct Nomination", "SBH"],
           "nominates": []
         }
       ]
@@ -1538,7 +1538,7 @@
         },
         {
           "week": 14,
-          "notes": [],
+          "notes": ["SBH"],
           "nominates": []
         }
       ]
@@ -1795,7 +1795,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination"],
+          "notes": ["Nominated", "Direct Nomination", "SBH"],
           "nominates": []
         }
       ]
