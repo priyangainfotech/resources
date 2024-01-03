@@ -12,7 +12,7 @@
       ],
       "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2024.jpg",
       "book_list": "fairs/chennai_fair_2024.json",
-      "books": "books/whole_books_chennai_2024.json"
+      "books": "books/whole_books_chennai.json"
     },{
       "title": "Chennai Book Fair 2023",
       "address": "Nandanam YMCA, Chennai, Tamil Nadu, India",
