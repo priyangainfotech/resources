@@ -533,7 +533,7 @@
         },
         {
           "week": 10,
-          "notes": ["Nominated"],
+          "notes": ["Nominated","Yellow Card"],
           "nominates": [2,9]
         },
         {
@@ -1639,7 +1639,7 @@
         },
         {
           "week": 10,
-          "notes": ["Nominated", "Urimai kural against Nixen", "Roasted by Kamal for using Vinush & Aishu name"],
+          "notes": ["Nominated", "Urimai kural against Nixen", "Roasted by Kamal for using Vinush & Aishu name","Yellow Card"],
           "nominates": [10,9]
         },
         {
@@ -1775,7 +1775,7 @@
         },
         {
           "week": 10,
-          "notes": ["Nominated", "Roasted for Davulath word"],
+          "notes": ["Nominated", "Roasted for Davulath word","Yellow Card"],
           "nominates": [13,9]
         },
         {
