@@ -793,7 +793,9 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
       "id": "10",
       "eliminated_date": "",
-      "isNominated": true,
+      "title": "Rs. 16,00,000 Cash Box",
+      "order": 3,
+      "isNominated": false,
       "dial_number": "8886602480",
       "history": [
         {
