@@ -1199,7 +1199,7 @@
       "dial_number": "8886602475",
       "title": null,
       "order": null,
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
