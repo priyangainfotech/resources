@@ -1320,8 +1320,8 @@
       "dial_number": "8886602484",
       "eliminated_date": "2023-10-21",
       "re_entry_date": "2023-11-26",
-      "re_evicted_date": null,
-      "isNominated": true,
+      "re_evicted_date": "2023-01-10",
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1390,7 +1390,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination"]
+          "notes": ["Nominated", "Direct Nomination", "Mid week eviction"]
         }
       ]
     },
