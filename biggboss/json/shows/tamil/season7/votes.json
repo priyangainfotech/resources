@@ -378,48 +378,6 @@
 
         }
       ]
-    },
-    {
-      "name": "BiggBossVotesTamil",
-      "votes": [
-        {
-          "week": 15,
-          "players": [
-            {
-              "id": 7,
-              "vote": 172910,
-              "percentage": 10.54
-            },
-
-            {
-              "id": 8,
-              "vote": 328560,
-              "percentage": 20.03
-            },
-            {
-              "id": 15,
-              "vote": 7570,
-              "percentage": 0.46
-            },
-            {
-              "id": 17,
-              "vote": 607230,
-              "percentage": 37.02
-            },
-            {
-              "id": 19,
-              "vote": 459700,
-              "percentage": 28.02
-            },
-            {
-              "id": 22,
-              "vote": 64140,
-              "percentage": 3.91
-            }
-          ]
-
-        }
-      ]
     }
   ]
 }

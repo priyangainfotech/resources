@@ -457,8 +457,10 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
       "id": "7",
       "dial_number": "8886602477",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2024-01-14",
+      "title": "2nd Runner Up",
+      "order": 2,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -571,8 +573,10 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
       "id": "8",
       "dial_number": "8886602478",
-      "eliminated_date": "",
-      "isNominated": true,
+      "eliminated_date": "2024-01-14",
+      "title": "3rd Runner Up",
+      "order": 3,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -805,7 +809,7 @@
       "id": "10",
       "eliminated_date": "2024-01-05",
       "title": "Rs.16,00,000 Cash",
-      "order": 3,
+      "order": 6,
       "isNominated": false,
       "dial_number": "8886602480",
       "history": [
@@ -1451,9 +1455,11 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
       "id": "17",
-      "eliminated_date": "",
+      "eliminated_date": "2024-01-14",
+      "title": "5th Runner Up",
+      "order": 5,
       "dial_number": "8886602486",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 1,
@@ -1759,9 +1765,11 @@
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh_pp.png",
       "id": "22",
       "start_date": "2023-10-29",
-      "eliminated_date": "",
+      "eliminated_date": "2024-01-14",
+      "title": "4th Runner Up",
+      "order": 4,
       "dial_number": "8886602490",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
