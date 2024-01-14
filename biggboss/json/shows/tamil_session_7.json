@@ -563,7 +563,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Sportive Contestant"]
         }
       ]
     },
@@ -688,7 +688,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination"]
+          "notes": ["Nominated", "Direct Nomination", "Versatility Contestant Award"]
         }
       ]
     },
@@ -796,7 +796,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game", "Killed by Vishnu in G-3, R-3"],
+          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game", "Killed by Vishnu in G-3, R-3", "Self Made Contestant Award"],
           "nominates": [7,22]
         }
 
@@ -917,7 +917,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Exposed Archana in PR task", "Brutal summarization on Vishnu"],
+          "notes": ["Nominated", "Direct Nomination", "Exposed Archana in PR task", "Brutal summarization on Vishnu", "Determined contestant Award"],
           "nominates": []
         }
       ]
@@ -1095,7 +1095,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4"],
+          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4", "Energetic Contestant Award"],
           "nominates": [9,8]
         }
       ]
@@ -1311,7 +1311,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination"],
+          "notes": ["Nominated", "Direct Nomination", "Inspirational Contestant Award"],
           "nominates": []
         }
       ]
@@ -1566,7 +1566,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Competitive Contestant Award"]
         }
       ]
     },
@@ -1629,7 +1629,7 @@
       "title": "Title Winner",
       "order": 1,
       "dial_number": "8886602491",
-      "isNominated": true,
+      "isNominated": false,
       "history": [
         {
           "week": 5,
@@ -1693,7 +1693,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya"]
+          "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya", "Rising Star Award"]
         }
       ]
     },
@@ -1835,7 +1835,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Game Changer"]
         }
       ]
     },
