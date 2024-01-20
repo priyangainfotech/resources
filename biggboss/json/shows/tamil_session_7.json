@@ -120,7 +120,7 @@
         },
         {
           "week": 8,
-          "notes": ["Nominated","Direct nomination from Vishnu"],
+          "notes": ["Nominated","Direct nomination from Vishnu", "Evicted"],
           "nominates": [14, 21]
         }
       ]
@@ -141,7 +141,7 @@
           "notes": [
             "Nominated",
             "SBH",
-            "Eliminated"
+            "Evicted"
           ],
           "nominates": [
             6,
@@ -160,7 +160,7 @@
         },
         {
           "week": 11,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Evicted"],
           "nominates": [22,12]
         }
       ]
@@ -233,7 +233,7 @@
         {
           "week": 6,
           "notes": [
-            "Nominated"
+            "Nominated","Evicted"
           ],
           "nominates": [19,22
           ]
@@ -264,7 +264,7 @@
         {
           "week": 2,
           "notes": [
-            "Eliminated (Self)"
+            "Eliminated (Self)", "Evicted"
           ]
         }
       ]
@@ -361,7 +361,7 @@
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated", "Escape from BB"],
+          "notes": ["SBH","Nominated", "Escape from BB", "Evicted"],
           "nominates": [14,12]
         }
       ]
@@ -446,7 +446,7 @@
         },
         {
           "week": 9,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Evicted"],
           "nominates": [5,13]
         }
       ]
@@ -563,7 +563,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Sportive Contestant"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Sportive Contestant", "Evicted"]
         }
       ]
     },
@@ -688,7 +688,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "Versatility Contestant Award"]
+          "notes": ["Nominated", "Direct Nomination", "Versatility Contestant Award", "Evicted"]
         }
       ]
     },
@@ -796,7 +796,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game", "Killed by Vishnu in G-3, R-3", "Self Made Contestant Award"],
+          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game", "Killed by Vishnu in G-3, R-3", "Self Made Contestant Award", "Evicted"],
           "nominates": [7,22]
         }
 
@@ -917,7 +917,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Exposed Archana in PR task", "Brutal summarization on Vishnu", "Determined contestant Award"],
+          "notes": ["Nominated", "Direct Nomination", "Exposed Archana in PR task", "Brutal summarization on Vishnu", "Determined contestant Award", "Evicted"],
           "nominates": []
         }
       ]
@@ -988,7 +988,8 @@
             "Bullying Archana",
             "Suggest love content to Akashya",
             "Use love content with Aishu",
-            "Abusive words to Cool Suresh"
+            "Abusive words to Cool Suresh",
+            "Evicted"
           ],
           "nominates": [
             19,
@@ -1095,7 +1096,7 @@
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4", "Energetic Contestant Award"],
+          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4", "Energetic Contestant Award", "Evicted"],
           "nominates": [9,8]
         }
       ]
@@ -1193,7 +1194,7 @@
         },
         {
           "week": 12,
-          "notes": ["Nominated", "Mom advice him to maintain the distance with Maya & Poornima"],
+          "notes": ["Nominated", "Mom advice him to maintain the distance with Maya & Poornima", "Evicted"],
           "nominates": [12,17]
         }
       ]
@@ -1311,7 +1312,7 @@
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Inspirational Contestant Award"],
+          "notes": ["Nominated", "Direct Nomination", "Inspirational Contestant Award", "Evicted"],
           "nominates": []
         }
       ]
@@ -1395,7 +1396,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "Mid week eviction"]
+          "notes": ["Nominated", "Direct Nomination", "Mid week eviction", "Evicted"]
         }
       ]
     },
@@ -1442,7 +1443,7 @@
         {
           "week": 4,
           "notes": [
-            "Nominated"
+            "Nominated", "Evicted"
           ],
           "nominates": [
             11,
@@ -1567,7 +1568,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Competitive Contestant Award"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Competitive Contestant Award", "Evicted"]
         }
       ]
     },
@@ -1611,7 +1612,8 @@
           "week": 4,
           "notes": [
             "Nominated",
-            "SBH"
+            "SBH",
+            "Evicted"
           ],
           "nominates": [
             16,
@@ -1694,7 +1696,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya", "Rising Star Award"]
+          "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya", "Rising Star Award", "Evicted"]
         }
       ]
     },
@@ -1712,7 +1714,8 @@
           "week": 5,
           "notes": [
             "SBH",
-            "Nominated"
+            "Nominated",
+            "Evicted"
           ],
           "nominates": [
             1,
@@ -1757,7 +1760,7 @@
         },
         {
           "week": 8,
-          "notes": ["SBH", "Nominated"],
+          "notes": ["SBH", "Nominated", "Evicted"],
           "nominates": [19,7]
         }
       ]
@@ -1836,7 +1839,7 @@
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Game Changer"]
+          "notes": ["Nominated", "Direct Nomination", "SBH", "Game Changer", "Evicted"]
         }
       ]
     },
@@ -1872,7 +1875,7 @@
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
+          "notes": ["Nominated", "Evicted"],
           "nominates": [10,21]
         }
       ]
