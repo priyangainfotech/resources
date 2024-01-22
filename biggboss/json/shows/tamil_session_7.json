@@ -40,6 +40,58 @@
       "message": "Due to Bava Chelladurai eviction, Week-2 nomination is called off on 12th October 2023"
     }
   ],
+  "category": [
+    {
+      "name": "Captain",
+      "key":"Captain",
+      "color": "FF2E9F49",
+      "text": "FFFFFF",
+      "enable": true
+    },
+    {
+      "name": "Evicted",
+      "key": "Evicted",
+      "color": "FFEA4839",
+      "text": "FFFFFF",
+      "enable": true
+    },
+    {
+      "name": "Nominated",
+      "key":"Nomination",
+      "color": "FFFCBC1F",
+      "enable": true
+    },
+    {
+      "name":"Small Boss House",
+      "key": "SBH",
+      "color": "FF4A7AEE",
+      "text": "FFFFFF",
+      "enable": true
+    },
+    {
+      "name": "Bigg Boss House",
+      "key": "BBH",
+      "color": "FF2E9F49",
+      "text": "FFFFFF",
+      "enable": true
+    },
+    {
+      "name": "Gold Star",
+      "key": "GS",
+      "color": "FFD4AF37"
+    },
+    {
+      "name": "Yellow Strike",
+      "key":"Yellow Card",
+      "color": "FFEFC935"
+    },
+    {
+      "name": "Red Card",
+      "key": "Red Card",
+      "color": "FF93000A",
+      "text": "FFFFFF"
+    }
+  ],
   "participants": [
     {
       "name": "Akshaya",
@@ -563,6 +615,8 @@
         },
         {
           "week": 15,
+          "order": 2,
+          "title": "2nd Runner Up",
           "notes": ["Nominated", "Direct Nomination", "SBH", "Sportive Contestant", "Evicted"]
         }
       ]
@@ -688,6 +742,8 @@
         },
         {
           "week": 15,
+          "title": "3rd Runner Up",
+          "order": 3,
           "notes": ["Nominated", "Direct Nomination", "Versatility Contestant Award", "Evicted"]
         }
       ]
@@ -1567,6 +1623,8 @@
         },
         {
           "week": 15,
+          "title": "5th Runner Up",
+          "order": 5,
           "notes": ["Nominated", "Direct Nomination", "SBH", "Competitive Contestant Award", "Evicted"]
         }
       ]
@@ -1695,6 +1753,8 @@
         },
         {
           "week": 15,
+          "title": "Title Winner",
+          "order": 1,
           "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya", "Rising Star Award", "Evicted"]
         }
       ]
@@ -1838,6 +1898,8 @@
         },
         {
           "week": 15,
+          "title": "4th Runner Up",
+          "order": 4,
           "notes": ["Nominated", "Direct Nomination", "SBH", "Game Changer", "Evicted"]
         }
       ]
