@@ -37,7 +37,7 @@
       "key": "Captain",
       "color": "FF2E9F49",
       "text": "FFFFFF",
-      "enable": true,
+      "weekly_enabled": true,
       "graph": true,
       "graphOrder": 5
     },
@@ -46,13 +46,13 @@
       "key": "EVI",
       "color": "FFEA4839",
       "text": "FFFFFF",
-      "enable": true
+      "weekly_enabled": true
     },
     {
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
-      "enable": true,
+      "weekly_enabled": true,
       "graph": true,
       "graphOrder": 4
     },
@@ -61,7 +61,7 @@
       "key": "SBH",
       "color": "FF4A7AEE",
       "text": "FFFFFF",
-      "enable": true,
+      "weekly_enabled": true,
       "graph": true,
       "graphOrder": 3
     },
@@ -70,7 +70,7 @@
       "key": "BBH",
       "color": "FF2E9F49",
       "text": "FFFFFF",
-      "enable": true
+      "weekly_enabled": false
     },
     {
       "name": "Gold Star",
