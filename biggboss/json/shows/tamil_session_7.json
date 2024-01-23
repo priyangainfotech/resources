@@ -31,38 +31,29 @@
       }
     ]
   },
-  "notifications": [
-
-  ],
-  "notification_history": [
-    {
-      "title": "Week 2: No eliminations",
-      "message": "Due to Bava Chelladurai eviction, Week-2 nomination is called off on 12th October 2023"
-    }
-  ],
   "category": [
     {
       "name": "Captain",
-      "key":"Captain",
+      "key": "CAP",
       "color": "FF2E9F49",
       "text": "FFFFFF",
       "enable": true
     },
     {
       "name": "Evicted",
-      "key": "Evicted",
+      "key": "EVI",
       "color": "FFEA4839",
       "text": "FFFFFF",
       "enable": true
     },
     {
       "name": "Nominated",
-      "key":"Nomination",
+      "key": "NOM",
       "color": "FFFCBC1F",
       "enable": true
     },
     {
-      "name":"Small Boss House",
+      "name": "Small Boss House",
       "key": "SBH",
       "color": "FF4A7AEE",
       "text": "FFFFFF",
@@ -82,31 +73,30 @@
     },
     {
       "name": "Yellow Strike",
-      "key":"Yellow Card",
+      "key": "YC",
       "color": "FFEFC935"
     },
     {
       "name": "Red Card",
-      "key": "Red Card",
+      "key": "RC",
       "color": "FF93000A",
       "text": "FFFFFF"
     }
   ],
   "participants": [
     {
-      "name": "Akshaya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
-      "id": "1",
       "eliminated_date": "2023-11-26",
+      "name": "Akshaya",
+      "id": "1",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/akshaya.png",
       "dial_number": "8886602471",
       "history": [
         {
           "week": 1,
-          "notes": [
-
-          ],
+          "notes": [],
+          "categories": [],
           "nominates": [
             12,
             3
@@ -115,7 +105,12 @@
         {
           "week": 2,
           "notes": [
-            "Arrest Warrant", "GS"
+            "Arrest Warrant",
+            "GS"
+          ],
+          "categories": [
+            "Arrest Warrant",
+            "GS"
           ],
           "nominates": [
             11,
@@ -127,6 +122,9 @@
           "notes": [
             "Nominated"
           ],
+          "categories": [
+            "Nominated"
+          ],
           "nominates": [
             16,
             13
@@ -135,6 +133,13 @@
         {
           "week": 4,
           "notes": [
+            "Nominated",
+            "SBH",
+            "Nominated",
+            "Direct Nomination",
+            "Good play at double star task"
+          ],
+          "categories": [
             "Nominated",
             "SBH",
             "Nominated",
@@ -153,6 +158,11 @@
             "Love content with RJ Bravo as per Pradeep Plan",
             "Jail"
           ],
+          "categories": [
+            "Nominated",
+            "Love content with RJ Bravo as per Pradeep Plan",
+            "Jail"
+          ],
           "nominates": [
             19,
             23
@@ -160,37 +170,64 @@
         },
         {
           "week": 6,
-          "notes": [
-
-          ],
-          "nominates": [19,14]
+          "notes": [],
+          "categories": [],
+          "nominates": [
+            19,
+            14
+          ]
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
-          "nominates": [14,7]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            14,
+            7
+          ]
         },
         {
           "week": 8,
-          "notes": ["Nominated","Direct nomination from Vishnu", "Evicted"],
-          "nominates": [14, 21]
+          "notes": [
+            "Nominated",
+            "Direct nomination from Vishnu",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct nomination from Vishnu",
+            "Evicted"
+          ],
+          "nominates": [
+            14,
+            21
+          ]
         }
       ]
     },
     {
-      "name": "Ananya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya.png",
-      "id": "2",
       "eliminated_date": "2023-10-08",
       "re_entry_date": "2023-11-26",
       "re_evicted_date": "2023-12-14",
-      "dial_number": "8886602472",
+      "name": "Ananya",
+      "id": "2",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ananya.png",
+      "dial_number": "8886602472",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated",
+            "SBH",
+            "Evicted"
+          ],
+          "categories": [
             "Nominated",
             "SBH",
             "Evicted"
@@ -202,33 +239,63 @@
         },
         {
           "week": 9,
-          "notes": ["Nominated"],
-          "nominates": [5,10]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            5,
+            10
+          ]
         },
         {
           "week": 10,
-          "notes": ["SBH"],
-          "nominates": [22,7]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            22,
+            7
+          ]
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Evicted"],
-          "nominates": [22,12]
+          "notes": [
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Evicted"
+          ],
+          "nominates": [
+            22,
+            12
+          ]
         }
       ]
     },
     {
-      "name": "Aishu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu.png",
-      "id": "3",
       "eliminated_date": "2023-11-12",
-      "dial_number": "8886602470",
+      "name": "Aishu",
+      "id": "3",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/aishu.png",
+      "dial_number": "8886602470",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated",
+            "SBH"
+          ],
+          "categories": [
             "Nominated",
             "SBH"
           ],
@@ -243,6 +310,10 @@
             "SBH",
             "Joined With Maaya for Planning"
           ],
+          "categories": [
+            "SBH",
+            "Joined With Maaya for Planning"
+          ],
           "nominates": [
             1,
             6
@@ -253,6 +324,9 @@
           "notes": [
             "Nominated"
           ],
+          "categories": [
+            "Nominated"
+          ],
           "nominates": [
             10,
             11
@@ -261,6 +335,11 @@
         {
           "week": 4,
           "notes": [
+            "Influenced by Maya",
+            "Use words like Cheeri Alunga",
+            "Planned with Vishnu in double star task"
+          ],
+          "categories": [
             "Influenced by Maya",
             "Use words like Cheeri Alunga",
             "Planned with Vishnu in double star task"
@@ -277,6 +356,11 @@
             "Love content with Pradeep & Nixen",
             "Triggered Archana"
           ],
+          "categories": [
+            "Nominated",
+            "Love content with Pradeep & Nixen",
+            "Triggered Archana"
+          ],
           "nominates": [
             22,
             19
@@ -285,25 +369,37 @@
         {
           "week": 6,
           "notes": [
-            "Nominated","Evicted"
+            "Nominated",
+            "Evicted"
           ],
-          "nominates": [19,22
+          "categories": [
+            "Nominated",
+            "Evicted"
+          ],
+          "nominates": [
+            19,
+            22
           ]
         }
       ]
     },
     {
-      "name": "Chelladurai",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava.png",
-      "id": "4",
       "eliminated_date": "2023-10-09",
+      "name": "Chelladurai",
+      "id": "4",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bava.png",
       "dial_number": "8886602473",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated",
+            "SBH",
+            "Conflicts in Education"
+          ],
+          "categories": [
             "Nominated",
             "SBH",
             "Conflicts in Education"
@@ -316,23 +412,31 @@
         {
           "week": 2,
           "notes": [
-            "Eliminated (Self)", "Evicted"
+            "Eliminated (Self)",
+            "Evicted"
+          ],
+          "categories": [
+            "Eliminated (Self)",
+            "Evicted"
           ]
         }
       ]
     },
     {
-      "name": "Cool Suresh",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh.png",
-      "id": "5",
-      "dial_number": "8886602474",
       "eliminated_date": "2023-12-16",
+      "name": "Cool Suresh",
+      "id": "5",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/cool_suresh.png",
+      "dial_number": "8886602474",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Conflicts with Maya"
+          ],
+          "categories": [
             "Conflicts with Maya"
           ],
           "nominates": [
@@ -345,6 +449,9 @@
           "notes": [
             "SBH"
           ],
+          "categories": [
+            "SBH"
+          ],
           "nominates": [
             6,
             1
@@ -353,6 +460,9 @@
         {
           "week": 3,
           "notes": [
+            "Won game against Pradeep"
+          ],
+          "categories": [
             "Won game against Pradeep"
           ],
           "nominates": [
@@ -368,6 +478,12 @@
             "Give up Vishnu photo in last minute",
             "Rule Break (Entered SBH)"
           ],
+          "categories": [
+            "Nominated",
+            "Picked Aishu & Vishnu photo in double star task",
+            "Give up Vishnu photo in last minute",
+            "Rule Break (Entered SBH)"
+          ],
           "nominates": [
             9,
             6
@@ -376,6 +492,9 @@
         {
           "week": 5,
           "notes": [
+            "Conflicts with Pradeep on bell task"
+          ],
+          "categories": [
             "Conflicts with Pradeep on bell task"
           ],
           "nominates": [
@@ -388,48 +507,96 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [3,10
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            3,
+            10
           ]
         },
         {
           "week": 7,
           "notes": [],
-          "nominates": [13,1]
+          "categories": [],
+          "nominates": [
+            13,
+            1
+          ]
         },
         {
           "week": 8,
           "notes": [],
-          "nominates": [21,13]
+          "categories": [],
+          "nominates": [
+            21,
+            13
+          ]
         },
         {
           "week": 9,
-          "notes": ["SBH","Nominated","Conflicts with Vichitra"],
-          "nominates": [8,14]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Conflicts with Vichitra"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Conflicts with Vichitra"
+          ],
+          "nominates": [
+            8,
+            14
+          ]
         },
         {
           "week": 10,
           "notes": [],
-          "nominates": [13,9]
+          "categories": [],
+          "nominates": [
+            13,
+            9
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated", "Escape from BB", "Evicted"],
-          "nominates": [14,12]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Escape from BB",
+            "Evicted"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Escape from BB",
+            "Evicted"
+          ],
+          "nominates": [
+            14,
+            12
+          ]
         }
       ]
     },
     {
-      "name": "Jovika",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
-      "id": "6",
       "eliminated_date": "2023-12-03",
+      "name": "Jovika",
+      "id": "6",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/jovika.png",
       "dial_number": "8886602476",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated",
+            "Against Education",
+            "Disrespecting"
+          ],
+          "categories": [
             "Nominated",
             "Against Education",
             "Disrespecting"
@@ -443,7 +610,11 @@
           "week": 2,
           "notes": [
             "Nominated",
-            "Pradeep: வாடா, போடா, முட்டு இரு"
+            "Pradeep: ????, ????, ?????? ???"
+          ],
+          "categories": [
+            "Nominated",
+            "Pradeep: ????, ????, ?????? ???"
           ],
           "nominates": [
             17,
@@ -465,6 +636,12 @@
             "GS (Winner of double Gold Star task)",
             "GS"
           ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "GS (Winner of double Gold Star task)",
+            "GS"
+          ],
           "nominates": [
             13,
             5
@@ -472,8 +649,8 @@
         },
         {
           "week": 5,
-          "notes": [
-          ],
+          "notes": [],
+          "categories": [],
           "nominates": [
             22,
             19
@@ -481,42 +658,71 @@
         },
         {
           "week": 6,
-          "notes": [
-
-          ],
-          "nominates": [22,14]
+          "notes": [],
+          "categories": [],
+          "nominates": [
+            22,
+            14
+          ]
         },
         {
           "week": 7,
           "notes": [],
-          "nominates": [7,13]
+          "categories": [],
+          "nominates": [
+            7,
+            13
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH"],
-          "nominates": [9,19]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            9,
+            19
+          ]
         },
         {
           "week": 9,
-          "notes": ["Nominated", "Evicted"],
-          "nominates": [5,13]
+          "notes": [
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Evicted"
+          ],
+          "nominates": [
+            5,
+            13
+          ]
         }
       ]
     },
     {
-      "name": "Manichandra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/mainchandra_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
-      "id": "7",
-      "dial_number": "8886602477",
       "eliminated_date": "2024-01-14",
+      "name": "Manichandra",
+      "id": "7",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/manichandra.png",
+      "dial_number": "8886602477",
       "title": "2nd Runner Up",
       "order": 2,
-      "isNominated": false,
       "history": [
         {
           "week": 1,
-          "notes": ["GS"],
+          "notes": [
+            "GS"
+          ],
+          "categories": [
+            "GS"
+          ],
           "nominates": [
             4,
             2
@@ -527,6 +733,9 @@
           "notes": [
             "Love Content With Raveena"
           ],
+          "categories": [
+            "Love Content With Raveena"
+          ],
           "nominates": [
             8,
             17
@@ -535,6 +744,10 @@
         {
           "week": 3,
           "notes": [
+            "Nominated",
+            "Lost game against Vishnu"
+          ],
+          "categories": [
             "Nominated",
             "Lost game against Vishnu"
           ],
@@ -551,6 +764,12 @@
             "Won cleaning task against Vishnu",
             "Lost bathroom cleaning task again Vishnu"
           ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "Won cleaning task against Vishnu",
+            "Lost bathroom cleaning task again Vishnu"
+          ],
           "nominates": [
             8,
             16
@@ -561,6 +780,9 @@
           "notes": [
             "Nominated"
           ],
+          "categories": [
+            "Nominated"
+          ],
           "nominates": [
             22,
             19
@@ -569,72 +791,182 @@
         {
           "week": 6,
           "notes": [
-            "SBH", "GS (BB Court vs Nixen)"
+            "SBH",
+            "GS (BB Court vs Nixen)"
           ],
-          "nominates": [3,21
+          "categories": [
+            "SBH",
+            "GS (BB Court vs Nixen)"
+          ],
+          "nominates": [
+            3,
+            21
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated", "GS-1 (Argument Girls vs Boys)"],
-          "nominates": [1,21]
+          "notes": [
+            "Nominated",
+            "GS-1 (Argument Girls vs Boys)"
+          ],
+          "categories": [
+            "Nominated",
+            "GS-1 (Argument Girls vs Boys)"
+          ],
+          "nominates": [
+            1,
+            21
+          ]
         },
         {
           "week": 8,
-          "notes": ["Nominated"],
-          "nominates": [10,21]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            10,
+            21
+          ]
         },
         {
           "week": 9,
-          "notes": ["Nominated", "Has red card point to Nixen", "Accusing Nixen for captaincy task"],
-          "nominates": [15,10]
+          "notes": [
+            "Nominated",
+            "Has red card point to Nixen",
+            "Accusing Nixen for captaincy task"
+          ],
+          "categories": [
+            "Nominated",
+            "Has red card point to Nixen",
+            "Accusing Nixen for captaincy task"
+          ],
+          "nominates": [
+            15,
+            10
+          ]
         },
         {
           "week": 10,
-          "notes": ["Nominated"],
-          "nominates": [2,9]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            2,
+            9
+          ]
         },
         {
           "week": 11,
-          "notes": ["Captain", "Fraud in dance task"],
-          "nominates": [2, 9]
+          "notes": [
+            "Captain",
+            "Fraud in dance task"
+          ],
+          "categories": [
+            "Captain",
+            "Fraud in dance task"
+          ],
+          "nominates": [
+            2,
+            9
+          ]
         },
         {
           "week": 12,
-          "notes": ["Roasted by Raveena parents"],
-          "nominates": [15,9]
-        },{
+          "notes": [
+            "Roasted by Raveena parents"
+          ],
+          "categories": [
+            "Roasted by Raveena parents"
+          ],
+          "nominates": [
+            15,
+            9
+          ]
+        },
+        {
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-2", "2 pts to Mani, doing favor for Vishnu", "Killed by Raveena in Game 3, R-2", "TTF-4", "4 Pts in G-4"],
-          "nominates": [8,15]
+          "notes": [
+            "Nominated",
+            "SBH",
+            "TTF-2",
+            "2 pts to Mani, doing favor for Vishnu",
+            "Killed by Raveena in Game 3, R-2",
+            "TTF-4",
+            "4 Pts in G-4"
+          ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "TTF-2",
+            "2 pts to Mani, doing favor for Vishnu",
+            "Killed by Raveena in Game 3, R-2",
+            "TTF-4",
+            "4 Pts in G-4"
+          ],
+          "nominates": [
+            8,
+            15
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination","SBH"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
           "nominates": []
         },
         {
           "week": 15,
-          "order": 2,
           "title": "2nd Runner Up",
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Sportive Contestant", "Evicted"]
+          "order": 2,
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Sportive Contestant",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Sportive Contestant",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Maya",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
-      "id": "8",
-      "dial_number": "8886602478",
       "eliminated_date": "2024-01-14",
+      "name": "Maya",
+      "id": "8",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/maya_pp.png",
+      "dial_number": "8886602478",
       "title": "3rd Runner Up",
       "order": 3,
-      "isNominated": false,
       "history": [
         {
           "week": 1,
           "notes": [
+            "Supported Jovika",
+            "Issue with Cool Suresh"
+          ],
+          "categories": [
             "Supported Jovika",
             "Issue with Cool Suresh"
           ],
@@ -646,6 +978,12 @@
         {
           "week": 2,
           "notes": [
+            "Nominated",
+            "SBH",
+            "Strike Concept",
+            "Irritating Dancing"
+          ],
+          "categories": [
             "Nominated",
             "SBH",
             "Strike Concept",
@@ -663,6 +1001,11 @@
             "Nominated",
             "GS"
           ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "GS"
+          ],
           "nominates": [
             7,
             14
@@ -671,6 +1014,12 @@
         {
           "week": 4,
           "notes": [
+            "Nominated",
+            "Eliminate Mani & Raveena in double start task",
+            "Triggered by Vichitra",
+            "Rule Break (Entered SBH)"
+          ],
+          "categories": [
             "Nominated",
             "Eliminate Mani & Raveena in double start task",
             "Triggered by Vichitra",
@@ -687,6 +1036,10 @@
             "Nominated",
             "Bullying Archana"
           ],
+          "categories": [
+            "Nominated",
+            "Bullying Archana"
+          ],
           "nominates": [
             21,
             20
@@ -697,69 +1050,177 @@
           "notes": [
             "Captain"
           ],
-          "nominates": [14,19
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            14,
+            19
           ]
         },
         {
           "week": 7,
           "notes": [],
-          "nominates": [7,23]
+          "categories": [],
+          "nominates": [
+            7,
+            23
+          ]
         },
         {
           "week": 8,
-          "notes": ["Nominated", "Direct nomination from Vishnu"],
-          "nominates": [17,21]
+          "notes": [
+            "Nominated",
+            "Direct nomination from Vishnu"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct nomination from Vishnu"
+          ],
+          "nominates": [
+            17,
+            21
+          ]
         },
         {
           "week": 9,
-          "notes": ["3rd Bell against Nixen", "Discussing bell strategy with Poornima"],
-          "nominates": [13,10]
+          "notes": [
+            "3rd Bell against Nixen",
+            "Discussing bell strategy with Poornima"
+          ],
+          "categories": [
+            "3rd Bell against Nixen",
+            "Discussing bell strategy with Poornima"
+          ],
+          "nominates": [
+            13,
+            10
+          ]
         },
         {
           "week": 10,
-          "notes": ["GS (Toy-Child Task)"],
-          "nominates": [2,12]
+          "notes": [
+            "GS (Toy-Child Task)"
+          ],
+          "categories": [
+            "GS (Toy-Child Task)"
+          ],
+          "nominates": [
+            2,
+            12
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH", "Ishwarya crack dance", "Roast for calling Vickram as Cockroaches"],
-          "nominates": [22,19]
+          "notes": [
+            "SBH",
+            "Ishwarya crack dance",
+            "Roast for calling Vickram as Cockroaches"
+          ],
+          "categories": [
+            "SBH",
+            "Ishwarya crack dance",
+            "Roast for calling Vickram as Cockroaches"
+          ],
+          "nominates": [
+            22,
+            19
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH", "Acting listen to Nixen", "+ve from all families"],
-          "nominates": [12,14]
+          "notes": [
+            "SBH",
+            "Acting listen to Nixen",
+            "+ve from all families"
+          ],
+          "categories": [
+            "SBH",
+            "Acting listen to Nixen",
+            "+ve from all families"
+          ],
+          "nominates": [
+            12,
+            14
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-1", "1 point for Hare Game", "TTF-2", "2nd Hare Grid Game", "Killed by Vichitra in G-3, R-2", "TTF-1", "1 Pt in G-4"],
-          "nominates": [12,7]
+          "notes": [
+            "Nominated",
+            "TTF-1",
+            "1 point for Hare Game",
+            "TTF-2",
+            "2nd Hare Grid Game",
+            "Killed by Vichitra in G-3, R-2",
+            "TTF-1",
+            "1 Pt in G-4"
+          ],
+          "categories": [
+            "Nominated",
+            "TTF-1",
+            "1 point for Hare Game",
+            "TTF-2",
+            "2nd Hare Grid Game",
+            "Killed by Vichitra in G-3, R-2",
+            "TTF-1",
+            "1 Pt in G-4"
+          ],
+          "nominates": [
+            12,
+            7
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Mocking Vishnu for his 'using' comment", "Archana, Dinesh, Vijay & Vichitra choose Maya as favorite player"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Mocking Vishnu for his 'using' comment",
+            "Archana, Dinesh, Vijay & Vichitra choose Maya as favorite player"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Mocking Vishnu for his 'using' comment",
+            "Archana, Dinesh, Vijay & Vichitra choose Maya as favorite player"
+          ],
           "nominates": []
         },
         {
           "week": 15,
           "title": "3rd Runner Up",
           "order": 3,
-          "notes": ["Nominated", "Direct Nomination", "Versatility Contestant Award", "Evicted"]
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Versatility Contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Versatility Contestant Award",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Nixen",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon.png",
-      "id": "9",
-      "dial_number": "8886602479",
       "eliminated_date": "2023-12-31",
+      "name": "Nixen",
+      "id": "9",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/nixon.png",
+      "dial_number": "8886602479",
       "history": [
         {
           "week": 1,
           "notes": [
+            "SBH"
+          ],
+          "categories": [
             "SBH"
           ],
           "nominates": [
@@ -772,6 +1233,9 @@
           "notes": [
             "Fight With Pradeep"
           ],
+          "categories": [
+            "Fight With Pradeep"
+          ],
           "nominates": [
             11,
             17
@@ -780,6 +1244,10 @@
         {
           "week": 3,
           "notes": [
+            "Nominated",
+            "Break the glass"
+          ],
+          "categories": [
             "Nominated",
             "Break the glass"
           ],
@@ -797,6 +1265,13 @@
             "Raised voice for Akshaya",
             "Raised voice against Vishnu"
           ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "Disappointed in captain selection ",
+            "Raised voice for Akshaya",
+            "Raised voice against Vishnu"
+          ],
           "nominates": [
             5,
             13
@@ -807,6 +1282,9 @@
           "notes": [
             "Love content with Aishu"
           ],
+          "categories": [
+            "Love content with Aishu"
+          ],
           "nominates": [
             21,
             20
@@ -814,65 +1292,143 @@
         },
         {
           "week": 6,
-          "notes": [
-
-          ],
-          "nominates": [22,7
+          "notes": [],
+          "categories": [],
+          "nominates": [
+            22,
+            7
           ]
         },
         {
           "week": 7,
-          "notes": ["GS (Unnai Pol Oruvan)"],
-          "nominates": [14,7]
+          "notes": [
+            "GS (Unnai Pol Oruvan)"
+          ],
+          "categories": [
+            "GS (Unnai Pol Oruvan)"
+          ],
+          "nominates": [
+            14,
+            7
+          ]
         },
         {
           "week": 8,
           "notes": [],
-          "nominates": [14,10]
+          "categories": [],
+          "nominates": [
+            14,
+            10
+          ]
         },
         {
           "week": 9,
-          "notes": ["Captain", "Saved himself captaincy", "Well arguments"],
-          "nominates": [19,13]
+          "notes": [
+            "Captain",
+            "Saved himself captaincy",
+            "Well arguments"
+          ],
+          "categories": [
+            "Captain",
+            "Saved himself captaincy",
+            "Well arguments"
+          ],
+          "nominates": [
+            19,
+            13
+          ]
         },
         {
           "week": 10,
-          "notes": ["Nominated", "SBH", "GS (Best professor)", "Sorikiduven", "Yellow Card"],
-          "nominates": [19,7]
+          "notes": [
+            "Nominated",
+            "SBH",
+            "GS (Best professor)",
+            "Sorikiduven",
+            "Yellow Card"
+          ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "GS (Best professor)",
+            "Sorikiduven",
+            "Yellow Card"
+          ],
+          "nominates": [
+            19,
+            7
+          ]
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Excellent in Dance task", "TTF-1 (Dance Task)"],
-          "nominates": [5,22]
+          "notes": [
+            "Nominated",
+            "Excellent in Dance task",
+            "TTF-1 (Dance Task)"
+          ],
+          "categories": [
+            "Nominated",
+            "Excellent in Dance task",
+            "TTF-1 (Dance Task)"
+          ],
+          "nominates": [
+            5,
+            22
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH"],
-          "nominates": [12,7]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            12,
+            7
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated", "TTF-3", "3 Pts in 2nd Hare grid game", "Killed by Vishnu in G-3, R-3", "Self Made Contestant Award", "Evicted"],
-          "nominates": [7,22]
+          "notes": [
+            "Nominated",
+            "TTF-3",
+            "3 Pts in 2nd Hare grid game",
+            "Killed by Vishnu in G-3, R-3",
+            "Self Made Contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "TTF-3",
+            "3 Pts in 2nd Hare grid game",
+            "Killed by Vishnu in G-3, R-3",
+            "Self Made Contestant Award",
+            "Evicted"
+          ],
+          "nominates": [
+            7,
+            22
+          ]
         }
-
       ]
     },
     {
-      "name": "Poornima",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
-      "id": "10",
       "eliminated_date": "2024-01-05",
+      "name": "Poornima",
+      "id": "10",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/poornima.png",
+      "dial_number": "8886602480",
       "title": "Rs.16,00,000 Cash",
       "order": 6,
-      "isNominated": false,
-      "dial_number": "8886602480",
       "history": [
         {
           "week": 1,
-          "notes": [
-          ],
+          "notes": [],
+          "categories": [],
           "nominates": [
             3,
             2
@@ -884,7 +1440,13 @@
             "Nominated",
             "Love Content with Saravana",
             "Gossip With Maya",
-            "Oats குடிங்க"
+            "Oats ???????"
+          ],
+          "categories": [
+            "Nominated",
+            "Love Content with Saravana",
+            "Gossip With Maya",
+            "Oats ???????"
           ],
           "nominates": [
             11,
@@ -897,6 +1459,10 @@
             "SBH",
             "Nominated"
           ],
+          "categories": [
+            "SBH",
+            "Nominated"
+          ],
           "nominates": [
             7,
             14
@@ -905,6 +1471,13 @@
         {
           "week": 4,
           "notes": [
+            "Captain",
+            "Hide photos in double star",
+            "Provides chairs to small boss house",
+            "Appreciated as leader by BB",
+            "Influenced by Maya"
+          ],
+          "categories": [
             "Captain",
             "Hide photos in double star",
             "Provides chairs to small boss house",
@@ -924,6 +1497,12 @@
             "Bulling wild card contestant",
             "Unfair Small Boss House selection"
           ],
+          "categories": [
+            "Captain",
+            "GS",
+            "Bulling wild card contestant",
+            "Unfair Small Boss House selection"
+          ],
           "nominates": [
             20,
             21
@@ -934,62 +1513,172 @@
           "notes": [
             "Nominated"
           ],
-          "nominates": [22,14]
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            22,
+            14
+          ]
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Demanding to call her her back as MAM from Vichitra"],
-          "nominates": [7,12]
+          "notes": [
+            "Nominated",
+            "Demanding to call her her back as MAM from Vichitra"
+          ],
+          "categories": [
+            "Nominated",
+            "Demanding to call her her back as MAM from Vichitra"
+          ],
+          "nominates": [
+            7,
+            12
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH", "Nominated"],
-          "nominates": [7,12]
+          "notes": [
+            "SBH",
+            "Nominated"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated"
+          ],
+          "nominates": [
+            7,
+            12
+          ]
         },
         {
           "week": 9,
-          "notes": ["SBH","Nominated", "Help to save Nixen strike", "Change her position at 3rd time", "Try to solve Vishnu & Archana issue"],
-          "nominates": [7,2]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Help to save Nixen strike",
+            "Change her position at 3rd time",
+            "Try to solve Vishnu & Archana issue"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Help to save Nixen strike",
+            "Change her position at 3rd time",
+            "Try to solve Vishnu & Archana issue"
+          ],
+          "nominates": [
+            7,
+            2
+          ]
         },
         {
           "week": 10,
-          "notes": ["SBH"],
-          "nominates": [22,7]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            22,
+            7
+          ]
         },
         {
           "week": 11,
-          "notes": ["Supporting all HM in dancing", "TTF-1 (From Archana)"],
-          "nominates": [22,19]
+          "notes": [
+            "Supporting all HM in dancing",
+            "TTF-1 (From Archana)"
+          ],
+          "categories": [
+            "Supporting all HM in dancing",
+            "TTF-1 (From Archana)"
+          ],
+          "nominates": [
+            22,
+            19
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH", "Poornima mom was rocking. So much of positive"],
-          "nominates": [14,7]
+          "notes": [
+            "SBH",
+            "Poornima mom was rocking. So much of positive"
+          ],
+          "categories": [
+            "SBH",
+            "Poornima mom was rocking. So much of positive"
+          ],
+          "nominates": [
+            14,
+            7
+          ]
         },
         {
           "week": 13,
-          "notes": ["Did split on Vishnu", "TTF-1", "1 Pt in 2nd Hare grid game",  "Killed by Raveena in G-3, R-1", "G-5 8-ON 20-OFF", "TTF-2", "2 Pts in G-4"],
-          "nominates": [22,7]
+          "notes": [
+            "Did split on Vishnu",
+            "TTF-1",
+            "1 Pt in 2nd Hare grid game",
+            "Killed by Raveena in G-3, R-1",
+            "G-5 8-ON 20-OFF",
+            "TTF-2",
+            "2 Pts in G-4"
+          ],
+          "categories": [
+            "Did split on Vishnu",
+            "TTF-1",
+            "1 Pt in 2nd Hare grid game",
+            "Killed by Raveena in G-3, R-1",
+            "G-5 8-ON 20-OFF",
+            "TTF-2",
+            "2 Pts in G-4"
+          ],
+          "nominates": [
+            22,
+            7
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Exposed Archana in PR task", "Brutal summarization on Vishnu", "Determined contestant Award", "Evicted"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Exposed Archana in PR task",
+            "Brutal summarization on Vishnu",
+            "Determined contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Exposed Archana in PR task",
+            "Brutal summarization on Vishnu",
+            "Determined contestant Award",
+            "Evicted"
+          ],
           "nominates": []
         }
       ]
     },
     {
-      "name": "Pradeep",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
-      "id": "11",
       "eliminated_date": "2023-11-03",
+      "name": "Pradeep",
+      "id": "11",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/pradeep.png",
       "dial_number": "8886602481",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated",
+            "Immature Talk",
+            "Warning from Kamal"
+          ],
+          "categories": [
             "Nominated",
             "Immature Talk",
             "Warning from Kamal"
@@ -1004,14 +1693,30 @@
           "notes": [
             "SBH",
             "Nominated",
-            "Nixen: பொறுக்கி",
-            "Saravan: வாய ஒடச்சிடுவேன்"
-          ],"nominates": [10,14
-        ]
+            "Nixen: ????????",
+            "Saravan: ??? ????????????"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Nixen: ????????",
+            "Saravan: ??? ????????????"
+          ],
+          "nominates": [
+            10,
+            14
+          ]
         },
         {
           "week": 3,
           "notes": [
+            "SBH",
+            "Nominated",
+            "Lost game against Cool Suresh",
+            "Uses bad words against Nixen",
+            "Intentionally locking Vijay Varma"
+          ],
+          "categories": [
             "SBH",
             "Nominated",
             "Lost game against Cool Suresh",
@@ -1026,6 +1731,13 @@
         {
           "week": 4,
           "notes": [
+            "Nominated",
+            "SBH",
+            "Triggering Vishnu during nomination",
+            "Rule Break (Entered BB house)",
+            "GS (Video clip task)"
+          ],
+          "categories": [
             "Nominated",
             "SBH",
             "Triggering Vishnu during nomination",
@@ -1047,6 +1759,14 @@
             "Abusive words to Cool Suresh",
             "Evicted"
           ],
+          "categories": [
+            "RED Card",
+            "Bullying Archana",
+            "Suggest love content to Akashya",
+            "Use love content with Aishu",
+            "Abusive words to Cool Suresh",
+            "Evicted"
+          ],
           "nominates": [
             19,
             23
@@ -1055,18 +1775,23 @@
       ]
     },
     {
-      "name": "Raveena",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
-      "id": "12",
       "eliminated_date": "2023-12-31",
+      "name": "Raveena",
+      "id": "12",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/raveena_pp.png",
       "dial_number": "8886602482",
       "history": [
         {
           "week": 1,
           "notes": [
-            "Nominated", "SBH"
+            "Nominated",
+            "SBH"
+          ],
+          "categories": [
+            "Nominated",
+            "SBH"
           ],
           "nominates": [
             6,
@@ -1076,6 +1801,9 @@
         {
           "week": 2,
           "notes": [
+            "Love Content With Mani"
+          ],
+          "categories": [
             "Love Content With Mani"
           ],
           "nominates": [
@@ -1097,6 +1825,11 @@
             "Eliminated Poornima in double star task",
             "Rule break (Entered to SBH)"
           ],
+          "categories": [
+            "Done well with family task",
+            "Eliminated Poornima in double star task",
+            "Rule break (Entered to SBH)"
+          ],
           "nominates": [
             18,
             6
@@ -1105,6 +1838,9 @@
         {
           "week": 5,
           "notes": [
+            "Love content with Mani"
+          ],
+          "categories": [
             "Love content with Mani"
           ],
           "nominates": [
@@ -1117,53 +1853,140 @@
           "notes": [
             "SBH"
           ],
-          "nominates": [3,21
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            3,
+            21
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Sharing gossip info to Nixen"],
-          "nominates": [13,19]
+          "notes": [
+            "Nominated",
+            "Sharing gossip info to Nixen"
+          ],
+          "categories": [
+            "Nominated",
+            "Sharing gossip info to Nixen"
+          ],
+          "nominates": [
+            13,
+            19
+          ]
         },
         {
           "week": 8,
-          "notes": ["Nominated"],
-          "nominates": [14,6]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            14,
+            6
+          ]
         },
         {
           "week": 9,
-          "notes": ["Said, I'm enjoying fight with Archana", "Called Jovika as Gang"],
-          "nominates": [13,10]
+          "notes": [
+            "Said, I'm enjoying fight with Archana",
+            "Called Jovika as Gang"
+          ],
+          "categories": [
+            "Said, I'm enjoying fight with Archana",
+            "Called Jovika as Gang"
+          ],
+          "nominates": [
+            13,
+            10
+          ]
         },
         {
           "week": 10,
-          "notes": ["SBH", "GS (Best student)"],
-          "nominates": [8,14]
+          "notes": [
+            "SBH",
+            "GS (Best student)"
+          ],
+          "categories": [
+            "SBH",
+            "GS (Best student)"
+          ],
+          "nominates": [
+            8,
+            14
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH", "Given whole money to Mani", "Roasted For favorism"],
-          "nominates": [19,2]
+          "notes": [
+            "SBH",
+            "Given whole money to Mani",
+            "Roasted For favorism"
+          ],
+          "categories": [
+            "SBH",
+            "Given whole money to Mani",
+            "Roasted For favorism"
+          ],
+          "nominates": [
+            19,
+            2
+          ]
         },
         {
           "week": 12,
-          "notes": ["Nominated"],
-          "nominates": [15,8]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            15,
+            8
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "Killed by Vichitra in G-3, R-3", "TTF-2", "2 Pts in Game-3", "TTF-5", "5 Pts in G-4", "Energetic Contestant Award", "Evicted"],
-          "nominates": [9,8]
+          "notes": [
+            "Nominated",
+            "SBH",
+            "Killed by Vichitra in G-3, R-3",
+            "TTF-2",
+            "2 Pts in Game-3",
+            "TTF-5",
+            "5 Pts in G-4",
+            "Energetic Contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "Killed by Vichitra in G-3, R-3",
+            "TTF-2",
+            "2 Pts in Game-3",
+            "TTF-5",
+            "5 Pts in G-4",
+            "Energetic Contestant Award",
+            "Evicted"
+          ],
+          "nominates": [
+            9,
+            8
+          ]
         }
       ]
     },
     {
-      "name": "Saravana Vickram",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
-      "id": "13",
       "eliminated_date": "2023-12-23",
+      "name": "Saravana Vickram",
+      "id": "13",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/saravana.png",
       "dial_number": "8886602483",
       "history": [
         {
@@ -1178,6 +2001,9 @@
           "notes": [
             "Captain"
           ],
+          "categories": [
+            "Captain"
+          ],
           "nominates": [
             17,
             5
@@ -1186,6 +2012,10 @@
         {
           "week": 3,
           "notes": [
+            "SBH",
+            "Nominated"
+          ],
+          "categories": [
             "SBH",
             "Nominated"
           ],
@@ -1201,6 +2031,11 @@
             "Defend Akshaya during Vishnu conflicts",
             "GS"
           ],
+          "categories": [
+            "Nominated",
+            "Defend Akshaya during Vishnu conflicts",
+            "GS"
+          ],
           "nominates": [
             9,
             11
@@ -1208,8 +2043,8 @@
         },
         {
           "week": 5,
-          "notes": [
-          ],
+          "notes": [],
+          "categories": [],
           "nominates": [
             20,
             21
@@ -1220,55 +2055,131 @@
           "notes": [
             "Got knockout from Vichitra & Archana"
           ],
-          "nominates": [22,19
+          "categories": [
+            "Got knockout from Vichitra & Archana"
+          ],
+          "nominates": [
+            22,
+            19
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
-          "nominates": [17,21]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            17,
+            21
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH"],
-          "nominates": [7,19]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            7,
+            19
+          ]
         },
         {
           "week": 9,
-          "notes": ["SBH", "Nominated", "Nose cut to Archana while she bullying", "Tea fight with Archana"],
-          "nominates": [7,14]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Nose cut to Archana while she bullying",
+            "Tea fight with Archana"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Nose cut to Archana while she bullying",
+            "Tea fight with Archana"
+          ],
+          "nominates": [
+            7,
+            14
+          ]
         },
         {
           "week": 10,
-          "notes": ["SBH", "GS", "GS", "GS", "GS", "GS (5 Jackpot)"],
-          "nominates": [19,14]
+          "notes": [
+            "SBH",
+            "GS",
+            "GS",
+            "GS",
+            "GS",
+            "GS (5 Jackpot)"
+          ],
+          "categories": [
+            "SBH",
+            "GS",
+            "GS",
+            "GS",
+            "GS",
+            "GS (5 Jackpot)"
+          ],
+          "nominates": [
+            19,
+            14
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH"],
-          "nominates": [17]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            17
+          ]
         },
         {
           "week": 12,
-          "notes": ["Nominated", "Mom advice him to maintain the distance with Maya & Poornima", "Evicted"],
-          "nominates": [12,17]
+          "notes": [
+            "Nominated",
+            "Mom advice him to maintain the distance with Maya & Poornima",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Mom advice him to maintain the distance with Maya & Poornima",
+            "Evicted"
+          ],
+          "nominates": [
+            12,
+            17
+          ]
         }
       ]
     },
     {
-      "name": "Vichithra",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra.png",
-      "id": "14",
       "eliminated_date": "2024-01-07",
-      "dial_number": "8886602475",
-      "title": null,
-      "order": null,
+      "name": "Vichithra",
+      "id": "14",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vichitra.png",
+      "dial_number": "8886602475",
       "history": [
         {
           "week": 1,
           "notes": [
+            "SBH",
+            "Rule Break",
+            "Support Education",
+            "Tattoo issue"
+          ],
+          "categories": [
             "SBH",
             "Rule Break",
             "Support Education",
@@ -1285,6 +2196,10 @@
             "Nominated",
             "Created Cleaning Content"
           ],
+          "categories": [
+            "Nominated",
+            "Created Cleaning Content"
+          ],
           "nominates": [
             17,
             8
@@ -1293,6 +2208,9 @@
         {
           "week": 3,
           "notes": [
+            "Nominated"
+          ],
+          "categories": [
             "Nominated"
           ],
           "nominates": [
@@ -1306,6 +2224,10 @@
             "Target Pradeep",
             "Roasted Maya during review"
           ],
+          "categories": [
+            "Target Pradeep",
+            "Roasted Maya during review"
+          ],
           "nominates": [
             18,
             11
@@ -1316,7 +2238,14 @@
           "notes": [
             "SBH",
             "Clever play for NOT allowing BH to nominate",
-            "GS (Won Gold Star on bell task)", "Rule Break"
+            "GS (Won Gold Star on bell task)",
+            "Rule Break"
+          ],
+          "categories": [
+            "SBH",
+            "Clever play for NOT allowing BH to nominate",
+            "GS (Won Gold Star on bell task)",
+            "Rule Break"
           ],
           "nominates": [
             8,
@@ -1326,68 +2255,176 @@
         {
           "week": 6,
           "notes": [
-            "SBH", "Nominated","Rule Break", "Use Pradeep card in nomination", "Send Archana for shopping", "GS (BB Court vs Poornima)"
+            "SBH",
+            "Nominated",
+            "Rule Break",
+            "Use Pradeep card in nomination",
+            "Send Archana for shopping",
+            "GS (BB Court vs Poornima)"
           ],
-          "nominates": [9,3
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Rule Break",
+            "Use Pradeep card in nomination",
+            "Send Archana for shopping",
+            "GS (BB Court vs Poornima)"
+          ],
+          "nominates": [
+            9,
+            3
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Try to trigger Maya in task", "Demanding to call her as MAM", "Jail", "Rule Break"],
-          "nominates": [13,12]
+          "notes": [
+            "Nominated",
+            "Try to trigger Maya in task",
+            "Demanding to call her as MAM",
+            "Jail",
+            "Rule Break"
+          ],
+          "categories": [
+            "Nominated",
+            "Try to trigger Maya in task",
+            "Demanding to call her as MAM",
+            "Jail",
+            "Rule Break"
+          ],
+          "nominates": [
+            13,
+            12
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH", "Nominated"],
-          "nominates": [12,7]
+          "notes": [
+            "SBH",
+            "Nominated"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated"
+          ],
+          "nominates": [
+            12,
+            7
+          ]
         },
         {
           "week": 9,
-          "notes": ["Nominated", "Archana accusing her for standup in favor"],
-          "nominates": [5,13]
+          "notes": [
+            "Nominated",
+            "Archana accusing her for standup in favor"
+          ],
+          "categories": [
+            "Nominated",
+            "Archana accusing her for standup in favor"
+          ],
+          "nominates": [
+            5,
+            13
+          ]
         },
         {
           "week": 10,
-          "notes": ["Nominated"],
-          "nominates": [15,10]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            15,
+            10
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH", "Neelabari dance super", "Cool Suresh damaged her in front of Kamal"],
-          "nominates": [22,5]
+          "notes": [
+            "SBH",
+            "Neelabari dance super",
+            "Cool Suresh damaged her in front of Kamal"
+          ],
+          "categories": [
+            "SBH",
+            "Neelabari dance super",
+            "Cool Suresh damaged her in front of Kamal"
+          ],
+          "nominates": [
+            22,
+            5
+          ]
         },
         {
           "week": 12,
-          "notes": ["Nominated", "Received family favourite award"],
-          "nominates": [13,22]
+          "notes": [
+            "Nominated",
+            "Received family favourite award"
+          ],
+          "categories": [
+            "Nominated",
+            "Received family favourite award"
+          ],
+          "nominates": [
+            13,
+            22
+          ]
         },
         {
           "week": 13,
-          "notes": ["SBH", "TTF-3", "3 Pts in Game-3"],
-          "nominates": [22,17]
+          "notes": [
+            "SBH",
+            "TTF-3",
+            "3 Pts in Game-3"
+          ],
+          "categories": [
+            "SBH",
+            "TTF-3",
+            "3 Pts in Game-3"
+          ],
+          "nominates": [
+            22,
+            17
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "Inspirational Contestant Award", "Evicted"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Inspirational Contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Inspirational Contestant Award",
+            "Evicted"
+          ],
           "nominates": []
         }
       ]
     },
     {
-      "name": "Vijay Varma",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma.png",
-      "id": "15",
-      "dial_number": "8886602484",
       "eliminated_date": "2023-10-21",
       "re_entry_date": "2023-11-26",
       "re_evicted_date": "2024-01-10",
-      "order": 7,
+      "name": "Vijay Varma",
+      "id": "15",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vijay_varma.png",
+      "dial_number": "8886602484",
+      "order": 7,
       "history": [
         {
           "week": 1,
           "notes": [
+            "Captain",
+            "Yellow Card"
+          ],
+          "categories": [
             "Captain",
             "Yellow Card"
           ],
@@ -1399,6 +2436,9 @@
         {
           "week": 2,
           "notes": [
+            "SBH"
+          ],
+          "categories": [
             "SBH"
           ],
           "nominates": [
@@ -1415,6 +2455,13 @@
             "Slammed Pradeep on ground",
             "Using hands on Vishnu's Neck"
           ],
+          "categories": [
+            "Evicted",
+            "Nominated",
+            "Won game against Mani",
+            "Slammed Pradeep on ground",
+            "Using hands on Vishnu's Neck"
+          ],
           "nominates": [
             16,
             13
@@ -1422,53 +2469,117 @@
         },
         {
           "week": 9,
-          "notes": ["SBH"],
-          "nominates": [7,12]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            7,
+            12
+          ]
         },
         {
           "week": 10,
-          "notes": ["SBH", "GS (Toy Task)"],
-          "nominates": [7,22]
+          "notes": [
+            "SBH",
+            "GS (Toy Task)"
+          ],
+          "categories": [
+            "SBH",
+            "GS (Toy Task)"
+          ],
+          "nominates": [
+            7,
+            22
+          ]
         },
         {
           "week": 11,
-          "notes": ["Collect all money from Poornima & Maya"],
-          "nominates": [22,5]
+          "notes": [
+            "Collect all money from Poornima & Maya"
+          ],
+          "categories": [
+            "Collect all money from Poornima & Maya"
+          ],
+          "nominates": [
+            22,
+            5
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH", "Vijay mom visited home, she is +ve too"],
-          "nominates": [12,10]
+          "notes": [
+            "SBH",
+            "Vijay mom visited home, she is +ve too"
+          ],
+          "categories": [
+            "SBH",
+            "Vijay mom visited home, she is +ve too"
+          ],
+          "nominates": [
+            12,
+            10
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated"],
-          "nominates": [17,12]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            17,
+            12
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "SBH"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
           "nominates": []
         },
         {
           "week": 15,
-          "notes": ["Nominated", "Direct Nomination", "Mid week eviction", "Evicted"]
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Mid week eviction",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Mid week eviction",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Vinusha Devi",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi.png",
-      "id": "16",
-      "dial_number": "8886602485",
       "eliminated_date": "2023-10-29",
+      "name": "Vinusha Devi",
+      "id": "16",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishuna_devi.png",
+      "dial_number": "8886602485",
       "history": [
         {
           "week": 1,
-          "notes": [
-          ],
+          "notes": [],
+          "categories": [],
           "nominates": [
             18,
             8
@@ -1477,6 +2588,9 @@
         {
           "week": 2,
           "notes": [
+            "Arrest Warrant"
+          ],
+          "categories": [
             "Arrest Warrant"
           ],
           "nominates": [
@@ -1490,6 +2604,10 @@
             "SBH",
             "Nominated"
           ],
+          "categories": [
+            "SBH",
+            "Nominated"
+          ],
           "nominates": [
             15,
             9
@@ -1498,7 +2616,12 @@
         {
           "week": 4,
           "notes": [
-            "Nominated", "Evicted"
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Evicted"
           ],
           "nominates": [
             11,
@@ -1508,19 +2631,22 @@
       ]
     },
     {
-      "name": "Vishnu",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
-      "id": "17",
       "eliminated_date": "2024-01-14",
+      "name": "Vishnu",
+      "id": "17",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/vishnu.png",
+      "dial_number": "8886602486",
       "title": "5th Runner Up",
       "order": 5,
-      "dial_number": "8886602486",
-      "isNominated": false,
       "history": [
         {
           "week": 1,
           "notes": [
+            "Loose Talk"
+          ],
+          "categories": [
             "Loose Talk"
           ],
           "nominates": [
@@ -1534,6 +2660,10 @@
             "Nominated",
             "SBH"
           ],
+          "categories": [
+            "Nominated",
+            "SBH"
+          ],
           "nominates": [
             1,
             6
@@ -1544,6 +2674,9 @@
           "notes": [
             "SBH"
           ],
+          "categories": [
+            "SBH"
+          ],
           "nominates": [
             9,
             1
@@ -1552,6 +2685,12 @@
         {
           "week": 4,
           "notes": [
+            "Nominated",
+            "Conflict with Pradeep for target",
+            "Fight with Akshya during task",
+            "Planning with Maya & Poornima"
+          ],
+          "categories": [
             "Nominated",
             "Conflict with Pradeep for target",
             "Fight with Akshya during task",
@@ -1568,6 +2707,10 @@
             "Clever play not bullying SBH",
             "Supporting Cool Suresh on Pradeep's abusive bullying"
           ],
+          "categories": [
+            "Clever play not bullying SBH",
+            "Supporting Cool Suresh on Pradeep's abusive bullying"
+          ],
           "nominates": [
             19,
             20
@@ -1576,71 +2719,189 @@
         {
           "week": 6,
           "notes": [
-            "Not joining with Bullies gang", "GS (BB Court vs Poornima)", "GS (BB Court Judge)", "Jail"
+            "Not joining with Bullies gang",
+            "GS (BB Court vs Poornima)",
+            "GS (BB Court Judge)",
+            "Jail"
           ],
-          "nominates": [14,19
+          "categories": [
+            "Not joining with Bullies gang",
+            "GS (BB Court vs Poornima)",
+            "GS (BB Court Judge)",
+            "Jail"
+          ],
+          "nominates": [
+            14,
+            19
           ]
         },
         {
           "week": 7,
-          "notes": ["Fight with Dinesh in Secrete task"],
-          "nominates": [13,1]
+          "notes": [
+            "Fight with Dinesh in Secrete task"
+          ],
+          "categories": [
+            "Fight with Dinesh in Secrete task"
+          ],
+          "nominates": [
+            13,
+            1
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH", "Direct nomination"],
-          "nominates": [8,1]
+          "notes": [
+            "SBH",
+            "Direct nomination"
+          ],
+          "categories": [
+            "SBH",
+            "Direct nomination"
+          ],
+          "nominates": [
+            8,
+            1
+          ]
         },
         {
           "week": 9,
-          "notes": ["SBH", "GS (Entertainment)", "Fight with Archana", "Accused as manhandling by Archana"],
-          "nominates": [2,6]
+          "notes": [
+            "SBH",
+            "GS (Entertainment)",
+            "Fight with Archana",
+            "Accused as manhandling by Archana"
+          ],
+          "categories": [
+            "SBH",
+            "GS (Entertainment)",
+            "Fight with Archana",
+            "Accused as manhandling by Archana"
+          ],
+          "nominates": [
+            2,
+            6
+          ]
         },
         {
           "week": 10,
-          "notes": ["Captain", "Worst, Roasted by Kamal"],
-          "nominates": [15,9]
+          "notes": [
+            "Captain",
+            "Worst, Roasted by Kamal"
+          ],
+          "categories": [
+            "Captain",
+            "Worst, Roasted by Kamal"
+          ],
+          "nominates": [
+            15,
+            9
+          ]
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Use Poornima in saturday episode"],
-          "nominates": [2,10]
+          "notes": [
+            "Nominated",
+            "Use Poornima in saturday episode"
+          ],
+          "categories": [
+            "Nominated",
+            "Use Poornima in saturday episode"
+          ],
+          "nominates": [
+            2,
+            10
+          ]
         },
         {
           "week": 12,
           "notes": [],
-          "nominates": [8,13]
+          "categories": [],
+          "nominates": [
+            8,
+            13
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated", "SBH", "TTF-3", "3 Pts for Vishnu", "Killed Nixen in Game 3, R-3", "TTF-1", "1 Pt in Game-3", "G-3, 5 ON, 18/24 OFF", "TTF-3", "3 Pts in G-5", "TTF-3", "3 Pts on G-4"],
-          "nominates": [8,15]
+          "notes": [
+            "Nominated",
+            "SBH",
+            "TTF-3",
+            "3 Pts for Vishnu",
+            "Killed Nixen in Game 3, R-3",
+            "TTF-1",
+            "1 Pt in Game-3",
+            "G-3, 5 ON, 18/24 OFF",
+            "TTF-3",
+            "3 Pts in G-5",
+            "TTF-3",
+            "3 Pts on G-4"
+          ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "TTF-3",
+            "3 Pts for Vishnu",
+            "Killed Nixen in Game 3, R-3",
+            "TTF-1",
+            "1 Pt in Game-3",
+            "G-3, 5 ON, 18/24 OFF",
+            "TTF-3",
+            "3 Pts in G-5",
+            "TTF-3",
+            "3 Pts on G-4"
+          ],
+          "nominates": [
+            8,
+            15
+          ]
         },
         {
           "week": 14,
-          "notes": ["SBH"],
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
           "nominates": []
         },
         {
           "week": 15,
           "title": "5th Runner Up",
           "order": 5,
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Competitive Contestant Award", "Evicted"]
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Competitive Contestant Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Competitive Contestant Award",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Yugendran",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran_pp.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran.png",
-      "id": "18",
       "eliminated_date": "2023-10-29",
-      "dial_number": "8886602487",
+      "name": "Yugendran",
+      "id": "18",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/yugendran.png",
+      "dial_number": "8886602487",
       "history": [
         {
           "week": 1,
           "notes": [
+            "Nominated"
+          ],
+          "categories": [
             "Nominated"
           ],
           "nominates": [
@@ -1660,6 +2921,9 @@
           "notes": [
             "Captain"
           ],
+          "categories": [
+            "Captain"
+          ],
           "nominates": [
             8,
             11
@@ -1672,6 +2936,11 @@
             "SBH",
             "Evicted"
           ],
+          "categories": [
+            "Nominated",
+            "SBH",
+            "Evicted"
+          ],
           "nominates": [
             16,
             8
@@ -1680,20 +2949,25 @@
       ]
     },
     {
-      "name": "Archana",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/archana.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/archana_pp.png",
-      "id": "19",
       "start_date": "2023-10-29",
       "eliminated_date": "2024-01-14",
+      "name": "Archana",
+      "id": "19",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/archana_pp.png",
+      "dial_number": "8886602491",
       "title": "Title Winner",
       "order": 1,
-      "dial_number": "8886602491",
-      "isNominated": false,
       "history": [
         {
           "week": 5,
           "notes": [
+            "SBH",
+            "Nominated",
+            "Demanding Respect"
+          ],
+          "categories": [
             "SBH",
             "Nominated",
             "Demanding Respect"
@@ -1706,72 +2980,198 @@
         {
           "week": 6,
           "notes": [
-            "SBH", "Nominated", "Rule Break", "Said F**K word", "Personal attack on Aishu", "Use Pradeep card"
+            "SBH",
+            "Nominated",
+            "Rule Break",
+            "Said F**K word",
+            "Personal attack on Aishu",
+            "Use Pradeep card"
           ],
-          "nominates": [1,13
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Rule Break",
+            "Said F**K word",
+            "Personal attack on Aishu",
+            "Use Pradeep card"
+          ],
+          "nominates": [
+            1,
+            13
           ]
         },
         {
           "week": 7,
-          "notes": ["Rule Break", "Mocking Vickraman", "Bullying Raveena", "Group with Vichitra"],
-          "nominates": [8,10]
+          "notes": [
+            "Rule Break",
+            "Mocking Vickraman",
+            "Bullying Raveena",
+            "Group with Vichitra"
+          ],
+          "categories": [
+            "Rule Break",
+            "Mocking Vickraman",
+            "Bullying Raveena",
+            "Group with Vichitra"
+          ],
+          "nominates": [
+            8,
+            10
+          ]
         },
         {
           "week": 8,
-          "notes": ["Nominated"],
-          "nominates": [10,6]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            10,
+            6
+          ]
         },
         {
           "week": 9,
-          "notes": ["SBH", "Mocking, Bullying Vishnu", "Bullying Vickraman", "Accusing Vichitra", "Accusing Nixen for being in favor of their team", "Backbiting Vichitra"],
-          "nominates": [6,2]
+          "notes": [
+            "SBH",
+            "Mocking, Bullying Vishnu",
+            "Bullying Vickraman",
+            "Accusing Vichitra",
+            "Accusing Nixen for being in favor of their team",
+            "Backbiting Vichitra"
+          ],
+          "categories": [
+            "SBH",
+            "Mocking, Bullying Vishnu",
+            "Bullying Vickraman",
+            "Accusing Vichitra",
+            "Accusing Nixen for being in favor of their team",
+            "Backbiting Vichitra"
+          ],
+          "nominates": [
+            6,
+            2
+          ]
         },
         {
           "week": 10,
-          "notes": ["Nominated", "Urimai kural against Nixen", "Roasted by Kamal for using Vinush & Aishu name"],
-          "nominates": [10,9]
+          "notes": [
+            "Nominated",
+            "Urimai kural against Nixen",
+            "Roasted by Kamal for using Vinush & Aishu name"
+          ],
+          "categories": [
+            "Nominated",
+            "Urimai kural against Nixen",
+            "Roasted by Kamal for using Vinush & Aishu name"
+          ],
+          "nominates": [
+            10,
+            9
+          ]
         },
         {
           "week": 11,
-          "notes": ["Nominated", "Good in Rowdy akka character", "130/100 Percentage. Foolish"],
-          "nominates": [9,22]
+          "notes": [
+            "Nominated",
+            "Good in Rowdy akka character",
+            "130/100 Percentage. Foolish"
+          ],
+          "categories": [
+            "Nominated",
+            "Good in Rowdy akka character",
+            "130/100 Percentage. Foolish"
+          ],
+          "nominates": [
+            9,
+            22
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH", "Archana dad cornering Vickraman (Humanity) and Nixen (Kalli Paal)", "Calling Archana as Cheap Behaviour"],
-          "nominates": [13,12]
+          "notes": [
+            "SBH",
+            "Archana dad cornering Vickraman (Humanity) and Nixen (Kalli Paal)",
+            "Calling Archana as Cheap Behaviour"
+          ],
+          "categories": [
+            "SBH",
+            "Archana dad cornering Vickraman (Humanity) and Nixen (Kalli Paal)",
+            "Calling Archana as Cheap Behaviour"
+          ],
+          "nominates": [
+            13,
+            12
+          ]
         },
         {
           "week": 13,
           "notes": [],
-          "nominates": [8,9]
+          "categories": [],
+          "nominates": [
+            8,
+            9
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "BB Exposed PR stuffs", "Blast Vichitra for PR task"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "BB Exposed PR stuffs",
+            "Blast Vichitra for PR task"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "BB Exposed PR stuffs",
+            "Blast Vichitra for PR task"
+          ],
           "nominates": []
         },
         {
           "week": 15,
           "title": "Title Winner",
           "order": 1,
-          "notes": ["Nominated", "Direct Nomination", "Conflicts with Dinesh","Asked sorry to Maya", "Rising Star Award", "Evicted"]
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "Conflicts with Dinesh",
+            "Asked sorry to Maya",
+            "Rising Star Award",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "Conflicts with Dinesh",
+            "Asked sorry to Maya",
+            "Rising Star Award",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Anna Bharathi",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/annabharathi.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/annabharathi_pp.png",
-      "id": "20",
       "start_date": "2023-10-29",
       "eliminated_date": "2023-11-04",
-      "dial_number": "8886602488",
+      "name": "Anna Bharathi",
+      "id": "20",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/annabharathi_pp.png",
+      "dial_number": "8886602488",
       "history": [
         {
           "week": 5,
           "notes": [
+            "SBH",
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
             "SBH",
             "Nominated",
             "Evicted"
@@ -1784,18 +3184,22 @@
       ]
     },
     {
-      "name": "R J Bravo",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bravo.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bravo_pp.png",
-      "id": "21",
       "start_date": "2023-10-29",
       "eliminated_date": "2023-11-25",
-      "dial_number": "8886602492",
+      "name": "R J Bravo",
+      "id": "21",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bravo_pp.png",
+      "dial_number": "8886602492",
       "history": [
         {
           "week": 5,
           "notes": [
+            "SBH",
+            "Nominated"
+          ],
+          "categories": [
             "SBH",
             "Nominated"
           ],
@@ -1809,36 +3213,66 @@
           "notes": [
             "Nominated"
           ],
-          "nominates": [12,14
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            12,
+            14
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated"],
-          "nominates": [23,14]
+          "notes": [
+            "Nominated"
+          ],
+          "categories": [
+            "Nominated"
+          ],
+          "nominates": [
+            23,
+            14
+          ]
         },
         {
           "week": 8,
-          "notes": ["SBH", "Nominated", "Evicted"],
-          "nominates": [19,7]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Evicted"
+          ],
+          "nominates": [
+            19,
+            7
+          ]
         }
       ]
     },
     {
-      "name": "Dinesh Gopalsamy",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh_pp.png",
-      "id": "22",
       "start_date": "2023-10-29",
       "eliminated_date": "2024-01-14",
+      "name": "Dinesh Gopalsamy",
+      "id": "22",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/ganesh_pp.png",
+      "dial_number": "8886602490",
       "title": "4th Runner Up",
       "order": 4,
-      "dial_number": "8886602490",
-      "isNominated": false,
       "history": [
         {
           "week": 5,
           "notes": [
+            "SBH",
+            "Nominated",
+            "Conflicts with Maya & Poornima"
+          ],
+          "categories": [
             "SBH",
             "Nominated",
             "Conflicts with Maya & Poornima"
@@ -1851,72 +3285,200 @@
         {
           "week": 6,
           "notes": [
-            "SBH", "Nominated", "Use Pradeep card", "GS (BB Court vs Maya)"
+            "SBH",
+            "Nominated",
+            "Use Pradeep card",
+            "GS (BB Court vs Maya)"
           ],
-          "nominates": [10,3
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Use Pradeep card",
+            "GS (BB Court vs Maya)"
+          ],
+          "nominates": [
+            10,
+            3
           ]
         },
         {
           "week": 7,
-          "notes": ["Captain", "Handle Vichitra & Archana in Jail issue", "Acting as Akshya"],
-          "nominates": [10,13]
+          "notes": [
+            "Captain",
+            "Handle Vichitra & Archana in Jail issue",
+            "Acting as Akshya"
+          ],
+          "categories": [
+            "Captain",
+            "Handle Vichitra & Archana in Jail issue",
+            "Acting as Akshya"
+          ],
+          "nominates": [
+            10,
+            13
+          ]
         },
         {
           "week": 8,
-          "notes": ["Captain"],
-          "nominates": [10,14]
+          "notes": [
+            "Captain"
+          ],
+          "categories": [
+            "Captain"
+          ],
+          "nominates": [
+            10,
+            14
+          ]
         },
         {
           "week": 9,
-          "notes": ["Nominated", "Backbiting about Archana", "Stoping Cool Suresh not making noise", "Being rude in knot task"],
-          "nominates": [13,17]
+          "notes": [
+            "Nominated",
+            "Backbiting about Archana",
+            "Stoping Cool Suresh not making noise",
+            "Being rude in knot task"
+          ],
+          "categories": [
+            "Nominated",
+            "Backbiting about Archana",
+            "Stoping Cool Suresh not making noise",
+            "Being rude in knot task"
+          ],
+          "nominates": [
+            13,
+            17
+          ]
         },
         {
           "week": 10,
-          "notes": ["Nominated", "Roasted for Davulath word"],
-          "nominates": [13,9]
+          "notes": [
+            "Nominated",
+            "Roasted for Davulath word"
+          ],
+          "categories": [
+            "Nominated",
+            "Roasted for Davulath word"
+          ],
+          "nominates": [
+            13,
+            9
+          ]
         },
         {
           "week": 11,
-          "notes": ["SBH","Nominated", "Corrupted money from Cool Suresh", "TTF-1 (Best Performance)", "Discussing upcoming NM", "Sugar issue with Vichitra"],
-          "nominates": [9,10]
+          "notes": [
+            "SBH",
+            "Nominated",
+            "Corrupted money from Cool Suresh",
+            "TTF-1 (Best Performance)",
+            "Discussing upcoming NM",
+            "Sugar issue with Vichitra"
+          ],
+          "categories": [
+            "SBH",
+            "Nominated",
+            "Corrupted money from Cool Suresh",
+            "TTF-1 (Best Performance)",
+            "Discussing upcoming NM",
+            "Sugar issue with Vichitra"
+          ],
+          "nominates": [
+            9,
+            10
+          ]
         },
         {
           "week": 12,
-          "notes": ["SBH"],
-          "nominates": [13,14]
+          "notes": [
+            "SBH"
+          ],
+          "categories": [
+            "SBH"
+          ],
+          "nominates": [
+            13,
+            14
+          ]
         },
         {
           "week": 13,
-          "notes": ["Nominated", "Killed by Dinesh in Game 3, R-2", "G-5 7-ON 18/22-OFF", "TTF-1", "1 Pt in G-5", "TTF-2", "2 Pts G-4"],
-          "nominates": [14,9]
+          "notes": [
+            "Nominated",
+            "Killed by Dinesh in Game 3, R-2",
+            "G-5 7-ON 18/22-OFF",
+            "TTF-1",
+            "1 Pt in G-5",
+            "TTF-2",
+            "2 Pts G-4"
+          ],
+          "categories": [
+            "Nominated",
+            "Killed by Dinesh in Game 3, R-2",
+            "G-5 7-ON 18/22-OFF",
+            "TTF-1",
+            "1 Pt in G-5",
+            "TTF-2",
+            "2 Pts G-4"
+          ],
+          "nominates": [
+            14,
+            9
+          ]
         },
         {
           "week": 14,
-          "notes": ["Nominated", "Direct Nomination", "SBH"],
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH"
+          ],
           "nominates": []
         },
         {
           "week": 15,
           "title": "4th Runner Up",
           "order": 4,
-          "notes": ["Nominated", "Direct Nomination", "SBH", "Game Changer", "Evicted"]
+          "notes": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Game Changer",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Direct Nomination",
+            "SBH",
+            "Game Changer",
+            "Evicted"
+          ]
         }
       ]
     },
     {
-      "name": "Gana Bala",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala.png",
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala_pp.png",
-      "id": "23",
       "start_date": "2023-10-29",
       "eliminated_date": "2023-11-19",
-      "dial_number": "8886602489",
+      "name": "Gana Bala",
+      "id": "23",
       "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/participants/bala_pp.png",
+      "dial_number": "8886602489",
       "history": [
         {
           "week": 5,
           "notes": [
+            "SBH",
+            "Nominated",
+            "Song is super"
+          ],
+          "categories": [
             "SBH",
             "Nominated",
             "Song is super"
@@ -1928,18 +3490,30 @@
         },
         {
           "week": 6,
-          "notes": [
-
-          ],
-          "nominates": [22,19
+          "notes": [],
+          "categories": [],
+          "nominates": [
+            22,
+            19
           ]
         },
         {
           "week": 7,
-          "notes": ["Nominated", "Evicted"],
-          "nominates": [10,21]
+          "notes": [
+            "Nominated",
+            "Evicted"
+          ],
+          "categories": [
+            "Nominated",
+            "Evicted"
+          ],
+          "nominates": [
+            10,
+            21
+          ]
         }
       ]
     }
-  ]
+  ],
+  "notifications": []
 }
