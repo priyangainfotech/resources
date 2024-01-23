@@ -52,7 +52,6 @@
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
-      "weekly_enabled": true,
       "graph": true,
       "graphOrder": 4
     },
