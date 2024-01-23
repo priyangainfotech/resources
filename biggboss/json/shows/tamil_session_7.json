@@ -37,7 +37,9 @@
       "key": "CAP",
       "color": "FF2E9F49",
       "text": "FFFFFF",
-      "enable": true
+      "enable": true,
+      "graph": true,
+      "graphOrder": 5
     },
     {
       "name": "Evicted",
@@ -50,14 +52,18 @@
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
-      "enable": true
+      "enable": true,
+      "graph": true,
+      "graphOrder": 4
     },
     {
       "name": "Small Boss House",
       "key": "SBH",
       "color": "FF4A7AEE",
       "text": "FFFFFF",
-      "enable": true
+      "enable": true,
+      "graph": true,
+      "graphOrder": 3
     },
     {
       "name": "Bigg Boss House",
@@ -69,7 +75,9 @@
     {
       "name": "Gold Star",
       "key": "GS",
-      "color": "FFD4AF37"
+      "color": "FFD4AF37",
+      "graph": true,
+      "graphOrder": 2
     },
     {
       "name": "Yellow Strike",
@@ -81,6 +89,12 @@
       "key": "RC",
       "color": "FF93000A",
       "text": "FFFFFF"
+    }, {
+      "name": "Ticket To Final",
+      "key": "TTF",
+      "color": "FFD4AF37",
+      "graph": true,
+      "graphOrder": 1
     }
   ],
   "participants": [
