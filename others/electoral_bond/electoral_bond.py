@@ -8,6 +8,23 @@ def get_first_int_character_position(s):
             return i
     return -1  # Return -1 if no integer character is found
 
+def separate_amount_from_name(string):
+    # Start from the end of the string
+    index = len(string) - 1
+    amount = ""
+
+    # Find the first space going backwards
+    while index >= 0 and string[index] != ' ':
+        # Ignore commas
+        if string[index] != ',':
+            amount = string[index] + amount
+        index -= 1
+
+    # After finding the space, the remaining part is the name
+    name = string[:index].strip()
+
+    return name, amount
+
 
 def parse_line(line):
     # Define regular expressions for the patterns
@@ -18,11 +35,9 @@ def parse_line(line):
     # Apply regular expressions to split the string
     part1 = line[:11]
     rest = line[11:]
-    amountPosition = get_first_int_character_position(rest)
-
-    part2 = rest[:amountPosition]
-    amount = rest[amountPosition:].replace(",","")
-    return part1, part2, amount
+    name, amount = separate_amount_from_name(rest)
+    
+    return part1, name, amount
 
 def extract_table_from_pdf(pdf_path, start_page, end_page):
     table_data = []
@@ -50,9 +65,9 @@ def convert_pdf_to_excel(pdf_path, start_page, end_page, output_path):
     save_to_excel(table_data, output_path)
 
 # Example usage
-pdf_path = 'part2.pdf'  # Path to your PDF file
+pdf_path = 'bonds.pdf'  # Path to your PDF file
 start_page = 1  # Start page of the table
 end_page = 3  # End page of the table
-output_path = 'electoral_bond_part2.xlsx'  # Path where the Excel file will be saved
+output_path = 'bond-part1.xlsx'  # Path where the Excel file will be saved
 
 convert_pdf_to_excel(pdf_path, start_page, end_page, output_path)
