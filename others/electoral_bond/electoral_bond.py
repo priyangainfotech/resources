@@ -50,9 +50,9 @@ def convert_pdf_to_excel(pdf_path, start_page, end_page, output_path):
     save_to_excel(table_data, output_path)
 
 # Example usage
-pdf_path = 'bonds.pdf'  # Path to your PDF file
+pdf_path = 'part2.pdf'  # Path to your PDF file
 start_page = 1  # Start page of the table
 end_page = 3  # End page of the table
-output_path = 'output.xlsx'  # Path where the Excel file will be saved
+output_path = 'electoral_bond_part2.xlsx'  # Path where the Excel file will be saved
 
 convert_pdf_to_excel(pdf_path, start_page, end_page, output_path)
