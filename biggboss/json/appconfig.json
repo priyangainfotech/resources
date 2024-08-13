@@ -4,7 +4,7 @@
     },
     "api": {
         "show_base_url": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/",
-        "online_base_url": "http://biggboss.piappstudio.com/api/v1/"
+        "online_base_url": "https://biggboss.piappstudio.com/api/v1/"
     },
     "force_update": {
         "enabled": true,
