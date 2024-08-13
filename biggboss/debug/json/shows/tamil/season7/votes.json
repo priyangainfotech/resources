@@ -1,0 +1,383 @@
+{
+  "Poll": [
+    {
+      "name": "TamilGlitz",
+      "votes": [
+        {
+          "week": 6,
+          "players": [
+            {
+              "id": 19,
+              "vote": 674933,
+              "percentage": 42.04
+            },
+            {
+              "id": 14,
+              "vote": 292088,
+              "percentage": 18.2
+            },
+            {
+              "id": 22,
+              "vote": 254199,
+              "percentage": 15.84
+            },
+            {
+              "id": 21,
+              "vote": 202977,
+              "percentage": 12.64
+            },
+            {
+              "id": 3,
+              "vote": 94894,
+              "percentage": 5.91
+            },
+            {
+              "id": 10,
+              "vote": 86206,
+              "percentage": 5.37
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "players": [
+            {
+              "id": 14,
+              "vote": 609598,
+              "percentage": 54.02
+            },
+            {
+              "id": 7,
+              "vote": 104902,
+              "percentage": 9.3
+            },
+            {
+              "id": 12,
+              "vote": 101699,
+              "percentage": 9.01
+            },
+            {
+              "id": 10,
+              "vote": 69283,
+              "percentage": 6.14
+            },
+            {
+              "id": 21,
+              "vote": 67401,
+              "percentage": 5.91
+            },
+            {
+              "id": 1,
+              "vote": 58918,
+              "percentage": 5.22
+            },
+            {
+              "id": 13,
+              "vote": 58336,
+              "percentage": 5.17
+            },
+            {
+              "id": 23,
+              "vote": 58312,
+              "percentage": 5.17
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "last_update_date": "2023-11-26",
+          "players": [
+            {
+              "id": 19,
+              "vote": 447491,
+              "percentage": 37.66
+            },
+            {
+              "id": 14,
+              "vote": 262116,
+              "percentage": 22.06
+            },
+            {
+              "id": 7,
+              "vote": 88520,
+              "percentage": 7.45
+            },
+            {
+              "id": 12,
+              "vote": 80286,
+              "percentage": 6.75
+            },
+            {
+              "id": 10,
+              "vote": 78963,
+              "percentage": 6.65
+            },
+            {
+              "id": 8,
+              "vote": 77326,
+              "percentage": 6.51
+            },
+            {
+              "id": 1,
+              "vote": 76979,
+              "percentage": 6.48
+            },
+            {
+              "id": 21,
+              "vote": 76675,
+              "percentage": 6.44
+            }
+          ]
+        },
+        {
+          "week": 9,
+          "players": [
+            {
+              "id": 22,
+              "vote": 246000,
+              "percentage": 22.09
+            },
+            {
+              "id": 14,
+              "vote": 231234,
+              "percentage": 20.76
+            },
+            {
+              "id": 2,
+              "vote": 141607,
+              "percentage": 12.72
+            },
+            {
+              "id": 7,
+              "vote": 126787 ,
+              "percentage": 11.39
+            },
+            {
+              "id": 5,
+              "vote": 121595 ,
+              "percentage": 10.92
+            },
+            {
+              "id": 10,
+              "vote": 98860 ,
+              "percentage": 8.88
+            },
+            {
+              "id": 13,
+              "vote": 96182  ,
+              "percentage": 8.64
+            },{
+              "id": 6,
+              "vote": 51340  ,
+              "percentage": 4.6
+            }
+
+          ]
+        },
+        {
+          "week": 10,
+          "players": [
+            {
+              "id": 19,
+              "vote": 434046,
+              "percentage": 41.38
+            },
+            {
+              "id": 22,
+              "vote": 161806,
+              "percentage": 15.43
+            },
+            {
+              "id": 7,
+              "vote": 160493,
+              "percentage": 15.3
+            },
+            {
+              "id": 14,
+              "vote": 157468 ,
+              "percentage": 15.01
+            },
+            {
+              "id": 9,
+              "vote": 135168 ,
+              "percentage": 12.88
+            }
+          ]
+        },
+        {
+          "week": 11,
+          "players": [
+            {
+              "id": 19,
+              "vote": 485253,
+              "percentage": 42.94
+            },
+            {
+              "id": 22,
+              "vote": 161956,
+              "percentage": 14.33
+            },
+            {
+              "id": 5,
+              "vote": 160407,
+              "percentage": 14.19
+            },
+            {
+              "id": 17,
+              "vote": 161801 ,
+              "percentage": 14.32
+            },
+            {
+              "id": 9,
+              "vote": 160666 ,
+              "percentage": 14.22
+            },
+            {
+              "id": 2,
+              "vote": 55766,
+              "percentage": 6.77
+            }
+          ]
+        },
+        {
+          "week": 12,
+          "players": [
+            {
+              "id": 14,
+              "vote": 278889,
+              "percentage": 39.92
+            },
+            {
+              "id": 12,
+              "vote": 239369,
+              "percentage": 34.26
+            },
+            {
+              "id": 13,
+              "vote": 180455,
+              "percentage": 25.82
+            }
+          ]
+        },
+        {
+          "week": 13,
+          "players": [
+            {
+              "id": 22,
+              "vote": 240608 ,
+              "percentage": 20.78
+            },
+            {
+              "id": 7,
+              "vote": 222708 ,
+              "percentage": 19.23
+            },
+            {
+              "id": 17,
+              "vote": 200978 ,
+              "percentage": 17.36
+            },
+            {
+              "id": 15,
+              "vote": 127878 ,
+              "percentage": 11.04
+            },
+            {
+              "id": 12,
+              "vote": 156754,
+              "percentage": 13.54
+            },
+            {
+              "id": 9,
+              "vote": 111114 ,
+              "percentage": 9.59
+            },
+            {
+              "id": 8,
+              "vote": 97986 ,
+              "percentage": 8.46
+            }
+          ]
+        },
+        {
+          "week": 14,
+          "players": [
+            {
+              "id": 19,
+              "vote": 360841,
+              "percentage": 41.02
+            },
+            {
+              "id": 7,
+              "vote": 170684,
+              "percentage": 19.4
+            },
+            {
+              "id": 22,
+              "vote": 139419,
+              "percentage": 15.85
+            },
+            {
+              "id": 14,
+              "vote": 75081,
+              "percentage": 8.53
+            },
+            {
+              "id": 15,
+              "vote": 48696,
+              "percentage": 5.56
+            },
+            {
+              "id": 8,
+              "vote": 45435,
+              "percentage": 5.16
+            },
+            {
+              "id": 10,
+              "vote": 39365,
+              "percentage": 4.47
+            }
+          ]
+
+        },
+        {
+          "week": 15,
+          "players": [
+            {
+              "id": 19,
+              "vote": 453184,
+              "percentage": 54.06
+            },
+            {
+              "id": 7,
+              "vote": 131576 ,
+              "percentage": 15.68
+            },
+            {
+              "id": 22,
+              "vote": 90586 ,
+              "percentage": 10.08
+            },
+
+            {
+              "id": 8,
+              "vote": 84294,
+              "percentage": 10.05
+            },
+            {
+              "id": 17,
+              "vote": 61215,
+              "percentage": 7.3
+            },
+            {
+              "id": 15,
+              "vote": 18112,
+              "percentage": 2.15
+            }
+          ]
+
+        }
+      ]
+    }
+  ]
+}
