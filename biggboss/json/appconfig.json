@@ -1,0 +1,13 @@
+{
+    "ads":{
+        "home":false
+    },
+    "api": {
+        "show_base_url": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/",
+        "online_base_url": "http://piappstudio.byethost18.com/api/v1/"
+    },
+    "force_update": {
+        "enabled": true,
+        "min_app_version": 1.0
+    }
+}
