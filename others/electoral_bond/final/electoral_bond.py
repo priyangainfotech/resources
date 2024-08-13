@@ -13,7 +13,7 @@ def parse_line(line):
     account_no_index = 0
     party_name = ""
     for index, element in enumerate(sliced_array):
-        if not element.startswith('*'):
+        if not element.startswith('*'): 
             party_name+= element+" "
         else:
             account_no_index = index
