@@ -13,6 +13,18 @@
       "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7.json",
       "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7_trends.json",
       "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season7/votes.json"
+    },
+    {
+      "title": "BiggBoss Tamil Season 8",
+      "id": "2",
+      "host": "Vijay Sethupathi",
+      "start_date": "2024-10-01",
+      "end_date": null,
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/debug/json/shows/tamil/season8/tamil_session_8.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/debug/json/shows/tamil/season8/tamil_session_8_trends.json",
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/debug/json/shows/tamil/season8/votes.json"
+
     }
   ],
   "reviewers": [
