@@ -126,12 +126,12 @@
       ]
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha.png",
       "eliminated_date": "2023-11-12",
       "name": "Dharsha Gupta",
       "id": "3",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -144,12 +144,12 @@
       ]
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya.png",
       "eliminated_date": null,
       "name": "Sathya",
       "id": "4",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -162,12 +162,12 @@
 
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak.png",
       "eliminated_date": null,
       "name": "Deepak",
       "id": "5",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -181,12 +181,12 @@
 
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi.png",
       "eliminated_date": null,
       "name": "RJ Ananthi",
       "id": "6",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -200,12 +200,12 @@
 
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha.png",
       "eliminated_date": null,
       "name": "Sunitha",
       "id": "7",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunith.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunith_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -219,12 +219,12 @@
 
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry.png",
       "eliminated_date": null,
       "name": "Jeffry",
       "id": "8",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -238,12 +238,12 @@
 
     },
     {
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith.png",
       "eliminated_date": null,
       "name": "Ranjith",
       "id": "9",
       "isNominated": false,
-      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith.png",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
       "dial_number": null,
       "history":[
         {
@@ -251,6 +251,63 @@
           "notes": [
             "9th Contestant",
             "Actor"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra.png",
+      "eliminated_date": null,
+      "name": "Pavithra",
+      "id": "10",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "10th Contestant",
+            "Actor"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya.png",
+      "eliminated_date": null,
+      "name": "Soundariya Nanjundan",
+      "id": "11",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "11th Contestant",
+            "Model"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun.png",
+      "eliminated_date": null,
+      "name": "Arun Prasath",
+      "id": "12",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "12th Contestant",
+            "Serial Actor"
           ]
         }
       ]
