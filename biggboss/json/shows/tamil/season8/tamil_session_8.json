@@ -89,6 +89,154 @@
       "graphOrder": 1
     }
   ],
-  "participants": [],
+  "participants": [
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/ravi.png",
+      "eliminated_date": null,
+      "name": "Ravinder Chandrasekaran",
+      "id": "1",
+      "isNominated": null,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/ravi_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "1st Contestant",
+            "Reviewer comes with bit hate"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sachana.png",
+      "name": "Sachana Namidass",
+      "id": "2",
+      "isNominated": null,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sachana_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "2nd Contestant",
+            "Maharaja actor"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/dharsha_pp.png",
+      "eliminated_date": "2023-11-12",
+      "name": "Dharsha Gupta",
+      "id": "3",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/dharsha.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "3rd Contestant",
+            "2.3 Million Followers"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sathya_pp.png",
+      "eliminated_date": null,
+      "name": "Sathya",
+      "id": "4",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sathya.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "4th Contestant"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/deepak_pp.png",
+      "eliminated_date": null,
+      "name": "Deepak",
+      "id": "5",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/deepak.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "5th Contestant",
+            "Actor, Host"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/ananthi_pp.png",
+      "eliminated_date": null,
+      "name": "RJ Ananthi",
+      "id": "6",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/ananthi.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "6h Contestant",
+            "RJ"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sunitha_pp.png",
+      "eliminated_date": null,
+      "name": "Sunitha",
+      "id": "7",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/sunith.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "7th Contestant",
+            "Vijay Tv Products"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/jeffry_pp.png",
+      "eliminated_date": null,
+      "name": "Jeffry",
+      "id": "8",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session8/participants/jeffry.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "8th Contestant",
+            "Gana Singer"
+          ]
+        }
+      ]
+
+    }
+  ],
   "notifications": []
 }
