@@ -350,6 +350,25 @@
         }
       ]
 
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida.png",
+      "eliminated_date": null,
+      "name": "Anshida",
+      "id": "15",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "15th Contestant",
+            "Serial Actot"
+          ]
+        }
+      ]
+
     }
   ],
   "notifications": []
