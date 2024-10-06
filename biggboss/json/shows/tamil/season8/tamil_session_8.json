@@ -127,7 +127,7 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha.png",
-      "eliminated_date": "2023-11-12",
+      "eliminated_date": null,
       "name": "Dharsha Gupta",
       "id": "3",
       "isNominated": false,
@@ -297,7 +297,7 @@
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun.png",
       "eliminated_date": null,
-      "name": "Arun Prasath",
+      "name": "Arun Prasanth",
       "id": "12",
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
@@ -308,6 +308,25 @@
           "notes": [
             "12th Contestant",
             "Serial Actor"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika.png",
+      "eliminated_date": null,
+      "name": "Tharshika",
+      "id": "13",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "13th Contestant",
+            "Serial Actor,Not Agree with contestant, Voice on Soundariya"
           ]
         }
       ]
