@@ -369,6 +369,63 @@
         }
       ]
 
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arnav.png",
+      "eliminated_date": null,
+      "name": "Arnav",
+      "id": "16",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arnav_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "16th Contestant",
+            "Serial Actor"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar.png",
+      "eliminated_date": null,
+      "name": "MuthuKumar",
+      "id": "17",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "17th Contestant",
+            "Media"
+          ]
+        }
+      ]
+
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline.png",
+      "eliminated_date": null,
+      "name": "VJ Jacqueline",
+      "id": "18",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
+      "dial_number": null,
+      "history":[
+        {
+          "week": 1,
+          "notes": [
+            "18th Contestant",
+            "Vijay TV"
+          ]
+        }
+      ]
+
     }
   ],
   "notifications": []
