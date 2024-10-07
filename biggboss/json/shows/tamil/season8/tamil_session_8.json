@@ -114,8 +114,9 @@
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana.png",
       "name": "Sachana Namidass",
+      "eliminated_date": "2024-10-06",
       "id": "2",
-      "isNominated": null,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
       "dial_number": null,
       "history":[
@@ -123,7 +124,8 @@
           "week": 1,
           "notes": [
             "2nd Contestant",
-            "Maharaja actor"
+            "Maharaja actor",
+            "24 Hrs Elimination"
           ],
           "nominates": [
             18
