@@ -104,6 +104,9 @@
           "notes": [
             "1st Contestant",
             "Reviewer comes with bit hate"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
@@ -121,6 +124,9 @@
           "notes": [
             "2nd Contestant",
             "Maharaja actor"
+          ],
+          "nominates": [
+            18
           ]
         }
       ]
@@ -139,6 +145,9 @@
           "notes": [
             "3rd Contestant",
             "2.3 Million Followers"
+          ],
+          "nominates": [
+            4
           ]
         }
       ]
@@ -156,6 +165,9 @@
           "week": 1,
           "notes": [
             "4th Contestant"
+          ],
+          "nominates": [
+            17
           ]
         }
       ]
@@ -175,6 +187,9 @@
           "notes": [
             "5th Contestant",
             "Actor, Host"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
@@ -194,6 +209,9 @@
           "notes": [
             "6h Contestant",
             "RJ"
+          ],
+          "nominates": [
+            1
           ]
         }
       ]
@@ -213,6 +231,9 @@
           "notes": [
             "7th Contestant",
             "Vijay Tv Products"
+          ],
+          "nominates": [
+            18
           ]
         }
       ]
@@ -232,6 +253,9 @@
           "notes": [
             "8th Contestant",
             "Gana Singer"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
@@ -251,6 +275,9 @@
           "notes": [
             "9th Contestant",
             "Actor"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
@@ -259,7 +286,7 @@
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra.png",
       "eliminated_date": null,
-      "name": "Pavithra",
+      "name": "Pavithra Janani",
       "id": "10",
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
@@ -270,6 +297,9 @@
           "notes": [
             "10th Contestant",
             "Actor"
+          ],
+          "nominates": [
+            16
           ]
         }
       ]
@@ -289,6 +319,9 @@
           "notes": [
             "11th Contestant",
             "Model"
+          ],
+          "nominates": [
+            16
           ]
         }
       ]
@@ -308,6 +341,9 @@
           "notes": [
             "12th Contestant",
             "Serial Actor"
+          ],
+          "nominates": [
+            1
           ]
         }
       ]
@@ -327,6 +363,9 @@
           "notes": [
             "13th Contestant",
             "Serial Actor,Not Agree with contestant, Voice on Soundariya"
+          ],
+          "nominates": [
+            1
           ]
         }
       ]
@@ -346,6 +385,9 @@
           "notes": [
             "14th Contestant",
             "Serial Actor, Vijay TV"
+          ],
+          "nominates": [
+            18
           ]
         }
       ]
@@ -365,6 +407,9 @@
           "notes": [
             "15th Contestant",
             "Serial Actot"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
@@ -384,6 +429,9 @@
           "notes": [
             "16th Contestant",
             "Serial Actor"
+          ],
+          "nominates": [
+            15
           ]
         }
       ]
@@ -403,6 +451,9 @@
           "notes": [
             "17th Contestant",
             "Media"
+          ],
+          "nominates": [
+            18
           ]
         }
       ]
@@ -422,6 +473,9 @@
           "notes": [
             "18th Contestant",
             "Vijay TV"
+          ],
+          "nominates": [
+            2
           ]
         }
       ]
