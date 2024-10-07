@@ -107,7 +107,6 @@
             "Nominated"
           ],
           "nominates": [
-            2,
             15,
             8
           ]
@@ -119,7 +118,7 @@
       "name": "Sachana Namidass",
       "eliminated_date": "2024-10-06",
       "id": "2",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
       "dial_number": null,
       "history":[
@@ -128,10 +127,13 @@
           "notes": [
             "2nd Contestant",
             "Maharaja actor",
-            "24 Hrs Elimination"
+            "24 Hrs Elimination",
+            "Jacqueline",
+            "Ravinder, Jacqueline, Deepak, Jeffry, Ranjith, Anshida",
+
           ],
           "nominates": [
-            18
+
           ]
         }
       ]
@@ -152,7 +154,6 @@
             "2.3 Million Followers"
           ],
           "nominates": [
-            4,
             11,
             16
           ]
@@ -174,7 +175,6 @@
             "4th Contestant"
           ],
           "nominates": [
-            17,
             1,
             17
           ]
@@ -198,7 +198,6 @@
             "Actor, Host"
           ],
           "nominates": [
-            2,
             18,
             15
 
@@ -223,7 +222,6 @@
             "RJ"
           ],
           "nominates": [
-            1,
             5,
             12
           ]
@@ -248,7 +246,6 @@
           ],
           "nominates": [
             18,
-            18,
             9
           ]
         }
@@ -271,7 +268,6 @@
             "Gana Singer"
           ],
           "nominates": [
-            2,
             11,
             1
           ]
@@ -296,7 +292,6 @@
             "Nominated"
           ],
           "nominates": [
-            2,
             1,
             17
           ]
@@ -320,7 +315,6 @@
             "Actor"
           ],
           "nominates": [
-            16,
             9,
             18
           ]
@@ -345,7 +339,6 @@
             "Nominated"
           ],
           "nominates": [
-            16,
             12,
             16
           ]
@@ -371,7 +364,6 @@
           ],
           "nominates": [
             1,
-            1,
             11
           ]
         }
@@ -396,7 +388,6 @@
             "Captain"
           ],
           "nominates": [
-            1,
             18,
             9
           ]
@@ -421,7 +412,6 @@
           ],
           "nominates": [
             18,
-            18,
             17
           ]
         }
@@ -444,7 +434,6 @@
             "Serial Actot"
           ],
           "nominates": [
-            2,
             11,
             1
           ]
@@ -468,7 +457,6 @@
             "Serial Actor"
           ],
           "nominates": [
-            15,
             1,
             5
           ]
@@ -493,7 +481,6 @@
             "Nominated"
           ],
           "nominates": [
-            18,
             9,
             12
           ]
@@ -518,7 +505,6 @@
             "Nominated"
           ],
           "nominates": [
-            2,
             14,
             7
           ]
