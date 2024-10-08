@@ -1,5 +1,45 @@
 {
   "Poll": [
-
+    {
+      "name": "TamilGlitz",
+      "votes": [
+        {
+          "id": 1,
+          "name": "Ravindar",
+          "vote": 17373,
+          "percentage": 13.24
+        },
+        {
+          "id": 11,
+          "name": "Soundarya",
+          "vote": 32979,
+          "percentage": 25.14
+        },
+        {
+          "id": 17,
+          "name": "Muthukumaran",
+          "vote": 26857,
+          "percentage": 20.47
+        },
+        {
+          "id": 12,
+          "name": "Arun Prasath",
+          "vote": 18217,
+          "percentage": 13.89
+        },
+        {
+          "id": 18,
+          "name": "Jacqueline",
+          "vote": 18658,
+          "percentage": 14.22
+        },
+        {
+          "id": 9,
+          "name": "Ranjith",
+          "vote": 17101,
+          "percentage": 13.04
+        }
+      ]
+    }
   ]
 }
