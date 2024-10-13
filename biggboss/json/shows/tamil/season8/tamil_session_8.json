@@ -106,6 +106,9 @@
             "Reviewer comes with bit hate",
             "Nominated"
           ],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             2,
             15,
@@ -295,6 +298,9 @@
             "Actor",
             "Nominated"
           ],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             2,
             1,
@@ -343,6 +349,9 @@
             "Model",
             "Nominated"
           ],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             12,
             16
@@ -366,6 +375,9 @@
             "12th Contestant",
             "Serial Actor",
             "Nominated"
+          ],
+          "categories": [
+            "NOM"
           ],
           "nominates": [
             1,
@@ -392,6 +404,9 @@
             "Serial Actor,Not Agree with contestant, Voice on Soundariya",
             "Captain"
           ],
+          "categories": [
+            "Captain"
+            ],
           "nominates": [
             18,
             9
@@ -486,6 +501,9 @@
             "Media",
             "Nominated"
           ],
+          "categories": [
+            "NOM"
+          ],
           "nominates": [
             9,
             12
@@ -509,6 +527,9 @@
             "18th Contestant",
             "Vijay TV",
             "Nominated"
+          ],
+          "categories": [
+            "NOM"
           ],
           "nominates": [
             2,
