@@ -9,38 +9,38 @@
             {
               "id": 1,
               "name": "Ravindar",
-              "vote": 62410,
-              "percentage": 13.72
+              "vote": 69103,
+              "percentage": 13.57
             },
             {
               "id": 11,
               "name": "Soundarya",
-              "vote": 121092,
-              "percentage": 26.63
+              "vote": 135654,
+              "percentage": 26.64
             },
             {
               "id": 17,
               "name": "Muthukumaran",
-              "vote": 74222,
-              "percentage": 16.32
+              "vote": 80623,
+              "percentage": 15.84
             },
             {
               "id": 12,
               "name": "Arun Prasath",
-              "vote": 61301,
-              "percentage": 13.48
+              "vote": 69370,
+              "percentage": 13.63
             },
             {
               "id": 18,
               "name": "Jacqueline",
-              "vote": 57836,
-              "percentage": 12.72
+              "vote": 69108,
+              "percentage": 13.57
             },
             {
               "id": 9,
               "name": "Ranjith",
               "vote": 77899,
-              "percentage": 17.13
+              "percentage": 13.57
             }
           ]
         }
