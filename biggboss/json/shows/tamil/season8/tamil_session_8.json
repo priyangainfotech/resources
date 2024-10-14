@@ -92,13 +92,13 @@
     {
       "name": "Boy in Girls House",
       "key": "GH",
-      "color": "eb34a4",
+      "color": "FFEB34A4",
       "graph": true
     },
     {
       "name": "Girl in Boys House",
       "key": "BH",
-      "color": "052280",
+      "color": "FF052280",
       "graph": true
     }
   ],
