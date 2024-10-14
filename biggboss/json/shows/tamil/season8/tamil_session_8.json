@@ -88,6 +88,18 @@
       "color": "FFD4AF37",
       "graph": false,
       "graphOrder": 1
+    },
+    {
+      "name": "Boy in Girls House",
+      "key": "GH",
+      "color": "eb34a4",
+      "graph": true
+    },
+    {
+      "name": "Girl in Boys House",
+      "key": "BH",
+      "color": "052280",
+      "graph": true
     }
   ],
   "participants": [
@@ -409,6 +421,9 @@
           "nominates": [
             9,
             18
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -655,7 +670,8 @@
             "3rd Save"
           ],
           "categories": [
-            "NOM"
+            "NOM",
+            "GH"
           ],
           "nominates": [
             9,
