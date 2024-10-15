@@ -43,6 +43,71 @@
               "percentage": 13.57
             }
           ]
+        },
+        {
+          "week": 2,
+          "players": [
+            {
+              "id": 11,
+              "name": "Soundarya",
+              "vote": 14119,
+              "percentage": 23.12
+            },
+            {
+              "id": 14,
+              "name": "VJ Vishal",
+              "vote": 11452,
+              "percentage": 18.75
+            },
+            {
+              "id": 17,
+              "name": "Muthukumaran",
+              "vote": 7547,
+              "percentage": 12.36
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 6508,
+              "percentage": 10.65
+            },
+            {
+              "id": 2,
+              "name": "Sachana",
+              "vote": 5667,
+              "percentage": 9.28
+            },
+            {
+              "id": 8,
+              "name": "Jeffry",
+              "vote": 2218,
+              "percentage": 3.63
+            },
+            {
+              "id": 3,
+              "name": "Darsha Gupta",
+              "vote": 1711,
+              "percentage": 2.8
+            },
+            {
+              "id": 18,
+              "name": "Jacqueline",
+              "vote": 4607,
+              "percentage": 7.54
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 5927,
+              "percentage": 9.7
+            },
+            {
+              "id": 16,
+              "name": "Arnav",
+              "vote": 1325,
+              "percentage": 2.17
+            }
+          ]
         }
       ]
     }
