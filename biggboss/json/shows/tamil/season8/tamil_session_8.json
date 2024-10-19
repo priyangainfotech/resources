@@ -121,7 +121,8 @@
           ],
           "categories": [
             "NOM",
-            "EVI"
+            "EVI",
+            "BH"
           ],
           "nominates": [
             2,
@@ -151,6 +152,9 @@
             "Ravinder, Jacqueline, Deepak, Jeffry, Ranjith, Anshida"
           ],
           "nominates": [
+          ],
+          "categories": [
+            "GH"
           ]
         },
         {
@@ -159,7 +163,8 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM",
+            "GH"
           ],
           "nominates": [
             8,17
@@ -185,6 +190,9 @@
           "nominates": [
             11,
             16
+          ],
+          "categories": [
+            "GH"
           ]
         },
         {
@@ -219,6 +227,9 @@
           "nominates": [
             1,
             17
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -227,7 +238,8 @@
 
           ],
           "categories": [
-            "Captain"
+            "Captain",
+            "BH"
           ],
           "nominates": [
             2,11
@@ -254,6 +266,9 @@
             2,
             18,
             15
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -288,6 +303,9 @@
           "nominates": [
             5,
             12
+          ],
+          "categories": [
+            "GH"
           ]
         },
         {
@@ -296,7 +314,7 @@
 
           ],
           "categories": [
-
+            "GH"
           ],
           "nominates": [
             9,17
@@ -322,6 +340,9 @@
           "nominates": [
             18,
             9
+          ],
+          "categories": [
+            "GH"
           ]
         },
         {
@@ -330,7 +351,7 @@
 
           ],
           "categories": [
-
+            "GH"
           ],
           "nominates": [
             9,16
@@ -357,6 +378,9 @@
             2,
             11,
             1
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -365,7 +389,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             11,3
@@ -390,7 +414,7 @@
             "Nominated"
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             2,
@@ -404,7 +428,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             11,6
@@ -441,7 +465,7 @@
 
           ],
           "categories": [
-
+            "GH"
           ],
           "nominates": [
             5
@@ -467,7 +491,7 @@
             "1st Save"
           ],
           "categories": [
-            "NOM"
+            "NOM", "GH"
           ],
           "nominates": [
             12,
@@ -480,7 +504,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "GH"
           ],
           "nominates": [
             17,8
@@ -506,7 +530,7 @@
             "2nd Save"
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             1,
@@ -518,7 +542,7 @@
 
           ],
           "categories": [
-
+            "BH"
           ],
           "nominates": [
             11,15
@@ -543,7 +567,7 @@
             "Captain"
           ],
           "categories": [
-            "Captain"
+            "Captain", "GH"
           ],
           "nominates": [
             18,
@@ -555,7 +579,7 @@
 
           ],
           "categories": [
-
+            "GH"
           ],
           "nominates": [
             16,9
@@ -581,6 +605,9 @@
           "nominates": [
             18,
             17
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -589,7 +616,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             2,11
@@ -617,6 +644,9 @@
             2,
             11,
             1
+          ],
+          "categories": [
+            "GH"
           ]
         },
         {
@@ -625,7 +655,7 @@
 
           ],
           "categories": [
-
+            "GH"
           ],
           "nominates": [
             9,14
@@ -651,6 +681,9 @@
           "nominates": [
             1,
             5
+          ],
+          "categories": [
+            "BH"
           ]
         },
         {
@@ -659,7 +692,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             3,11
@@ -700,7 +733,7 @@
 
           ],
           "categories": [
-            "NOM"
+            "NOM", "BH"
           ],
           "nominates": [
             18
@@ -725,7 +758,7 @@
             "Nominated"
           ],
           "categories": [
-            "NOM"
+            "NOM", "GH"
           ],
           "nominates": [
             2,
@@ -739,7 +772,7 @@
             "Direct nomination from Muthukumar"
           ],
           "categories": [
-            "NOM"
+            "NOM", "GH"
           ],
           "nominates": [
             16,14
