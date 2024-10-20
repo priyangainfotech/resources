@@ -50,62 +50,62 @@
             {
               "id": 11,
               "name": "Soundarya",
-              "vote": 64345,
-              "percentage": 18.28
+              "vote": 76950,
+              "percentage": 17.78
             },
             {
               "id": 14,
               "name": "VJ Vishal",
-              "vote": 67431,
-              "percentage": 19.17
+              "vote": 82938,
+              "percentage": 19.16
             },
             {
               "id": 17,
               "name": "Muthukumaran",
-              "vote": 48492,
-              "percentage": 13.78
+              "vote": 60592,
+              "percentage": 14
             },
             {
               "id": 5,
               "name": "Deepak",
-              "vote": 27022,
-              "percentage": 7.68
+              "vote": 31461,
+              "percentage": 7.27
             },
             {
               "id": 2,
               "name": "Sachana",
-              "vote": 23058,
+              "vote": 28369,
               "percentage": 6.55
             },
             {
               "id": 8,
               "name": "Jeffry",
-              "vote": 29050,
-              "percentage": 8.25
+              "vote": 35480,
+              "percentage": 8.2
             },
             {
               "id": 3,
               "name": "Darsha Gupta",
-              "vote": 18574,
-              "percentage": 5.28
+              "vote": 26866,
+              "percentage": 6.21
             },
             {
               "id": 18,
               "name": "Jacqueline",
-              "vote": 25252,
-              "percentage": 7.17
+              "vote": 28675,
+              "percentage": 6.63
             },
             {
               "id": 9,
               "name": "Ranjith",
-              "vote": 30329,
-              "percentage": 8.62
+              "vote": 35501,
+              "percentage": 8.2
             },
             {
               "id": 16,
               "name": "Arnav",
-              "vote": 18368,
-              "percentage": 5.22
+              "vote": 25960,
+              "percentage": 6
             }
           ]
         }

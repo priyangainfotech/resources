@@ -90,13 +90,13 @@
       "graphOrder": 1
     },
     {
-      "name": "Boy in Girls House",
+      "name": "Girls House",
       "key": "GH",
       "color": "FFEB34A4",
       "graph": true
     },
     {
-      "name": "Girl in Boys House",
+      "name": "Boys House",
       "key": "BH",
       "color": "FF052280",
       "graph": true
