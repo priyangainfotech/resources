@@ -175,9 +175,10 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "BH"
           ],
           "nominates": [
+            11,5
           ]
         }
       ]
@@ -187,7 +188,7 @@
       "eliminated_date": null,
       "name": "Dharsha Gupta",
       "id": "3",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha_pp.png",
       "dial_number": "7669065305",
       "history": [
@@ -220,11 +221,13 @@
         {
           "week": 3,
           "notes": [
+            "Direct Nomination"
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
           "nominates": [
+            12
           ]
         }
       ]
@@ -271,7 +274,7 @@
           "categories": [
             "BH"
           ],
-          "nominates": [
+          "nominates": [10,18
           ]
         }
       ]
@@ -321,6 +324,7 @@
             "BH"
           ],
           "nominates": [
+            3
           ]
         }
       ]
@@ -367,6 +371,7 @@
             "GH"
           ],
           "nominates": [
+            4,11
           ]
         }
       ]
@@ -413,6 +418,7 @@
             "GH"
           ],
           "nominates": [
+            11,4
           ]
         }
       ]
@@ -458,9 +464,10 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "GH"
           ],
           "nominates": [
+            15,18
           ]
         }
       ]
@@ -510,6 +517,7 @@
             "BH"
           ],
           "nominates": [
+            15,11
           ]
         }
       ]
@@ -547,6 +555,18 @@
           ],
           "nominates": [
             5
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            4,14
           ]
         }
       ]
@@ -596,6 +616,7 @@
             "GH"
           ],
           "nominates": [
+            18,7
           ]
         }
       ]
@@ -605,7 +626,7 @@
       "eliminated_date": null,
       "name": "Arun Prasanth",
       "id": "12",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
       "dial_number": "7669065303",
       "history": [
@@ -638,11 +659,13 @@
         },{
           "week": 3,
           "notes": [
+            "Direct Nomination"
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
           "nominates": [
+            18,15
           ]
         }
       ]
@@ -689,6 +712,7 @@
             "GH"
           ],
           "nominates": [
+            17,11
           ]
         }
       ]
@@ -734,8 +758,7 @@
           "categories": [
             "BH"
           ],
-          "nominates": [
-          ]
+          "nominates": [18,11]
         }
 
       ]
@@ -785,6 +808,7 @@
             "GH"
           ],
           "nominates": [
+            17,4
           ]
         }
       ]
@@ -873,6 +897,7 @@
             "BH"
           ],
           "nominates": [
+            10,15
           ]
         }
       ]
@@ -922,6 +947,7 @@
             "GH"
           ],
           "nominates": [
+            4,15
           ]
         }
       ]
