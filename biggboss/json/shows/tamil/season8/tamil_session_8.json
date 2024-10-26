@@ -46,7 +46,7 @@
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
-      "text": "00000000",
+      "text": "FF000000",
       "graph": true,
       "is_week": true,
       "graphOrder": 4
@@ -79,7 +79,7 @@
       "name": "Yellow Strike",
       "key": "YC",
       "color": "FFEFC935",
-      "text": "00000000",
+      "text": "FF000000",
       "is_week": true
     },
     {
