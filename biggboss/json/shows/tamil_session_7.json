@@ -54,6 +54,7 @@
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
+      "text": "FF000000",
       "graph": true,
       "is_week": true,
       "graphOrder": 4
