@@ -30,6 +30,7 @@
       "color": "FF2E9F49",
       "text": "FFFFFF",
       "weekly_enabled": true,
+      "is_week": true,
       "graph": true,
       "graphOrder": 5
     },
@@ -38,6 +39,7 @@
       "key": "EVI",
       "color": "FFEA4839",
       "text": "FFFFFF",
+      "is_week": true,
       "weekly_enabled": true
     },
     {
@@ -45,6 +47,7 @@
       "key": "NOM",
       "color": "FFFCBC1F",
       "graph": true,
+      "is_week": true,
       "graphOrder": 4
     },
     {
@@ -93,12 +96,14 @@
       "name": "Girls House",
       "key": "GH",
       "color": "FFEB34A4",
+      "is_week": true,
       "graph": true
     },
     {
       "name": "Boys House",
       "key": "BH",
       "color": "FF052280",
+      "is_week": true,
       "graph": true
     }
   ],
@@ -559,7 +564,7 @@
         {
           "week": 3,
           "notes": [
-
+            "Saved by Housemates"
           ],
           "categories": [
             "GH", "NOM"
