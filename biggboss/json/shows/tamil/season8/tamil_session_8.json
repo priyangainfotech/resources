@@ -28,7 +28,7 @@
       "name": "Captain",
       "key": "Captain",
       "color": "FF2E9F49",
-      "text": "FFFFFF",
+      "text": "FFFFFFFF",
       "weekly_enabled": true,
       "is_week": true,
       "graph": true,
@@ -38,7 +38,7 @@
       "name": "Evicted",
       "key": "EVI",
       "color": "FFEA4839",
-      "text": "FFFFFF",
+      "text": "FFFFFFFF",
       "is_week": true,
       "weekly_enabled": true
     },
@@ -46,7 +46,7 @@
       "name": "Nominated",
       "key": "NOM",
       "color": "FFFCBC1F",
-      "text": "000000",
+      "text": "00000000",
       "graph": true,
       "is_week": true,
       "graphOrder": 4
@@ -55,7 +55,7 @@
       "name": "Small Boss House",
       "key": "SBH",
       "color": "FF4A7AEE",
-      "text": "FFFFFF",
+      "text": "FFFFFFFF",
       "weekly_enabled": true,
       "graph": false,
       "graphOrder": 3
@@ -64,7 +64,7 @@
       "name": "Bigg Boss House",
       "key": "BBH",
       "color": "FF2E9F49",
-      "text": "FFFFFF",
+      "text": "FFFFFFFF",
       "graph": false,
       "weekly_enabled": false
     },
@@ -78,19 +78,23 @@
     {
       "name": "Yellow Strike",
       "key": "YC",
-      "color": "FFEFC935"
+      "color": "FFEFC935",
+      "text": "00000000",
+      "is_week": true
     },
     {
       "name": "Red Card",
       "key": "RC",
       "color": "FF93000A",
-      "text": "FFFFFF"
+      "text": "FFFFFFFF",
+      "is_week": true
     },
     {
       "name": "Ticket To Final",
       "key": "TTF",
       "color": "FFD4AF37",
       "graph": false,
+      "is_week": true,
       "graphOrder": 1
     },
     {
