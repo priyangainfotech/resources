@@ -316,7 +316,7 @@
       "eliminated_date": null,
       "name": "Deepak",
       "id": "5",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
       "dial_number": "7669065304",
       "history": [
@@ -362,9 +362,10 @@
         {
           "week": 4,
           "notes": [
+            "Direct nomination by Sachana"
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
           "nominates": [
             11,6
@@ -713,7 +714,7 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "BH"
           ],
           "nominates": [9,12]
         }
@@ -881,7 +882,7 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "GH"
           ],
           "nominates": [18,13]
         }
@@ -893,7 +894,7 @@
       "eliminated_date": null,
       "name": "Anshida",
       "id": "15",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida_pp.png",
       "dial_number": "7669065301",
       "history": [
@@ -939,9 +940,10 @@
         {
           "week": 4,
           "notes": [
+            "Direct Nomination by Jeffry"
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
           "nominates": [12,4]
         }
