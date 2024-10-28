@@ -161,6 +161,65 @@
               "percentage": 7.41
             }
           ]
+        },
+        {
+          "week": 4,
+          "players": [
+            {
+              "id": 8,
+              "name": "Jeffrey",
+              "vote": 19846,
+              "percentage": 22.65
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 11478,
+              "percentage": 13.1
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 11267,
+              "percentage": 12.86
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 9845,
+              "percentage": 11.24
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 9615,
+              "percentage": 10.97
+            },
+            {
+              "id": 4,
+              "name": "Sathya",
+              "vote": 8732,
+              "percentage": 9.97
+            },
+            {
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 6739,
+              "percentage": 7.69
+            },
+            {
+              "id": 7,
+              "name": "Sunitha",
+              "vote": 5259,
+              "percentage": 6
+            },
+            {
+              "id": 15,
+              "name": "Anshitha",
+              "vote": 4837,
+              "percentage": 5.52
+            }
+          ]
         }
       ]
     }
