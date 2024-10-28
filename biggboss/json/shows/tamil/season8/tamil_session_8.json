@@ -488,7 +488,7 @@
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry.png",
       "eliminated_date": null,
-      "name": "Jeffry",
+      "name": "Jeffrey",
       "id": "8",
       "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry_pp.png",
@@ -539,7 +539,9 @@
           "categories": [
             "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [
+            15
+          ]
         }
       ]
     },
