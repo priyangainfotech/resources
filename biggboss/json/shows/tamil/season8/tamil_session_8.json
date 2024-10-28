@@ -785,7 +785,7 @@
       "eliminated_date": null,
       "name": "Tharshika",
       "id": "13",
-      "isCaptain": true,
+      "isCaptain": false,
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika_pp.png",
       "dial_number": null,
@@ -993,7 +993,7 @@
       "eliminated_date": null,
       "name": "MuthuKumar",
       "id": "17",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
       "dial_number": "7669065309",
       "history": [
@@ -1044,7 +1044,7 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "Captain"
           ],
           "nominates": [10,7]
         }
