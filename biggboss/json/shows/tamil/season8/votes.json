@@ -168,56 +168,56 @@
             {
               "id": 8,
               "name": "Jeffrey",
-              "vote": 82076,
-              "percentage": 20.76
+              "vote": 89436,
+              "percentage": 20.62
             },
             {
               "id": 12,
               "name": "Arun",
-              "vote": 45086,
-              "percentage": 11.4
+              "vote": 49082,
+              "percentage": 11.31
             },
             {
               "id": 5,
               "name": "Deepak",
-              "vote": 41135,
-              "percentage": 10.41
+              "vote": 44722,
+              "percentage": 10.31
             },
             {
               "id": 9,
               "name": "Ranjith",
-              "vote": 42352,
-              "percentage": 10.71
+              "vote": 45854,
+              "percentage": 10.57
             },
             {
               "id": 18,
               "name": "Jacquline",
-              "vote": 50149,
-              "percentage": 12.69
+              "vote": 55092,
+              "percentage": 12.7
             },
             {
               "id": 4,
               "name": "Sathya",
-              "vote": 41974,
-              "percentage": 10.62
+              "vote": 45482,
+              "percentage": 10.48
             },
             {
               "id": 10,
               "name": "Pavithra",
-              "vote": 32530,
-              "percentage": 8.23
+              "vote": 37344,
+              "percentage": 8.61
             },
             {
               "id": 7,
               "name": "Sunitha",
-              "vote": 28491,
-              "percentage": 7.2
+              "vote": 30795,
+              "percentage": 7.09
             },
             {
               "id": 15,
               "name": "Anshitha",
-              "vote": 31527,
-              "percentage": 7.98
+              "vote": 36031,
+              "percentage": 8.31
             }
           ]
         }
