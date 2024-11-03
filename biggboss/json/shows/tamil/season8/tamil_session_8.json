@@ -1034,7 +1034,7 @@
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida.png",
-      "eliminated_date": "2024-11-3",
+      "eliminated_date": null,
       "name": "Anshida",
       "id": "15",
       "isNominated": false,
@@ -1089,6 +1089,16 @@
             "GH", "NOM", "EVI"
           ],
           "nominates": [12,4]
+        },
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": []
         }
       ]
     },
