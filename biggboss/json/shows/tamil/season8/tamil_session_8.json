@@ -531,7 +531,7 @@
           "notes": [
           ],
           "categories": [
-            "GH", "NOM"
+            "GH", "NOM", "NFTS"
           ],
           "nominates": [8,12]
         },
@@ -1266,7 +1266,7 @@
           "notes": [
           ],
           "categories": [
-            "GH", "NOM", "NFTS"
+            "GH", "NOM"
           ],
           "nominates": [12,8]
         },
