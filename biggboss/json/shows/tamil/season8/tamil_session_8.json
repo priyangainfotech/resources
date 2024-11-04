@@ -1087,7 +1087,7 @@
             "Direct Nomination by Jeffry"
           ],
           "categories": [
-            "GH", "NOM", "EVI"
+            "GH", "NOM"
           ],
           "nominates": [12,4]
         },
@@ -1280,6 +1280,106 @@
           "nominates": [
 
           ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/riya.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Riya",
+      "id": "19",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/riya_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+           "GH"
+          ],
+          "nominates": []
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/raanav.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Raanav",
+      "id": "20",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/raanav_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "BH"
+          ],
+          "nominates": []
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/varshini.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Varshini",
+      "id": "21",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/varshini_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "GH"
+          ],
+          "nominates": []
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Manjari",
+      "id": "22",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "GH"
+          ],
+          "nominates": []
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Shivaji",
+      "id": "23",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "BH"
+          ],
+          "nominates": []
         }
       ]
     }
