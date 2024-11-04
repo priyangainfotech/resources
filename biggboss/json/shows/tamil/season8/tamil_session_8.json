@@ -488,7 +488,7 @@
       "id": "7",
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha_pp.png",
-      "dial_number": null,
+      "dial_number": "7669065316",
       "history": [
         {
           "week": 1,
@@ -1371,6 +1371,26 @@
       "id": "23",
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "BH"
+          ],
+          "nominates": []
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Rayan",
+      "id": "24",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan_pp.png",
       "dial_number": null,
       "history": [
         {
