@@ -1,0 +1,44 @@
+{
+  "shows": [
+    {
+      "title": "BiggBoss Tamil Season 7",
+      "id": "1",
+      "host": "Kamalahaasan",
+      "start_date": "2023-10-01",
+      "end_date": "2024-01-14",
+      "winner": "Archana",
+      "runner": "Manichandra",
+      "cash": "Poornima (16L)",
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil_session_7_trends.json",
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season7/votes.json"
+    },
+    {
+      "title": "BiggBoss Tamil Season8",
+      "id": "2",
+      "host": "Vijay Sethupathi",
+      "start_date": "2024-10-06",
+      "end_date": null,
+      "logo": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/logo.png",
+      "more_info": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/tamil_session_8.json",
+      "trends": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/tamil_session_8_trends.json",
+      "votes": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/json/shows/tamil/season8/votes.json"
+
+    }
+  ],
+  "reviewers": [
+    {
+      "channel_name": "Bigg Boss Tamizh Review",
+      "description": "BiggBoss Review, Critics, Troll & Deep Analysis",
+      "url": "https://www.youtube.com/@tamizhreview/videos",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/channels/tamizhreview.png"
+    },
+    {
+      "channel_name": "Pi App Studio",
+      "description": "Free iOS & Android development courses in Tamil",
+      "url": "https://www.youtube.com/@piappstudio/videos",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/session7/channels/piappstudio.png"
+    }
+  ]
+}

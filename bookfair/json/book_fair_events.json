@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "title": "Chennai Book Fair 2023",
+      "address": "Nandanam YMCA, Chennai",
+      "map": "https://goo.gl/maps/qd9yhdjDbEvKzmoZ7",
+      "start_date": "06-01-2023",
+      "end_date": "22-01-2023",
+      "date": "01-10-20233",
+      "images": ["https://bapasi.com/wp-content/uploads/2023/01/new-banner-crt_compressed.jpg",
+        "https://bapasi.com/wp-content/uploads/2019/01/DSC_0083.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9798.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9612.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9341.jpg"
+      ],
+      "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2023.jpg",
+      "book_list": "fairs/chennai_books.json"
+    }
+  ]
+}

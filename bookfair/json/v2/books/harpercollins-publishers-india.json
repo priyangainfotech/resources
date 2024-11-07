@@ -1,0 +1,50 @@
+[
+    {
+        "url": "https://www.commonfolks.in/books/d/kid-krrish-adventures-of-young-superheroes-activity-book-1",
+        "title": "Kid Krrish : Adventures of Young Superheroes Activity Book 1",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/harpercollins-publishers-india/kid-krrish-adventures-of-young-superheroes-activity-book-1_FrontImage_920.jpg"
+        ],
+        "price": "\u20b984",
+        "author": "HarperCollins Publishers India",
+        "language": "English",
+        "publishedon": "2015",
+        "isbn": "ISBN: 9789351369684"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/kid-krrish-adventures-of-young-superheroes-activity-book-2",
+        "title": "Kid Krrish : Adventures of Young Superheroes Activity Book 2",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/harpercollins-publishers-india/kid-krrish-adventures-of-young-superheroes-activity-book-2_FrontImage_855.jpg"
+        ],
+        "price": "\u20b9339",
+        "author": "HarperCollins Publishers India",
+        "language": "English",
+        "publishedon": "2015",
+        "isbn": "ISBN: 9789351369691"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/kid-krrish-adventures-of-young-superheroes-activity-book-3",
+        "title": "Kid Krrish : Adventures of Young Superheroes Activity Book 3",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/harpercollins-publishers-india/kid-krrish-adventures-of-young-superheroes-activity-book-3_FrontImage_750.jpg"
+        ],
+        "price": "\u20b984",
+        "author": "HarperCollins Publishers India",
+        "language": "English",
+        "publishedon": "2015",
+        "isbn": "ISBN: 9789351369707"
+    },
+    {
+        "url": "https://www.commonfolks.in/books/d/kid-krrish-activity-book-6",
+        "title": "KID KRRISH : Activity Book 6",
+        "images": [
+            "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/json/v2/books/images/harpercollins-publishers-india/kid-krrish-activity-book-6_FrontImage_419.jpg"
+        ],
+        "price": "\u20b963",
+        "author": "HarperCollins Publishers India",
+        "language": "English",
+        "publishedon": "2015",
+        "isbn": "ISBN: 9789351369615"
+    }
+]

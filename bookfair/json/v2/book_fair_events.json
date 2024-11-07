@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "title": "47th Chennai Book Fair 2024",
+      "address": "Nandanam YMCA, Chennai, Tamil Nadu, India",
+      "map": "https://goo.gl/maps/qd9yhdjDbEvKzmoZ7",
+      "start_date": "03-01-2024",
+      "end_date": "21-01-2024",
+      "date": "01-10-20233",
+      "images": ["https://bapasi.com/wp-content/uploads/2023/12/2024-bapasi_compressed-eng-1.jpg",
+        "https://bapasi.com/wp-content/uploads/2023/12/2024-bapasi_compressed-1.jpg"
+      ],
+      "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2024.jpg",
+      "book_list": "fairs/chennai_fair_2024.json",
+      "books": "books/whole_books_chennai.json"
+    },{
+      "title": "Chennai Book Fair 2023",
+      "address": "Nandanam YMCA, Chennai, Tamil Nadu, India",
+      "map": "https://goo.gl/maps/qd9yhdjDbEvKzmoZ7",
+      "start_date": "06-01-2023",
+      "end_date": "22-01-2023",
+      "date": "01-10-20233",
+      "images": ["https://bapasi.com/wp-content/uploads/2023/01/new-banner-crt_compressed.jpg",
+        "https://bapasi.com/wp-content/uploads/2019/01/DSC_0083.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9798.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9612.jpg",
+        "https://bapasi.com/wp-content/uploads/2018/01/IMG_9341.jpg"
+      ],
+      "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/CBF2023.jpg",
+      "book_list": "fairs/chennai_fair.json",
+      "books": "books/whole_books_chennai.json"
+    },
+    {
+      "title": "Kolkata Book Fair 2023",
+      "address": "Central Park Mela Ground Bidhannagar, Kolkata, West Bengal, India",
+      "map": "https://goo.gl/maps/zvZ361Cz2GvYSuxP7",
+      "start_date": "30-01-2023",
+      "end_date": "11-02-2023",
+      "date": "01-10-20233",
+      "images": ["https://static.wixstatic.com/media/300ba5_4d109829cc174176930e875cc28dec0c~mv2.webp/v1/fit/w_1488,h_816,q_90/300ba5_4d109829cc174176930e875cc28dec0c~mv2.webp",
+        "https://static.wixstatic.com/media/300ba5_3ddc62be432b4e23a63b1a902347b90a~mv2.jpg/v1/fit/w_744,h_408,q_90/300ba5_3ddc62be432b4e23a63b1a902347b90a~mv2.jpg",
+        "https://static.wixstatic.com/media/300ba5_08a7832e43ee42abab2dc02835f1985e~mv2.jpg/v1/fit/w_744,h_408,q_90/300ba5_08a7832e43ee42abab2dc02835f1985e~mv2.jpg",
+        "https://static.wixstatic.com/media/300ba5_93598627140c4c07903219610270cb0d~mv2.jpg/v1/fit/w_744,h_408,q_90/300ba5_93598627140c4c07903219610270cb0d~mv2.jpg",
+        "https://static.wixstatic.com/media/300ba5_602e240a831348518106cbf85e5de635~mv2.jpg/v1/fit/w_744,h_408,q_90/300ba5_602e240a831348518106cbf85e5de635~mv2.jpg"
+      ],
+      "layout_image": "https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/kolkata-2023/layout.png",
+      "book_list": "fairs/kolkata_2023.json"
+    },
+    {
+      "title": "New Delhi World Book Fair 2023",
+      "address": "Pragati Maidan, New Delhi, India",
+      "map": "https://goo.gl/maps/WvXcCfBCynbtV7LP7",
+      "start_date": "25-02-2023",
+      "end_date": "06-03-2023",
+      "images": ["https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/delhi-2023/banner-1.jpg"],
+      "book_list": "fairs/new_delhi_2023.json"
+    }
+  ]
+}

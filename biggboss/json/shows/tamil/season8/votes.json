@@ -1,0 +1,298 @@
+{
+  "Poll": [
+    {
+      "name": "TamilGlitz",
+      "votes": [
+        {
+          "week": 1,
+          "players": [
+            {
+              "id": 1,
+              "name": "Ravindar",
+              "vote": 69103,
+              "percentage": 13.57
+            },
+            {
+              "id": 11,
+              "name": "Soundarya",
+              "vote": 135654,
+              "percentage": 26.64
+            },
+            {
+              "id": 17,
+              "name": "Muthukumaran",
+              "vote": 80623,
+              "percentage": 15.84
+            },
+            {
+              "id": 12,
+              "name": "Arun Prasath",
+              "vote": 69370,
+              "percentage": 13.63
+            },
+            {
+              "id": 18,
+              "name": "Jacqueline",
+              "vote": 69108,
+              "percentage": 13.57
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 77899,
+              "percentage": 13.57
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "players": [
+            {
+              "id": 11,
+              "name": "Soundarya",
+              "vote": 76950,
+              "percentage": 17.78
+            },
+            {
+              "id": 14,
+              "name": "VJ Vishal",
+              "vote": 82938,
+              "percentage": 19.16
+            },
+            {
+              "id": 17,
+              "name": "Muthukumaran",
+              "vote": 60592,
+              "percentage": 14
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 31461,
+              "percentage": 7.27
+            },
+            {
+              "id": 2,
+              "name": "Sachana",
+              "vote": 28369,
+              "percentage": 6.55
+            },
+            {
+              "id": 8,
+              "name": "Jeffry",
+              "vote": 35480,
+              "percentage": 8.2
+            },
+            {
+              "id": 3,
+              "name": "Darsha Gupta",
+              "vote": 26866,
+              "percentage": 6.21
+            },
+            {
+              "id": 18,
+              "name": "Jacqueline",
+              "vote": 28675,
+              "percentage": 6.63
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 35501,
+              "percentage": 8.2
+            },
+            {
+              "id": 16,
+              "name": "Arnav",
+              "vote": 25960,
+              "percentage": 6
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "players": [
+            {
+              "id": 11,
+              "name": "Soundarya",
+              "vote": 88846,
+              "percentage": 22.2
+            },
+            {
+              "id": 4,
+              "name": "Sathya",
+              "vote": 37771,
+              "percentage": 9.44
+            },
+            {
+              "id": 17,
+              "name": "Muthukumaran",
+              "vote": 110053,
+              "percentage": 27.5
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 44392,
+              "percentage": 11.09
+            },
+            {
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 28810,
+              "percentage": 7.2
+            },
+            {
+              "id": 18,
+              "name": "Jacqueline",
+              "vote": 29437,
+              "percentage": 7.36
+            },
+            {
+              "id": 15,
+              "name": "Anshida",
+              "vote": 31201,
+              "percentage": 7.8
+            },
+            {
+              "id": 3,
+              "name": "Darsha Gupta",
+              "vote": 29668,
+              "percentage": 7.41
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "players": [
+            {
+              "id": 8,
+              "name": "Jeffrey",
+              "vote": 89436,
+              "percentage": 20.62
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 49082,
+              "percentage": 11.31
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 44722,
+              "percentage": 10.31
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 45854,
+              "percentage": 10.57
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 55092,
+              "percentage": 12.7
+            },
+            {
+              "id": 4,
+              "name": "Sathya",
+              "vote": 45482,
+              "percentage": 10.48
+            },
+            {
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 37344,
+              "percentage": 8.61
+            },
+            {
+              "id": 7,
+              "name": "Sunitha",
+              "vote": 30795,
+              "percentage": 7.09
+            },
+            {
+              "id": 15,
+              "name": "Anshitha",
+              "vote": 36031,
+              "percentage": 8.31
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "players": [
+            {
+              "id": 17,
+              "name": "Muthukumarn",
+              "vote": 82734,
+              "percentage": 24.7
+            },
+            {
+              "id": 14,
+              "name": "Vishal",
+              "vote": 50632,
+              "percentage": 15.12
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 39649,
+              "percentage": 11.84
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 27473,
+              "percentage": 8.2
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 19934,
+              "percentage": 5.95
+            },
+            {
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 20954,
+              "percentage": 6.26
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 21216,
+              "percentage": 6.33
+            },
+            {
+              "id": 15,
+              "name": "Anshida",
+              "vote": 20853,
+              "percentage": 6.23
+            },
+            {
+              "id": 2,
+              "name": "Sachana",
+              "vote": 17311,
+              "percentage": 5.17
+            },
+            {
+              "id": 7,
+              "name": "Sunita",
+              "vote": 17311,
+              "percentage": 5.17
+            },
+            {
+              "id": 6,
+              "name": "RJ Ananthi",
+              "vote": 16883,
+              "percentage": 5.03
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

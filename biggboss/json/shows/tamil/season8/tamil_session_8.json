@@ -1,0 +1,1399 @@
+{
+  "voting_options": {
+    "official_vote": [
+      {
+        "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+      }
+    ],
+    "unofficial_voting": [
+      {
+        "name": "Pi App Studio",
+        "link": "https://piappstudio.com/bigg-boss-tamil-online-voting/"
+      },
+      {
+        "name": "TamilGlitz",
+        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+      },
+      {
+        "name": "Bigg Boss Vote Tamil",
+        "link": "https://www.biggbossvotestamil.com/"
+      }
+    ],
+    "polls": [
+    ]
+  },
+  "category": [
+    {
+      "name": "Captain",
+      "key": "Captain",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "weekly_enabled": true,
+      "is_week": true,
+      "graph": true,
+      "graphOrder": 5
+    },
+    {
+      "name": "Evicted",
+      "key": "EVI",
+      "color": "FFEA4839",
+      "text": "FFFFFFFF",
+      "is_week": true,
+      "weekly_enabled": true
+    },
+    {
+      "name": "Nominated",
+      "key": "NOM",
+      "color": "FFFCBC1F",
+      "text": "FF000000",
+      "graph": true,
+      "is_week": true,
+      "graphOrder": 4
+    },
+    {
+      "name": "Small Boss House",
+      "key": "SBH",
+      "color": "FF4A7AEE",
+      "text": "FFFFFFFF",
+      "weekly_enabled": true,
+      "graph": false,
+      "graphOrder": 3
+    },
+    {
+      "name": "Bigg Boss House",
+      "key": "BBH",
+      "color": "FF2E9F49",
+      "text": "FFFFFFFF",
+      "graph": false,
+      "weekly_enabled": false
+    },
+    {
+      "name": "Gold Star",
+      "key": "GS",
+      "color": "FFD4AF37",
+      "graph": false,
+      "graphOrder": 2
+    },
+    {
+      "name": "Yellow Strike",
+      "key": "YC",
+      "color": "FFEFC935",
+      "text": "FF000000",
+      "is_week": true
+    },
+    {
+      "name": "Red Card",
+      "key": "RC",
+      "color": "FF93000A",
+      "text": "FFFFFFFF",
+      "is_week": true
+    },
+    {
+      "name": "Ticket To Final",
+      "key": "TTF",
+      "color": "FFD4AF37",
+      "graph": false,
+      "is_week": true,
+      "graphOrder": 1
+    },
+    {
+      "name": "Girls House",
+      "key": "GH",
+      "color": "FFEB34A4",
+      "is_week": true,
+      "graph": true
+    },
+    {
+      "name": "Boys House",
+      "key": "BH",
+      "color": "FF052280",
+      "is_week": true,
+      "graph": true
+    },
+    {
+      "name": "Nomination Free Save",
+      "key": "NFTS",
+      "color": "FF1ecbe1",
+      "is_week": true,
+      "graph": true
+    }
+  ],
+  "participants": [
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ravi.png",
+      "eliminated_date": "2024-10-13",
+      "name": "Ravinder Chandrasekaran",
+      "id": "1",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ravi_pp.png",
+      "dial_number": "7669065306",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "1st Contestant",
+            "Reviewer comes with bit hate",
+            "Nominated"
+          ],
+          "categories": [
+            "NOM",
+            "EVI",
+            "BH"
+          ],
+          "nominates": [
+            2,
+            15,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana.png",
+      "name": "Sachana Namidass",
+      "eliminated_date": "2024-10-06",
+      "re_entry_date": "2024-10-11",
+      "id": "2",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
+      "dial_number": "7669065313",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "2nd Contestant",
+            "Maharaja actor",
+            "24 Hrs Elimination",
+            "Jacqueline",
+            "Ravinder, Jacqueline, Deepak, Jeffry, Ranjith, Anshida"
+          ],
+          "nominates": [
+          ],
+          "categories": [
+            "GH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "4th Save"
+          ],
+          "categories": [
+            "NOM",
+            "GH"
+          ],
+          "nominates": [
+            8,17
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+            11,5
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            5
+          ]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha.png",
+      "eliminated_date": "2024-10-27",
+      "name": "Dharsha Gupta",
+      "id": "3",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/dharsha_pp.png",
+      "dial_number": "7669065305",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "3rd Contestant",
+            "2.3 Million Followers"
+          ],
+          "nominates": [
+            11,
+            16
+          ],
+          "categories": [
+            "GH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Final 3 in eviction"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            8,9
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Direct Nomination"
+          ],
+          "categories": [
+            "GH", "NOM", "EVI"
+          ],
+          "nominates": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya.png",
+      "eliminated_date": null,
+      "name": "Sathya",
+      "id": "4",
+      "isCaptain": true,
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
+      "dial_number": "7669065314",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "4th Contestant"
+          ],
+          "nominates": [
+            1,
+            17
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "Captain",
+            "BH"
+          ],
+          "nominates": [
+            2,11
+          ]
+        },{
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [10,18
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "4th Save"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            18,2
+          ]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "Captain"
+          ],
+          "nominates": [10,2
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak.png",
+      "eliminated_date": null,
+      "name": "Deepak",
+      "id": "5",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
+      "dial_number": "7669065304",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "5th Contestant",
+            "Actor, Host"
+          ],
+          "nominates": [
+            2,
+            18,
+            15
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Direct nomination from Pavithra",
+            "2nd Saved"
+          ],
+          "categories": [
+            "NOM","GH"
+          ],
+          "nominates": [
+            11,10
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+            3
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Direct nomination by Sachana"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            11,6
+          ]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            2,6
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi.png",
+      "eliminated_date": null,
+      "name": "Ananthi",
+      "id": "6",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
+      "dial_number": "7669065312",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "6h Contestant",
+            "RJ"
+          ],
+          "nominates": [
+            5,
+            12
+          ],
+          "categories": [
+            "GH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            9,17
+          ]
+        },{
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            4,11
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [4,12]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [17,5]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha.png",
+      "eliminated_date": null,
+      "name": "Sunitha Gogoi",
+      "id": "7",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha_pp.png",
+      "dial_number": "7669065316",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "7th Contestant",
+            "Vijay Tv Products"
+          ],
+          "nominates": [
+            18,
+            9
+          ],
+          "categories": [
+            "GH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            9,16
+          ]
+        }, {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            11,4
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM", "NFTS"
+          ],
+          "nominates": [8,12]
+        },
+        {
+          "week": 5,
+          "notes": [
+            "Saved by Housemates"
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [9,17
+
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry.png",
+      "eliminated_date": null,
+      "name": "Jeffrey",
+      "id": "8",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry_pp.png",
+      "dial_number": "7669065308",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "8th Contestant",
+            "Gana Singer"
+          ],
+          "nominates": [
+            2,
+            11,
+            1
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "1st Saved"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            11,3
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            15,18
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            15
+          ]
+        },
+        {
+          "week": 5,
+          "notes": [
+            "1st Save"
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [6,2
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith.png",
+      "eliminated_date": null,
+      "name": "Ranjith",
+      "id": "9",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
+      "dial_number": "7669065311",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "9th Contestant",
+            "Actor",
+            "Nominated"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            2,
+            1,
+            17
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "1st Saved"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            11,6
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+            15,11
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [7,18]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [10,13
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra.png",
+      "eliminated_date": null,
+      "name": "Pavithra Janani",
+      "id": "10",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
+      "dial_number": "7669065310",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "10th Contestant",
+            "Actor"
+          ],
+          "nominates": [
+            9,
+            18
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            5
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Saved by Housemates"
+          ],
+          "categories": [
+            "GH", "NOM", "NFTS"
+          ],
+          "nominates": [
+            4,14
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [9,4]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [17,9
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya.png",
+      "eliminated_date": null,
+      "name": "Soundarya Nanjundan",
+      "id": "11",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya_pp.png",
+      "dial_number": "7669065315",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "11th Contestant",
+            "Model",
+            "Nominated",
+            "1st Save"
+          ],
+          "categories": [
+            "NOM", "GH"
+          ],
+          "nominates": [
+            12,
+            16
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "5th Save"
+          ],
+          "categories": [
+            "NOM", "GH"
+          ],
+          "nominates": [
+            17,8
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "3rd Save"
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [
+            18,7
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [9,12]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun.png",
+      "eliminated_date": null,
+      "name": "Arun Prasanth",
+      "id": "12",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
+      "dial_number": "7669065303",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "12th Contestant",
+            "Serial Actor",
+            "Nominated",
+            "2nd Save"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            1,
+            11
+          ]
+        },{
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+            11,15
+          ]
+        },{
+          "week": 3,
+          "notes": [
+            "Direct Nomination", "1st Save"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            18,15
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [18,10]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [7,6
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika.png",
+      "eliminated_date": null,
+      "name": "Tharshika",
+      "id": "13",
+      "isCaptain": false,
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "13th Contestant",
+            "Serial Actor,Not Agree with contestant, Voice on Soundariya",
+            "Captain"
+          ],
+          "categories": [
+            "Captain", "GH"
+          ],
+          "nominates": [
+            18,
+            9
+          ]
+        },{
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            16,9
+          ]
+        },{
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "Captain"
+          ],
+          "nominates": [
+            17,11
+          ]
+        }, {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [9,4]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            9,5
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal.png",
+      "eliminated_date": null,
+      "name": "Vishal",
+      "id": "14",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal_pp.png",
+      "dial_number": "7669065318",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "14th Contestant",
+            "Serial Actor, Vijay TV"
+          ],
+          "nominates": [
+            18,
+            17
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "3rd Save"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            2,11
+          ]
+        },{
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [18,11]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [18,13]
+        },
+        {
+          "week": 5,
+          "notes": [
+            "Direct Nomination"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [18
+          ]
+        }
+
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida.png",
+      "eliminated_date": null,
+      "name": "Anshida",
+      "id": "15",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida_pp.png",
+      "dial_number": "7669065301",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "15th Contestant",
+            "Serial Actor"
+          ],
+          "nominates": [
+            2,
+            11,
+            1
+          ],
+          "categories": [
+            "GH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+            9,14
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "Direct Nomination"
+          ],
+          "categories": [
+            "GH", "NOM", "Last 3 in eviction"
+          ],
+          "nominates": [
+            17,4
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+            "Direct Nomination by Jeffry"
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [12,4]
+        },
+        {
+          "week": 5,
+          "notes": [
+
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [17,12]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arnav.png",
+      "eliminated_date": "2024-10-20",
+      "name": "Arnav",
+      "id": "16",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arnav_pp.png",
+      "dial_number": "7669065302",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "16th Contestant",
+            "Serial Actor"
+          ],
+          "nominates": [
+            1,
+            5
+          ],
+          "categories": [
+            "BH"
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+
+          ],
+          "categories": [
+            "NOM", "BH", "EVI"
+          ],
+          "nominates": [
+            3,11
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar.png",
+      "eliminated_date": null,
+      "name": "MuthuKumar",
+      "isNominated": true,
+      "id": "17",
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
+      "dial_number": "7669065309",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "17th Contestant",
+            "Media",
+            "Nominated",
+            "3rd Save",
+            "GH"
+          ],
+          "categories": [
+            "NOM",
+            "GH"
+          ],
+          "nominates": [
+            9,
+            12
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Final 3 in Eviction"
+          ],
+          "categories": [
+            "NOM", "BH"
+          ],
+          "nominates": [
+            18
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+            "2nd Save"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [
+            10,15
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "Captain"
+          ],
+          "nominates": [10,7]
+        },
+        {
+          "week": 5,
+          "notes": [
+          ],
+          "categories": [
+            "BH" , "NOM"
+          ],
+          "nominates": [15,11
+          ]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline.png",
+      "eliminated_date": null,
+      "name": "Jacqueline",
+      "id": "18",
+      "isNominated": true,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
+      "dial_number": "7669065307",
+      "history": [
+        {
+          "week": 1,
+          "notes": [
+            "18th Contestant",
+            "Vijay TV",
+            "Nominated"
+          ],
+          "categories": [
+            "NOM", "GH"
+          ],
+          "nominates": [
+            2,
+            14,
+            7
+          ]
+        },
+        {
+          "week": 2,
+          "notes": [
+            "Direct nomination from Muthukumar","Saved by Housemates"
+          ],
+          "categories": [
+            "NOM", "GH"
+          ],
+          "nominates": [
+            16,14
+          ]
+        },
+        {
+          "week": 3,
+          "notes": [
+          ],
+          "categories": [
+            "GH","NOM"
+          ],
+          "nominates": [
+            4,15
+          ]
+        },
+        {
+          "week": 4,
+          "notes": [
+          ],
+          "categories": [
+            "GH", "NOM"
+          ],
+          "nominates": [12,8]
+        },
+        {
+          "week": 5,
+          "notes": [
+            "Direct Nomination by Vishal"
+          ],
+          "categories": [
+            "BH", "NOM"
+          ],
+          "nominates": [9,12]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/riya.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Riya",
+      "id": "19",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/riya_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+           "GH"
+          ],
+          "nominates": [9,5]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/raanav.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Raanav",
+      "id": "20",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/raanav_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [15,7]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/varshini.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Varshini",
+      "id": "21",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/varshini_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [9,12]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Manjari",
+      "id": "22",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [5,12]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Shivaji",
+      "id": "23",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [2,10]
+        }
+      ]
+    },
+    {
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan.png",
+      "eliminated_date": null,
+      "start_date": "2024-11-03",
+      "name": "Rayan",
+      "id": "24",
+      "isNominated": false,
+      "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan_pp.png",
+      "dial_number": null,
+      "history": [
+        {
+          "week": 5,
+          "notes": [],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [2,6]
+        }
+      ]
+    }
+  ],
+  "notifications": []
+}

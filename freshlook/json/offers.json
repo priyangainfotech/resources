@@ -8,23 +8,15 @@
       "expired": "01-12-2022",
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1001_offer_new_user.png"
     },
-
     {
-      "id": "1002",
-      "name": "20% Diwali offer",
-      "description": "Make a appointment now and get up to 50% off on facial, eyebrow and make up",
-      "action" : "Get 20% Off",
-      "expired": "27-01-2022",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1002_offer_diwali.png"
-    },
-    {
-      "id": "100",
-      "name": "10% Off on fancy items",
-      "description": "Special Doorbuster offer, Visit store and get up to 10% off on selected fancy items",
-      "action" : "Enter Doorbuster",
-      "expired": "01-01-2022",
-      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/offers/1003_offer_fancy_store.png"
-    },
+      "id": "1007",
+      "name": "Rental Cars",
+      "description": "Brand new cars specially designed for transportation. This car can accommodate up to 4 people. Hire us to support your transportation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+      "action" : "Rental Cars",
+      "phone": "+91-9003463456",
+      "expired": "05-02-2022",
+      "image": "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/rent_car.jpeg"
 
+    }
   ]
 }

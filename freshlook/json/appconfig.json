@@ -1,0 +1,17 @@
+{
+    "ads":{
+        "home":false,
+        "service":true,
+        "appointment":true
+    },
+    "professionals":[
+        {
+            "empId": "1001",
+            "name":"Sasi",
+            "gender":"Female",
+            "job":"All"
+            
+        }
+    
+    ]
+}

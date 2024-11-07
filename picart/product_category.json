@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "category_id": 707,
+            "category_name": "BAKERY",
+            "slug": "hot-breads",
+            "subcategory": ""
+        },
+        {
+            "category_id": 702,
+            "category_name": "GROCERY",
+            "slug": "grocery",
+            "subcategory": ""
+        },
+        {
+            "category_id": 709,
+            "category_name": "INDIAN FOODS",
+            "slug": "souths-indian-foods",
+            "subcategory": ""
+        },
+        {
+            "category_id": 703,
+            "category_name": "MEAT",
+            "slug": "meat",
+            "subcategory": ""
+        },
+        {
+            "category_id": 708,
+            "category_name": "SOUTH INDIAN SPECIALS",
+            "slug": "south-indian-specials-vivek-flowers",
+            "subcategory": ""
+        }
+    ],
+    "statuscode": 200,
+    "msg": "success"
+}

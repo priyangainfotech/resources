@@ -1,0 +1,7 @@
+{
+    "ads":{
+        "home":true,
+        "service":true,
+        "appointment":true
+    }
+}

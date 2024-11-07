@@ -1,0 +1,48 @@
+{
+  "email":"piappstudio@gmail.com",
+  "apps":[
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/apps/diary.png",
+      "title": "Digital Diary",
+      "link": "https://play.google.com/store/apps/details?id=com.bob.offlinediary"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/apps/moi.png",
+      "title": "Moi App (Gift Register`)",
+      "link":"play.google.com/store/apps/details?id=com.piappstudio.giftregister"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/apps/freshlook.png",
+      "title": "Fresh Look",
+      "link":"play.google.com/store/apps/details?id=com.piappstudio.freshlook"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/apps/travelinsurance.png",
+      "title": "Travel Insurance",
+      "link":"https://play.google.com/store/apps/details?id=com.piappstudio.travelasst"
+    }
+
+  ],
+  "socialmedia": [
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/socialmedia/youtube.png",
+      "title":"youtube",
+      "link": "https://www.youtube.com/piappstudio"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/socialmedia/twitter.png",
+      "title":"twitter",
+      "link": "https://twitter.com/piappstudio"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/socialmedia/linkedin.png",
+      "title":"linkedin",
+      "link": "https://www.linkedin.com/company/piappstudio"
+    },
+    {
+      "Icon":"https://raw.githubusercontent.com/piappstudio/resources/main/bookfair/images/socialmedia/facebook.png",
+      "title":"facebook",
+      "link": "https://www.facebook.com/realpiappstudio"
+    }
+  ]
+}

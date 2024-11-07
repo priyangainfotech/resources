@@ -22,18 +22,23 @@
       {
         "name": "Manicure",
         "amount": 300.00,
-        "images": null
+        "description": "A manicure is a cosmetic beauty treatment for the fingernails and hands performed at home or in a nail salon. A manicure consists of filing and shaping the free edge of nails, pushing and clipping any nonliving tissue, treatments with various liquids, massage of the hand, and the application of fingernail polish.",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/manicure.jpeg"
+        ]
       },
       {
-        "name": "Bleach(OLIVA)",
+        "name": "Bleach",
         "amount": 250.00,
+        "description": "Bleach contains the goodness of haldi, chandan, nimbu and aloe vera. These natural ingredients go beyond bleaching and nourish the skin with their rejuvenating properties. Infused with nimbu, nature’s very own bleach agent, Olivia Herb Bleach helps remove unwanted dark hair colour on your face, body and arms and blends it into your natural skin tone with surprising ease. Chandan soothes skin and adds glow. Haldi protects the skin from inflammation and also works as a good antioxidant and nimbu also works as an effective antiseptic",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
       },
       {
-        "name": "Bleach(OXI)",
+        "name": "Bleach",
         "amount": 250.00,
+        "description": "Bleach infuses active oxygen into the skin. Aloe Vera makes the skin supple and soft. And together they provide a radiating instant glow! OxyLife Crème Bleach is the mildest skin bleach available in the market, suitable even for sensitive and problem prone skin.",
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/bleach.jpg"
         ]
@@ -41,73 +46,93 @@
       {
         "name": "Pappaya Facial",
         "amount": 400.00,
-        "images": null
+        "description": "Papaya, often referred to as the \"fruit of the angels\" is a rich source of an enzyme called \"papain\" and vitamin A, which together help in breaking down inactive proteins and thereby sloughing off dead skin cells. It also hydrates the skin and maintains its oil balance. In combination with other fruit and vegetable extracts like watermelon, peach, orange and cucumber, this papaya-enriched facial kit helps achieve a blemish-free, radiant complexion",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/papaya_facial.jpeg"
+        ]
       },
       {
         "name": "Pappaya Facial With Bleach",
         "amount": 650.00,
-        "images": null
+        "description": "Papaya is a luscious tropical fruit known for its rejuvenating and healing benefits. Full of vitamins, minerals and phytochemicals, papaya can act as a youth activator and natural exfoliator to revitalize skin without inflammation or irritation.Gigi PAPAYA bleach cream is the simplest & safest way for woman to not only lighten their excess dark hair but also give fairness to the skin & complexion.\r\n\nThe exfoliating effect to gently eliminate skin over pigmentation like melasma , age spots, freckles, dark acne scars, dark underarms, dark elbow, dark knees or inner thighs or uneven skin tone. Nourishes and moisturizes your skin to give you that smooth & silky feeling.",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/pappaya_facial_bleach.png"
+        ]
       },
       {
         "name": "Skin Whitening Facial",
         "amount": 450.00,
+        "description": "This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skin_whitning.jpg"
         ]
       },
       {
         "name": "Skin whitenin Facial With Bleach",
         "amount": 700.00,
+        "description": "This is perfect for lightening the skin before a special occasion. The extract used for this facial has a regenerating effect that improves skin texture, firmness and tone or any other sun damage. \r\n\n The whitening cream and masks with licorice, Vitamin A and C, seaweed extract naturally lighten and brighten the skin. \r\n\n A gentle but thorough exfoliation with vitamin-rich exfoliators accelerates the cells’ growth and helps in restoring the skin’s lost radiance and brightness, often due to pollution, stress, late nights, smoking or alcohol use.",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skinwhitning.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/skin_whitning.jpg"
         ]
       },
       {
         "name": "Hair colouring Black (Root Touch)",
         "amount": 150.00,
-        "images": null
+        "description": "We have wide variaty of coloring dyes that gives your natural and perfect color to hair for long time",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/black_color.jpeg"
+        ]
       },
       {
         "name": "Hair Colouring Global",
         "amount": 250.00,
-        "images": null
+        "description": "We have wide variaty of coloring dyes & styles that gives your natural and perfect color to hair for long time with latest trending style",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/black_hair_global.png"
+        ]
       },
       {
         "name": "Head Massage",
         "amount": 400.00,
+        "description": "Massage helps ease muscle spasms and knots in parts of the body prone to tightness and tension. Obviously, the scalp and back of the head contain only small muscles that play no part in moving your body around or resisting heavy loads. But tension can build up in this area. And new studies have found that the body’s response to touch near the head is more complex than we once thought",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage.jpg",
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/headmassage_1.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/head_massage.jpg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/head_massage_1.jpg"
         ]
       },
       {
-        "name": "Saree Droping",
+        "name": "Saree Draping",
         "amount": 200.00,
-        "images":[
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping.jpg"
-		 
-
-	    ]
+        "description": "Our experts knows to draping a saree for various traditions in India. Also, we helps to drap a saree at Wedding both modern or traditional way",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_drapping.jpeg"
+        ]
       },
       {
-        "name": "Saree Droping Hair Style",
+        "name": "Saree Draping Hair Style",
         "amount": 300.00,
-        "images":[
-		   "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/Saree_droping_1.jpg"
-		]
+        "description": "Hire us to make your wedding more special with traditional or modern hair styles for your wedding and receptions",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/best-bridal-hairstyles-1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/hairstyle-for-saree.png"
+        ]
       },
       {
         "name": "Party Makup",
         "amount": 1500.00,
-        "images":[
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_mackup.jpg"
-
-	    ]
+        "description": "We have wide variaty of latest trending makeups that shows you unique in any celebration parties. We will suggest the best styles that suite for you & your skin. Please call us for more details.",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup.png",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup_1.png"
+        ]
       },
       {
         "name": "Party Makeup Facial",
+        "description": "We have wide variety of latest trending makeups that shows you unique in any celebration parties along with special party facial. We will suggest the best styles that suite for you & your skin",
         "amount": 2000.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/general/party_makeup_facial.png"
+        ]
       }
     ]
   },
@@ -115,27 +140,38 @@
     "group": "Haircut",
     "services": [
       {
-        "name": "Stright",
+        "name": "Straight",
         "amount": 100.00,
+        "description": "Hair straight is the process of straitening your hair with appropriate way & tool without damaging your hair. It gives you the gorgeous looks",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut.jpg"        ]
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut_straight.png"
+        ]
       },
       {
         "name": "U",
+        "description": "U cut is the process of trimming your hair in the the U shape that gives stunning looks to hair stylish.",
         "amount": 120.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/u_1.jpeg"
+        ]
       },
       {
         "name": "V",
         "amount": 140.00,
+        "description": "V cut is way of trimming your hair that shape your hair like V shape.",
         "images": [
-          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/haircut_v.jpg"
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/v_2.jpeg"
         ]
       },
       {
         "name": "Step Cut",
         "amount": 350.00,
-        "images": null
+        "description": "Step cut is the process of trimming your hair in multiple sizes that gives stunning looks to hair stylish",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/haircuts/stepcut.jpeg"
+        ]
       }
     ]
   },
@@ -149,23 +185,23 @@
         "images": [
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax.jpg",
           "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/handwax2.jpg"
-		  
         ]
       },
       {
         "name": "Face Waxing",
-        "amount": 100.00,
-        "images": null
+        "amount": 300.00,
+        "description": "Face Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/face_waxing.png"
+        ]
       },
       {
-        "name": "Face Waxing",
+        "name": "Leg",
         "amount": 300.00,
-        "images": null
-      },
-      {
-        "name": "Legt",
-        "amount": 300.00,
-        "images": null
+        "description": "Leg Waxing is the process of hair removal from the root by using a covering of a sticky substance",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/wax/leg_waxing.png"
+        ]
       }
     ]
   },
@@ -175,42 +211,35 @@
       {
         "name": "Mehendi Off Hand",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand.jpg"
-		 
-		]
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_hand.png"
+        ]
       },
       {
         "name": "Mehendi Off Hand Front and Back",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_hand_front_back_1.jpg"
-		 
-		]
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_back_front.jpeg"
+        ]
       },
       {
         "name": "Mehendi Full Hand",
         "amount": 300.00,
-        "images":[
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_full_hand.jpg"
-		 
-		]
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/hena_full.png"
+        ]
       },
       {
         "name": "Mehendi Leg",
         "amount": 250.00,
+        "description": "Mehndi is a form of body art and temporary skin decoration usually drawn on hands or legs, in which decorative designs are created on a person's body, using a paste, created from the powdered dry leaves of the henna plant ",
         "images": [
-   		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_1.jpg",
-		  "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/mehendi_leg_2.jpg"
-		 
-		]
-      },
-      {
-        "name": "Mehendi Nee",
-        "amount": 500.00,
-        "images": null
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_1.jpeg",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/mehendhi/leg_2.png"
+        ]
       }
     ]
   },
@@ -219,27 +248,35 @@
     "services": [
       {
         "name": "Bridal Makeup",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n Wedding makeup includes facial, mascara, lipstic and special wedding fragrance. Call us for more details!",
         "amount": 5000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup with package",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 6000.00,
         "images": null
       },
       {
         "name": "Bridal Makeup Reception and Morning Mugurtham",
+        "description": "Wedding makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
         "amount": 10000.00,
         "images": null
       },
       {
         "name": "HD Mackup",
+        "description": "Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and more. Call us for more details!",
         "amount": 8000.00,
-        "images": null
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/makeup/hd_makeup.png",
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/makeup/hd_makeup_1.png"
+        ]
       },
       {
         "name": "HD Mackup Reception and Morning Mugurtham",
-        "amount": 100.00,
+        "description": "Wedding HD makeup often requires a little more consideration than your regular makeup. Long-lasting and waterproof formulas are usually a good idea no matter whether you choose a natural wedding makeup look or something more dramatic. With that in mind these are the essentials you may need to create your ideal makeup for a wedding. \r\n This package includes facial, mascara, lipstic , eyebrow, special wedding fragrance and in-person assistant through out reception and morning mugurtham. Please call and check this price with customer care. It may vary if you are not in 50 km radious within our office location",
+        "amount": 20000.00,
         "images": null
       }
     ]
@@ -249,13 +286,37 @@
     "services": [
       {
         "name": "Bridal Set (Full Set)",
+        "description": "Every wedding represents a beautiful bond of love and so should everything else on that special day. Our Bridal collection is completely handmade and with so much love that it makes us so happy to be part of your special day.\r\n
+        This royal look choker necklace combo comes along with a pair of statement peacock earrings. A truly regal piece for your wardrobe. The set includes a choker, a necklace, a pair of earrings, a nath and a mathapatti.",
         "amount": 1500.00,
         "images": null
       },
       {
         "name": "Bridal Set (Only Choker)",
+        "description": "Bridal choker jewlery type necklace with crystal rhinestones. Simple but sturdy, made for everday wear. \r\n The necklace fasting is sound and it's possible to adjust the size. So it will sit round the collarbone or higher. Please visit our office for more details",
         "amount": 500.00,
         "images": null
+      }
+    ]
+  },
+  {
+    "group": "Rentle Cars",
+    "services": [
+      {
+        "name": "Luxary Cars",
+        "description": "Hire us to support your transporation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+        "amount": 1000,
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/cars.jpeg"
+        ]
+      },
+      {
+        "name": "Cars",
+        "description": "Brand new cars specially designed for transportation. This car can accommodate up to 4 people. Hire us to support your transportation easier. Tata Sumo can very large, can accumulate up to 10 people. The luxury car includes 4K quality audio, video, AC, and clean. \r\n Various renting options are available. Please give us call for more details",
+        "amount": 1000,
+        "images": [
+          "https://raw.githubusercontent.com/piappstudio/resources/main/freshlook/images/cars/rent_car.jpeg"
+        ]
       }
     ]
   }

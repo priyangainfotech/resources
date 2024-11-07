@@ -1,0 +1,3751 @@
+[
+    {
+        "id": 1,
+        "name": "A.m Book House",
+        "stall_no": [
+            "433",
+            "434"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 2,
+        "name": "Aadhi Pathippagam",
+        "stall_no": [
+            "87"
+        ],
+        "books_list": "books/aadhi_pathippagam.json"
+    },
+    {
+        "id": 3,
+        "name": "Aazhi Publishers",
+        "stall_no": [
+            "F 4"
+        ],
+        "books_list": "books/aazhi_publishers.json"
+    },
+    {
+        "id": 4,
+        "name": "Aazhvaargal Aayvu Maiyam",
+        "stall_no": [
+            "144",
+            "145"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 5,
+        "name": "Adaiyalam",
+        "stall_no": [
+            "177",
+            "178"
+        ],
+        "books_list": "books/aadhi_pathippagam.json"
+    },
+    {
+        "id": 6,
+        "name": "Agam Veliyeedu",
+        "stall_no": [
+            "249",
+            "250"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 7,
+        "name": "Agasthiyar Publications",
+        "stall_no": [
+            "320"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 8,
+        "name": "Ahmadi A Musslim Mission",
+        "stall_no": [
+            "F 68"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 9,
+        "name": "Ainthinai Pathippagam",
+        "address": "1108, 3rd St, Thendral Colony, Anna Nagar, Chennai, Tamil Nadu, India",
+        "mapUrl":"https://goo.gl/maps/npVaM9oZLRB785Ue9",
+        "common_folks": "https://www.commonfolks.in/books/ainthinai-pathippagam",
+        "stall_no": [
+            "496"
+        ],
+        "books_list": "books/ainthinai_pathippaga.json"
+    },
+    {
+        "id": 10,
+        "name": "Akaram",
+        "stall_no": [
+            "208"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 11,
+        "name": "Akash Books",
+        "address": "5, 722, Sabari Salai, Ayyappan Nagar, Madipakkam, Chennai, Tamil Nadu 600091, India",
+        "phone": "+91 97104 47000",
+        "stall_no": [
+            "182",
+            "183"
+        ],
+        "mapUrl": "https://goo.gl/maps/8xiRPWAUfmfwapcb8",
+        "books_list": null
+    },
+    {
+        "id": 12,
+        "name": "Alaigal Veliyeetagam",
+        "address":"5/1 A, Natesan Nagar 2nd St, Natesan Nagar, Ramapuram, Chennai, Tamil Nadu 600089, India",
+        "stall_no": [
+            "41",
+            "42"
+        ],
+        "books_list": "books/alaigal_veliyeettagam.json",
+        "common_folks":"https://www.commonfolks.in/books/alaigal-veliyeettagam",
+        "mapUrl":"https://goo.gl/maps/QkEKCfqb2CcKUbps8"
+    },
+    {
+        "id": 13,
+        "name": "Alphaland Books P Ltd",
+        "address":"No. 14, Jaganathan Rd, Ponnangipuram, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034, India",
+        "stall_no": [
+            "522",
+            "523"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 14,
+        "name": "Amaravathi",
+        "stall_no": [
+            "22",
+            "23"
+        ],
+        "address":"New No. 24/3-3, Old No. 60/3, First Floor, Thambiah Rd, West Mambalam, Chennai, Tamil Nadu 600033, India",
+        "phone":"+919444169725",
+        "books_list": "books/amaravathi.json",
+        "mapUrl":"https://goo.gl/maps/cnq7BWGAQXooyUGZ8",
+        "common_folks":"https://www.commonfolks.in/books/amaravathi"
+    },
+    {
+        "id": 15,
+        "name": "Amaravathi Pathippagam",
+        "stall_no": [
+            "218"
+        ],
+        "address":"New No. 24/3-3, Old No. 60/3, First Floor, Thambiah Rd, West Mambalam, Chennai, Tamil Nadu 600033, India",
+        "phone":"+919444169725",
+        "books_list": "books/amaravathi.json",
+        "mapUrl":"https://goo.gl/maps/cnq7BWGAQXooyUGZ8",
+        "common_folks":"https://www.commonfolks.in/books/amaravathi"
+    },
+    {
+        "id": 16,
+        "name": "Amrudha Pathippagam",
+        "stall_no": [
+            "213"
+        ],
+        "books_list": "books/amrutha_pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/amrutha-pathippagam",
+        "address": "No 5, S S Avenue, 5th Street, Porur, Chennai - 600116",
+        "phone": "+919444070000",
+        "mapUrl": "https://goo.gl/maps/5snxeAV4EonmwPq36"
+    },
+    {
+        "id": 17,
+        "name": "Amudha Nilayam",
+        "stall_no": [
+            "151"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 18,
+        "name": "Ana Books",
+        "stall_no": [
+            "F 53"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 19,
+        "name": "Ananda Vikadan Publishers P Ltd",
+        "stall_no": [
+            "F 44"
+        ],
+        "books_list": "books/vikadan_publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
+        "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
+        "phone": "044-66802907",
+        "mapUrl": "https://goo.gl/maps/5TBGaAVLab2WBmvj8"
+    },
+    {
+        "id": 20,
+        "name": "Ananda Vikatan Digital Pvt Lid",
+        "stall_no": [
+            "497",
+            "498"
+        ],
+        "books_list": "books/vikadan_publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/vikadan-publishers",
+        "address": "757, Vasan Ave, Anna Salai, Thousand Lights, Chennai, Tamil Nadu 600002, India",
+        "phone": "044-66802907",
+        "mapUrl": "https://goo.gl/maps/5TBGaAVLab2WBmvj8"
+    },
+    {
+        "id": 21,
+        "name": "Anandha Nilayam",
+        "stall_no": [
+            "F 3"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 22,
+        "name": "Anbu Palam",
+        "stall_no": [
+            "83"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 23,
+        "name": "Andal Trisakthi Booksellers",
+        "stall_no": [
+            "623",
+            "624"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 24,
+        "name": "Andhi Mazhai",
+        "stall_no": [
+            "201-202"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 25,
+        "name": "Anna Rajeshwari Pathippagam",
+        "stall_no": [
+            "330"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.panuval.com/annai-rajeshwari-pathipagam/ilakkiya-chuvadugal-10015159",
+        "address": "41, Thanikachalam St, Siruvallur, Perambur, Chennai, Tamil Nadu 600011",
+        "mapUrl": "https://goo.gl/maps/RiA4gAfBZ4Kc3p1r6"
+    },
+    {
+        "id": 26,
+        "name": "Annam",
+        "stall_no": [
+            "313-314"
+        ],
+        "books_list": "books/annam_agaram_pathippagam.json",
+        "common_folks":"https://www.commonfolks.in/books/annam-agaram-pathippagam"
+    },
+    {
+        "id": 27,
+        "name": "Anuradha Publications",
+        "stall_no": [
+            "253",
+            "254"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/anuradha-publications",
+        "address": "G - 68, Kamakodi Flats, 20, Rameswaram Road, T Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "04424357410",
+        "mapUrl": "https://goo.gl/maps/HFVx3fRcpgmmVSjUA"
+    },
+    {
+        "id": 28,
+        "name": "Anura Am",
+        "stall_no": [
+            "488-489"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 29,
+        "name": "Apple Publishing Int. P Ltd",
+        "stall_no": [
+            "540-541"
+        ],
+        "books_list": "books/apple_publishing_international.json",
+        "common_folks": "https://www.commonfolks.in/books/apple-publishing-international",
+        "address": "130, Nelson Manickam Rd, Behind Kovai Pazhamudir Nilayam - Buy Fresh Fruits & Vegetables in Aminjikarai, Railway Colony, Aminjikarai, Chennai, Tamil Nadu 600029",
+        "phone": "09677444977",
+        "mapUrl": "https://goo.gl/maps/5ZPCGieX1jJRxbNo9"
+    },
+    {
+        "id": 30,
+        "name": "Aravanan Tamilkottam",
+        "stall_no": [
+            "71"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 31,
+        "name": "Aries Books International",
+        "stall_no": [
+            "333",
+            "334"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 32,
+        "name": "Arivu Nattrangal",
+        "stall_no": [
+            "8"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 33,
+        "name": "Arockiaa Books",
+        "stall_no": [
+            "335-336"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 34,
+        "name": "Arulmigu Amman Pathippagam",
+        "stall_no": [
+            "211-212"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/arulmigu+amman+pathippagam",
+        "address": "Old no: 116, New, 16, Thulasinga Perumal Koil St, Triplicane, Chennai, Tamil Nadu 600005",
+        "phone": "04442663546",
+        "mapUrl": "https://goo.gl/maps/HPNbfTaV85GLSKFo6"
+    },
+    {
+        "id": 35,
+        "name": "Arun Nil-ayam",
+        "stall_no": [
+            "347"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 36,
+        "name": "Arun Pathippagam",
+        "stall_no": [
+            "124-125"
+        ],
+        "books_list": "books/arun-mo.json",
+        "common_folks":"https://www.commonfolks.in/books/arun-mo"
+    },
+    {
+        "id": 37,
+        "name": "Aruna Publications",
+        "stall_no": [
+            "9",
+            "10"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.noolulagam.com/books-by-publisher/408/arun-pathippagam/",
+        "address": "21/25 PERIYAR NAGAR, Main Rd, North Jagannatha Nagar Annexe, Villivakkam, Chennai, Tamil Nadu 600049",
+        "phone": "04426507131",
+        "mapUrl": "https://goo.gl/maps/SVH9rjxnTag41ad79"
+    },
+    {
+        "id": 38,
+        "name": "Arunothayam",
+        "stall_no": [
+            "161-162"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.noolulagam.com/books-by-publisher/130/arunothayam/",
+        "address": "53, Gowdiamutt Rd, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+        "phone": "04428132791",
+        "mapUrl": "https://goo.gl/maps/26Uo61LU7APo1AGX8"
+    },
+    {
+        "id": 39,
+        "name": "Arutseiva Dr. N Magalingam",
+        "stall_no": [
+            "392"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/arutchelvar-dr-n-mahalingam-translation-institute-amti"
+    },
+    {
+        "id": 40,
+        "name": "Aruvi Puthaga Ulagam",
+        "stall_no": [
+            "476",
+            "477"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 41,
+        "name": "Aruvi Veliyeedu",
+        "stall_no": [
+            "509",
+            "510"
+        ],
+        "books_list": "books/arunchol-veliyeedu.json",
+        "common_folks": "https://www.commonfolks.in/books/arunchol-veliyeedu",
+        "address": "G3, Venuka Apartment, 40, 12th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",
+        "mapUrl": "https://goo.gl/maps/98nkUNNsnUVcgK7x5"
+    },
+    {
+        "id": 42,
+        "name": "Asian Book Centre",
+        "stall_no": [
+            "F 66"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/search?sv=Asian%20Book%20Centre",
+        "address": "Shop No. 80,, Sadaiappan Street, Saidapet, Chennai, Tamil Nadu 600015",
+        "phone": "09841037970",
+        "mapUrl": "https://goo.gl/maps/U8q9RV7ah34TmsHK9"
+    },
+    {
+        "id": 43,
+        "name": "Atlantic Publishers & Distributors Pvt Ltd",
+        "stall_no": [
+            "318-319"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 44,
+        "name": "Aurobindho Ashram",
+        "stall_no": [
+            "222"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 45,
+        "name": "Ayyanar Book Centre",
+        "stall_no": [
+            "73"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 46,
+        "name": "B Rathna Nayakar & Sons",
+        "stall_no": [
+            "55"
+        ],
+        "books_list": null,
+        "common_folks": "https://routemybook.com/author_details/B-Rathina-Nayagar-Sons-B-1239",
+        "address": "26, Venkataraman St, Sowcarpet, George Town, Chennai, Tamil Nadu 600079",
+        "mapUrl": "https://goo.gl/maps/ayZNwCZHXkY4s6pbA"
+    },
+    {
+        "id": 47,
+        "name": "Baba Publications",
+        "stall_no": [
+            "424-425"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 48,
+        "name": "Balaji Pathippagam Kumbakonam",
+        "stall_no": [
+            "552"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 49,
+        "name": "Balaji Publications",
+        "stall_no": [
+            "160"
+        ],
+        "books_list": "books/balaji-international-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/balaji-international-publications",
+        "address": "235, Bharathi Salai, Padupakkam, Royapettah, Chennai, Tamil Nadu 600014",
+        "phone": "09884029557",
+        "mapUrl": "https://goo.gl/maps/LRgnuUSvD4G19yav9"
+    },
+    {
+        "id": 81,
+        "name": "D K Publishers",
+        "stall_no": [
+            "74-75"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 82,
+        "name": "Desanthiri Pathipagam",
+        "stall_no": [
+            "415-416"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 83,
+        "name": "Dhanalakshmi Pathippagam",
+        "stall_no": [
+            "137-138"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 84,
+        "name": "Dheeran Pulishing House",
+        "stall_no": [
+            "408"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 85,
+        "name": "Discovery Book Palace Pvt Ltd",
+        "stall_no": [
+            "F 30"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 86,
+        "name": "Discovery Publications",
+        "stall_no": [
+            "582-583"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 87,
+        "name": "Divine Poet Tamil Philoso Hical",
+        "stall_no": [
+            "528-529"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 88,
+        "name": "Dot Publicatios",
+        "stall_no": [
+            "557"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 89,
+        "name": "Dove Multimedia",
+        "stall_no": [
+            "342"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 90,
+        "name": "Dr. Ambedkar Foundation",
+        "stall_no": [
+            "247"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 91,
+        "name": "Dream Ways",
+        "stall_no": [
+            "337",
+            "338"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 92,
+        "name": "Emerald Publishers",
+        "stall_no": [
+            "F 34"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 93,
+        "name": "Essential Publications",
+        "stall_no": [
+            "101-102"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 94,
+        "name": "Eswar Book Centre",
+        "stall_no": [
+            "F 36"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 95,
+        "name": "Ethir Veliyedu",
+        "stall_no": [
+            "F 24"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 96,
+        "name": "Eureka Books",
+        "stall_no": [
+            "288-289"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 97,
+        "name": "Ezhilini",
+        "stall_no": [
+            "61",
+            "62"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 98,
+        "name": "Forward Marketting Agency",
+        "stall_no": [
+            "328-329"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 99,
+        "name": "Gangaaraani Pathippagam",
+        "stall_no": [
+            "399-400"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 100,
+        "name": "Geetham Publications",
+        "stall_no": [
+            "146",
+            "147"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 101,
+        "name": "Geetham Traders",
+        "stall_no": [
+            "88"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 102,
+        "name": "Giri Trading Agency",
+        "stall_no": [
+            "F 47"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 103,
+        "name": "Giri Trading Agency Digital Media",
+        "stall_no": [
+            "223-224"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 104,
+        "name": "Gita Press",
+        "stall_no": [
+            "516",
+            "517"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 105,
+        "name": "Good World Books",
+        "stall_no": [
+            "368-369"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 106,
+        "name": "Goutham Pathippagam",
+        "stall_no": [
+            "173-174"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 107,
+        "name": "Guhasri Vaariyar Pathippagam",
+        "stall_no": [
+            "439",
+            "440"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/guhashri+vaariyaar+pathippagam+chennai/",
+        "address": "132/107, Singanna Chetty St, Chintadripet, Chennai, Tamil Nadu 600002",
+        "phone": "04428535666",
+        "mapUrl": "https://goo.gl/maps/xSZ3HdiDKCnmvsWh6"
+    },
+    {
+        "id": 108,
+        "name": "Harpercollins Publishers India",
+        "stall_no": [
+            "F 14"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/search?sv=Harpercollins%20Publishers",
+        "address": "4th, Cyber City, Building No 10 Tower A, Gurugram, Haryana 122002",
+        "phone": "01204044800",
+        "mapUrl": "https://goo.gl/maps/nN2zHdXpn9xV88uC9"
+    },
+    {
+        "id": 109,
+        "name": "Hayagreeva Publications",
+        "stall_no": [
+            "203"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/hayagreeva+publication/",
+        "address": "Big St, opp. to Sakthi Hospital & Research Centre, Chennai, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+        "mapUrl": "https://goo.gl/maps/MbUD7YEMzpt5gCGo9"
+    },
+    {
+        "id": 110,
+        "name": "Hayagreevar",
+        "stall_no": [
+            "317"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 111,
+        "name": "Health",
+        "stall_no": [
+            "239"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 112,
+        "name": "Higginbothams P Ltd",
+        "stall_no": [
+            "F 40"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 113,
+        "name": "Bh Books And Magazines Distributors Ltd",
+        "stall_no": [
+            "F 62"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 114,
+        "name": "Ilakkiya Chola Charitable Trust",
+        "stall_no": [
+            "646",
+            "647"
+        ],
+        "books_list": "books/ilakkiyachcholai.json",
+        "common_folks": "https://www.commonfolks.in/books/ilakkiyachcholai"
+    },
+    {
+        "id": 115,
+        "name": "Ilasa",
+        "stall_no": [
+            "126"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 116,
+        "name": "Ilayan Kudi Maald",
+        "stall_no": [
+            "437-438"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 117,
+        "name": "Illam Thedi Kalvi - Ennum Ezhuthum",
+        "stall_no": [
+            "566",
+            "567",
+            "568",
+            "569"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 118,
+        "name": "Indhu Tamizh Thisai",
+        "stall_no": [
+            "505-506"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 119,
+        "name": "Indian University Press",
+        "stall_no": [
+            "78-79"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 120,
+        "name": "Infinitheism Spiritual Foundation Private Limite-d",
+        "stall_no": [
+            "385"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 121,
+        "name": "International Book Agency",
+        "stall_no": [
+            "535",
+            "536"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 122,
+        "name": "Iraiagam",
+        "stall_no": [
+            "221"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 123,
+        "name": "Isckon",
+        "stall_no": [
+            "F 22"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 124,
+        "name": "Isha Foundation",
+        "stall_no": [
+            "F 58"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 125,
+        "name": "Islamic Foundation Trust",
+        "stall_no": [
+            "F 46"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/search?sv=Islamic%20Foundation%20Trust",
+        "address": "IFT Lane, 138, Perambur High Rd, Jamalia, Chennai, Tamil Nadu 600012",
+        "phone": "04426624401",
+        "mapUri": "https://goo.gl/maps/z8jqfUteSdmbpEka8"
+    },
+    {
+        "id": 126,
+        "name": "Iyalvaagai",
+        "stall_no": [
+            "195-196"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/search?sv=Iyalvaagai"
+
+    },
+    {
+        "id": 127,
+        "name": "Jaico Publishin House",
+        "stall_no": [
+            "33-34"
+        ],
+        "books_list": "books/jaico-publishing-house.json",
+        "common_folks": "https://www.commonfolks.in/books/jaico-publishing-house",
+        "address": "12, Dalal Street Extention, 125 Mahatma Gandhi Road, Motwane Lane, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
+        "phone": "02240905725",
+        "mapUrl": "https://goo.gl/maps/QMrPcJm3CN2Qn63d8"
+    },
+    {
+        "id": 128,
+        "name": "Jainco",
+        "stall_no": [
+            "194"
+        ],
+        "books_list": "books/jaico-publishing-house.json",
+        "common_folks": "https://routemybook.com/publisher_details/Jainco-Publishers-279/269?autshort=low",
+        "address": "A-171/1, Block A, Dilshad Colony, Dilshad Garden, Delhi, 110095",
+        "phone": "01122352409",
+        "mapUrl": "https://goo.gl/maps/Ah5QCLACEHJQWwyT6"
+    },
+    {
+        "id": 129,
+        "name": "Jayam Book Centre",
+        "stall_no": [
+            "131"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 130,
+        "name": "Jayam Publications",
+        "stall_no": [
+            "518-519"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 131,
+        "name": "Jeeva Pathippagam",
+        "stall_no": [
+            "280"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 132,
+        "name": "Just Get Book",
+        "stall_no": [
+            "553-554"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 133,
+        "name": "Kaakai Koodu",
+        "stall_no": [
+            "589",
+            "590"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 134,
+        "name": "Kaanthalakam",
+        "stall_no": [
+            "225"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 135,
+        "name": "Kaaya",
+        "stall_no": [
+            "127-128"
+        ],
+        "books_list": "books/kavya-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/kavya-pathippagam",
+        "address": "363F+V9Q, Trustpuram, Kodambakkam, Chennai, Tamil Nadu 600024",
+        "phone": "09840480232",
+        "mapUrl": "https://goo.gl/maps/3mVJu3ALguWi1Pi18s"
+    },
+    {
+        "id": 136,
+        "name": "Kadalangudi Publications",
+        "stall_no": [
+            "107",
+            "108"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/kadalangudi%20publications%20chennai/",
+        "address": "38, Natesan Iyer Street, T Nagar, T Nagar, Chennai, Tamil Nadu 600017",
+        "phone": "04424343406",
+        "mapUrl": "https://goo.gl/maps/9TEupiY2hiBRpsG17"
+    },
+    {
+        "id": 137,
+        "name": "Kalachuvadu Pathippagam",
+        "stall_no": [
+            "E 5"
+        ],
+        "books_list": "books/kalachuvadu.json",
+        "common_folks": "https://www.commonfolks.in/books/kalachuvadu",
+        "address": "669, K P Road, Kottar-Parvathipuram Rd, Nagercoil, Tamil Nadu 629001",
+        "phone": "04652278525",
+        "mapUri": "https://goo.gl/maps/PwrWrKxwfYnnJQS18"
+    },
+    {
+        "id": 138,
+        "name": "Kalaignan Pathippagam",
+        "stall_no": [
+            "607-608"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/kalaignan-padhipagam"
+    },
+    {
+        "id": 139,
+        "name": "Kalaimagal Stores",
+        "stall_no": [
+            "609-610"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 140,
+        "name": "Kalaimagal Traders",
+        "stall_no": [
+            "619",
+            "620"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 141,
+        "name": "Kalaingar Karuvoolam",
+        "stall_no": [
+            "305"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 142,
+        "name": "Kalakal Dreams Entreprises",
+        "stall_no": [
+            "156-157"
+        ],
+        "books_list": "books/kalakkal-dreams.json",
+        "common_folks": "https://www.commonfolks.in/books/kalakkal-dreams",
+        "address": "9A, Kamaraj, nagar, 1st Cross St, Srinivasa Nagar, Padi, Chennai, Tamil Nadu 600050",
+        "phone": "09840967484",
+        "mapUrl": "https://goo.gl/maps/65LTsBxyMUeRVwxE8"
+    },
+    {
+        "id": 143,
+        "name": "Kalam",
+        "stall_no": [
+            "272"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 144,
+        "name": "Kaleeshwari Pathippagam",
+        "stall_no": [
+            "152-153"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.exoticindiaart.com/book-publisher/kaleeshwari+pathippagam/"
+    },
+    {
+        "id": 145,
+        "name": "Kaleidoscope",
+        "stall_no": [
+            "232"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 146,
+        "name": "Kalyani Publishers",
+        "stall_no": [
+            "20",
+            "21"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 147,
+        "name": "Kaniyan Pathippagam",
+        "stall_no": [
+            "650",
+            "651"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 148,
+        "name": "Kanmani Creative Waves",
+        "stall_no": [
+            "405"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 149,
+        "name": "Kannadhasan Pathippagam",
+        "stall_no": [
+            "F 60"
+        ],
+        "books_list": null,
+        "common_fokls": "https://www.commonfolks.in/books/kannadasan-pathippagam?f[page]=1&f[sort]=default&f[view]=list"
+    },
+    {
+        "id": 150,
+        "name": "Kannappan Pathippagam",
+        "stall_no": [
+            "F 26"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 151,
+        "name": "Karisal Media",
+        "stall_no": [
+            "349-350"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 152,
+        "name": "Karisal Pathippagam",
+        "stall_no": [
+            "323"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 153,
+        "name": "Karpagam Puthakalayam",
+        "stall_no": [
+            "603-604"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/karpagam-puththagalayam"
+    },
+    {
+        "id": 154,
+        "name": "Karthick Pathippagam",
+        "stall_no": [
+            "56",
+            "57"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 155,
+        "name": "Karunchattai Pathippagam",
+        "stall_no": [
+            "38-39"
+        ],
+        "books_list": "books/karunchattai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/karunchattai-pathippagam"
+    },
+    {
+        "id": 156,
+        "name": "Karuppu Pradhigal",
+        "stall_no": [
+            "378",
+            "379"
+        ],
+        "books_list": "books/karuppu-pirathigal.json",
+        "common_folks": "https://www.commonfolks.in/books/karuppu-pirathigal"
+    },
+    {
+        "id": 157,
+        "name": "Karuthuppattarai",
+        "stall_no": [
+            "299"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 158,
+        "name": "Kavitha Publications",
+        "stall_no": [
+            "F 50"
+        ],
+        "books_list": "books/kavitha-publication.json",
+        "common_folks": "https://www.commonfolks.in/books/kavitha-publication"
+    },
+    {
+        "id": 159,
+        "name": "Kaviarasan Pathippagam",
+        "stall_no": [
+            "255"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 160,
+        "name": "Keezhaikattru Veliyeetagam",
+        "stall_no": [
+            "660-661"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 161,
+        "name": "Kizhakku Pathippagam",
+        "stall_no": [
+            "E 4"
+        ],
+        "books_list": "books/kizhakku-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/kizhakku-pathippagam"
+    },
+    {
+        "id": 162,
+        "name": "Koothai Pathippagam",
+        "stall_no": [
+            "303"
+        ],
+        "books_list": "books/kothai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/kothai-pathippagam"
+    },
+    {
+        "id": 163,
+        "name": "Krishnamacha A Yo A Mandiram",
+        "stall_no": [
+            "388"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 164,
+        "name": "Krishnamurti Foundation India",
+        "stall_no": [
+            "657-658"
+        ],
+        "books_list": "books/krishnamurthi-foundation-india.json",
+        "common_folks": "https://www.commonfolks.in/books/krishnamurthi-foundation-india"
+    },
+    {
+        "id": 165,
+        "name": "Kumaran Pathippagam",
+        "stall_no": [
+            "631",
+            "632"
+        ],
+        "books_list": "books/kumaran-pathippagham.json",
+        "common_folks": "https://www.commonfolks.in/books/kumaran-pathippagham"
+    },
+    {
+        "id": 166,
+        "name": "Kumaran Puthaga Illam",
+        "stall_no": [
+            "18"
+        ],
+        "books_list": "books/kumaran-putthaga-illam.json",
+        "common_folks": "https://www.commonfolks.in/books/kumaran-putthaga-illam"
+    },
+    {
+        "id": 167,
+        "name": "Kumudham Publications",
+        "stall_no": [
+            "343-344"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 168,
+        "name": "Kutti Agayam",
+        "stall_no": [
+            "533"
+        ],
+        "books_list": "books/kutti-agayam.json",
+        "common_folks": "https://www.commonfolks.in/books/kutti-agayam"
+    },
+    {
+        "id": 169,
+        "name": "Left Word",
+        "stall_no": [
+            "380",
+            "381"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 170,
+        "name": "Leo Book Distributors",
+        "stall_no": [
+            "99-100"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 171,
+        "name": "Leo Book Publishers",
+        "stall_no": [
+            "550",
+            "551"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 172,
+        "name": "Lifco Publishers Pvtltd",
+        "stall_no": [
+            "129",
+            "130"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 173,
+        "name": "I-km Publication",
+        "stall_no": [
+            "351",
+            "352"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 174,
+        "name": "Lore Books Llp",
+        "stall_no": [
+            "538-539"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 175,
+        "name": "Lotus Multimedia",
+        "stall_no": [
+            "91",
+            "92"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 176,
+        "name": "Madhumitha Books",
+        "stall_no": [
+            "263",
+            "264"
+        ],
+        "books_list": "books/madhumita.json",
+        "common_folks": "https://www.commonfolks.in/books/madhumita"
+    },
+    {
+        "id": 177,
+        "name": "Madras Book House",
+        "stall_no": [
+            "93",
+            "94"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 178,
+        "name": "Magic Box Publications",
+        "stall_no": [
+            "486-487"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 179,
+        "name": "Maheswari Book Stall",
+        "stall_no": [
+            "F 42"
+        ],
+        "books_list": "books/s-maheswari.json",
+        "common_folks": "https://www.commonfolks.in/books/s-maheswari"
+    },
+    {
+        "id": 180,
+        "name": "Makkal Urimai",
+        "stall_no": [
+            "132"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 181,
+        "name": "Malayala Manorama",
+        "stall_no": [
+            "47-48"
+        ],
+        "books_list": "books/malayala-manorama.json",
+        "common_folks": "https://www.commonfolks.in/books/malayala-manorama"
+    },
+    {
+        "id": 182,
+        "name": "Mananalam Padaippugal",
+        "stall_no": [
+            "248"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 183,
+        "name": "Manimekalai Prasuram",
+        "stall_no": [
+            "F 17"
+        ],
+        "books_list": "books/manimekalai-pirasuram.json",
+        "common_folks": "https://www.commonfolks.in/books/manimekalai-pirasuram"
+    },
+    {
+        "id": 184,
+        "name": "Manivasagar Pathippagam",
+        "stall_no": [
+            "219-220"
+        ],
+        "books_list": "books/manivaasagar-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/manivaasagar-pathippagam"
+    },
+    {
+        "id": 185,
+        "name": "Margham Publications",
+        "stall_no": [
+            "11"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/manivaasagar-pathippagam"
+    },
+    {
+        "id": 186,
+        "name": "Marina Enterprises",
+        "stall_no": [
+            "382"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 187,
+        "name": "Maruthuva Pathippagam",
+        "stall_no": [
+            "502"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 188,
+        "name": "Maruthy Books",
+        "stall_no": [
+            "279"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 189,
+        "name": "Mathi Nilayam",
+        "stall_no": [
+            "216-217"
+        ],
+        "books_list": "books/mathi-nilaiyam.json",
+        "common_folks": "https://www.commonfolks.in/books/mathi-nilaiyam"
+    },
+    {
+        "id": 190,
+        "name": "Max Academy For Excellence",
+        "stall_no": [
+            "480"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 191,
+        "name": "Mayilavan Pathippagam",
+        "stall_no": [
+            "273-274"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 192,
+        "name": "Mayura Books",
+        "stall_no": [
+            "584",
+            "585"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 193,
+        "name": "Mb Publishers",
+        "stall_no": [
+            "54"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 194,
+        "name": "Meenakshi Book Shop",
+        "stall_no": [
+            "186-187"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 195,
+        "name": "Meenakshi Puthaga Nilayam",
+        "stall_no": [
+            "409",
+            "410"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 196,
+        "name": "Meenal Publishing House",
+        "stall_no": [
+            "270",
+            "271"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 197,
+        "name": "Mercurysun Publications",
+        "stall_no": [
+            "403-404"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 198,
+        "name": "Merven Educatinal Solutions",
+        "stall_no": [
+            "467-468"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 199,
+        "name": "Meyyappan Pathippagam",
+        "stall_no": [
+            "315-316"
+        ],
+        "books_list": "books/meiyappan-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/meiyappan-pathippagam"
+    },
+    {
+        "id": 200,
+        "name": "Minerva Publications",
+        "stall_no": [
+            "383",
+            "384"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 201,
+        "name": "Minnangadi Pathippagam",
+        "stall_no": [
+            "492",
+            "4593"
+        ],
+        "books_list": "books/minnangadi.json",
+        "common_folks": "https://www.commonfolks.in/books/minnangadi"
+    },
+    {
+        "id": 202,
+        "name": "Mooligaimani",
+        "stall_no": [
+            "312"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 203,
+        "name": "Motilal Banarsidass",
+        "stall_no": [
+            "472"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 204,
+        "name": "Mukkadal",
+        "stall_no": [
+            "534"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 205,
+        "name": "Mulla Pathippagam",
+        "stall_no": [
+            "233",
+            "234"
+        ],
+        "books_list": "books/mullai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/mullai-pathippagam"
+    },
+    {
+        "id": 206,
+        "name": "Munnetra Pathippagam",
+        "stall_no": [
+            "625-626"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 207,
+        "name": "Munshiram Manoharlal Publishers P.ltd",
+        "stall_no": [
+            "300"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 208,
+        "name": "Muntil",
+        "stall_no": [
+            "19"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 209,
+        "name": "Muran Publication",
+        "stall_no": [
+            "266-267"
+        ],
+        "books_list": "books/muran-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/muran-pathippagam"
+    },
+    {
+        "id": 210,
+        "name": "Muthu Comics",
+        "stall_no": [
+            "531-532"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 211,
+        "name": "Muthunadu Publication",
+        "stall_no": [
+            "375"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 212,
+        "name": "N Hansraj & Sons",
+        "stall_no": [
+            "520",
+            "521"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 213,
+        "name": "Nakkeeran Publications",
+        "stall_no": [
+            "F 31"
+        ],
+        "books_list": "books/nakkheeran-publications",
+        "common_folks": "https://www.commonfolks.in/books/nakkheeran-publications"
+    },
+    {
+        "id": 214,
+        "name": "Nalli Brain Bank",
+        "stall_no": [
+            "556"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 215,
+        "name": "Nam Pathippagam",
+        "stall_no": [
+            "135"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 216,
+        "name": "Nanmozhi Pathippagam",
+        "stall_no": [
+            "640",
+            "641"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 217,
+        "name": "Nannool Veliyeetagam",
+        "stall_no": [
+            "60"
+        ],
+        "books_list": "books/nannool-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/nannool-pathippagam"
+    },
+    {
+        "id": 218,
+        "name": "Narayani Pathippagam",
+        "stall_no": [
+            "393-394"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 219,
+        "name": "Narmadha Pathipagam",
+        "stall_no": [
+            "F 64"
+        ],
+        "books_list": "books/narmada-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/narmada-pathippagam"
+    },
+    {
+        "id": 220,
+        "name": "Nataraj Publications",
+        "stall_no": [
+            "230",
+            "231"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 221,
+        "name": "Natham Geetham Book Sellers",
+        "stall_no": [
+            "F 5"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 222,
+        "name": "Nathan Pathippagam",
+        "stall_no": [
+            "256"
+        ],
+        "books_list": "books/nathan-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/nathan-pathippagam"
+    },
+    {
+        "id": 223,
+        "name": "National Book Trust India",
+        "stall_no": [
+            "81",
+            "82"
+        ],
+        "books_list": "books/national-book-trust",
+        "common_folks": "https://www.commonfolks.in/books/national-book-trust"
+    },
+    {
+        "id": 224,
+        "name": "National Publishers",
+        "stall_no": [
+            "29",
+            "30"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 225,
+        "name": "Natrinai Pathippagam",
+        "stall_no": [
+            "F 39"
+        ],
+        "books_list": "books/natrinai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/natrinai-pathippagam"
+    },
+    {
+        "id": 226,
+        "name": "Nav Bharat Publications",
+        "stall_no": [
+            "652-655"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 227,
+        "name": "Naveena Velanmai",
+        "stall_no": [
+            "235"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 228,
+        "name": "Navneet Education Ltd",
+        "stall_no": [
+            "117-118"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 229,
+        "name": "Ncbh",
+        "stall_no": [
+            "E 2"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 230,
+        "name": "Neelam",
+        "stall_no": [
+            "F 69"
+        ],
+        "books_list": "books/neelam.json"
+    },
+    {
+        "id": 231,
+        "name": "New Book Lands",
+        "stall_no": [
+            "35",
+            "36"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 232,
+        "name": "New Generation Media Corp Pvt Ltd",
+        "stall_no": [
+            "503-504"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 233,
+        "name": "New Student Book Agency",
+        "stall_no": [
+            "417",
+            "418"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 234,
+        "name": "New Students Book House",
+        "stall_no": [
+            "257-258"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 235,
+        "name": "Nimir Pathippagam",
+        "stall_no": [
+            "364-365"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 236,
+        "name": "Mos Thesiya Tirantha Nilai Palli",
+        "stall_no": [
+            "None"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 237,
+        "name": "Nivethitha Pathippagam",
+        "stall_no": [
+            "435",
+            "436"
+        ],
+        "books_list": "books/nivedhita-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/nivedhita-publishers"
+    },
+    {
+        "id": 238,
+        "name": "Nivethitha Puthaga Poonga",
+        "stall_no": [
+            "615-616"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 239,
+        "name": "Noble Publications",
+        "stall_no": [
+            "362-363"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 240,
+        "name": "Noolvanam",
+        "stall_no": [
+            "265"
+        ],
+        "books_list": "books/nool-vanam.json",
+        "common_folks": "https://www.commonfolks.in/books/nool-vanam"
+    },
+    {
+        "id": 241,
+        "name": "Offimart.com",
+        "stall_no": [
+            "246"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 242,
+        "name": "0m Logeswari Book House",
+        "stall_no": [
+            "204-205"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 243,
+        "name": "0m Sakthi Book House",
+        "stall_no": [
+            "F 6"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 244,
+        "name": "0m Sakthi Books International",
+        "stall_no": [
+            "52",
+            "53"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 245,
+        "name": "Omni Books",
+        "stall_no": [
+            "105-106"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 246,
+        "name": "Ongaram Pathippagam",
+        "stall_no": [
+            "281-282"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 247,
+        "name": "Osho Aekam Foundation",
+        "stall_no": [
+            "31-32"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 248,
+        "name": "Oswal",
+        "stall_no": [
+            "190"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 249,
+        "name": "Oviya Enterprises",
+        "stall_no": [
+            "469-470"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 250,
+        "name": "Oviya Pathippagam",
+        "stall_no": [
+            "514",
+            "515"
+        ],
+        "books_list": "books/oviya-pathipagam.json",
+        "common_folks": "https://www.commonfolks.in/books/oviya-pathipagam"
+    },
+    {
+        "id": 251,
+        "name": "Paari Nilayam",
+        "stall_no": [
+            "154",
+            "155"
+        ],
+        "books_list": "books/paari-nilayam.json",
+        "common folks": "https://www.commonfolks.in/books/paari-nilayam"
+    },
+    {
+        "id": 252,
+        "name": "Paavai Publications",
+        "stall_no": [
+            "597-598"
+        ],
+        "books_list": "books/paavai-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/paavai-publications"
+    },
+    {
+        "id": 253,
+        "name": "Padaippu",
+        "stall_no": [
+            "355"
+        ],
+        "books_list": null,
+        "common folks": "https://www.commonfolks.in/books/padaippu-pathippagam"
+    },
+    {
+        "id": 254,
+        "name": "Padma Pathippagam",
+        "stall_no": [
+            "262"
+        ],
+        "books_list": "books/padaippu-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/padhma-pathippagam"
+    },
+    {
+        "id": 255,
+        "name": "Palaniappa Brothers",
+        "stall_no": [
+            "321",
+            "322"
+        ],
+        "books_list": "books/palaniyappa-brothers.json",
+        "common_folks": "https://www.commonfolks.in/books/palaniyappa-brothers"
+    },
+    {
+        "id": 256,
+        "name": "Pallavi Pathippagam",
+        "stall_no": [
+            "593",
+            "594"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 257,
+        "name": "Pandiyan Pasarai",
+        "stall_no": [
+            "310"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 258,
+        "name": "Panmaiveli",
+        "stall_no": [
+            "611-612"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 259,
+        "name": "Panuval Puthaga Nilayam",
+        "stall_no": [
+            "199-200"
+        ],
+        "books_list": "books/panuval-book-store.json",
+        "common_folks": "https://www.commonfolks.in/books/panuval-book-store"
+    },
+    {
+        "id": 260,
+        "name": "Parisal Puthaga Nilayam",
+        "stall_no": [
+            "171-172"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 261,
+        "name": "Parithi Pathippagam",
+        "stall_no": [
+            "432"
+        ],
+        "books_list": "books/parithi-pathippagam",
+        "common_folks": "https://www.commonfolks.in/books/parithi-pathippagam"
+    },
+    {
+        "id": 262,
+        "name": "Park Book House",
+        "stall_no": [
+            "169",
+            "170"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 263,
+        "name": "Penguin Random House India",
+        "stall_no": [
+            "F 65"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 264,
+        "name": "Perham",
+        "stall_no": [
+            "547"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 265,
+        "name": "Permanent Book Fair",
+        "stall_no": [
+            "F 57"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 266,
+        "name": "Permanent Book Fair",
+        "stall_no": [
+            "E l"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 267,
+        "name": "Pesamoli Publications",
+        "stall_no": [
+            "454-455"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 268,
+        "name": "Ponni",
+        "stall_no": [
+            "209-210"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 269,
+        "name": "Poompuhar Pathippagam",
+        "stall_no": [
+            "111-112"
+        ],
+        "books_list": "books/poombuhar-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/poombuhar-pathippagam"
+    },
+    {
+        "id": 270,
+        "name": "Poongodi Pathippagam",
+        "stall_no": [
+            "478-479"
+        ],
+        "books_list": "books/poonkodi-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/poonkodi-pathippagam"
+    },
+    {
+        "id": 271,
+        "name": "Poovarashi Trust",
+        "stall_no": [
+            "168"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 272,
+        "name": "Poovulagin Nanbargal",
+        "stall_no": [
+            "642-643"
+        ],
+        "books_list": "books/poovulagin-nanbargal-784.json",
+        "common_folks": "https://www.commonfolks.in/books/poovulagin-nanbargal-784"
+    },
+    {
+        "id": 273,
+        "name": "Pothumai Pathippagam",
+        "stall_no": [
+            "372-373"
+        ],
+        "books_list": "books/puthumai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/puthumai-pathippagam"
+    },
+    {
+        "id": 274,
+        "name": "Pradeep Enterprises",
+        "stall_no": [
+            "324"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 275,
+        "name": "Prakash Books India P Ltd",
+        "stall_no": [
+            "426",
+            "427"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 276,
+        "name": "Prampt Pathippagam",
+        "stall_no": [
+            "197",
+            "198"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 277,
+        "name": "Prema Pirasuram",
+        "stall_no": [
+            "6",
+            "7"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 278,
+        "name": "Prism Books P Ltd",
+        "stall_no": [
+            "F 13"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 279,
+        "name": "Prism Corporation (p) Ltd",
+        "stall_no": [
+            "386-387"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 280,
+        "name": "Priya Nilayam",
+        "stall_no": [
+            "43-44"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 281,
+        "name": "Psn Entertainment Pvt. Lid",
+        "stall_no": [
+            "555"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 282,
+        "name": "Publication Division, Govt Of India",
+        "stall_no": [
+            "166",
+            "167"
+        ],
+        "books_list": "books/publications-division.json",
+        "common_folks": "https://www.commonfolks.in/books/publications-division"
+    },
+    {
+        "id": 283,
+        "name": "Pudhu Punal",
+        "stall_no": [
+            "277",
+            "278"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 284,
+        "name": "Pudhu Ulagam",
+        "stall_no": [
+            "206-207"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 285,
+        "name": "Pulam",
+        "stall_no": [
+            "F 41"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 286,
+        "name": "Punnagai",
+        "stall_no": [
+            "261"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 287,
+        "name": "Pustaka Digital Media Pvt Kid",
+        "stall_no": [
+            "499"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 288,
+        "name": "Puthaga Poonga",
+        "stall_no": [
+            "376",
+            "337"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 289,
+        "name": "Quality Book Centre",
+        "stall_no": [
+            "45"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 290,
+        "name": "Queer Publishing House",
+        "stall_no": [
+            "28"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 291,
+        "name": "Raajakumaari Publications",
+        "stall_no": [
+            "482-483"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 292,
+        "name": "Rahmath Pathipagam",
+        "stall_no": [
+            "F 54"
+        ],
+        "books_list": "books/rahmath-pathipagam.json",
+        "common_folks": "https://www.commonfolks.in/books/rahmath-pathipagam"
+    },
+    {
+        "id": 293,
+        "name": "Raintree Publishing",
+        "stall_no": [
+            "297-298"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 294,
+        "name": "Rajalakshmi Publications",
+        "stall_no": [
+            "507-508"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 295,
+        "name": "Rajathi Pathipagam",
+        "stall_no": [
+            "530"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 296,
+        "name": "Rajmohan Pathippagam",
+        "stall_no": [
+            "65-66"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 297,
+        "name": "Ramka Books",
+        "stall_no": [
+            "639"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 298,
+        "name": "Ramprasanth Publications",
+        "stall_no": [
+            "97",
+            "98"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 299,
+        "name": "Rani Book Sellers",
+        "stall_no": [
+            "119"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 300,
+        "name": "Rhythm Book Distributors",
+        "stall_no": [
+            "F 37"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 301,
+        "name": "Ru A Publications India P Ltd",
+        "stall_no": [
+            "275-276"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 302,
+        "name": "Saalivaganan Pathippagam",
+        "stall_no": [
+            "348"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 303,
+        "name": "Saaruprabha Publications",
+        "stall_no": [
+            "244",
+            "245"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 304,
+        "name": "Sahitya Acadamy",
+        "stall_no": [
+            "587-588"
+        ],
+        "books_list": "books/sakithya-academy.json",
+        "common_folks": "https://www.commonfolks.in/books/sakithya-academy"
+    },
+    {
+        "id": 305,
+        "name": "Sakthi Publishing House",
+        "stall_no": [
+            "F 63"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 306,
+        "name": "Sakunthalai Miayam",
+        "stall_no": [
+            "84",
+            "85"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 307,
+        "name": "Samooga Neethi Arakkattalai",
+        "stall_no": [
+            "3"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 308,
+        "name": "Sams Publishers",
+        "stall_no": [
+            "F 38"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 309,
+        "name": "Samskrita Bharati",
+        "stall_no": [
+            "304"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 310,
+        "name": "Sandhya Publications",
+        "stall_no": [
+            "F 33"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 311,
+        "name": "Sangamam Puthaga Nilayam",
+        "stall_no": [
+            "461-462"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 312,
+        "name": "Sanjeeviyar Pathippagam",
+        "stall_no": [
+            "13-14"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 313,
+        "name": "Sapna Book House",
+        "stall_no": [
+            "226",
+            "227"
+        ],
+        "books_list": "books/sapna-book-house.json",
+        "common_f0lks": "https://www.commonfolks.in/books/sapna-book-house"
+    },
+    {
+        "id": 314,
+        "name": "Saran Books",
+        "stall_no": [
+            "251-252"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 315,
+        "name": "Saraswathi Mahal",
+        "stall_no": [
+            "240"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 316,
+        "name": "Sarvodaya Ilakkiya Pannai",
+        "stall_no": [
+            "397-398"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 317,
+        "name": "Sathyaa Enterprisers",
+        "stall_no": [
+            "635-636"
+        ],
+        "books_list": "books/sathyaa-enterprises.json",
+        "common_folks": "https://www.commonfolks.in/books/sathyaa-enterprises"
+    },
+    {
+        "id": 318,
+        "name": "Satvat Infosol Pvt Ltd",
+        "stall_no": [
+            "15A",
+            "15B"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 319,
+        "name": "Scholastic India Pvt Ltd",
+        "stall_no": [
+            "F 32"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 320,
+        "name": "School Rom Multimedia",
+        "stall_no": [
+            "290-291"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 321,
+        "name": "Seasons Publishing",
+        "stall_no": [
+            "448-449"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 322,
+        "name": "Seermai",
+        "stall_no": [
+            "301"
+        ],
+        "books_list": "books/seermai.json",
+        "common_folks": "https://www.commonfolks.in/books/seermai"
+    },
+    {
+        "id": 323,
+        "name": "Seethai Pathippagam",
+        "stall_no": [
+            "F 21"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 324,
+        "name": "Sekar Pathippagam",
+        "stall_no": [
+            "511"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 325,
+        "name": "Senthil Pathippagam",
+        "stall_no": [
+            "76-77"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 326,
+        "name": "Shajida Book Centre",
+        "stall_no": [
+            "140-141"
+        ],
+        "books_list": "books/sajitha-book-center.json",
+        "common_folks": "https://www.commonfolks.in/books/sajitha-book-center"
+    },
+    {
+        "id": 327,
+        "name": "Shakespeare Publications",
+        "stall_no": [
+            "662-663"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 328,
+        "name": "Shankar Pathippagam",
+        "stall_no": [
+            "259-260"
+        ],
+        "books_list": "books/shankar-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/shankar-pathippagam"
+    },
+    {
+        "id": 329,
+        "name": "Shanmuga Enterprises",
+        "stall_no": [
+            "413414"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 330,
+        "name": "Shantha Publishers",
+        "stall_no": [
+            "90"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 331,
+        "name": "Shanti Books",
+        "stall_no": [
+            "340-341"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 332,
+        "name": "Shree Balaji Book Sellers",
+        "stall_no": [
+            "325",
+            "326"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 333,
+        "name": "Shree Harini Pathippagam",
+        "stall_no": [
+            "452-453"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 334,
+        "name": "Shree Krishna Publications",
+        "stall_no": [
+            "67-68"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 335,
+        "name": "Siddharkalai Pathippagam",
+        "stall_no": [
+            "456",
+            "457"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 336,
+        "name": "Simon & Schuster India",
+        "stall_no": [
+            "F 55"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 337,
+        "name": "Singapore Stall",
+        "stall_no": [
+            "548",
+            "549"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 338,
+        "name": "Sivaguru Pathippagam",
+        "stall_no": [
+            "664-665"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 339,
+        "name": "Sivakami Pathippagam",
+        "stall_no": [
+            "40"
+        ],
+        "books_list": "books/sivakami.json",
+        "common_folks": "https://www.commonfolks.in/books/sivakami"
+    },
+    {
+        "id": 340,
+        "name": "Sivalayam",
+        "stall_no": [
+            "471"
+        ],
+        "books_list": "books/sivalayam.json",
+        "common_folks": "https://www.commonfolks.in/books/sivalayam"
+    },
+    {
+        "id": 341,
+        "name": "Sixthsense Publications",
+        "stall_no": [
+            "F 25"
+        ],
+        "books_list": "books/sixth-sense-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/sixth-sense-publications"
+    },
+    {
+        "id": 342,
+        "name": "Sln Book Sellers",
+        "stall_no": [
+            "580",
+            "581"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 343,
+        "name": "Sooriya Educatinist",
+        "stall_no": [
+            "113-114"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 344,
+        "name": "South India Publications",
+        "stall_no": [
+            "158-159"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 345,
+        "name": "South Indian Puththa Whar",
+        "stall_no": [
+            "184-185"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 346,
+        "name": "Spider Books",
+        "stall_no": [
+            "F 59"
+        ],
+        "books_list": "books/spider-books.json",
+        "common_folks": "https://www.commonfolks.in/books/spider-books"
+    },
+    {
+        "id": 347,
+        "name": "Sree Balaganga",
+        "stall_no": [
+            "136"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 348,
+        "name": "Sri Aishwarya Publication",
+        "stall_no": [
+            "15-16"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 349,
+        "name": "Sri Eswar Enter Rises",
+        "stall_no": [
+            "421-422"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 350,
+        "name": "Sri Indhu Publications",
+        "stall_no": [
+            "494-495"
+        ],
+        "books_list": "books/sree-indhu-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/sree-indhu-publications"
+    },
+    {
+        "id": 351,
+        "name": "Sri Jai Bhagawan Book Distributors",
+        "stall_no": [
+            "450-451"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 352,
+        "name": "Sri Kamalam Pathippagam",
+        "stall_no": [
+            "80"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 353,
+        "name": "Sri Mangadu Kamatchiamman",
+        "stall_no": [
+            "F 48"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 354,
+        "name": "Sri Mariamman Stores",
+        "stall_no": [
+            "629",
+            "630"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 355,
+        "name": "Sri Maruthy Pathippagam",
+        "stall_no": [
+            "2"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 356,
+        "name": "Sri Ramakrishna Math",
+        "stall_no": [
+            "605-606"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 357,
+        "name": "Sri Sangeetha Vaani",
+        "stall_no": [
+            "613",
+            "614"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 358,
+        "name": "Sri Senbaga Pathippakam",
+        "stall_no": [
+            "524",
+            "525"
+        ],
+        "books_list": "books/sri-senbaga-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/sri-senbaga-pathippagam"
+    },
+    {
+        "id": 359,
+        "name": "Sri Shiv Enterprises",
+        "stall_no": [
+            "446-447"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 360,
+        "name": "Sri Siva Books And Stationeries",
+        "stall_no": [
+            "58-59"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 361,
+        "name": "Sri Universal Book House",
+        "stall_no": [
+            "63-64"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 362,
+        "name": "Sri Vaari Veliyeedu",
+        "stall_no": [
+            "120-121"
+        ],
+        "books_list": "books/valari-veliyeedu.json",
+        "common_folks": "https://www.commonfolks.in/books/valari-veliyeedu"
+    },
+    {
+        "id": 363,
+        "name": "Sri Vidya Book Centre",
+        "stall_no": [
+            "311"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 364,
+        "name": "Sudar Pathippagam",
+        "stall_no": [
+            "242"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 365,
+        "name": "Suki Books",
+        "stall_no": [
+            "406"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 366,
+        "name": "Super Books",
+        "stall_no": [
+            "229"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 367,
+        "name": "Sura College Of Competition",
+        "stall_no": [
+            "F 67"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 368,
+        "name": "Suriyan Pathippagam",
+        "stall_no": [
+            "F 8"
+        ],
+        "books_list": "books/sooriyan-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/sooriyan-pathippagam"
+    },
+    {
+        "id": 369,
+        "name": "Surya Literature Pvt",
+        "stall_no": [
+            "411-412"
+        ],
+        "books_list": "books/surya-literature-pvt-ltd.json",
+        "common_folks": "https://www.commonfolks.in/books/surya-literature-pvt-ltd"
+    },
+    {
+        "id": 370,
+        "name": "Suvami Malai Pathippagam",
+        "stall_no": [
+            "237-238"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 371,
+        "name": "Swasam Book Kart",
+        "stall_no": [
+            "F 29"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 372,
+        "name": "Tamilannai Pathippagam",
+        "stall_no": [
+            "633",
+            "634"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 373,
+        "name": "Tamilbook Man",
+        "stall_no": [
+            "17"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 374,
+        "name": "Tamilcholai Pathippagam",
+        "stall_no": [
+            "419",
+            "420"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 375,
+        "name": "Tamilmann Pathippagam",
+        "stall_no": [
+            "331-332"
+        ],
+        "books_list": "books/tamilmann-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/tamilmann-pathippagam"
+    },
+    {
+        "id": 376,
+        "name": "Tamilnadu Arasu",
+        "stall_no": [
+            "306"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 377,
+        "name": "Tamilnadu Text Book Corporation",
+        "stall_no": [
+            "F 28"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 378,
+        "name": "Tamizh Maruthuva Kazhagam",
+        "stall_no": [
+            "89"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 379,
+        "name": "Tamizhini",
+        "stall_no": [
+            "F 15"
+        ],
+        "books_list": "books/tamizhini.json",
+        "common_folks": "https://www.commonfolks.in/books/tamizhini"
+    },
+    {
+        "id": 380,
+        "name": "Tamizhveli",
+        "stall_no": [
+            "327"
+        ],
+        "books_list": "books/tamilveli.json",
+        "common_folks": "https://www.commonfolks.in/books/tamilveli"
+    },
+    {
+        "id": 381,
+        "name": "Taxmann Pulications Pvt Lid",
+        "stall_no": [
+            "294"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 382,
+        "name": "Techno Book House",
+        "stall_no": [
+            "621",
+            "622"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 383,
+        "name": "Thadagam",
+        "stall_no": [
+            "51"
+        ],
+        "books_list": "books/thadagam-veliyeedu.json",
+        "common_folks": "https://www.commonfolks.in/books/thadagam-veliyeedu"
+    },
+    {
+        "id": 384,
+        "name": "Thadam Pathippagam",
+        "stall_no": [
+            "586"
+        ],
+        "books_list": "books/thadam-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/thadam-pathippagam"
+    },
+    {
+        "id": 385,
+        "name": "Thaiyal Veliyeedu",
+        "stall_no": [
+            "69-70"
+        ],
+        "books_list": "books/thazhal-veliyeedu.json",
+        "common_folks": "https://www.commonfolks.in/books/thazhal-veliyeedu"
+    },
+    {
+        "id": 386,
+        "name": "Thamarai Noolagam",
+        "stall_no": [
+            "442"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 387,
+        "name": "Thamizham Pathippagam",
+        "stall_no": [
+            "193"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 388,
+        "name": "Thamizhi Books",
+        "stall_no": [
+            "656"
+        ],
+        "books_list": "books/tamizhi.json",
+        "common_folks": "https://www.commonfolks.in/books/tamizhi"
+    },
+    {
+        "id": 389,
+        "name": "Thanga Manga",
+        "stall_no": [
+            "165"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 390,
+        "name": "Thangathamarai Pathippagam",
+        "stall_no": [
+            "464"
+        ],
+        "books_list": "books/thanga-thamarai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/thanga-thamarai-pathippagam"
+    },
+    {
+        "id": 391,
+        "name": "Thazhaiyan Pathippagam",
+        "stall_no": [
+            "473",
+            "474"
+        ],
+        "books_list": "books/thazhaiyan-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/thazhaiyan-pathippagam"
+    },
+    {
+        "id": 392,
+        "name": "Thazhal",
+        "stall_no": [
+            "463"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 393,
+        "name": "The Alliance & Co",
+        "stall_no": [
+            "F 2"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 394,
+        "name": "The Asian Publications",
+        "stall_no": [
+            "407"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 395,
+        "name": "The Diet Food Publication",
+        "stall_no": [
+            "F 20"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 396,
+        "name": "The Hindu",
+        "stall_no": [
+            "F 61"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 397,
+        "name": "The Ocean",
+        "stall_no": [
+            "F 27"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 398,
+        "name": "The Periyar Self Respect",
+        "stall_no": [
+            "F 18"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 399,
+        "name": "The Ramans Books",
+        "stall_no": [
+            "353-354"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 400,
+        "name": "The South India Sava Siththanda",
+        "stall_no": [
+            "04",
+            "05"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 401,
+        "name": "The World Community Service Centre",
+        "stall_no": [
+            "339"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 402,
+        "name": "Thirumagal Nil-ayam",
+        "stall_no": [
+            "109",
+            "110"
+        ],
+        "books_list": "books/thirumagal-nilaiyam.json",
+        "common_folks": "https://www.commonfolks.in/books/thirumagal-nilaiyam"
+    },
+    {
+        "id": 403,
+        "name": "Thirumalai Book House",
+        "stall_no": [
+            "430-431"
+        ],
+        "books_list": "books/thirumalai.json",
+        "common_folks": "https://www.commonfolks.in/books/thirumalai"
+    },
+    {
+        "id": 404,
+        "name": "Thozhamai Veliyeedu",
+        "stall_no": [
+            "537"
+        ],
+        "books_list": "books/thozhamai-veliyeedu.json",
+        "common_folks": "https://www.commonfolks.in/books/thozhamai-veliyeedu"
+    },
+    {
+        "id": 405,
+        "name": "Thumbi",
+        "stall_no": [
+            "181"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 406,
+        "name": "Tick Soft",
+        "stall_no": [
+            "142-143"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 407,
+        "name": "Tiger Books P Ltd",
+        "stall_no": [
+            "543-544"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 408,
+        "name": "Tr Publications",
+        "stall_no": [
+            "545-546"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 409,
+        "name": "Trichy Book House",
+        "stall_no": [
+            "627628"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 410,
+        "name": "Tulika Publishers",
+        "stall_no": [
+            "12"
+        ],
+        "books_list": "books/tulika-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/tulika-publishers"
+    },
+    {
+        "id": 411,
+        "name": "Udhaya S",
+        "stall_no": [
+            "443"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 412,
+        "name": "Ulaga Tamil Aaratchi Niruvanam",
+        "stall_no": [
+            "24",
+            "25"
+        ],
+        "books_list": "books/ulaga-tamil-aaraichi-niruvanam.json",
+        "common_folks": "https://www.commonfolks.in/books/ulaga-tamil-aaraichi-niruvanam"
+    },
+    {
+        "id": 413,
+        "name": "Uma Pathippagam",
+        "stall_no": [
+            "659-659a"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 414,
+        "name": "Unavu Ulagam Publications",
+        "stall_no": [
+            "428"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 415,
+        "name": "United Writters",
+        "stall_no": [
+            "599-600"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 416,
+        "name": "Universal Publishers",
+        "stall_no": [
+            "637-638"
+        ],
+        "books_list": "books/universal-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/universal-publishers"
+    },
+    {
+        "id": 417,
+        "name": "Upkar Prakasan",
+        "stall_no": [
+            "122123"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 418,
+        "name": "Uthirdam Books",
+        "stall_no": [
+            "139"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 419,
+        "name": "Uyir Ezhutthu Pathippagam",
+        "stall_no": [
+            "481"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 420,
+        "name": "Uyirmai Pathippagam",
+        "stall_no": [
+            "F 9"
+        ],
+        "books_list": "books/uyirmmai-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/uyirmmai-pathippagam"
+    },
+    {
+        "id": 421,
+        "name": "Vaadhini",
+        "stall_no": [
+            "150"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 422,
+        "name": "Vaali Pathippagam",
+        "stall_no": [
+            "374"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 423,
+        "name": "Vaanavil Pathippagam",
+        "stall_no": [
+            "308",
+            "309"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 424,
+        "name": "Vaidhika Sri Publications",
+        "stall_no": [
+            "37"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 425,
+        "name": "Vaigarai Pathippagam",
+        "stall_no": [
+            "191-192"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 426,
+        "name": "Vallar Book Shop",
+        "stall_no": [
+            "163",
+            "164"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 427,
+        "name": "Valli Pathippagam",
+        "stall_no": [
+            "648",
+            "649"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 428,
+        "name": "Valli Puthaga Ulagam",
+        "stall_no": [
+            "458",
+            "459"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 429,
+        "name": "Vamsi Books",
+        "stall_no": [
+            "179",
+            "180"
+        ],
+        "books_list": "books/vamsi-books.json",
+        "common_folks": "https://www.commonfolks.in/books/vamsi-books"
+    },
+    {
+        "id": 430,
+        "name": "Vanathi Pathippagam",
+        "stall_no": [
+            "26",
+            "27"
+        ],
+        "books_list": "books/vanathi-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/vanathi-pathippagam"
+    },
+    {
+        "id": 431,
+        "name": "Vanitha Pathippagam",
+        "stall_no": [
+            "F 10"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 432,
+        "name": "Varna Books",
+        "stall_no": [
+            "243"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 433,
+        "name": "Vasagasalai Publications",
+        "stall_no": [
+            "558"
+        ],
+        "books_list": "books/vasagasalai.json",
+        "common_folks": "https://www.commonfolks.in/books/vasagasalai"
+    },
+    {
+        "id": 434,
+        "name": "Vasantha Pathippagam",
+        "stall_no": [
+            "72"
+        ],
+        "books_list": null,
+        "common_folks": "https://www.commonfolks.in/books/vasantha-pathippagam"
+    },
+    {
+        "id": 435,
+        "name": "Vasantha Prasuram",
+        "stall_no": [
+            "360-361"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 436,
+        "name": "Veman Pathippagam",
+        "stall_no": [
+            "86"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 437,
+        "name": "Vetrimozhi Veliyeetagam",
+        "stall_no": [
+            "95",
+            "96"
+        ],
+        "books_list": "books/vasantha-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/vetrimozhi-veliyeettagam"
+    },
+    {
+        "id": 438,
+        "name": "Vgp Ulaka Tamil Sangam",
+        "stall_no": [
+            "46"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 439,
+        "name": "Vidhai Art Space",
+        "stall_no": [
+            "500",
+            "501"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 440,
+        "name": "Vidiyal Pathippagam",
+        "stall_no": [
+            "601-602"
+        ],
+        "books_list": "books/vidiyal.json",
+        "common_folks": "https://www.commonfolks.in/books/vidiyal"
+    },
+    {
+        "id": 441,
+        "name": "Vigyan Prasar",
+        "stall_no": [
+            "475"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 442,
+        "name": "Vijay Nichole Imprints",
+        "stall_no": [
+            "366-367"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 443,
+        "name": "Vijaya Pathippagam",
+        "stall_no": [
+            "401-402"
+        ],
+        "books_list": "books/vijaya-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/vijaya-pathippagam"
+    },
+    {
+        "id": 444,
+        "name": "Vijaya Stores",
+        "stall_no": [
+            "390-391"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 445,
+        "name": "Vit Abharatham Prasuram",
+        "stall_no": [
+            "F 49"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 446,
+        "name": "Vijayashree International",
+        "stall_no": [
+            "370",
+            "371"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 447,
+        "name": "Vikatan Media Services",
+        "stall_no": [
+            "F 1"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 448,
+        "name": "Villmart Education And Solutions Pvt. Ltd",
+        "stall_no": [
+            "103-104"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 449,
+        "name": "Virutcham Veli Eedu",
+        "stall_no": [
+            "395-396"
+        ],
+        "books_list": "books/virutcham.json",
+        "common_folks": "https://www.commonfolks.in/books/virutcham"
+    },
+    {
+        "id": 450,
+        "name": "Visa Publications",
+        "stall_no": [
+            "175-176"
+        ],
+        "books_list": "books/visa-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/visa-publications"
+    },
+    {
+        "id": 451,
+        "name": "Vishnupuram Pathippagam",
+        "stall_no": [
+            "115",
+            "116"
+        ],
+        "books_list": "books/vishnupuram-publications.json",
+        "common_folks": "https://www.commonfolks.in/books/vishnupuram-publications"
+    },
+    {
+        "id": 452,
+        "name": "Vivekananda Book House",
+        "stall_no": [
+            "292-293"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 453,
+        "name": "Vizhigal Pathippagam",
+        "stall_no": [
+            "444-445"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 454,
+        "name": "Voc Noolagam",
+        "stall_no": [
+            "F 35"
+        ],
+        "books_list": "books/voc-noolagam.json",
+        "common_folks": "https://www.commonfolks.in/books/voc-noolagam"
+    },
+    {
+        "id": 455,
+        "name": "Voice Of Budhha/ Aram Ezhuchi",
+        "stall_no": [
+            "542"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 456,
+        "name": "Wecon Shopping",
+        "stall_no": [
+            "512",
+            "513"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 457,
+        "name": "Wisdom Global Service",
+        "stall_no": [
+            "F 7"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 458,
+        "name": "Yaavarum Publisher",
+        "stall_no": [
+            "214",
+            "215"
+        ],
+        "books_list": "books/yaavarum-publishers.json",
+        "common_folks": "https://www.commonfolks.in/books/yaavarum-publishers"
+    },
+    {
+        "id": 459,
+        "name": "Yegam Pathippagam",
+        "stall_no": [
+            "F 11"
+        ],
+        "books_list": "books/yegam-pathippagam.json",
+        "common_folks": "https://www.commonfolks.in/books/yegam-pathippagam"
+    },
+    {
+        "id": 460,
+        "name": "Yogoda Satsanga Society Of India",
+        "stall_no": [
+            "F 52"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 461,
+        "name": "Young Minds Publishers",
+        "stall_no": [
+            "358",
+            "359"
+        ],
+        "books_list": null
+    },
+    {
+        "id": 462,
+        "name": "Zero Degree Publishing",
+        "stall_no": [
+            "F 19"
+        ],
+        "books_list": "books/zero-degree-publishing.json",
+        "common_folks": "https://www.commonfolks.in/books/zero-degree-publishing"
+    }
+]

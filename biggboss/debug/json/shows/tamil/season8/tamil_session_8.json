@@ -1,0 +1,94 @@
+{
+  "voting_options": {
+    "official_vote": [
+      {
+        "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+      }
+    ],
+    "unofficial_voting": [
+      {
+        "name": "Pi App Studio",
+        "link": "https://strawpoll.com/XOgONA7AGn3"
+      },
+      {
+        "name": "TamilGlitz",
+        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+      },
+      {
+        "name": "Bigg Boss Vote Tamil",
+        "link": "https://www.biggbossvotestamil.com/"
+      }
+    ],
+    "polls": [
+
+    ]
+  },
+  "category": [
+    {
+      "name": "Captain",
+      "key": "Captain",
+      "color": "FF2E9F49",
+      "text": "FFFFFF",
+      "weekly_enabled": true,
+      "graph": true,
+      "graphOrder": 5
+    },
+    {
+      "name": "Evicted",
+      "key": "EVI",
+      "color": "FFEA4839",
+      "text": "FFFFFF",
+      "weekly_enabled": true
+    },
+    {
+      "name": "Nominated",
+      "key": "NOM",
+      "color": "FFFCBC1F",
+      "graph": true,
+      "graphOrder": 4
+    },
+    {
+      "name": "Small Boss House",
+      "key": "SBH",
+      "color": "FF4A7AEE",
+      "text": "FFFFFF",
+      "weekly_enabled": true,
+      "graph": true,
+      "graphOrder": 3
+    },
+    {
+      "name": "Bigg Boss House",
+      "key": "BBH",
+      "color": "FF2E9F49",
+      "text": "FFFFFF",
+      "weekly_enabled": false
+    },
+    {
+      "name": "Gold Star",
+      "key": "GS",
+      "color": "FFD4AF37",
+      "graph": true,
+      "graphOrder": 2
+    },
+    {
+      "name": "Yellow Strike",
+      "key": "YC",
+      "color": "FFEFC935"
+    },
+    {
+      "name": "Red Card",
+      "key": "RC",
+      "color": "FF93000A",
+      "text": "FFFFFF"
+    }, {
+      "name": "Ticket To Final",
+      "key": "TTF",
+      "color": "FFD4AF37",
+      "graph": true,
+      "graphOrder": 1
+    }
+  ],
+  "participants": [],
+  "notifications": []
+}

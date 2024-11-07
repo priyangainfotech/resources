@@ -1,0 +1,11 @@
+{
+    "ads":{
+        "home":false,
+        "service":true,
+        "appointment":true
+    },
+    "force_update": {
+        "enabled": true,
+        "min_app_version": 1.0
+    }
+}
