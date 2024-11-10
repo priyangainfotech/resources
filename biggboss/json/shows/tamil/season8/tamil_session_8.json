@@ -156,7 +156,7 @@
       "eliminated_date": "2024-10-06",
       "re_entry_date": "2024-10-11",
       "id": "2",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
       "dial_number": "7669065313",
       "history": [
@@ -220,6 +220,17 @@
           "nominates": [
 
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -277,7 +288,6 @@
       "eliminated_date": null,
       "name": "Sathya",
       "id": "4",
-      "isCaptain": true,
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
       "dial_number": "7669065314",
@@ -338,6 +348,17 @@
           ],
           "nominates": [10,2
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -346,7 +367,7 @@
       "eliminated_date": null,
       "name": "Deepak",
       "id": "5",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/deepak_pp.png",
       "dial_number": "7669065304",
       "history": [
@@ -404,12 +425,24 @@
         {
           "week": 5,
           "notes": [
+            "1st Save"
           ],
           "categories": [
             "BH", "NOM"
           ],
           "nominates": [
             2,6
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -419,7 +452,7 @@
       "eliminated_date": null,
       "name": "Ananthi",
       "id": "6",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
       "dial_number": "7669065312",
       "history": [
@@ -476,15 +509,26 @@
             "GH", "NOM"
           ],
           "nominates": [17,5]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha.png",
-      "eliminated_date": null,
+      "eliminated_date": "2024-11-10",
       "name": "Sunitha Gogoi",
       "id": "7",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sunitha_pp.png",
       "dial_number": "7669065316",
       "history": [
@@ -539,7 +583,7 @@
             "Saved by Housemates"
           ],
           "categories": [
-            "GH", "NOM"
+            "GH", "NOM", "EVI"
           ],
           "nominates": [9,17
 
@@ -615,6 +659,17 @@
           ],
           "nominates": [6,2
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -623,7 +678,7 @@
       "eliminated_date": null,
       "name": "Ranjith",
       "id": "9",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
       "dial_number": "7669065311",
       "history": [
@@ -684,6 +739,17 @@
           ],
           "nominates": [10,13
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -692,7 +758,7 @@
       "eliminated_date": null,
       "name": "Pavithra Janani",
       "id": "10",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
       "dial_number": "7669065310",
       "history": [
@@ -746,11 +812,23 @@
         {
           "week": 5,
           "notes": [
+            "1st Save"
           ],
           "categories": [
             "GH", "NOM"
           ],
           "nominates": [17,9
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -823,6 +901,17 @@
           "nominates": [
             14
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -831,7 +920,8 @@
       "eliminated_date": null,
       "name": "Arun Prasanth",
       "id": "12",
-      "isNominated": true,
+      "isNominated": false,
+      "isCaptain": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
       "dial_number": "7669065303",
       "history": [
@@ -890,6 +980,17 @@
             "BH", "NOM"
           ],
           "nominates": [7,6
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH", "Captain"
+          ],
+          "nominates": [
+
           ]
         }
       ]
@@ -958,6 +1059,17 @@
           "nominates": [
             9,5
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -966,7 +1078,7 @@
       "eliminated_date": null,
       "name": "Vishal",
       "id": "14",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal_pp.png",
       "dial_number": "7669065318",
       "history": [
@@ -1016,12 +1128,23 @@
         {
           "week": 5,
           "notes": [
-            "Direct Nomination"
+            "Direct Nomination",  "1st Save"
           ],
           "categories": [
             "BH", "NOM"
           ],
           "nominates": [18
+          ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
           ]
         }
 
@@ -1032,7 +1155,7 @@
       "eliminated_date": null,
       "name": "Anshida",
       "id": "15",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida_pp.png",
       "dial_number": "7669065301",
       "history": [
@@ -1094,6 +1217,17 @@
             "GH", "NOM"
           ],
           "nominates": [17,12]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1138,7 +1272,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar.png",
       "eliminated_date": null,
       "name": "MuthuKumar",
-      "isNominated": true,
+      "isNominated": false,
       "id": "17",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
       "dial_number": "7669065309",
@@ -1203,6 +1337,17 @@
           ],
           "nominates": [15,11
           ]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1211,7 +1356,7 @@
       "eliminated_date": null,
       "name": "Jacqueline",
       "id": "18",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
       "dial_number": "7669065307",
       "history": [
@@ -1272,6 +1417,17 @@
             "BH", "NOM"
           ],
           "nominates": [9,12]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1292,6 +1448,17 @@
            "GH"
           ],
           "nominates": [9,5]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1312,6 +1479,17 @@
             "GH"
           ],
           "nominates": [15,7]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1332,6 +1510,17 @@
             "GH"
           ],
           "nominates": [9,12]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1352,6 +1541,17 @@
             "GH"
           ],
           "nominates": [5,12]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "GH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1372,6 +1572,17 @@
             "BH"
           ],
           "nominates": [2,10]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     },
@@ -1392,6 +1603,17 @@
             "BH"
           ],
           "nominates": [2,6]
+        },
+        {
+          "week": 6,
+          "notes": [
+          ],
+          "categories": [
+            "BH"
+          ],
+          "nominates": [
+
+          ]
         }
       ]
     }
