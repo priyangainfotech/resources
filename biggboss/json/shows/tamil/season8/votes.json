@@ -291,6 +291,89 @@
               "percentage": 5.89
             }
           ]
+        },
+        {
+          "week": 6,
+          "players": [
+            {
+              "id": 11,
+              "name": "Soundariya",
+              "vote": 23146,
+              "percentage": 26.38
+            },
+            {
+              "id": 8,
+              "name": "Jeffrey",
+              "vote": 13383,
+              "percentage": 15.25
+            },
+            {
+              "id": 5,
+              "name": "Deepak",
+              "vote": 11450,
+              "percentage": 13.05
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 9229,
+              "percentage": 10.52
+            },
+            {
+              "id": 9,
+              "name": "Ranjith",
+              "vote": 7249,
+              "percentage": 8.26
+            },
+            {
+              "id": 4,
+              "name": "Sathya",
+              "vote": 5810,
+              "percentage": 6.62
+            },
+            {
+              "id": 13,
+              "name": "Tharshika",
+              "vote": 5492,
+              "percentage": 6.26
+            },
+            {
+              "id": 2,
+              "name": "Sachana",
+              "vote": 3125,
+              "percentage": 3.56
+            },
+            {
+              "id": 20,
+              "name": "Raanav",
+              "vote": 2889,
+              "percentage": 3.29
+            },
+            {
+              "id": 23,
+              "name": "Shiva Kumar",
+              "vote": 1829,
+              "percentage": 2.08
+            },
+            {
+              "id": 21,
+              "name": "Varshini",
+              "vote": 1573,
+              "percentage": 1.79
+            },
+            {
+              "id": 22,
+              "name": "Manjari",
+              "vote": 1392,
+              "percentage": 1.59
+            },
+            {
+              "id": 19,
+              "name": "Manjari",
+              "vote": 1174,
+              "percentage": 1.34
+            }
+          ]
         }
       ]
     }
