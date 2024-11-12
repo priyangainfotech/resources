@@ -4,21 +4,26 @@
       {
         "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
         "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-        "ios_link": "https://apps.apple.com/us/app/disney/id1446075923"
+        "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
+        "enable_ios": false
       }
     ],
     "unofficial_voting": [
       {
         "name": "Pi App Studio",
-        "link": "https://piappstudio.com/bigg-boss-tamil-online-voting/"
+        "ios_name": "Pi App Studio Online Poll",
+        "link": "https://piappstudio.com/bigg-boss-tamil-online-voting/",
+        "enable_ios": true
       },
       {
         "name": "TamilGlitz",
-        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/",
+        "enable_ios": false
       },
       {
         "name": "Bigg Boss Vote Tamil",
-        "link": "https://www.biggbossvotestamil.com/"
+        "link": "https://www.biggbossvotestamil.com/",
+        "enable_ios": false
       }
     ],
     "polls": [

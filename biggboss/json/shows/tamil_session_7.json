@@ -3,25 +3,30 @@
     "official_vote": [
       {
         "name": "Disney-HOTSTAR- BIGG BOSS 7 Page",
-        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+        "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+        "enable_ios": false
       }
     ],
     "unofficial_voting": [
       {
         "name": "Pi App Studio",
-        "link": "https://strawpoll.com/XOgONA7AGn3"
+        "link": "https://strawpoll.com/XOgONA7AGn3",
+        "enable_ios": true
       },
       {
         "name": "BiggBoss Booster Twitter Poll",
-        "link": "https://twitter.com/bb_booster/status/1744720692627882096"
+        "link": "https://twitter.com/bb_booster/status/1744720692627882096",
+        "enable_ios": false
       },
       {
         "name": "TamilGlitz",
-        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/"
+        "link": "https://tamilglitz.in/bigg-boss-tamil-vote/",
+        "enable_ios": false
       },
       {
         "name": "Bigg Boss Vote Tamil",
-        "link": "https://www.biggbossvotestamil.com/"
+        "link": "https://www.biggbossvotestamil.com/",
+        "enable_ios": false
       }
     ],
     "polls": [
