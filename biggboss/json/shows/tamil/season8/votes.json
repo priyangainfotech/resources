@@ -299,80 +299,80 @@
             {
               "id": 11,
               "name": "Soundariya",
-              "vote": 23146,
-              "percentage": 26.38
+              "vote": 55462,
+              "percentage": 22.83
             },
             {
               "id": 8,
               "name": "Jeffrey",
-              "vote": 13383,
-              "percentage": 15.25
+              "vote": 33328,
+              "percentage": 13.72
             },
             {
               "id": 5,
               "name": "Deepak",
-              "vote": 11450,
-              "percentage": 13.05
+              "vote": 28244,
+              "percentage": 11.63
             },
             {
               "id": 18,
               "name": "Jacquline",
-              "vote": 9229,
-              "percentage": 10.52
+              "vote": 23514,
+              "percentage": 9.68
             },
             {
               "id": 9,
               "name": "Ranjith",
-              "vote": 7249,
-              "percentage": 8.26
+              "vote": 18916,
+              "percentage": 7.79
             },
             {
               "id": 4,
               "name": "Sathya",
-              "vote": 5810,
-              "percentage": 6.62
+              "vote": 15446,
+              "percentage": 6.36
             },
             {
               "id": 13,
               "name": "Tharshika",
-              "vote": 5492,
-              "percentage": 6.26
+              "vote": 14661,
+              "percentage": 6.04
             },
             {
               "id": 2,
               "name": "Sachana",
-              "vote": 3125,
-              "percentage": 3.56
+              "vote": 8086,
+              "percentage": 3.33
             },
             {
               "id": 20,
               "name": "Raanav",
-              "vote": 2889,
-              "percentage": 3.29
+              "vote": 24687,
+              "percentage": 10.16
             },
             {
               "id": 23,
               "name": "Shiva Kumar",
-              "vote": 1829,
-              "percentage": 2.08
+              "vote": 5873,
+              "percentage": 2.42
             },
             {
               "id": 21,
               "name": "Varshini",
-              "vote": 1573,
-              "percentage": 1.79
+              "vote": 5615,
+              "percentage": 2.31
             },
             {
               "id": 22,
               "name": "Manjari",
-              "vote": 1392,
-              "percentage": 1.59
+              "vote": 4555,
+              "percentage": 1.88
             },
             {
               "id": 19,
-              "name": "Manjari",
-              "vote": 1174,
-              "percentage": 1.34
+              "name": "Riya",
+              "vote": 4540,
+              "percentage": 1.85
             }
           ]
         }
