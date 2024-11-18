@@ -125,7 +125,7 @@
       "graph": true
     }
   ],
-  "participants": [
+ "participants": [
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ravi.png",
       "eliminated_date": "2024-10-13",
@@ -241,9 +241,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [23, 24]
         }
       ]
     },
@@ -377,9 +377,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [11,6]
         }
       ]
     },
@@ -473,7 +473,7 @@
           "categories": [
             "BH"
           ],
-          "nominates": []
+          "nominates": [2,13]
         }
       ]
     },
@@ -556,9 +556,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [5,24]
         }
       ]
     },
@@ -716,7 +716,7 @@
           "categories": [
             "BH"
           ],
-          "nominates": []
+          "nominates": [2,10]
         }
       ]
     },
@@ -803,7 +803,7 @@
           "categories": [
             "BH"
           ],
-          "nominates": []
+          "nominates": [6,11]
         }
       ]
     },
@@ -888,9 +888,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [4,14]
         }
       ]
     },
@@ -979,9 +979,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [12,20]
         }
       ]
     },
@@ -991,7 +991,6 @@
       "name": "Arun Prasanth",
       "id": "12",
       "isNominated": false,
-      "isCaptain": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/arun_pp.png",
       "dial_number": "7669065303",
       "history": [
@@ -1068,9 +1067,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [11,18]
         }
       ]
     },
@@ -1153,9 +1152,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [9,23]
         }
       ]
     },
@@ -1238,9 +1237,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [11,18]
         }
 
       ]
@@ -1330,7 +1329,7 @@
           "categories": [
             "GH"
           ],
-          "nominates": []
+          "nominates": [17]
         }
       ]
     },
@@ -1453,12 +1452,12 @@
         },
         {
           "week": 7,
-          "notes": [
+          "notes": [ "Direct Nomination by Anshida"
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [10,13]
         }
       ]
     },
@@ -1544,9 +1543,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [12,14]
         }
       ]
     },
@@ -1613,9 +1612,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [15,18]
         }
       ]
     },
@@ -1649,12 +1648,12 @@
         },
         {
           "week": 7,
-          "notes": [
+          "notes": ["Direct Nomination by Rayan"
           ],
           "categories": [
-            "GH"
+            "GH", "NOM"
           ],
-          "nominates": []
+          "nominates": [20,23]
         }
       ]
     },
@@ -1665,6 +1664,7 @@
       "name": "Manjari",
       "id": "22",
       "isNominated": false,
+      "isCaptain": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
       "dial_number": "7669065319",
       "history": [
@@ -1693,9 +1693,9 @@
           "notes": [
           ],
           "categories": [
-            "GH"
+            "GH", "Captain"
           ],
-          "nominates": []
+          "nominates": [12,24]
         }
       ]
     },
@@ -1733,9 +1733,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [10,6]
         }
       ]
     },
@@ -1772,9 +1772,9 @@
           "notes": [
           ],
           "categories": [
-            "BH"
+            "BH", "NOM"
           ],
-          "nominates": []
+          "nominates": [21]
         }
       ]
     }
