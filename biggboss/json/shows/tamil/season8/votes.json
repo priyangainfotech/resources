@@ -300,7 +300,7 @@
               "id": 11,
               "name": "Soundariya",
               "vote": 99791,
-              "percentage":19.52
+              "percentage": 19.52
             },
             {
               "id": 8,
@@ -373,6 +373,88 @@
               "name": "Riya",
               "vote": 13033,
               "percentage": 2.54
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "players": [
+            {
+              "id": 17,
+              "name": "Muthukumarn",
+              "vote": 24755,
+              "percentage": 27.88
+            },
+            {
+              "id": 11,
+              "name": "Soudariya",
+              "vote": 15232,
+              "percentage": 17.15
+            },
+            {
+              "id": 14,
+              "name": "Vishal",
+              "vote": 9569,
+              "percentage": 10.78
+            },
+            {
+              "id": 20,
+              "name": "Raanav",
+              "vote": 7439,
+              "percentage": 8.38
+            },
+            {
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 7419,
+              "percentage": 8.36
+            },
+            {
+              "id": 12,
+              "name": "Arun",
+              "vote": 6108,
+              "percentage": 6.88
+            },{
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 4719,
+              "percentage": 5.31
+            },
+            {
+              "id": 24,
+              "name": "Rayaan",
+              "vote": 2691,
+              "percentage": 3.03
+            },
+            {
+              "id": 2,
+              "name": "Saachana",
+              "vote": 2470,
+              "percentage": 2.78
+            },
+            {
+              "id": 13,
+              "name": "Tharshika",
+              "vote": 2263,
+              "percentage": 2.55
+            },
+            {
+              "id": 21,
+              "name": "Varshini",
+              "vote": 2191,
+              "percentage": 2.47
+            },
+            {
+              "id": 23,
+              "name": "Shiva",
+              "vote": 2142,
+              "percentage": 2.41
+            },
+            {
+              "id": 6,
+              "name": "Ananthi",
+              "vote": 1799,
+              "percentage": 2.02
             }
           ]
         }
