@@ -3,6 +3,7 @@
     "official_vote": [
       {
         "name": "Disney-HOTSTAR- BIGG BOSS 8 App",
+        "ios_name": "VijayTV HotStart",
         "link": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
         "ios_link": "https://apps.apple.com/us/app/disney/id1446075923",
         "enable_ios": true
@@ -17,11 +18,13 @@
       },
       {
         "name": "TamilGlitz",
+        "ios_name": "TamilGlitz's Poll",
         "link": "https://tamilglitz.in/bigg-boss-tamil-vote/",
         "enable_ios": true
       },
       {
         "name": "Bigg Boss Vote Tamil",
+        "ios_name": "BiggBossVotes Tamil",
         "link": "https://www.biggbossvotestamil.com/",
         "enable_ios": true
       }
