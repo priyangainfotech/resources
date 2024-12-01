@@ -164,7 +164,7 @@
       "eliminated_date": "2024-10-06",
       "re_entry_date": "2024-10-11",
       "id": "2",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
       "dial_number": "7669065313",
       "history": [
@@ -320,7 +320,7 @@
       "eliminated_date": null,
       "name": "Sathya",
       "id": "4",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
       "dial_number": "7669065314",
       "history": [
@@ -534,7 +534,7 @@
       "eliminated_date": null,
       "name": "Ananthi",
       "id": "6",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
       "dial_number": "7669065312",
       "history": [
@@ -809,7 +809,7 @@
       "eliminated_date": null,
       "name": "Ranjith",
       "id": "9",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
       "dial_number": "7669065311",
       "history": [
@@ -1326,7 +1326,7 @@
       "eliminated_date": null,
       "name": "Vishal",
       "id": "14",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/vishal_pp.png",
       "dial_number": "7669065318",
       "history": [
@@ -1428,7 +1428,7 @@
       "eliminated_date": null,
       "name": "Anshida",
       "id": "15",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/anshida_pp.png",
       "dial_number": "7669065301",
       "history": [
@@ -1678,7 +1678,7 @@
       "eliminated_date": null,
       "name": "Jacqueline",
       "id": "18",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
       "dial_number": "7669065307",
       "history": [
@@ -1907,7 +1907,7 @@
       "start_date": "2024-11-03",
       "name": "Manjari",
       "id": "22",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
       "dial_number": "7669065319",
       "history": [
@@ -1965,7 +1965,7 @@
       "start_date": "2024-11-03",
       "name": "Shiva kumar",
       "id": "23",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji_pp.png",
       "dial_number": "7669065323",
       "history": [
@@ -2014,7 +2014,7 @@
       "start_date": "2024-11-03",
       "name": "Rayan",
       "id": "24",
-      "isNominated": true,
+      "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan_pp.png",
       "dial_number": null,
       "history": [
