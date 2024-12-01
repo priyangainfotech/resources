@@ -256,6 +256,13 @@
             "NOM"
           ],
           "nominates": [22,15]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -401,6 +408,13 @@
             "NOM"
           ],
           "nominates": [18]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -505,6 +519,13 @@
             "Captain"
           ],
           "nominates": [2,23]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
 
       ]
@@ -600,6 +621,13 @@
             "NOM"
           ],
           "nominates": [9]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -676,6 +704,7 @@
       "eliminated_date": null,
       "name": "Jeffrey",
       "id": "8",
+      "isCaptain": true,
       "isNominated": false,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jeffry_pp.png",
       "dial_number": "7669065308",
@@ -766,6 +795,13 @@
           "categories": [
           ],
           "nominates": [2,6]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": ["Captain"],
+          "nominates": []
         }
       ]
     },
@@ -861,6 +897,13 @@
           ],
           "categories": ["NOM"],
           "nominates": [6,24]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -957,6 +1000,13 @@
 
           ],
           "nominates": [14,4]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1057,6 +1107,13 @@
 
           ],
           "nominates": [22,14]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1154,6 +1211,13 @@
           "categories": [
           ],
           "nominates": [22,2]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1248,6 +1312,13 @@
             "GH"
           ],
           "nominates": [4,6]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1342,6 +1413,13 @@
             "NOM"
           ],
           "nominates": [22,17]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
 
       ]
@@ -1436,11 +1514,19 @@
         {
           "week": 8,
           "notes": [
+            "1st Save"
           ],
           "categories": [
             "NOM"
           ],
           "nominates": [23,22]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1578,6 +1664,13 @@
             "BH"
           ],
           "nominates": [24,15]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1670,11 +1763,19 @@
         {
           "week": 8,
           "notes": [
+            "1st Save"
           ],
           "categories": [
             "NOM"
           ],
           "nominates": [15,23]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1752,6 +1853,13 @@
           "categories": [
           ],
           "nominates": [24,22]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
@@ -1836,17 +1944,25 @@
         {
           "week": 8,
           "notes": [
+            "2nd Save"
           ],
           "categories": [
             "NOM"
           ],
           "nominates": [4,15]
+        },
+        {
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [],
+          "nominates": []
         }
       ]
     },
     {
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/shivaji.png",
-      "eliminated_date": null,
+      "eliminated_date": "2024-12-01",
       "start_date": "2024-11-03",
       "name": "Shiva kumar",
       "id": "23",
@@ -1887,7 +2003,7 @@
           "notes": [
           ],
           "categories": [
-            "NOM"
+            "NOM", "EVI"
           ],
           "nominates": [15,22]
         }
@@ -1938,6 +2054,13 @@
             "NOM"
           ],
           "nominates": [22,23]
+        },{
+          "week": 9,
+          "notes": [
+          ],
+          "categories": [
+          ],
+          "nominates": []
         }
       ]
     }
