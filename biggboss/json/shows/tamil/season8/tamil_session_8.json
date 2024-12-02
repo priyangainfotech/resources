@@ -164,7 +164,7 @@
       "eliminated_date": "2024-10-06",
       "re_entry_date": "2024-10-11",
       "id": "2",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sachana_pp.png",
       "dial_number": "7669065313",
       "history": [
@@ -259,10 +259,10 @@
         },
         {
           "week": 9,
-          "notes": [
+          "notes": [ "Captain Assistant"
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [4, 13]
         }
       ]
     },
@@ -320,7 +320,7 @@
       "eliminated_date": null,
       "name": "Sathya",
       "id": "4",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/sathya_pp.png",
       "dial_number": "7669065314",
       "history": [
@@ -413,8 +413,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [9,22]
         }
       ]
     },
@@ -524,7 +524,7 @@
           "notes": [
           ],
           "categories": [],
-          "nominates": []
+          "nominates": [22,2]
         }
 
       ]
@@ -534,7 +534,7 @@
       "eliminated_date": null,
       "name": "Ananthi",
       "id": "6",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ananthi_pp.png",
       "dial_number": "7669065312",
       "history": [
@@ -625,8 +625,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [9,18]
         }
       ]
     },
@@ -800,7 +800,7 @@
           "notes": [
           ],
           "categories": ["Captain"],
-          "nominates": []
+          "nominates": [2,20]
         }
       ]
     },
@@ -809,7 +809,7 @@
       "eliminated_date": null,
       "name": "Ranjith",
       "id": "9",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/ranjith_pp.png",
       "dial_number": "7669065311",
       "history": [
@@ -901,8 +901,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [22,6]
         }
       ]
     },
@@ -911,7 +911,7 @@
       "eliminated_date": null,
       "name": "Pavithra Janani",
       "id": "10",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/pavithra_pp.png",
       "dial_number": "7669065310",
       "history": [
@@ -1004,8 +1004,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [11,17]
         }
       ]
     },
@@ -1014,7 +1014,7 @@
       "eliminated_date": null,
       "name": "Soundarya Nanjundan",
       "id": "11",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/soundariya_pp.png",
       "dial_number": "7669065315",
       "history": [
@@ -1111,8 +1111,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [6,10]
         }
       ]
     },
@@ -1216,7 +1216,7 @@
           "notes": [
           ],
           "categories": [],
-          "nominates": []
+          "nominates": [22,17]
         }
       ]
     },
@@ -1225,7 +1225,7 @@
       "eliminated_date": null,
       "name": "Tharshika",
       "id": "13",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/tharshika_pp.png",
       "dial_number": "7669065317",
       "history": [
@@ -1316,8 +1316,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [18,17]
         }
       ]
     },
@@ -1418,7 +1418,7 @@
           "notes": [
           ],
           "categories": [],
-          "nominates": []
+          "nominates": [17,6]
         }
 
       ]
@@ -1525,7 +1525,7 @@
           "notes": [
           ],
           "categories": [],
-          "nominates": []
+          "nominates": [22,24]
         }
       ]
     },
@@ -1570,7 +1570,7 @@
       "image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar.png",
       "eliminated_date": null,
       "name": "MuthuKumar",
-      "isNominated": false,
+      "isNominated": true,
       "id": "17",
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/muthukumar_pp.png",
       "dial_number": "7669065309",
@@ -1668,8 +1668,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [10,24]
         }
       ]
     },
@@ -1678,7 +1678,7 @@
       "eliminated_date": null,
       "name": "Jacqueline",
       "id": "18",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/jacqueline_pp.png",
       "dial_number": "7669065307",
       "history": [
@@ -1773,8 +1773,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [20,13]
         }
       ]
     },
@@ -1814,7 +1814,7 @@
       "start_date": "2024-11-03",
       "name": "Raanav",
       "id": "20",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/raanav_pp.png",
       "dial_number": "7669065320",
       "history": [
@@ -1857,8 +1857,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [24,22]
         }
       ]
     },
@@ -1907,7 +1907,7 @@
       "start_date": "2024-11-03",
       "name": "Manjari",
       "id": "22",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/manjari_pp.png",
       "dial_number": "7669065319",
       "history": [
@@ -1954,8 +1954,8 @@
           "week": 9,
           "notes": [
           ],
-          "categories": [],
-          "nominates": []
+          "categories": ["NOM"],
+          "nominates": [4,11]
         }
       ]
     },
@@ -2014,7 +2014,7 @@
       "start_date": "2024-11-03",
       "name": "Rayan",
       "id": "24",
-      "isNominated": false,
+      "isNominated": true,
       "full_image": "https://raw.githubusercontent.com/piappstudio/resources/main/biggboss/images/shows/tamil/season8/participants/rayan_pp.png",
       "dial_number": null,
       "history": [
@@ -2059,7 +2059,7 @@
           ],
           "categories": [
           ],
-          "nominates": []
+          "nominates": [6,20]
         }
       ]
     }
