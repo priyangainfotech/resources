@@ -606,56 +606,56 @@
             {
               "id": 10,
               "name": "Pavithra",
-              "vote": 99804,
-              "percentage": 21.74
+              "vote": 131951,
+              "percentage": 20.55
             },
             {
               "id": 11,
               "name": "Soundariya",
-              "vote": 89984,
-              "percentage":19.6
+              "vote": 122757,
+              "percentage":19.12
             },
             {
               "id": 18,
               "name": "Jacquline",
-              "vote": 45279,
-              "percentage": 9.86
+              "vote": 68641,
+              "percentage": 10.69
             },
             {
               "id": 15,
               "name": "Anshida",
-              "vote": 38275,
-              "percentage": 8.34
+              "vote": 54243,
+              "percentage": 8.45
             },
             {
               "id": 14,
               "name": "Vishal",
-              "vote": 36003,
-              "percentage": 7.84
+              "vote": 52297,
+              "percentage": 8.15
             },
             {
               "id": 24,
               "name": "Rayan",
-              "vote": 36672,
-              "percentage": 7.99
+              "vote": 53835,
+              "percentage": 8.39
             },
             {
               "id": 12,
               "name": "Arun",
-              "vote": 45858,
-              "percentage": 9.99
+              "vote": 63598,
+              "percentage": 9.91
             },
             {
               "id": 4,
               "name": "Sathya",
-              "vote": 37047,
-              "percentage": 8.07
+              "vote": 54247,
+              "percentage": 8.45
             },
             {
               "id": 13,
               "name": "Tharshika",
-              "vote": 30259,
-              "percentage": 6.57
+              "vote": 40456,
+              "percentage": 6.29
             }
           ]
         }
