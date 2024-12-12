@@ -2054,8 +2054,9 @@
         {
           "week": 10,
           "notes": [
+            "Nomination Free Pass"
           ],
-          "categories": [],
+          "categories": ["NFTS"],
           "nominates": [13,14]
         }
       ]
