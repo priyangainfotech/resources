@@ -260,9 +260,8 @@
         },
         {
           "week": 9,
-          "notes": [ "Captain Assistant"
-          ],
-          "categories": ["NOM"],
+          "notes": [ "Captain Assistant"],
+          "categories": ["NOM", "EVI"],
           "nominates": [4, 13]
         }
       ]
@@ -640,7 +639,7 @@
           "week": 9,
           "notes": [
           ],
-          "categories": ["NOM"],
+          "categories": ["NOM", "EVI"],
           "nominates": [9,18]
         }
       ]
