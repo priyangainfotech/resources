@@ -929,7 +929,7 @@
           "week": 10,
           "notes": [
           ],
-          "categories": [],
+          "categories": ["Captain"],
           "nominates": [13,24]
         }
       ]
