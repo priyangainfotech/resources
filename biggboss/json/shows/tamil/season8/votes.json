@@ -658,6 +658,68 @@
               "percentage": 6.25
             }
           ]
+        },
+        { "week": 11,
+          "players": [
+            {
+              "id": 17,
+              "name": "Muthukumaran",
+              "vote": 50807,
+              "percentage": 28.22
+            },
+            {
+              "id": 11,
+              "name": "Soundariya",
+              "vote": 25902,
+              "percentage": 14.39
+            },{
+              "id": 18,
+              "name": "Jacquline",
+              "vote": 16449,
+              "percentage": 9.14
+            },{
+              "id": 12,
+              "name": "Arun",
+              "vote": 14847,
+              "percentage": 8.25
+            },{
+              "id": 20,
+              "name": "Raanav",
+              "vote": 14847,
+              "percentage": 8.25
+            },{
+              "id": 10,
+              "name": "Pavithra",
+              "vote": 12366,
+              "percentage": 6.87
+            },{
+              "id": 5,
+              "name": "Pavithra",
+              "vote": 12090,
+              "percentage": 6.71
+            },{
+              "id": 15,
+              "name": "Anshita",
+              "vote": 9621,
+              "percentage": 5.34
+            },{
+              "id": 22,
+              "name": "Manjari",
+              "vote": 9173,
+              "percentage": 5.09
+            },{
+              "id": 24,
+              "name": "Rayan",
+              "vote": 8506,
+              "percentage": 4.72
+            },{
+              "id": 9,
+              "name": "Rayan",
+              "vote": 5438,
+              "percentage": 3.02
+            }
+          ]
+
         }
       ]
     }
