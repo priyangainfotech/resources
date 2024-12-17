@@ -664,59 +664,59 @@
             {
               "id": 17,
               "name": "Muthukumaran",
-              "vote": 50807,
-              "percentage": 28.22
+              "vote": 79507,
+              "percentage": 25.99
             },
             {
               "id": 11,
               "name": "Soundariya",
-              "vote": 25902,
-              "percentage": 14.39
+              "vote": 40829,
+              "percentage": 13.35
             },{
               "id": 18,
               "name": "Jacquline",
-              "vote": 16449,
-              "percentage": 9.14
+              "vote": 25933,
+              "percentage": 8.48
             },{
               "id": 12,
               "name": "Arun",
-              "vote": 14847,
-              "percentage": 8.25
+              "vote": 24687,
+              "percentage": 8.07
             },{
               "id": 20,
               "name": "Raanav",
-              "vote": 14847,
-              "percentage": 8.25
+              "vote": 39154,
+              "percentage": 12.8
             },{
               "id": 10,
               "name": "Pavithra",
-              "vote": 12366,
-              "percentage": 6.87
+              "vote": 19723,
+              "percentage": 6.45
             },{
               "id": 5,
-              "name": "Pavithra",
-              "vote": 12090,
-              "percentage": 6.71
+              "name": "Deepak",
+              "vote": 19278,
+              "percentage": 6.3
             },{
               "id": 15,
               "name": "Anshita",
-              "vote": 9621,
-              "percentage": 5.34
+              "vote": 15926,
+              "percentage": 5.21
             },{
               "id": 22,
               "name": "Manjari",
-              "vote": 9173,
+              "vote": 16549,
               "percentage": 5.09
             },{
               "id": 24,
               "name": "Rayan",
-              "vote": 8506,
-              "percentage": 4.72
+              "vote": 15229,
+              "percentage": 4.98
             },{
               "id": 9,
-              "name": "Rayan",
-              "vote": 5438,
-              "percentage": 3.02
+              "name": "Ranjith",
+              "vote": 9093,
+              "percentage": 2.96
             }
           ]
 
